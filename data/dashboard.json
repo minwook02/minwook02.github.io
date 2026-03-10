@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-11T07:59:34.635180+09:00",
-  "updatedLabel": "2026-03-11 07:59:34 KST",
+  "updatedAt": "2026-03-11T08:54:14.183902+09:00",
+  "updatedLabel": "2026-03-11 08:54:14 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3063,10 +3063,10 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 88.49,
+      "price": 85.92,
       "previousClose": 83.45,
-      "change": 5.04,
-      "changePercent": 6.0395,
+      "change": 2.47,
+      "changePercent": 2.9599,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3927,13 +3927,57 @@
           88.5
         ],
         [
-          1773182972000,
-          88.489998
+          1773183000000,
+          88.279999
+        ],
+        [
+          1773183300000,
+          88.309998
+        ],
+        [
+          1773183600000,
+          87.739998
+        ],
+        [
+          1773183900000,
+          87.339996
+        ],
+        [
+          1773184200000,
+          85.980003
+        ],
+        [
+          1773184500000,
+          86.150002
+        ],
+        [
+          1773184800000,
+          86.139999
+        ],
+        [
+          1773185100000,
+          85.849998
+        ],
+        [
+          1773185400000,
+          85.849998
+        ],
+        [
+          1773185700000,
+          85.980003
+        ],
+        [
+          1773186000000,
+          86.029999
+        ],
+        [
+          1773186250000,
+          85.919998
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-11 07:49 KST",
-      "marketTimestamp": 1773182972
+      "marketTime": "2026-03-11 08:44 KST",
+      "marketTimestamp": 1773186250
     },
     {
       "id": "gold",
@@ -3942,10 +3986,10 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 5197.5,
+      "price": 5199.5,
       "previousClose": 5242.1,
-      "change": -44.6,
-      "changePercent": -0.8508,
+      "change": -42.6,
+      "changePercent": -0.8127,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -4806,13 +4850,57 @@
           5197.799805
         ],
         [
-          1773182956000,
-          5197.5
+          1773183000000,
+          5201.0
+        ],
+        [
+          1773183300000,
+          5196.700195
+        ],
+        [
+          1773183600000,
+          5198.299805
+        ],
+        [
+          1773183900000,
+          5203.5
+        ],
+        [
+          1773184200000,
+          5199.700195
+        ],
+        [
+          1773184500000,
+          5200.100098
+        ],
+        [
+          1773184800000,
+          5201.600098
+        ],
+        [
+          1773185100000,
+          5201.399902
+        ],
+        [
+          1773185400000,
+          5202.399902
+        ],
+        [
+          1773185700000,
+          5201.100098
+        ],
+        [
+          1773186000000,
+          5198.799805
+        ],
+        [
+          1773186196000,
+          5199.5
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-11 07:49 KST",
-      "marketTimestamp": 1773182956
+      "marketTime": "2026-03-11 08:43 KST",
+      "marketTimestamp": 1773186196
     },
     {
       "id": "bitcoin",
@@ -4821,10 +4909,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 69715.22,
+      "price": 69921.766,
       "previousClose": 68443.15,
-      "change": 1272.07,
-      "changePercent": 1.8586,
+      "change": 1478.616,
+      "changePercent": 2.1604,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5930,16 +6018,60 @@
         ],
         [
           1773183300000,
-          69735.210938
+          69708.023438
         ],
         [
-          1773183420000,
-          69715.21875
+          1773183600000,
+          69760.304688
+        ],
+        [
+          1773183900000,
+          69736.390625
+        ],
+        [
+          1773184200000,
+          69809.921875
+        ],
+        [
+          1773184500000,
+          69871.414062
+        ],
+        [
+          1773184800000,
+          69741.09375
+        ],
+        [
+          1773185100000,
+          69788.15625
+        ],
+        [
+          1773185400000,
+          69909.101562
+        ],
+        [
+          1773185700000,
+          69952.984375
+        ],
+        [
+          1773186000000,
+          69926.65625
+        ],
+        [
+          1773186300000,
+          69944.0625
+        ],
+        [
+          1773186600000,
+          69950.96875
+        ],
+        [
+          1773186720000,
+          69921.765625
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-11 07:57 KST",
-      "marketTimestamp": 1773183420
+      "marketTime": "2026-03-11 08:52 KST",
+      "marketTimestamp": 1773186720
     }
   ],
   "mainCharts": [
@@ -7250,10 +7382,16 @@
       "publishedAt": "Tue, 10 Mar 2026 19:49:54 GMT"
     },
     {
-      "title": "널뛰기 장세에도 풀매수하는 강심장 개미들…美주식 보관액은 ↓",
+      "title": "[마켓뷰] 유가 불확실성·오라클 호실적 속 코스피 향방은",
       "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JSTA0b29NbjVQTVB5LWRlbnhad29JNmU1V3lUTEhqN0RoSnR2b0hQWHV1bEliUUJTMl9rZVNyY25iTG11ejNybTZtWW51aW9pTE9pWU8wN1Q1WjZ6SmQ1TNIBYEFVX3lxTE9JSTA0b29NbjVQTVB5LWRlbnhad29JNmU1V3lUTEhqN0RoSnR2b0hQWHV1bEliUUJTMl9rZVNyY25iTG11ejNybTZtWW51aW9pTE9pWU8wN1Q1WjZ6SmQ1TA?oc=5",
-      "publishedAt": "Tue, 10 Mar 2026 22:01:02 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vTm1INVJ5ZTBYdzFoYnhtSlpRbDI5VV9VZUtsWThESVMwVHFIcDJzcUI5dU04OVlyd2drbDE0azBZODFYVEtRdW82NFVxRjNQdkFiN05UV29TQ2fSAWBBVV95cUxNeWZpOHhiV0hvTTZuV292ellVTVhtcVVxd2JpOElIT3ljQ0daUnY1bmhsVVBVblROTTBoQmJUOXpWV3V6YTJ3LXdoNnVORHZEV2l6UW5ESGVpdUszd29XM1A?oc=5",
+      "publishedAt": "Tue, 10 Mar 2026 23:03:12 GMT"
+    },
+    {
+      "title": "[증시 포인트] 변동성 장세 이어질 듯...유가 안정은 긍정적",
+      "source": "오피니언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1na0ZocjBrenljT1F5aGM2Zk5CbEhKM2hZZXBvRjJpV3dOdEdDSHhrelFmd1RzY2RMM3BiVlJ1MlRLTUVaaDNtNFFndzc0Rkd2N0ZmeDJ5RmZlNFlxRDZYVG00cDQ3RWZ3cFpSdnVhT0M?oc=5",
+      "publishedAt": "Tue, 10 Mar 2026 23:27:00 GMT"
     },
     {
       "title": "미국증시 장중...국제유가 '대폭락', 3대지수·빅테크주 '상승'",
@@ -7262,10 +7400,10 @@
       "publishedAt": "Tue, 10 Mar 2026 18:31:07 GMT"
     },
     {
-      "title": "“한국 언론, 전쟁 보도에 ‘증시’ 렌즈만 가진 것 같다”",
-      "source": "미디어오늘",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PaGVSdlZiZkdBYzBEY0VKdWpNbXI1dTlsZWROaGtObGtXUkRKTW5KaWN6Umo3bTZuQUZSdnB4WjFEcWZ5dXFjaHRXZlZ6NHBmRTBYaVp2bFlsZHAwdVQtbWVHenhyS25sYVlCTHNoSEk?oc=5",
-      "publishedAt": "Tue, 10 Mar 2026 14:48:11 GMT"
+      "title": "뉴욕증시, 미-이란 전쟁 출구전략 안갯속 혼조 마감",
+      "source": "ksdaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GZFZoLW5PckNhSC1ZVVdhSzRlb3N3azlwQXRUcC03RzlUaEJfV0FzUEh4eDh2RV8wUU5DZFhnVER3eExhNzVvaXdVQVNBLTdleXRTT1B1OTRzalRVbnlnR0dFRzR6OVFyWDJn?oc=5",
+      "publishedAt": "Tue, 10 Mar 2026 22:59:12 GMT"
     },
     {
       "title": "주가 날뛰지만, 진격의 개미들…'풀매수'",
@@ -7274,16 +7412,10 @@
       "publishedAt": "Tue, 10 Mar 2026 22:24:44 GMT"
     },
     {
-      "title": "\"어제는 서킷브레이커, 오늘은 매수 사이드카\"…널뛰는 증시, 공포 끝났나",
-      "source": "뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LdkV0WUd0V2RNajBmdnQtQ3lFdThWQnpWa3hDTjdXU1lUWHJSODNkZVJSTFNXZDhzQUVuZTl6cGpTaVByRUNrRWRyd0s2SHJSbVhIM0JiaEVLRzcxb3pyeNIBeEFVX3lxTE5sclVYUjZBZUl0Q1lLWlNmWG5Lc2djd1VlaXFFTERibHhBWGdsY0hGTjFLRnEtSWdYcjBrc0VJZlhBaE5pZjlGajlRdXFoUTZ0dmtzVE5zNGNWVEFoRERhUXY2UlVXWjUyZTBPQXdabFRzUUtlcjlzbw?oc=5",
-      "publishedAt": "Tue, 10 Mar 2026 21:00:00 GMT"
-    },
-    {
-      "title": "[세풍-한윤조] 중동 충격에 드러난 우리 증시 민낯",
-      "source": "매일신문",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UdXZqWVNXWGtSbERhM0czUzFMQ2JaOXZSbVVBdnN2WGpWd3BRTGp5TkhQVTBPa0N4VFByMFJfYmRQYXFrTE1ILWxkNk00M25rUnE3UEVLV2hwSnFveVJyNEd3?oc=5",
-      "publishedAt": "Tue, 10 Mar 2026 20:00:00 GMT"
+      "title": "美증시 혼조에도 프리마켓 1%대 상승…“반도체 수급 우호적”",
+      "source": "sedaily.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XaV9Qd0locXcwd0E5bDlncUc1WmczeTdVRUtqNktpWV8tWVRHTlF6VGs4S01sWmhQU1RreURIbXZTNG5kOU81YXQ2dndobjQ?oc=5",
+      "publishedAt": "Tue, 10 Mar 2026 23:29:07 GMT"
     }
   ],
   "summary": {
@@ -7306,25 +7438,25 @@
     ],
     "leaders": [
       {
-        "label": "WTI",
-        "changePercent": 6.0395,
-        "direction": "상승"
-      },
-      {
         "label": "KOSPI",
         "changePercent": 5.3451,
         "direction": "상승"
       },
       {
-        "label": "KOSDAQ",
-        "changePercent": 1.9052,
+        "label": "WTI",
+        "changePercent": 2.9599,
+        "direction": "상승"
+      },
+      {
+        "label": "Bitcoin",
+        "changePercent": 2.1604,
         "direction": "상승"
       }
     ],
     "laggards": [
       {
         "label": "Gold",
-        "changePercent": -0.8508,
+        "changePercent": -0.8127,
         "direction": "하락"
       },
       {
