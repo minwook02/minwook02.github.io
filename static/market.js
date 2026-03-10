@@ -141,7 +141,7 @@ function groupCards(cards, groups) {
 
 function renderCards(cards, groups) {
   const container = document.getElementById("cardGroups");
-  const groupMarkup = groupCards(cards, groups)
+  container.innerHTML = groupCards(cards, groups)
     .map(
       (group) => `
         <section>
@@ -175,13 +175,10 @@ function renderCards(cards, groups) {
       `,
     )
     .join("");
-
-  container.innerHTML = groupMarkup;
 }
 
 function renderMovers(summary) {
-  const leaders = document.getElementById("leadersList");
-  leaders.innerHTML = summary.leaders
+  document.getElementById("leadersList").innerHTML = summary.leaders
     .map(
       (item) => `
         <div class="mover-item">
@@ -192,8 +189,7 @@ function renderMovers(summary) {
     )
     .join("");
 
-  const laggards = document.getElementById("laggardsList");
-  laggards.innerHTML = summary.laggards
+  document.getElementById("laggardsList").innerHTML = summary.laggards
     .map(
       (item) => `
         <div class="mover-item">
@@ -247,15 +243,13 @@ function renderErrors(errors) {
 
 async function loadDashboard(force = false) {
   const refreshButton = document.getElementById("refreshButton");
+  const dataUrl = document.body.dataset.dataUrl || "../data/dashboard.json";
   refreshButton.disabled = true;
   refreshButton.textContent = "불러오는 중";
 
   try {
     const query = force ? `?t=${Date.now()}` : "";
-    const response = await fetch(`./data/dashboard.json${query}`, {
-      cache: "no-store",
-    });
-
+    const response = await fetch(`${dataUrl}${query}`, { cache: "no-store" });
     if (!response.ok) {
       throw new Error(`HTTP ${response.status}`);
     }
@@ -271,7 +265,7 @@ async function loadDashboard(force = false) {
   } catch (error) {
     document.getElementById("signalLabel").textContent = "데이터 오류";
     document.getElementById("signalMessage").textContent =
-      "시세 또는 뉴스 데이터를 불러오지 못했습니다. 네트워크 연결을 확인한 뒤 다시 시도하세요.";
+      "시세 또는 뉴스 데이터를 불러오지 못했습니다. 잠시 후 다시 시도하세요.";
     renderErrors([error.message]);
   } finally {
     refreshButton.disabled = false;

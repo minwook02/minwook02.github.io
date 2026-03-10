@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>금일 주식경제 브리핑</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../static/styles.css" />
+  </head>
+  <body data-data-url="../data/dashboard.json">
+    <div class="background-orb orb-a"></div>
+    <div class="background-orb orb-b"></div>
+    <div class="shell">
+      <nav class="topbar-market">
+        <a class="market-home-link" href="../">Portfolio Home</a>
+        <a class="market-github-link" href="https://github.com/minwook02/minwook02.github.io" target="_blank" rel="noreferrer">
+          GitHub
+        </a>
+      </nav>
+
+      <header class="hero panel">
+        <div>
+          <p class="eyebrow">Daily Stock + Macro</p>
+          <h1>금일 주식경제 브리핑</h1>
+          <p class="hero-copy">
+            국내외 지수, 환율, 금리, 원자재, 비트코인과 주요 헤드라인을 한 화면에서 봅니다.
+          </p>
+        </div>
+        <div class="hero-actions">
+          <div>
+            <div class="label">업데이트</div>
+            <div id="updatedAt" class="value">불러오는 중...</div>
+          </div>
+          <button id="refreshButton" class="refresh-button" type="button">
+            새로고침
+          </button>
+        </div>
+      </header>
+
+      <main class="layout">
+        <section class="summary panel reveal">
+          <div class="summary-head">
+            <div>
+              <p class="label">핵심 시그널</p>
+              <h2 id="signalLabel">불러오는 중...</h2>
+            </div>
+            <span id="signalTone" class="signal-chip neutral">분석 준비</span>
+          </div>
+          <p id="signalMessage" class="summary-message"></p>
+          <div id="overviewList" class="overview-list"></div>
+          <div id="checkpointList" class="checkpoint-list"></div>
+        </section>
+
+        <section class="charts panel reveal">
+          <div class="section-head">
+            <div>
+              <p class="label">오늘 흐름</p>
+              <h2>주요 지수 라인</h2>
+            </div>
+          </div>
+          <div id="mainCharts" class="main-charts"></div>
+        </section>
+
+        <section class="cards-area reveal">
+          <div class="section-head">
+            <div>
+              <p class="label">Market Board</p>
+              <h2>핵심 자산 카드</h2>
+            </div>
+          </div>
+          <div id="cardGroups" class="card-groups"></div>
+        </section>
+
+        <section class="movers panel reveal">
+          <div class="section-head">
+            <div>
+              <p class="label">Relative Strength</p>
+              <h2>강한 자산 / 약한 자산</h2>
+            </div>
+          </div>
+          <div class="movers-grid">
+            <div>
+              <p class="subheading">상대 강세</p>
+              <div id="leadersList" class="mover-list"></div>
+            </div>
+            <div>
+              <p class="subheading">상대 약세</p>
+              <div id="laggardsList" class="mover-list"></div>
+            </div>
+          </div>
+        </section>
+
+        <section class="news panel reveal">
+          <div class="section-head">
+            <div>
+              <p class="label">News Flow</p>
+              <h2>금일 헤드라인</h2>
+            </div>
+          </div>
+          <div id="headlines" class="headline-list"></div>
+        </section>
+
+        <section id="errorPanel" class="errors panel hidden reveal">
+          <div class="section-head">
+            <div>
+              <p class="label">Status</p>
+              <h2>일부 데이터 경고</h2>
+            </div>
+          </div>
+          <div id="errorList" class="error-list"></div>
+        </section>
+      </main>
+    </div>
+    <script src="../static/market.js"></script>
+  </body>
+</html>

@@ -478,6 +478,8 @@ def serve_file(handler: BaseHTTPRequestHandler, base_dir: Path, relative_path: s
         content_type = "text/css; charset=utf-8"
     elif target.suffix == ".js":
         content_type = "application/javascript; charset=utf-8"
+    elif target.suffix == ".json":
+        content_type = "application/json; charset=utf-8"
 
     data = target.read_bytes()
     handler.send_response(HTTPStatus.OK)
@@ -508,6 +510,18 @@ class DashboardHandler(BaseHTTPRequestHandler):
         if path == "/api/dashboard":
             self.handle_dashboard()
             return
+
+        relative = path.removeprefix("/")
+        candidate = (ROOT_DIR / relative).resolve()
+        if str(candidate).startswith(str(ROOT_DIR.resolve())):
+            if candidate.is_dir():
+                index_file = candidate / "index.html"
+                if index_file.exists():
+                    serve_file(self, ROOT_DIR, str(index_file.relative_to(ROOT_DIR)))
+                    return
+            elif candidate.is_file():
+                serve_file(self, ROOT_DIR, str(candidate.relative_to(ROOT_DIR)))
+                return
 
         self.send_error(HTTPStatus.NOT_FOUND, "Not found")
 

@@ -1,17 +1,17 @@
-# Stock Economy Dashboard
+# minwook02.github.io
 
-금일 주식경제 상황을 한눈에 보기 위한 GitHub Pages용 정적 사이트입니다.
+포트폴리오 메인 사이트와 주식경제 대시보드를 함께 운영하는 GitHub Pages 저장소입니다.
 
-## 기능
+## 구조
 
-- 국내 지수: `KOSPI`, `KOSDAQ`
-- 해외 지수: `S&P 500`, `NASDAQ`, `DOW`
-- 거시 자산: `USD/KRW`, `미국 10년물`, `WTI`, `Gold`, `Bitcoin`
-- 당일 흐름 라인 차트
-- 핵심 시그널 요약
-- 경제/증시 헤드라인 RSS
-- `data/dashboard.json` 정적 데이터 로드
-- GitHub Actions 주기 갱신
+- `/`
+  포트폴리오 메인 소개 페이지
+- `/market/`
+  금일 주식경제 브리핑 대시보드
+- `/data/dashboard.json`
+  시장 데이터 정적 스냅샷
+- `.github/workflows/update-dashboard-data.yml`
+  30분마다 데이터 갱신
 
 ## 로컬 미리보기
 
@@ -21,20 +21,14 @@ python generate_data.py
 python app.py --open
 ```
 
-브라우저가 자동으로 열리지 않으면 `http://127.0.0.1:8765`로 접속하면 됩니다.
-
-## GitHub Pages 배포 방식
-
-- 사이트 파일은 루트 `index.html`과 `static/`에 있습니다.
-- 데이터는 `generate_data.py`가 `data/dashboard.json`으로 생성합니다.
-- `.github/workflows/update-dashboard-data.yml`가 30분마다 데이터를 갱신해 커밋합니다.
+메인 페이지는 `http://127.0.0.1:8765/`, 대시보드는 `http://127.0.0.1:8765/market/`입니다.
 
 ## 데이터 소스
 
 - Yahoo Finance chart endpoint
 - Google News RSS
 
-## 참고
+## 비고
 
-- 외부 네트워크 연결이 필요합니다.
-- GitHub Pages는 정적 호스팅만 가능하므로 서버 대신 정적 JSON 갱신 방식으로 구성했습니다.
+- GitHub Pages는 정적 호스팅만 가능하므로 `data/dashboard.json`을 주기적으로 생성해 사용합니다.
+- 대시보드는 포트폴리오 메인에서 대표 프로젝트로 연결됩니다.
