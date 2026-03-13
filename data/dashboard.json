@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-14T07:48:35.428409+09:00",
-  "updatedLabel": "2026-03-14 07:48:35 KST",
+  "updatedAt": "2026-03-14T08:55:54.834850+09:00",
+  "updatedLabel": "2026-03-14 08:55:54 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4665,10 +4665,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 70687.05,
+      "price": 70938.88,
       "previousClose": 70509.984,
-      "change": 177.066,
-      "changePercent": 0.2511,
+      "change": 428.896,
+      "changePercent": 0.6083,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5766,16 +5766,68 @@
         ],
         [
           1773441900000,
-          70729.0625
+          70759.679688
         ],
         [
-          1773441960000,
-          70687.046875
+          1773442200000,
+          70751.429688
+        ],
+        [
+          1773442500000,
+          70794.523438
+        ],
+        [
+          1773442800000,
+          70758.679688
+        ],
+        [
+          1773443100000,
+          70783.375
+        ],
+        [
+          1773443400000,
+          70755.03125
+        ],
+        [
+          1773443700000,
+          70901.585938
+        ],
+        [
+          1773444000000,
+          70884.125
+        ],
+        [
+          1773444300000,
+          70961.15625
+        ],
+        [
+          1773444600000,
+          70907.554688
+        ],
+        [
+          1773444900000,
+          70940.757812
+        ],
+        [
+          1773445200000,
+          70943.65625
+        ],
+        [
+          1773445500000,
+          70987.492188
+        ],
+        [
+          1773445800000,
+          70937.148438
+        ],
+        [
+          1773445980000,
+          70938.882812
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-14 07:46 KST",
-      "marketTimestamp": 1773441960
+      "marketTime": "2026-03-14 08:53 KST",
+      "marketTimestamp": 1773445980
     }
   ],
   "mainCharts": [
@@ -7080,6 +7132,12 @@
       "publishedAt": "Fri, 13 Mar 2026 15:30:00 GMT"
     },
     {
+      "title": "브렌트유 이틀째 100달러대...뉴욕증시 하락 마감",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ReG5QYlBCNGE3eVdneUplRzgtVkQtSXJVcElvWWxsamdLdF9vdUxTYWQyY09hdEVxUUs3SkZ2eEowT3RjVEgtUFh5R2F4c28?oc=5",
+      "publishedAt": "Fri, 13 Mar 2026 20:55:27 GMT"
+    },
+    {
       "title": "전쟁·고유가에 하락세 美증시까지…다음 주 '내 주식 괜찮을까'",
       "source": "이코노미스트",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OT1drWDB3ZndPTmhyUFVFWm1PTExWRjJJN3dzdENfbVBKN3QteHRJdTl2bDZyZzMybjZhX0RiWjVlQXJkbnhJUUttbkZndGcydUFKVHV0Wi05d0FNZHVBcmNR?oc=5",
@@ -7092,16 +7150,16 @@
       "publishedAt": "Fri, 13 Mar 2026 03:29:00 GMT"
     },
     {
+      "title": "진짜 야수를 위한 '한국증시 10배 레버리지' 나온다…16일 바이낸스 상장",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LaTA1bDlZRG9YVHlvdF84Z2REdjRQa1ZteUF5OEJ6d2kyLVNRNmVMc3JPTTROQnozcy04b3VVb29wZ1dWcy1sX1otYU5XX3FLeFVv?oc=5",
+      "publishedAt": "Fri, 13 Mar 2026 23:08:00 GMT"
+    },
+    {
       "title": "“한국 증시는 거품”...월가의 ‘경고’",
       "source": "매거진한경",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52RlU3N1JJcXlMOTZJTjRmcHpjWjdfZkluR3pJLV8yOWVOOGJucThnZm1ObmdEZXlaUnJZaC1xX0pfMFFVOXhXWHdEYzl1OUJVOGo1UHcwOVNRTk1zV2dodnVnN2pkOElwMGhTRg?oc=5",
       "publishedAt": "Fri, 13 Mar 2026 00:40:00 GMT"
-    },
-    {
-      "title": "네덜란드 최대 자산운용사 로베코 “한국 증시 급락 단기적…우량주 투자 기회”",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2aU9WRmN1ckNqZlZIWUxLbUZkQWlweUpRLTZtUWtjTU0tSnlTY3FuM2NBQWpHVUpiNnI0ODV1V1B2c3ctSHc?oc=5",
-      "publishedAt": "Fri, 13 Mar 2026 05:36:02 GMT"
     },
     {
       "title": "로베코운용 \"증시 변동성에도 한국 기업 펀더멘털 견조\"",
@@ -7114,12 +7172,6 @@
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53akRoTVJ5Q3hzcDhVbG5NTW1KNGR5b2x3blpZU2pCTmZVVVlwalZPR2tQM29NTWhKZEY2M2tNTGREQ3Q3Z2NGcnBoeERvaWpUWmtJZjdWd1YwQk3SAWBBVV95cUxQQlRnMXA3QU53ckxsM1NIVTBsOXlyTUxfUmc3ZEIxNDBJZEdrOGlxTk5KTkFEamNqNkJfVTZFN0NhZmtrQk05R3A1SXFza2JmeTR6b1owQ3VteENndWp3alk?oc=5",
       "publishedAt": "Fri, 13 Mar 2026 07:08:09 GMT"
-    },
-    {
-      "title": "유가 폭등에 아증시 일제 하락…코스피 1.72% 급락, 최대 낙폭",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SZnppVGNRMmpEU0hpM0t6S1hFaDB1VmFQcmh4UzVNTmx0VzdJSE5ZUUhFaW1lTXNZdC1sU1RFRTR2RXZqZEF0c0VySXZVSXQyRWRxSFVBWFg?oc=5",
-      "publishedAt": "Fri, 13 Mar 2026 06:44:20 GMT"
     }
   ],
   "summary": {
@@ -7152,8 +7204,8 @@
         "direction": "상승"
       },
       {
-        "label": "USD/KRW",
-        "changePercent": 0.5877,
+        "label": "Bitcoin",
+        "changePercent": 0.6083,
         "direction": "상승"
       }
     ],
