@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-15T02:47:30.646215+09:00",
-  "updatedLabel": "2026-03-15 02:47:30 KST",
+  "updatedAt": "2026-03-15T04:17:41.186295+09:00",
+  "updatedLabel": "2026-03-15 04:17:41 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2631,10 +2631,6 @@
         [
           1773433500000,
           1497.530029
-        ],
-        [
-          1773435000000,
-          1497.530029
         ]
       ],
       "marketState": "UNKNOWN",
@@ -3808,7 +3804,7 @@
         ],
         [
           1773435300000,
-          98.709999
+          99.309998
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4643,7 +4639,7 @@
         ],
         [
           1773435300000,
-          5023.100098
+          5061.700195
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4657,10 +4653,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 70658.18,
+      "price": 70674.79,
       "previousClose": 70952.336,
-      "change": -294.156,
-      "changePercent": -0.4146,
+      "change": -277.546,
+      "changePercent": -0.3912,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5030,11 +5026,11 @@
         ],
         [
           1773473700000,
-          70579.570312
+          70578.359375
         ],
         [
           1773474000000,
-          70555.078125
+          70542.148438
         ],
         [
           1773474300000,
@@ -5458,7 +5454,7 @@
         ],
         [
           1773505800000,
-          70669.382812
+          70668.578125
         ],
         [
           1773506100000,
@@ -5518,12 +5514,84 @@
         ],
         [
           1773510300000,
-          70658.179688
+          70668.992188
+        ],
+        [
+          1773510600000,
+          70604.398438
+        ],
+        [
+          1773510900000,
+          70613.820312
+        ],
+        [
+          1773511200000,
+          70598.609375
+        ],
+        [
+          1773511500000,
+          70587.25
+        ],
+        [
+          1773511800000,
+          70609.578125
+        ],
+        [
+          1773512100000,
+          70597.765625
+        ],
+        [
+          1773512400000,
+          70594.039062
+        ],
+        [
+          1773512700000,
+          70625.546875
+        ],
+        [
+          1773513000000,
+          70667.328125
+        ],
+        [
+          1773513300000,
+          70646.96875
+        ],
+        [
+          1773513600000,
+          70670.664062
+        ],
+        [
+          1773513900000,
+          70663.3125
+        ],
+        [
+          1773514200000,
+          70674.210938
+        ],
+        [
+          1773514500000,
+          70702.710938
+        ],
+        [
+          1773514800000,
+          70620.90625
+        ],
+        [
+          1773515100000,
+          70661.765625
+        ],
+        [
+          1773515400000,
+          70666.578125
+        ],
+        [
+          1773515640000,
+          70674.789062
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-15 02:45 KST",
-      "marketTimestamp": 1773510300
+      "marketTime": "2026-03-15 04:14 KST",
+      "marketTimestamp": 1773515640
     }
   ],
   "mainCharts": [
@@ -6834,6 +6902,12 @@
       "publishedAt": "Sat, 14 Mar 2026 02:43:00 GMT"
     },
     {
+      "title": "유가·환율 급등에도 증시 '내성' 커졌다",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53cXVNOTNaM3RZcjZjaWs2QlRpSkdHQ2lUd0IxaEVpWlJ4cWJzS0FuY2ozMWRPX0Q5M29OUmo5MDNCYnY4RGdKVTN6ekZpdzQ?oc=5",
+      "publishedAt": "Sat, 14 Mar 2026 04:13:02 GMT"
+    },
+    {
       "title": "뉴욕증시 또 하락…중동 전쟁 장기화 우려에 국내 증시도 '긴장'",
       "source": "대전일보",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sX0gxZlJIaDBsWTZ1NmhEaEdnYXpSaXVEOWg3a0Y4dlRfRjNnVjIwQkpoanNWeWE1UmUyMEYyeXhRZXpZZE9sQWhMYmtrR2xaWUo1ZzBLbGRTM1J3bHpMWWV6c2RUYldKYVVwSkNjeXZ3dWvSAXNBVV95cUxNbF9IMWZSSGgwbFk2dTZoRGhHZ2F6Uml1RDloN2tGOHZUX0YzZ1YyMEJKaGpzVnlhNVJlMjBGMnl4UWV6WWRPbEFoTGJra0dsWllKNWcwS2xkUzNSd2x6TFllenNkVGJXSmFVcEpDY3l2d3Vr?oc=5",
@@ -6862,12 +6936,6 @@
       "source": "베타뉴스",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIbTRSSHNVaG56Tjhwa1I1c0w2bzlWWFBCYl85UmZaT1FKZ0xnX3UtNS1faTdmcWVTbjdndDZEUHBuaVJnOUZkWjctY0EwX05paUo5MjJmR3VRV1YwLUUtUjdyZm8?oc=5",
       "publishedAt": "Sat, 14 Mar 2026 05:59:38 GMT"
-    },
-    {
-      "title": "중동 전쟁 확전 우려에 뉴욕증시 하락…3대 지수 3주 연속 약세",
-      "source": "위키리크스한국",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IRWZXZzM0R2ctQ3ZnSnZDSnNZd2pCLTBJQ05QUGFKdThtRHhRb1NveUpkSjY0Y1pUcUZVdzJoclpkNllqZFpTZTVhNnRtdFppdFZIWEVtQUhLbkVFN2RRRE1IbGQySDFDNXJ0dWRuaw?oc=5",
-      "publishedAt": "Sat, 14 Mar 2026 02:17:16 GMT"
     }
   ],
   "summary": {
