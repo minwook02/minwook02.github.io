@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-15T07:57:48.386712+09:00",
-  "updatedLabel": "2026-03-15 07:57:48 KST",
+  "updatedAt": "2026-03-15T08:55:17.712715+09:00",
+  "updatedLabel": "2026-03-15 08:55:17 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4657,12 +4657,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 70725.86,
+      "price": 71140.49,
       "previousClose": 70952.336,
-      "change": -226.476,
-      "changePercent": -0.3192,
-      "tone": "down",
-      "direction": "하락",
+      "change": 188.154,
+      "changePercent": 0.2652,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1773446400000,
@@ -5766,12 +5766,60 @@
         ],
         [
           1773528900000,
-          70725.859375
+          70727.617188
+        ],
+        [
+          1773529200000,
+          70903.921875
+        ],
+        [
+          1773529500000,
+          71053.3125
+        ],
+        [
+          1773529800000,
+          70957.140625
+        ],
+        [
+          1773530100000,
+          70952.710938
+        ],
+        [
+          1773530400000,
+          71003.726562
+        ],
+        [
+          1773530700000,
+          71060.820312
+        ],
+        [
+          1773531000000,
+          71114.78125
+        ],
+        [
+          1773531300000,
+          71142.46875
+        ],
+        [
+          1773531600000,
+          71194.25
+        ],
+        [
+          1773531900000,
+          71165.734375
+        ],
+        [
+          1773532200000,
+          71158.71875
+        ],
+        [
+          1773532320000,
+          71140.492188
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-15 07:55 KST",
-      "marketTimestamp": 1773528900
+      "marketTime": "2026-03-15 08:52 KST",
+      "marketTimestamp": 1773532320
     }
   ],
   "mainCharts": [
@@ -7070,6 +7118,12 @@
   ],
   "headlines": [
     {
+      "title": "‘중동 리스크’ 4거래일째 10% 안팎 출렁…멀미 나는 한국 증시",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03bnJyZWROcEZFemFYN2NmQnpqcVEyOXhGdi1ScXoxWllMYWRINTlhVWdBSDJvY2l2UUdybWljejlidmlaU2tMbUtBeW5Xcmxjc1o0QUhDdWZLdEZfZEhlSmNMM3h5OUE?oc=5",
+      "publishedAt": "Sat, 14 Mar 2026 22:53:33 GMT"
+    },
+    {
       "title": "[주간증시전망] 美 연준, 유가 급등에 어떤 신호 보낼까… 엔비디아 기술 컨퍼런스도 주목 - 조선비즈",
       "source": "Chosunbiz",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSmota0pyZ1FxMFlSREowb1Rjc2tURWF6ejRhSC0zVHVia0h2MDIzWnc3QlZNRW9PWFdhQ1FlLTB6WFZSVnFLYmdMazV6Um1ISi1rZWhWcGlPZjhBcDV3QlpuNFhRb0pEelZZbzZDLVFlbzFtcUU1MXZEYU9GMl9UcjJHQW9MSF9M0gGcAUFVX3lxTE5uZ2NjYmxTOVc2VTdWTXJPRVQ5anhCbTM3bXVwZl9pQVNDY2lxZTN4dF9vMTY1VjJLNUhZTHdQLUd5S29Fd2hCZzdkR0VzX0FXQ0hnRDl1QmctRVlBQTg4VlBfXzNLSldCaE9tV1ZTeXlKNHctZ3NoQlZfX0hla28yYjV1N1puNXRablotNUdmT1hIbV9pQVJTVmp1Tg?oc=5",
@@ -7082,22 +7136,22 @@
       "publishedAt": "Sat, 14 Mar 2026 21:00:01 GMT"
     },
     {
+      "title": "증시 조정 국면…이란 공습 후 코스피 5%대 하락",
+      "source": "서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55cmwyRWtCeDRoWld3c29JaVJCSWdLSkppWF9NU2lDekpsWWh6eEpjYUZrcm1BcjNPbmZCSzZCX1Z6ZjFmTjNuekdzSDc5Y3ZNLVFGVVZSVVk5bllqSHlnQXk2bzQ?oc=5",
+      "publishedAt": "Sat, 14 Mar 2026 23:45:18 GMT"
+    },
+    {
       "title": "[뉴욕증시-주간전망] 유가 100달러, 파월의 선택은…전쟁 속 FOMC 주목",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ORXB5T2c3N05FQ25QS01tUWk0OXdlRDhGMnpQZy0wd29Bd2RRcDBIYUVjY1N5MWVtdkE4MTRYZFBMU3ltVmFxS3NUNUdiN25ma1E?oc=5",
       "publishedAt": "Sat, 14 Mar 2026 22:00:01 GMT"
     },
     {
-      "title": "키움證 “설 연휴 이후 국내 증시, 우상향 흐름 이어갈 것”",
-      "source": "브릿지경제",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84RUJkMWZTdFhGZDRYSUFlMS1aaVNfV1NDM1FOeXFOOHVHYVNWcXVzQkstYWlBT3BQMXQ0ZXA0aVFDSzJuVVVmRFcwUzV4UzJyX3dBdkd6UGVqVzdqTXdYODFqVTN1RDdPTEkzY0FuZ1VsZi1xcTFFYw?oc=5",
-      "publishedAt": "Sat, 14 Mar 2026 18:40:40 GMT"
-    },
-    {
-      "title": "뉴욕증시 또 하락…중동 전쟁 장기화 우려에 국내 증시도 '긴장'",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ZY2Q4b3hiLTJ1OWtqejFKcnkxRUVRQTVtQXd4US1LYnVWWlc1Q2tMTHlxU016WVZ6VktKYWk5WWlRMEF0aUE?oc=5",
-      "publishedAt": "Sat, 14 Mar 2026 02:20:37 GMT"
+      "title": "로베코운용 “K-증시 변동성 확대에도…한국 기업 펀더멘털 견조”",
+      "source": "데일리안",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PekZGZWdnRThxNERLRnFUTjJoNks5dlc4TTN6N2VDd3MydTlvZ0VQNEZVZWRmRU1reHU1RDN3bXhCcWRiSkF2bklWZk9oQ01HTUZGdEJZONIBmwJBVV95cUxOcEZUeXlXS1NNZEdYMktOd2RDUDI3VVdValJLYXducTZNeW1Ha0dJajV2Ujc3dnVmdEVBTFJyQzhnclZlZ1VrUG94Q19pbEhtb3doVDhkT2ZGelhWY19OX2p1ZUdPQldfY3NtYmhGSWFQTVpmVV9vM29sM3FCQU9ScEVzX29rQVpzMEEtYVFHR3g1Z19fekswel9CNElYVWpZWWt1cl85R09xcDRQVVBuLUlfTHpzT3g3Qzc3UzRlbWFGQWRaZnBKcThJU2hUN1pWS19ZQVc2QVRpR2lUX0d1Y0w5bnZkYTRlNXR1eWs0MkZheEY1cGdIaTJmTktqQmlOWFliNnlTaVExTmh0Yk84UU1DMzExX1Ixdnlj?oc=5",
+      "publishedAt": "Sat, 14 Mar 2026 23:26:00 GMT"
     },
     {
       "title": "[주간증시전망] 유가·엔비디아에 쏠린 눈…거버넌스 개선 모멘텀도",
@@ -7110,12 +7164,6 @@
       "source": "시사저널e",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xNUYyUjNwSDgzdW9PWEhFc0VqNzRHSW1aeEo1NVNrZGhIN3RsZkNnM0lCbFNzWUY2N1oyT3NfMnNrYVg4Ny13Z1dxSVp0bklmOFpFMlNaRnl6QVVjdUNvQTdHUjYyZEJ6b0JCLW03c0RvMnJTdUHSAXZBVV95cUxOcTVGMlIzcEg4M3VvT1hIRXNFajc0R0ltWnhKNTVTa2RoSDd0bGZDZzNJQmxTc1lGNjdaMk9zXzJza2FYODctd2dXcUladG5JZjhaRTJTWkZ5ekFVY3VDb0E3R1I2MmRCem9CQi1tN3NEbzJyU3VB?oc=5",
       "publishedAt": "Sat, 14 Mar 2026 02:43:00 GMT"
-    },
-    {
-      "title": "바이낸스, 한국 증시까지 품었다 ‘코리아 ETF’ 영구선물 상장",
-      "source": "비온미디어",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYWEJ0Zm9ibW9BU1NsQWp5aEZKUkl5OG9leWp1Y1B2NUdrUFBSbEFaVndjSm9ZMUppN3Y4ZnRzRldnN013NEFSQ2xOTHBmME1MUEQyejJNYzBRUWFPT2RSalpvaklhcmotUFdB0gFrQVVfeXFMUFhYQnRmb2Jtb0FTU2xBanloRkpSSXk4b2V5anVjUHY1R2tQUFJsQVpWd2NKb1kxSmk3djhmdHNGV2c3TXc0QVJDbE5McGYwTUxQRDJ6Mk1jMFFRYU9PZFJqWm9qSWFyai1QV0E?oc=5",
-      "publishedAt": "Sat, 14 Mar 2026 09:24:57 GMT"
     }
   ],
   "summary": {
