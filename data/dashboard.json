@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-15T00:00:11.095864+09:00",
-  "updatedLabel": "2026-03-15 00:00:11 KST",
+  "updatedAt": "2026-03-15T01:00:58.201839+09:00",
+  "updatedLabel": "2026-03-15 01:00:58 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2631,6 +2631,10 @@
         [
           1773433500000,
           1497.530029
+        ],
+        [
+          1773435000000,
+          1497.530029
         ]
       ],
       "marketState": "UNKNOWN",
@@ -3804,7 +3808,7 @@
         ],
         [
           1773435300000,
-          99.309998
+          98.709999
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4639,7 +4643,7 @@
         ],
         [
           1773435300000,
-          5061.700195
+          5023.100098
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4653,10 +4657,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 70668.78,
+      "price": 70603.22,
       "previousClose": 70952.336,
-      "change": -283.556,
-      "changePercent": -0.3996,
+      "change": -349.116,
+      "changePercent": -0.492,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5026,11 +5030,11 @@
         ],
         [
           1773473700000,
-          70578.359375
+          70579.570312
         ],
         [
           1773474000000,
-          70542.148438
+          70555.078125
         ],
         [
           1773474300000,
@@ -5378,16 +5382,64 @@
         ],
         [
           1773500100000,
-          70673.3125
+          70632.640625
         ],
         [
-          1773500220000,
-          70668.78125
+          1773500400000,
+          70697.539062
+        ],
+        [
+          1773500700000,
+          70675.273438
+        ],
+        [
+          1773501000000,
+          70677.140625
+        ],
+        [
+          1773501300000,
+          70694.375
+        ],
+        [
+          1773501600000,
+          70726.359375
+        ],
+        [
+          1773501900000,
+          70710.84375
+        ],
+        [
+          1773502200000,
+          70552.023438
+        ],
+        [
+          1773502500000,
+          70596.710938
+        ],
+        [
+          1773502800000,
+          70552.414062
+        ],
+        [
+          1773503100000,
+          70533.320312
+        ],
+        [
+          1773503400000,
+          70603.96875
+        ],
+        [
+          1773503700000,
+          70605.890625
+        ],
+        [
+          1773503880000,
+          70603.21875
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-14 23:57 KST",
-      "marketTimestamp": 1773500220
+      "marketTime": "2026-03-15 00:58 KST",
+      "marketTimestamp": 1773503880
     }
   ],
   "mainCharts": [
@@ -6692,12 +6744,6 @@
       "publishedAt": "Sat, 14 Mar 2026 09:38:25 GMT"
     },
     {
-      "title": "미국증시 전망, 언제 저가 매수에 들어가야할까?",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaHRhQ2NKcEc5UDd2eUlRUk9QdkVtV0hKaEVYOHdRMFZtNWRXZ2ZEZUlQdmxzZVBsU2otdFpyMVE3a3N0b0ZrR3ozVG8tUTY4R3QtSHQyc3oteDg4eVMycTBZWVNQbUZyX3lDR2pUcWVWanl2QktrQTBabGxWb2wyOVVyVQ?oc=5",
-      "publishedAt": "Sat, 14 Mar 2026 03:13:00 GMT"
-    },
-    {
       "title": "갖은 악재 속 긴장 이어지는 증시···엔비디아 GTC ‘반등 트리거’ 될까",
       "source": "시사저널e",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xNUYyUjNwSDgzdW9PWEhFc0VqNzRHSW1aeEo1NVNrZGhIN3RsZkNnM0lCbFNzWUY2N1oyT3NfMnNrYVg4Ny13Z1dxSVp0bklmOFpFMlNaRnl6QVVjdUNvQTdHUjYyZEJ6b0JCLW03c0RvMnJTdUHSAXZBVV95cUxOcTVGMlIzcEg4M3VvT1hIRXNFajc0R0ltWnhKNTVTa2RoSDd0bGZDZzNJQmxTc1lGNjdaMk9zXzJza2FYODctd2dXcUladG5JZjhaRTJTWkZ5ekFVY3VDb0E3R1I2MmRCem9CQi1tN3NEbzJyU3VB?oc=5",
@@ -6716,22 +6762,28 @@
       "publishedAt": "Sat, 14 Mar 2026 09:24:57 GMT"
     },
     {
-      "title": "[에디터 프리즘] 카지노 증시",
-      "source": "중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03VHMwZmdjXzV3US1ETndJdVJZTUJPWDFURXN6ekFqcWsxWEVUZ1RhbDFDTHREM2J6X2JUazRxSV9TazFBOEcteU9RWnRaX0NqMXhUWjZn?oc=5",
-      "publishedAt": "Fri, 13 Mar 2026 15:30:00 GMT"
-    },
-    {
       "title": "18만전자, 91만닉스… 외국인 매도세에 반도체株 ‘부진’ [주간 증시해설서]",
       "source": "더스쿠프",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90WFJqN081Rkgwdkh4bmlMVFFEZzlOSWhIMnRraUduS2FKV3k3YmtpR2lKcHhodmxFRVJJcnozR256TkdKT0tyNll6X1RibFhzQl9ibFBDejVpZXhqMU5PVWNrNXZCdGZIeElIMzF3?oc=5",
       "publishedAt": "Sat, 14 Mar 2026 01:33:01 GMT"
     },
     {
+      "title": "중동전쟁과 엔비디아 컨퍼런스의 '줄다리기'…코스피 5300~5900 [주간 증시 전망]",
+      "source": "데일리안",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzd0FxSF9MVFZvcFVxMV9CYzlyMFkyYjIwMEgzNUY2eUxxa2dUWThzdGs3bG81aDI4ZG5sTWhZV0M2cGV5ejZMVDhqbmhIMWF3ckRkbktKSdIBsAJBVV95cUxPamxjamNZYUg1STd6UXpXTEcyS2VoTVYwNndpT0hxVkl3eGdnUGJIMktxb1gwdUowZEJ0YXJrNHpxQm85TjNvOWtmWmJJUXVDSWg1Y2hOYTRmbTBGbXF6bzMxTkhFeWRVSVVDeWFqUlZiWm83d1VVM2xRajA3a2JIb25VOWZQLTdmVzY5LXFveHJCV0FTZ21XcTliSW1Kbk5LSW9Ya3pHM3I0UmlJZnRmVHdCNEZVRlhEbU13TkdEei1velJidXZyZEd0a2tYLVZvSk9lcFJORWlaeE53WUgyMnJyX014OWtfNVJZcDRHM0ZEb2Zobi1yZ0xyS0FTM0tDYTRVNVkxSjB3Xzl6TWlYU1c4RU1fekdUd0Frc3Q0UTA3c0VPVzJHbFc1VmI2ZlM4?oc=5",
+      "publishedAt": "Sat, 14 Mar 2026 15:10:00 GMT"
+    },
+    {
       "title": "중동 리스크에 증시 롤러코스터…예탁금 132조→120조 감소·ETF 400조 멈칫",
       "source": "베타뉴스",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIbTRSSHNVaG56Tjhwa1I1c0w2bzlWWFBCYl85UmZaT1FKZ0xnX3UtNS1faTdmcWVTbjdndDZEUHBuaVJnOUZkWjctY0EwX05paUo5MjJmR3VRV1YwLUUtUjdyZm8?oc=5",
       "publishedAt": "Sat, 14 Mar 2026 05:59:38 GMT"
+    },
+    {
+      "title": "중동 전쟁 확전 우려에 뉴욕증시 하락…3대 지수 3주 연속 약세",
+      "source": "위키리크스한국",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IRWZXZzM0R2ctQ3ZnSnZDSnNZd2pCLTBJQ05QUGFKdThtRHhRb1NveUpkSjY0Y1pUcUZVdzJoclpkNllqZFpTZTVhNnRtdFppdFZIWEVtQUhLbkVFN2RRRE1IbGQySDFDNXJ0dWRuaw?oc=5",
+      "publishedAt": "Sat, 14 Mar 2026 02:17:16 GMT"
     }
   ],
   "summary": {
