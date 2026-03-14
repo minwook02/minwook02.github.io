@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-14T16:25:51.134127+09:00",
-  "updatedLabel": "2026-03-14 16:25:51 KST",
+  "updatedAt": "2026-03-14T17:02:35.943843+09:00",
+  "updatedLabel": "2026-03-14 17:02:35 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2631,10 +2631,6 @@
         [
           1773433500000,
           1497.530029
-        ],
-        [
-          1773435000000,
-          1497.530029
         ]
       ],
       "marketState": "UNKNOWN",
@@ -3808,7 +3804,7 @@
         ],
         [
           1773435300000,
-          98.709999
+          99.309998
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4657,10 +4653,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 70648.24,
+      "price": 70613.2,
       "previousClose": 70952.336,
-      "change": -304.096,
-      "changePercent": -0.4286,
+      "change": -339.136,
+      "changePercent": -0.478,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5018,16 +5014,44 @@
         ],
         [
           1773472800000,
-          70669.734375
+          70648.242188
         ],
         [
-          1773472980000,
-          70648.242188
+          1773473100000,
+          70678.398438
+        ],
+        [
+          1773473400000,
+          70719.125
+        ],
+        [
+          1773473700000,
+          70578.359375
+        ],
+        [
+          1773474000000,
+          70542.148438
+        ],
+        [
+          1773474300000,
+          70534.039062
+        ],
+        [
+          1773474600000,
+          70584.367188
+        ],
+        [
+          1773474900000,
+          70623.335938
+        ],
+        [
+          1773475140000,
+          70613.203125
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-14 16:23 KST",
-      "marketTimestamp": 1773472980
+      "marketTime": "2026-03-14 16:59 KST",
+      "marketTimestamp": 1773475140
     }
   ],
   "mainCharts": [
@@ -6332,16 +6356,16 @@
       "publishedAt": "Sat, 14 Mar 2026 03:13:00 GMT"
     },
     {
+      "title": "뉴욕증시 또 하락…중동 전쟁 장기화 우려에 국내 증시도 '긴장'",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvZHpMVnhfaVc0dFE2Y2pOTEVqeE15NUhVNVZRYXZDR2wwUEdOeHlINkxmUUprQk9fbkVlbDROOXU4TWVBQlF3bzREYjEyejQ?oc=5",
+      "publishedAt": "Sat, 14 Mar 2026 02:20:37 GMT"
+    },
+    {
       "title": "갖은 악재 속 긴장 이어지는 증시···엔비디아 GTC ‘반등 트리거’ 될까",
       "source": "시사저널e",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xNUYyUjNwSDgzdW9PWEhFc0VqNzRHSW1aeEo1NVNrZGhIN3RsZkNnM0lCbFNzWUY2N1oyT3NfMnNrYVg4Ny13Z1dxSVp0bklmOFpFMlNaRnl6QVVjdUNvQTdHUjYyZEJ6b0JCLW03c0RvMnJTdUHSAXZBVV95cUxOcTVGMlIzcEg4M3VvT1hIRXNFajc0R0ltWnhKNTVTa2RoSDd0bGZDZzNJQmxTc1lGNjdaMk9zXzJza2FYODctd2dXcUladG5JZjhaRTJTWkZ5ekFVY3VDb0E3R1I2MmRCem9CQi1tN3NEbzJyU3VB?oc=5",
       "publishedAt": "Sat, 14 Mar 2026 02:43:00 GMT"
-    },
-    {
-      "title": "뉴욕증시 또 하락…중동 전쟁 장기화 우려에 국내 증시도 '긴장'",
-      "source": "대전일보",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sX0gxZlJIaDBsWTZ1NmhEaEdnYXpSaXVEOWg3a0Y4dlRfRjNnVjIwQkpoanNWeWE1UmUyMEYyeXhRZXpZZE9sQWhMYmtrR2xaWUo1ZzBLbGRTM1J3bHpMWWV6c2RUYldKYVVwSkNjeXZ3dWvSAXNBVV95cUxNbF9IMWZSSGgwbFk2dTZoRGhHZ2F6Uml1RDloN2tGOHZUX0YzZ1YyMEJKaGpzVnlhNVJlMjBGMnl4UWV6WWRPbEFoTGJra0dsWllKNWcwS2xkUzNSd2x6TFllenNkVGJXSmFVcEpDY3l2d3Vr?oc=5",
-      "publishedAt": "Sat, 14 Mar 2026 02:30:09 GMT"
     },
     {
       "title": "[에디터 프리즘] 카지노 증시",
@@ -6356,6 +6380,12 @@
       "publishedAt": "Sat, 14 Mar 2026 01:33:01 GMT"
     },
     {
+      "title": "중동 리스크에 증시 롤러코스터…예탁금 132조→120조 감소·ETF 400조 멈칫",
+      "source": "베타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIbTRSSHNVaG56Tjhwa1I1c0w2bzlWWFBCYl85UmZaT1FKZ0xnX3UtNS1faTdmcWVTbjdndDZEUHBuaVJnOUZkWjctY0EwX05paUo5MjJmR3VRV1YwLUUtUjdyZm8?oc=5",
+      "publishedAt": "Sat, 14 Mar 2026 05:59:38 GMT"
+    },
+    {
       "title": "[머니플로우] 중동발 '현기증 장세'에 증시 자금유입 '주춤'",
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kaHBzYUlpMkFocTgzeDF5a2NhcDI0WGNzZU55SXBDSmtzLVpjVzJqd1JUSWpxNEUxbWpOaThkcmtjMGMwTEdoVVZfcTdrbHI5bVZIUXlybVRYSFRYMnNDUdIBYEFVX3lxTE5kaHBzYUlpMkFocTgzeDF5a2NhcDI0WGNzZU55SXBDSmtzLVpjVzJqd1JUSWpxNEUxbWpOaThkcmtjMGMwTEdoVVZfcTdrbHI5bVZIUXlybVRYSFRYMnNDUQ?oc=5",
@@ -6366,12 +6396,6 @@
       "source": "이코노미스트",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OT1drWDB3ZndPTmhyUFVFWm1PTExWRjJJN3dzdENfbVBKN3QteHRJdTl2bDZyZzMybjZhX0RiWjVlQXJkbnhJUUttbkZndGcydUFKVHV0Wi05d0FNZHVBcmNR?oc=5",
       "publishedAt": "Fri, 13 Mar 2026 21:37:00 GMT"
-    },
-    {
-      "title": "유가 꿈틀에 환율 또 1500원 뚫렸다",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1MlNrUHpHdFBjR0tZS2xKdnpZSXdSaG1DOHg3XzdrWWFiTGp0QkU5SXdOMTZ5WnhDQm1SeDhSUDVXeVBwRDF2d0c4WkVGTGRQRVE?oc=5",
-      "publishedAt": "Sat, 14 Mar 2026 00:19:55 GMT"
     }
   ],
   "summary": {
