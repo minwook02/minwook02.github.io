@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-14T22:58:02.078517+09:00",
-  "updatedLabel": "2026-03-14 22:58:02 KST",
+  "updatedAt": "2026-03-15T00:00:11.095864+09:00",
+  "updatedLabel": "2026-03-15 00:00:11 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2631,10 +2631,6 @@
         [
           1773433500000,
           1497.530029
-        ],
-        [
-          1773435000000,
-          1497.530029
         ]
       ],
       "marketState": "UNKNOWN",
@@ -3808,7 +3804,7 @@
         ],
         [
           1773435300000,
-          98.709999
+          99.309998
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4643,7 +4639,7 @@
         ],
         [
           1773435300000,
-          5023.100098
+          5061.700195
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4657,12 +4653,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 70874.05,
+      "price": 70668.78,
       "previousClose": 70952.336,
-      "change": -78.286,
-      "changePercent": -0.1103,
-      "tone": "flat",
-      "direction": "보합",
+      "change": -283.556,
+      "changePercent": -0.3996,
+      "tone": "down",
+      "direction": "하락",
       "series": [
         [
           1773446400000,
@@ -5030,11 +5026,11 @@
         ],
         [
           1773473700000,
-          70579.570312
+          70578.359375
         ],
         [
           1773474000000,
-          70555.078125
+          70542.148438
         ],
         [
           1773474300000,
@@ -5334,16 +5330,64 @@
         ],
         [
           1773496500000,
-          70869.945312
+          70878.054688
         ],
         [
-          1773496560000,
-          70874.046875
+          1773496800000,
+          70917.273438
+        ],
+        [
+          1773497100000,
+          70892.039062
+        ],
+        [
+          1773497400000,
+          70754.109375
+        ],
+        [
+          1773497700000,
+          70777.164062
+        ],
+        [
+          1773498000000,
+          70795.25
+        ],
+        [
+          1773498300000,
+          70821.484375
+        ],
+        [
+          1773498600000,
+          70784.328125
+        ],
+        [
+          1773498900000,
+          70771.25
+        ],
+        [
+          1773499200000,
+          70705.554688
+        ],
+        [
+          1773499500000,
+          70660.859375
+        ],
+        [
+          1773499800000,
+          70668.898438
+        ],
+        [
+          1773500100000,
+          70673.3125
+        ],
+        [
+          1773500220000,
+          70668.78125
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-14 22:56 KST",
-      "marketTimestamp": 1773496560
+      "marketTime": "2026-03-14 23:57 KST",
+      "marketTimestamp": 1773500220
     }
   ],
   "mainCharts": [
@@ -6666,16 +6710,16 @@
       "publishedAt": "Sat, 14 Mar 2026 02:30:09 GMT"
     },
     {
-      "title": "[에디터 프리즘] 카지노 증시",
-      "source": "중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03VHMwZmdjXzV3US1ETndJdVJZTUJPWDFURXN6ekFqcWsxWEVUZ1RhbDFDTHREM2J6X2JUazRxSV9TazFBOEcteU9RWnRaX0NqMXhUWjZn?oc=5",
-      "publishedAt": "Fri, 13 Mar 2026 15:30:00 GMT"
-    },
-    {
       "title": "바이낸스, 한국 증시까지 품었다 ‘코리아 ETF’ 영구선물 상장",
       "source": "비온미디어",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYWEJ0Zm9ibW9BU1NsQWp5aEZKUkl5OG9leWp1Y1B2NUdrUFBSbEFaVndjSm9ZMUppN3Y4ZnRzRldnN013NEFSQ2xOTHBmME1MUEQyejJNYzBRUWFPT2RSalpvaklhcmotUFdB0gFrQVVfeXFMUFhYQnRmb2Jtb0FTU2xBanloRkpSSXk4b2V5anVjUHY1R2tQUFJsQVpWd2NKb1kxSmk3djhmdHNGV2c3TXc0QVJDbE5McGYwTUxQRDJ6Mk1jMFFRYU9PZFJqWm9qSWFyai1QV0E?oc=5",
       "publishedAt": "Sat, 14 Mar 2026 09:24:57 GMT"
+    },
+    {
+      "title": "[에디터 프리즘] 카지노 증시",
+      "source": "중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03VHMwZmdjXzV3US1ETndJdVJZTUJPWDFURXN6ekFqcWsxWEVUZ1RhbDFDTHREM2J6X2JUazRxSV9TazFBOEcteU9RWnRaX0NqMXhUWjZn?oc=5",
+      "publishedAt": "Fri, 13 Mar 2026 15:30:00 GMT"
     },
     {
       "title": "18만전자, 91만닉스… 외국인 매도세에 반도체株 ‘부진’ [주간 증시해설서]",
