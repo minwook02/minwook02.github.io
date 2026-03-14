@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-15T05:58:13.888362+09:00",
-  "updatedLabel": "2026-03-15 05:58:13 KST",
+  "updatedAt": "2026-03-15T06:53:31.491655+09:00",
+  "updatedLabel": "2026-03-15 06:53:31 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2631,6 +2631,10 @@
         [
           1773433500000,
           1497.530029
+        ],
+        [
+          1773435000000,
+          1497.530029
         ]
       ],
       "marketState": "UNKNOWN",
@@ -3804,7 +3808,7 @@
         ],
         [
           1773435300000,
-          99.309998
+          98.709999
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4639,7 +4643,7 @@
         ],
         [
           1773435300000,
-          5061.700195
+          5023.100098
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4653,10 +4657,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 70829.23,
+      "price": 70784.914,
       "previousClose": 70952.336,
-      "change": -123.106,
-      "changePercent": -0.1735,
+      "change": -167.422,
+      "changePercent": -0.236,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5026,11 +5030,11 @@
         ],
         [
           1773473700000,
-          70578.359375
+          70579.570312
         ],
         [
           1773474000000,
-          70542.148438
+          70555.078125
         ],
         [
           1773474300000,
@@ -5454,7 +5458,7 @@
         ],
         [
           1773505800000,
-          70668.578125
+          70669.382812
         ],
         [
           1773506100000,
@@ -5522,7 +5526,7 @@
         ],
         [
           1773510900000,
-          70613.820312
+          70619.96875
         ],
         [
           1773511200000,
@@ -5665,13 +5669,61 @@
           70835.796875
         ],
         [
-          1773521760000,
-          70829.226562
+          1773521700000,
+          70844.234375
+        ],
+        [
+          1773522000000,
+          70770.335938
+        ],
+        [
+          1773522300000,
+          70738.695312
+        ],
+        [
+          1773522600000,
+          70679.132812
+        ],
+        [
+          1773522900000,
+          70715.882812
+        ],
+        [
+          1773523200000,
+          70703.960938
+        ],
+        [
+          1773523500000,
+          70704.390625
+        ],
+        [
+          1773523800000,
+          70710.585938
+        ],
+        [
+          1773524100000,
+          70699.421875
+        ],
+        [
+          1773524400000,
+          70750.367188
+        ],
+        [
+          1773524700000,
+          70771.3125
+        ],
+        [
+          1773525000000,
+          70769.015625
+        ],
+        [
+          1773525060000,
+          70784.914062
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-15 05:56 KST",
-      "marketTimestamp": 1773521760
+      "marketTime": "2026-03-15 06:51 KST",
+      "marketTimestamp": 1773525060
     }
   ],
   "mainCharts": [
@@ -6970,22 +7022,40 @@
   ],
   "headlines": [
     {
+      "title": "국내 증시 충격 줄었지만…국제유가 불안에 긴장",
+      "source": "MTN 머니투데이방송",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zcF9HX2gwbHBLcWhrYjE2aHJMZjBMQWk3WGRsMjhNaDlDcFBiV2RoZmpLWTZHVHdQYlJCeHE1NzU1bTQtdnl6WHhLbkx1aHF4anYyWGlScElQRHhOdDJZZV8wc0I?oc=5",
+      "publishedAt": "Sat, 14 Mar 2026 21:00:01 GMT"
+    },
+    {
+      "title": "[주간증시전망] 美 연준, 유가 급등에 어떤 신호 보낼까… 엔비디아 기술 컨퍼런스도 주목 - 조선비즈",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSmota0pyZ1FxMFlSREowb1Rjc2tURWF6ejRhSC0zVHVia0h2MDIzWnc3QlZNRW9PWFdhQ1FlLTB6WFZSVnFLYmdMazV6Um1ISi1rZWhWcGlPZjhBcDV3QlpuNFhRb0pEelZZbzZDLVFlbzFtcUU1MXZEYU9GMl9UcjJHQW9MSF9M0gGcAUFVX3lxTE5uZ2NjYmxTOVc2VTdWTXJPRVQ5anhCbTM3bXVwZl9pQVNDY2lxZTN4dF9vMTY1VjJLNUhZTHdQLUd5S29Fd2hCZzdkR0VzX0FXQ0hnRDl1QmctRVlBQTg4VlBfXzNLSldCaE9tV1ZTeXlKNHctZ3NoQlZfX0hla28yYjV1N1puNXRablotNUdmT1hIbV9pQVJTVmp1Tg?oc=5",
+      "publishedAt": "Sat, 14 Mar 2026 21:04:15 GMT"
+    },
+    {
+      "title": "키움證 “설 연휴 이후 국내 증시, 우상향 흐름 이어갈 것”",
+      "source": "브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84RUJkMWZTdFhGZDRYSUFlMS1aaVNfV1NDM1FOeXFOOHVHYVNWcXVzQkstYWlBT3BQMXQ0ZXA0aVFDSzJuVVVmRFcwUzV4UzJyX3dBdkd6UGVqVzdqTXdYODFqVTN1RDdPTEkzY0FuZ1VsZi1xcTFFYw?oc=5",
+      "publishedAt": "Sat, 14 Mar 2026 18:40:40 GMT"
+    },
+    {
+      "title": "뉴욕증시 또 하락…중동 전쟁 장기화 우려에 국내 증시도 '긴장'",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ZY2Q4b3hiLTJ1OWtqejFKcnkxRUVRQTVtQXd4US1LYnVWWlc1Q2tMTHlxU016WVZ6VktKYWk5WWlRMEF0aUE?oc=5",
+      "publishedAt": "Sat, 14 Mar 2026 02:20:37 GMT"
+    },
+    {
       "title": "갖은 악재 속 긴장 이어지는 증시···엔비디아 GTC ‘반등 트리거’ 될까",
       "source": "시사저널e",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xNUYyUjNwSDgzdW9PWEhFc0VqNzRHSW1aeEo1NVNrZGhIN3RsZkNnM0lCbFNzWUY2N1oyT3NfMnNrYVg4Ny13Z1dxSVp0bklmOFpFMlNaRnl6QVVjdUNvQTdHUjYyZEJ6b0JCLW03c0RvMnJTdUHSAXZBVV95cUxOcTVGMlIzcEg4M3VvT1hIRXNFajc0R0ltWnhKNTVTa2RoSDd0bGZDZzNJQmxTc1lGNjdaMk9zXzJza2FYODctd2dXcUladG5JZjhaRTJTWkZ5ekFVY3VDb0E3R1I2MmRCem9CQi1tN3NEbzJyU3VB?oc=5",
       "publishedAt": "Sat, 14 Mar 2026 02:43:00 GMT"
     },
     {
-      "title": "유가·환율 급등에도 증시 '내성' 커졌다",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53cXVNOTNaM3RZcjZjaWs2QlRpSkdHQ2lUd0IxaEVpWlJ4cWJzS0FuY2ozMWRPX0Q5M29OUmo5MDNCYnY4RGdKVTN6ekZpdzQ?oc=5",
-      "publishedAt": "Sat, 14 Mar 2026 04:13:02 GMT"
-    },
-    {
-      "title": "뉴욕증시 또 하락…중동 전쟁 장기화 우려에 국내 증시도 '긴장'",
-      "source": "대전일보",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sX0gxZlJIaDBsWTZ1NmhEaEdnYXpSaXVEOWg3a0Y4dlRfRjNnVjIwQkpoanNWeWE1UmUyMEYyeXhRZXpZZE9sQWhMYmtrR2xaWUo1ZzBLbGRTM1J3bHpMWWV6c2RUYldKYVVwSkNjeXZ3dWvSAXNBVV95cUxNbF9IMWZSSGgwbFk2dTZoRGhHZ2F6Uml1RDloN2tGOHZUX0YzZ1YyMEJKaGpzVnlhNVJlMjBGMnl4UWV6WWRPbEFoTGJra0dsWllKNWcwS2xkUzNSd2x6TFllenNkVGJXSmFVcEpDY3l2d3Vr?oc=5",
-      "publishedAt": "Sat, 14 Mar 2026 02:30:09 GMT"
+      "title": "[주간증시전망] 유가·엔비디아에 쏠린 눈…거버넌스 개선 모멘텀도",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9seEdNWmkyM1FkdW90c2JxWjJkUVpibVBFVUVPRVl1UnNxeWFoSXFhdEtPUmN0emNLMzQ4blVVWmtOQWdtMFJaREowcjFCMGxiUzZ3?oc=5",
+      "publishedAt": "Sat, 14 Mar 2026 21:01:00 GMT"
     },
     {
       "title": "바이낸스, 한국 증시까지 품었다 ‘코리아 ETF’ 영구선물 상장",
@@ -6998,24 +7068,6 @@
       "source": "더스쿠프",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90WFJqN081Rkgwdkh4bmlMVFFEZzlOSWhIMnRraUduS2FKV3k3YmtpR2lKcHhodmxFRVJJcnozR256TkdKT0tyNll6X1RibFhzQl9ibFBDejVpZXhqMU5PVWNrNXZCdGZIeElIMzF3?oc=5",
       "publishedAt": "Sat, 14 Mar 2026 01:33:01 GMT"
-    },
-    {
-      "title": "중동전쟁과 엔비디아 컨퍼런스의 '줄다리기'…코스피 5300~5900 [주간 증시 전망]",
-      "source": "데일리안",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzd0FxSF9MVFZvcFVxMV9CYzlyMFkyYjIwMEgzNUY2eUxxa2dUWThzdGs3bG81aDI4ZG5sTWhZV0M2cGV5ejZMVDhqbmhIMWF3ckRkbktKSdIBsAJBVV95cUxPamxjamNZYUg1STd6UXpXTEcyS2VoTVYwNndpT0hxVkl3eGdnUGJIMktxb1gwdUowZEJ0YXJrNHpxQm85TjNvOWtmWmJJUXVDSWg1Y2hOYTRmbTBGbXF6bzMxTkhFeWRVSVVDeWFqUlZiWm83d1VVM2xRajA3a2JIb25VOWZQLTdmVzY5LXFveHJCV0FTZ21XcTliSW1Kbk5LSW9Ya3pHM3I0UmlJZnRmVHdCNEZVRlhEbU13TkdEei1velJidXZyZEd0a2tYLVZvSk9lcFJORWlaeE53WUgyMnJyX014OWtfNVJZcDRHM0ZEb2Zobi1yZ0xyS0FTM0tDYTRVNVkxSjB3Xzl6TWlYU1c4RU1fekdUd0Frc3Q0UTA3c0VPVzJHbFc1VmI2ZlM4?oc=5",
-      "publishedAt": "Sat, 14 Mar 2026 15:10:00 GMT"
-    },
-    {
-      "title": "중동 리스크에 증시 롤러코스터…예탁금 132조→120조 감소·ETF 400조 멈칫",
-      "source": "베타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIbTRSSHNVaG56Tjhwa1I1c0w2bzlWWFBCYl85UmZaT1FKZ0xnX3UtNS1faTdmcWVTbjdndDZEUHBuaVJnOUZkWjctY0EwX05paUo5MjJmR3VRV1YwLUUtUjdyZm8?oc=5",
-      "publishedAt": "Sat, 14 Mar 2026 05:59:38 GMT"
-    },
-    {
-      "title": "중동 전쟁 확전 우려에 뉴욕증시 하락…3대 지수 3주 연속 약세",
-      "source": "위키리크스한국",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IRWZXZzM0R2ctQ3ZnSnZDSnNZd2pCLTBJQ05QUGFKdThtRHhRb1NveUpkSjY0Y1pUcUZVdzJoclpkNllqZFpTZTVhNnRtdFppdFZIWEVtQUhLbkVFN2RRRE1IbGQySDFDNXJ0dWRuaw?oc=5",
-      "publishedAt": "Sat, 14 Mar 2026 02:17:16 GMT"
     }
   ],
   "summary": {
