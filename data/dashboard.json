@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-16T05:59:11.786207+09:00",
-  "updatedLabel": "2026-03-16 05:59:11 KST",
+  "updatedAt": "2026-03-16T06:54:54.477056+09:00",
+  "updatedLabel": "2026-03-16 06:54:54 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1500.91,
+      "price": 1499.99,
       "previousClose": 1488.78,
-      "change": 12.13,
-      "changePercent": 0.8148,
+      "change": 11.21,
+      "changePercent": 0.753,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -2638,8 +2638,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-16 03:13 KST",
-      "marketTimestamp": 1773598412
+      "marketTime": "2026-03-16 06:00 KST",
+      "marketTimestamp": 1773608404
     },
     {
       "id": "us10y",
@@ -3023,10 +3023,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 71747.836,
+      "price": 72054.72,
       "previousClose": 71214.43,
-      "change": 533.406,
-      "changePercent": 0.749,
+      "change": 840.29,
+      "changePercent": 1.1799,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -4036,16 +4036,60 @@
         ],
         [
           1773608100000,
-          71780.171875
+          71759.0625
         ],
         [
-          1773608160000,
-          71747.835938
+          1773608400000,
+          71732.132812
+        ],
+        [
+          1773608700000,
+          71661.328125
+        ],
+        [
+          1773609000000,
+          71652.9375
+        ],
+        [
+          1773609300000,
+          71708.640625
+        ],
+        [
+          1773609600000,
+          71736.945312
+        ],
+        [
+          1773609900000,
+          71775.109375
+        ],
+        [
+          1773610200000,
+          71856.585938
+        ],
+        [
+          1773610500000,
+          72145.289062
+        ],
+        [
+          1773610800000,
+          72111.289062
+        ],
+        [
+          1773611100000,
+          72055.054688
+        ],
+        [
+          1773611400000,
+          72051.929688
+        ],
+        [
+          1773611520000,
+          72054.71875
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-16 05:56 KST",
-      "marketTimestamp": 1773608160
+      "marketTime": "2026-03-16 06:52 KST",
+      "marketTimestamp": 1773611520
     }
   ],
   "mainCharts": [
@@ -5350,6 +5394,18 @@
       "publishedAt": "Sun, 15 Mar 2026 15:04:00 GMT"
     },
     {
+      "title": "유가에 데인 韓증시, 이번주 FOMC·엔비디아 GTC 등 빅 이벤트 대기[주간 증시 전망]",
+      "source": "서울경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IOVFJRjliN2taNXRPWkdXOW42UWREMF9fLTZJeDhEelFYMEsxanhreE1oM0VIUW9IQ29TTEg2TWI4SmlyNGpfdnRBRVNpaERsLVHSAVNBVV95cUxNdmJNczBoZERyQWdXYUpOem0xLWc0c0ZpODk2Y3otTHJ2OThGVFVneVlEV2lWQ2xZeFRVYnh4SjBUZXhBUk91UE9lMlpzQldRTEdJdw?oc=5",
+      "publishedAt": "Sun, 15 Mar 2026 21:40:00 GMT"
+    },
+    {
+      "title": "[주간 증시전망] 유가 급등, 실물경제에 파장 우려",
+      "source": "전북일보 인터넷신문",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Mck5WdXBXb3Jmdk5YakdmWGFfN09fZ3VRM3ZWS2lBbjcxVThmUDE1dm5jRnhESFdsYXFHS2J5bXFOTzNtR3hDbG9GTFlUd2hEZy1OOUJUWHbSAVhBVV95cUxNTHJOVnVwV29yZnZOWGpHZlhhXzdPX2d1UTN2VktpQW43MVU4ZlAxNXZuY0Z4REhXbGFxR0tieW1xTk8zbUd4Q2xvRkxZVHdoRGctTjlCVFh2?oc=5",
+      "publishedAt": "Sun, 15 Mar 2026 09:43:57 GMT"
+    },
+    {
       "title": "'전쟁 공포' 덮친 증시, 냉정한 분할매수로 대응",
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5oQ2VlbDZtU3dkMlN0Y1VCaVQzTnhhM3dQVGNtQXJGSVQxZXAwZXNyLXRKcUdhdnc0elZISGlfdE9pTGNpT3c?oc=5",
@@ -5374,18 +5430,6 @@
       "publishedAt": "Sun, 15 Mar 2026 05:02:56 GMT"
     },
     {
-      "title": "[주간 증시전망] 유가 급등, 실물경제에 파장 우려",
-      "source": "전북일보 인터넷신문",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FZ01rYXROTHJVMUM2T3l4bS1sX3Y1UWMtbGpCM19oMFl6M2d3MVZnbkNibnFQbDl2NDRmNllUUVdMSDgyV1hsQjlIRVNLbHZRSG5FddIBWEFVX3lxTE1Mck5WdXBXb3Jmdk5YakdmWGFfN09fZ3VRM3ZWS2lBbjcxVThmUDE1dm5jRnhESFdsYXFHS2J5bXFOTzNtR3hDbG9GTFlUd2hEZy1OOUJUWHY?oc=5",
-      "publishedAt": "Sun, 15 Mar 2026 09:33:21 GMT"
-    },
-    {
-      "title": "[주간증시] 중동 리스크 속 ‘W자 리테스트’…FOMC·AI가 분수령",
-      "source": "에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIVzBvWHc3eXJKVjhMczF5QkpRN2NLbW9zek41YXFvYnNaOXY5LWpTQjVrWWJsb2tBRVRpZHJPdGJMLUQtMF8yQkYzWDdsa05mTEw0WDlMNGdCX3R0ZFU5MmRPcw?oc=5",
-      "publishedAt": "Sun, 15 Mar 2026 00:58:23 GMT"
-    },
-    {
       "title": "중동 분쟁 격화로 걸프 증시 폭락, 한국 경제 영향 우려",
       "source": "브랜드경제신문",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tNkdSWFRremZxU2NubWNQdUFsVmdpMV9UVUxWMmhaa3NnZWpBSFEyWkMzUUdPMVkwMjdpZ1hBSm5HVG1QNlFRNWlNcnk?oc=5",
@@ -5401,24 +5445,24 @@
     "overview": [
       "국내장은 KOSPI 하락, KOSDAQ 상승 흐름입니다.",
       "해외는 S&P 500 -0.61%, NASDAQ -0.93%로 확인됩니다.",
-      "매크로 변수는 USD/KRW +0.81%, 미 10년물 +0.28%입니다."
+      "매크로 변수는 USD/KRW +0.75%, 미 10년물 +0.28%입니다."
     ],
     "checkpoints": [
       "KOSPI -1.72% 하락",
       "KOSDAQ +0.40% 상승",
       "미국 증시 하락 / 나스닥 -0.93%",
-      "원달러 +0.81% (+12.13)",
+      "원달러 +0.75% (+11.21)",
       "미 10년물 +0.012p (+0.28%)"
     ],
     "leaders": [
       {
-        "label": "USD/KRW",
-        "changePercent": 0.8148,
+        "label": "Bitcoin",
+        "changePercent": 1.1799,
         "direction": "상승"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": 0.749,
+        "label": "USD/KRW",
+        "changePercent": 0.753,
         "direction": "상승"
       },
       {
