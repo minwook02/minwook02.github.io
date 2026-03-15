@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-16T00:47:33.797472+09:00",
-  "updatedLabel": "2026-03-16 00:47:33 KST",
+  "updatedAt": "2026-03-16T02:01:43.018570+09:00",
+  "updatedLabel": "2026-03-16 02:01:43 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3023,10 +3023,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 71496.83,
+      "price": 71431.02,
       "previousClose": 71214.43,
-      "change": 282.4,
-      "changePercent": 0.3965,
+      "change": 216.59,
+      "changePercent": 0.3041,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3788,12 +3788,72 @@
         ],
         [
           1773589500000,
-          71496.828125
+          71518.726562
+        ],
+        [
+          1773589800000,
+          71504.523438
+        ],
+        [
+          1773590100000,
+          71488.0625
+        ],
+        [
+          1773590400000,
+          71509.734375
+        ],
+        [
+          1773590700000,
+          71564.226562
+        ],
+        [
+          1773591000000,
+          71568.390625
+        ],
+        [
+          1773591300000,
+          71387.789062
+        ],
+        [
+          1773591600000,
+          71413.625
+        ],
+        [
+          1773591900000,
+          71392.171875
+        ],
+        [
+          1773592200000,
+          71388.914062
+        ],
+        [
+          1773592500000,
+          71458.992188
+        ],
+        [
+          1773592800000,
+          71462.015625
+        ],
+        [
+          1773593100000,
+          71439.765625
+        ],
+        [
+          1773593400000,
+          71412.953125
+        ],
+        [
+          1773593700000,
+          71430.710938
+        ],
+        [
+          1773593940000,
+          71431.023438
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-16 00:45 KST",
-      "marketTimestamp": 1773589500
+      "marketTime": "2026-03-16 01:59 KST",
+      "marketTimestamp": 1773593940
     }
   ],
   "mainCharts": [
@@ -5092,12 +5152,6 @@
   ],
   "headlines": [
     {
-      "title": "[주간 증시전망] 유가 급등, 실물경제에 파장 우려",
-      "source": "전북일보 인터넷신문",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Mck5WdXBXb3Jmdk5YakdmWGFfN09fZ3VRM3ZWS2lBbjcxVThmUDE1dm5jRnhESFdsYXFHS2J5bXFOTzNtR3hDbG9GTFlUd2hEZy1OOUJUWHbSAVhBVV95cUxNTHJOVnVwV29yZnZOWGpHZlhhXzdPX2d1UTN2VktpQW43MVU4ZlAxNXZuY0Z4REhXbGFxR0tieW1xTk8zbUd4Q2xvRkxZVHdoRGctTjlCVFh2?oc=5",
-      "publishedAt": "Sun, 15 Mar 2026 09:43:57 GMT"
-    },
-    {
       "title": "[김한진의 마켓 나우] 전쟁보다 에너지 체력이 증시를 갈랐다",
       "source": "중앙일보",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yMDZrcHdqYmdWOUNFbmJHQ2NpR1ptS0dSc0tuZ1AtYlJFMzZWRlhORmtySlpLcWxHYmg1LXl4UVpKY2RCaDRhNXI3YmJyUHZ3WURYYmhB?oc=5",
@@ -5126,6 +5180,12 @@
       "source": "글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUJ6Rml2Tm1jZF9GVFcxYXNMTG5YN21qNGg3c1hwaGpUYzAtTl9IYy1wY2JoVF9UdHJoU0JINWlzRkhqWTI5eTliT1U4elZCWUpOOHlWblZKUndKYVdxczd2ZFFYTWhXUFBJdGdLSG54RXdiWkJub0hBaEhkdnh1S0ZTd0JudFU2?oc=5",
       "publishedAt": "Sun, 15 Mar 2026 05:02:56 GMT"
+    },
+    {
+      "title": "[주간 증시전망] 유가 급등, 실물경제에 파장 우려",
+      "source": "전북일보 인터넷신문",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FZ01rYXROTHJVMUM2T3l4bS1sX3Y1UWMtbGpCM19oMFl6M2d3MVZnbkNibnFQbDl2NDRmNllUUVdMSDgyV1hsQjlIRVNLbHZRSG5FddIBWEFVX3lxTE1Mck5WdXBXb3Jmdk5YakdmWGFfN09fZ3VRM3ZWS2lBbjcxVThmUDE1dm5jRnhESFdsYXFHS2J5bXFOTzNtR3hDbG9GTFlUd2hEZy1OOUJUWHY?oc=5",
+      "publishedAt": "Sun, 15 Mar 2026 09:33:21 GMT"
     },
     {
       "title": "국내 증시 충격 줄었지만…국제유가 불안에 긴장",
