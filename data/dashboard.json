@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-15T20:01:37.914969+09:00",
-  "updatedLabel": "2026-03-15 20:01:37 KST",
+  "updatedAt": "2026-03-15T20:58:41.827996+09:00",
+  "updatedLabel": "2026-03-15 20:58:41 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3027,10 +3027,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 71790.0,
+      "price": 71865.07,
       "previousClose": 71214.43,
-      "change": 575.57,
-      "changePercent": 0.8082,
+      "change": 650.64,
+      "changePercent": 0.9136,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3560,16 +3560,60 @@
         ],
         [
           1773572100000,
-          71798.507812
+          71790.0
         ],
         [
-          1773572340000,
-          71790.0
+          1773572400000,
+          71775.664062
+        ],
+        [
+          1773572700000,
+          71731.835938
+        ],
+        [
+          1773573000000,
+          71705.976562
+        ],
+        [
+          1773573300000,
+          71768.015625
+        ],
+        [
+          1773573600000,
+          71767.5625
+        ],
+        [
+          1773573900000,
+          71696.5
+        ],
+        [
+          1773574200000,
+          71735.039062
+        ],
+        [
+          1773574500000,
+          71701.257812
+        ],
+        [
+          1773574800000,
+          71680.585938
+        ],
+        [
+          1773575100000,
+          71814.257812
+        ],
+        [
+          1773575400000,
+          71857.890625
+        ],
+        [
+          1773575760000,
+          71865.070312
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-15 19:59 KST",
-      "marketTimestamp": 1773572340
+      "marketTime": "2026-03-15 20:56 KST",
+      "marketTimestamp": 1773575760
     }
   ],
   "mainCharts": [
@@ -4874,6 +4918,12 @@
       "publishedAt": "Sun, 15 Mar 2026 09:03:18 GMT"
     },
     {
+      "title": "'전쟁 공포' 덮친 증시, 냉정한 분할매수로 대응",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tZ1ZEVzI4N2toX19ubERVeVpSV1B6WUFkd0pwM2FCNkJGRVZjdEx6M0JhdWpVQXBhN1hxcFNVRGxkNXIwZzNpSWE3dENOczQ?oc=5",
+      "publishedAt": "Sun, 15 Mar 2026 08:23:02 GMT"
+    },
+    {
       "title": "기초체력 약한 韓경제…원화가치 유독 하락-증시도 민감하게 반응",
       "source": "동아일보",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LYTY2bXBnU3hPdWtqVGY2LTEwQnI0TmVJUThuVG1lTFd0M1FNckV1WURtQS1VcmtUZDlzS1ZzRm5KU0JoWS1waThWZlNZN2p0RWFTM1Fpb2paamYydVpkRXk3MFlSYVUzTWYzTTZhUmpTa2F2eWfSAWZBVV95cUxObHVPbzVlb3VLY0tIdXVRQ3lpS1huS3E5cHNnTGs4d3ZxalJldkpzZGxQZENMQTEzekY3dEJGQ05mWGViUHA4QVBrMmdHRnlVY1pGUWZGcHdGYko2NkwzTmJGbWswT2c?oc=5",
@@ -4902,12 +4952,6 @@
       "source": "에너지경제신문",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIVzBvWHc3eXJKVjhMczF5QkpRN2NLbW9zek41YXFvYnNaOXY5LWpTQjVrWWJsb2tBRVRpZHJPdGJMLUQtMF8yQkYzWDdsa05mTEw0WDlMNGdCX3R0ZFU5MmRPcw?oc=5",
       "publishedAt": "Sun, 15 Mar 2026 00:58:23 GMT"
-    },
-    {
-      "title": "‘이란의 역린’ 하르그섬 때린 트럼프…다음주 증시 변동성 또 치솟나",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SM1MxQ3hSVWlVWVZPNC1jTzJLcnJrQ0tZR1h4ZHg0S2l4NnlYWjY2YmRCaWgxMGoyM1QwT0J5RVh6cGdhMU9EXzJ0Yw?oc=5",
-      "publishedAt": "Sun, 15 Mar 2026 02:27:00 GMT"
     },
     {
       "title": "[이번주 증시] 대형 이벤트 즐비...변동성 확대 가능성 열어둬야",
@@ -4942,7 +4986,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.8082,
+        "changePercent": 0.9136,
         "direction": "상승"
       },
       {
