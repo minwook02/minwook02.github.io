@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-15T18:52:04.529919+09:00",
-  "updatedLabel": "2026-03-15 18:52:04 KST",
+  "updatedAt": "2026-03-15T20:01:37.914969+09:00",
+  "updatedLabel": "2026-03-15 20:01:37 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3027,10 +3027,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 71734.3,
+      "price": 71790.0,
       "previousClose": 71214.43,
-      "change": 519.87,
-      "changePercent": 0.73,
+      "change": 575.57,
+      "changePercent": 0.8082,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3504,16 +3504,72 @@
         ],
         [
           1773567900000,
-          71769.242188
+          71734.296875
         ],
         [
-          1773568140000,
-          71734.296875
+          1773568200000,
+          71792.273438
+        ],
+        [
+          1773568500000,
+          71810.914062
+        ],
+        [
+          1773568800000,
+          71805.820312
+        ],
+        [
+          1773569100000,
+          71753.695312
+        ],
+        [
+          1773569400000,
+          71797.140625
+        ],
+        [
+          1773569700000,
+          71840.632812
+        ],
+        [
+          1773570000000,
+          71850.804688
+        ],
+        [
+          1773570300000,
+          71852.25
+        ],
+        [
+          1773570600000,
+          71828.945312
+        ],
+        [
+          1773570900000,
+          71797.617188
+        ],
+        [
+          1773571200000,
+          71822.609375
+        ],
+        [
+          1773571500000,
+          71809.320312
+        ],
+        [
+          1773571800000,
+          71817.71875
+        ],
+        [
+          1773572100000,
+          71798.507812
+        ],
+        [
+          1773572340000,
+          71790.0
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-15 18:49 KST",
-      "marketTimestamp": 1773568140
+      "marketTime": "2026-03-15 19:59 KST",
+      "marketTimestamp": 1773572340
     }
   ],
   "mainCharts": [
@@ -4812,16 +4868,10 @@
   ],
   "headlines": [
     {
-      "title": "'전쟁 공포' 덮친 증시, 냉정한 분할매수로 대응",
+      "title": "마이클 버리의 '韓 증시 종말론' 가능성은 희박 [한상춘의 국제경제 읽기]",
       "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TV25BZ01LNXNoUl80YVhFTEFwQW9SNDNrTnVfNnBvQ0FaTDQxWGNHUzdVbldiQkgtOHl6VVBWeEVlemQwY1lYYUlaRGN2UWFaNEtaVG1vSU9DQdIBVEFVX3lxTE9VTE1FU0c2bEMtV0lwU1FIdzhzdWtNbXlsSDJfUVczQXpNUlAwWTRUWFFRY3EyY09uV2FXd1VGOV9UOHQxczRrdm9rakt4cWYxbUdFbQ?oc=5",
-      "publishedAt": "Sun, 15 Mar 2026 08:20:13 GMT"
-    },
-    {
-      "title": "1분기 증시 일평균 거래대금 '70조 시대' 개막…증권사 '역대급 분기 실적' 예고",
-      "source": "글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUJ6Rml2Tm1jZF9GVFcxYXNMTG5YN21qNGg3c1hwaGpUYzAtTl9IYy1wY2JoVF9UdHJoU0JINWlzRkhqWTI5eTliT1U4elZCWUpOOHlWblZKUndKYVdxczd2ZFFYTWhXUFBJdGdLSG54RXdiWkJub0hBaEhkdnh1S0ZTd0JudFU2?oc=5",
-      "publishedAt": "Sun, 15 Mar 2026 05:02:56 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aZVFLeWN4cmlLUVlvbW10SEltRGVSMk9nT2FDdkVxSWlNdkU0eVNhTnZZaF9YalJHLVVjVnVKMGZKdmFRQXRyY09RVmpmOUNlVlBoMdIBVEFVX3lxTE1aZVFLeWN4cmlLUVlvbW10SEltRGVSMk9nT2FDdkVxSWlNdkU0eVNhTnZZaF9YalJHLVVjVnVKMGZKdmFRQXRyY09RVmpmOUNlVlBoMQ?oc=5",
+      "publishedAt": "Sun, 15 Mar 2026 09:03:18 GMT"
     },
     {
       "title": "기초체력 약한 韓경제…원화가치 유독 하락-증시도 민감하게 반응",
@@ -4830,16 +4880,22 @@
       "publishedAt": "Sun, 15 Mar 2026 08:40:14 GMT"
     },
     {
+      "title": "1분기 증시 일평균 거래대금 '70조 시대' 개막…증권사 '역대급 분기 실적' 예고",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUJ6Rml2Tm1jZF9GVFcxYXNMTG5YN21qNGg3c1hwaGpUYzAtTl9IYy1wY2JoVF9UdHJoU0JINWlzRkhqWTI5eTliT1U4elZCWUpOOHlWblZKUndKYVdxczd2ZFFYTWhXUFBJdGdLSG54RXdiWkJub0hBaEhkdnh1S0ZTd0JudFU2?oc=5",
+      "publishedAt": "Sun, 15 Mar 2026 05:02:56 GMT"
+    },
+    {
+      "title": "[주간 증시전망] 유가 급등, 실물경제에 파장 우려",
+      "source": "전북일보 인터넷신문",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FZ01rYXROTHJVMUM2T3l4bS1sX3Y1UWMtbGpCM19oMFl6M2d3MVZnbkNibnFQbDl2NDRmNllUUVdMSDgyV1hsQjlIRVNLbHZRSG5FddIBWEFVX3lxTE1Mck5WdXBXb3Jmdk5YakdmWGFfN09fZ3VRM3ZWS2lBbjcxVThmUDE1dm5jRnhESFdsYXFHS2J5bXFOTzNtR3hDbG9GTFlUd2hEZy1OOUJUWHY?oc=5",
+      "publishedAt": "Sun, 15 Mar 2026 09:33:21 GMT"
+    },
+    {
       "title": "국내 증시 충격 줄었지만…국제유가 불안에 긴장",
       "source": "MTN 머니투데이방송",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zcF9HX2gwbHBLcWhrYjE2aHJMZjBMQWk3WGRsMjhNaDlDcFBiV2RoZmpLWTZHVHdQYlJCeHE1NzU1bTQtdnl6WHhLbkx1aHF4anYyWGlScElQRHhOdDJZZV8wc0I?oc=5",
       "publishedAt": "Sat, 14 Mar 2026 21:02:01 GMT"
-    },
-    {
-      "title": "‘이란의 역린’ 하르그섬 때린 트럼프…다음주 증시 변동성 또 치솟나",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SM1MxQ3hSVWlVWVZPNC1jTzJLcnJrQ0tZR1h4ZHg0S2l4NnlYWjY2YmRCaWgxMGoyM1QwT0J5RVh6cGdhMU9EXzJ0Yw?oc=5",
-      "publishedAt": "Sun, 15 Mar 2026 02:27:00 GMT"
     },
     {
       "title": "[주간증시] 중동 리스크 속 ‘W자 리테스트’…FOMC·AI가 분수령",
@@ -4848,16 +4904,16 @@
       "publishedAt": "Sun, 15 Mar 2026 00:58:23 GMT"
     },
     {
-      "title": "마이클 버리의 '韓 증시 종말론' 가능성은 희박 [한상춘의 국제경제 읽기]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yRXBKTWRSWjBoeG5pYi1DR2xvOWJGM0V0S1BIZzNYOW9BWi1leDRCYXhMRDVEOW9ReFh2QzdEdmc3UGtjNUp3d29MNGFFQkNESWgw?oc=5",
-      "publishedAt": "Sun, 15 Mar 2026 09:04:00 GMT"
+      "title": "‘이란의 역린’ 하르그섬 때린 트럼프…다음주 증시 변동성 또 치솟나",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SM1MxQ3hSVWlVWVZPNC1jTzJLcnJrQ0tZR1h4ZHg0S2l4NnlYWjY2YmRCaWgxMGoyM1QwT0J5RVh6cGdhMU9EXzJ0Yw?oc=5",
+      "publishedAt": "Sun, 15 Mar 2026 02:27:00 GMT"
     },
     {
-      "title": "멀미 장세 지속?…美연준 FOMC·주총시즌에 증시 향방은",
-      "source": "mt.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11eEYtQktpdmJoWWNyUW9PV3VEWDNtRFMxbFc2a1ZvUlctZmZGa0JRYTZDUXBsSnpaVDZFMnJ1dC0ySU81VjBoQy02ZEdyc3FHX1FENlFtejlTck56UmF0bHJzeDNfdi1qa3ZtN3FB?oc=5",
-      "publishedAt": "Sun, 15 Mar 2026 05:16:30 GMT"
+      "title": "[이번주 증시] 대형 이벤트 즐비...변동성 확대 가능성 열어둬야",
+      "source": "오피니언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KZHl6RVp4YjhydktELWktU203UXpadG5pUzlIWndjXzVsZFd5M1VhV0FtTXp4NHEtMS1sQUhYOG9vN0k0aXpvaGZPOVpUbjNnN0hIN3ZLQ1hWc1E3THBxRGkwUndVMW9sY2VUNDRjQ1ljZw?oc=5",
+      "publishedAt": "Sun, 15 Mar 2026 01:33:34 GMT"
     }
   ],
   "summary": {
@@ -4886,7 +4942,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.73,
+        "changePercent": 0.8082,
         "direction": "상승"
       },
       {
