@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-16T02:01:43.018570+09:00",
-  "updatedLabel": "2026-03-16 02:01:43 KST",
+  "updatedAt": "2026-03-16T03:02:28.852029+09:00",
+  "updatedLabel": "2026-03-16 03:02:28 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -972,9 +972,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 22105.36,
-      "previousClose": 22311.98,
-      "change": -206.62,
-      "changePercent": -0.926,
+      "previousClose": 22312.0,
+      "change": -206.64,
+      "changePercent": -0.9261,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -1307,9 +1307,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 46558.47,
-      "previousClose": 46677.85,
-      "change": -119.38,
-      "changePercent": -0.2558,
+      "previousClose": 46677.9,
+      "change": -119.43,
+      "changePercent": -0.2559,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1497.53,
+      "price": 1499.99,
       "previousClose": 1488.78,
-      "change": 8.75,
-      "changePercent": 0.5877,
+      "change": 11.21,
+      "changePercent": 0.753,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -2631,15 +2631,11 @@
         [
           1773433500000,
           1497.530029
-        ],
-        [
-          1773435000000,
-          1497.530029
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-16 00:17 KST",
-      "marketTimestamp": 1773587824
+      "marketTime": "2026-03-16 03:01 KST",
+      "marketTimestamp": 1773597705
     },
     {
       "id": "us10y",
@@ -3023,10 +3019,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 71431.02,
+      "price": 71828.26,
       "previousClose": 71214.43,
-      "change": 216.59,
-      "changePercent": 0.3041,
+      "change": 613.83,
+      "changePercent": 0.8619,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3844,16 +3840,64 @@
         ],
         [
           1773593700000,
-          71430.710938
+          71431.023438
         ],
         [
-          1773593940000,
-          71431.023438
+          1773594000000,
+          71464.820312
+        ],
+        [
+          1773594300000,
+          71507.398438
+        ],
+        [
+          1773594600000,
+          71492.0
+        ],
+        [
+          1773594900000,
+          71477.921875
+        ],
+        [
+          1773595200000,
+          71511.125
+        ],
+        [
+          1773595500000,
+          71518.507812
+        ],
+        [
+          1773595800000,
+          71509.671875
+        ],
+        [
+          1773596100000,
+          71518.039062
+        ],
+        [
+          1773596400000,
+          71539.195312
+        ],
+        [
+          1773596700000,
+          71554.898438
+        ],
+        [
+          1773597000000,
+          71884.804688
+        ],
+        [
+          1773597300000,
+          71828.257812
+        ],
+        [
+          1773597540000,
+          71828.257812
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-16 01:59 KST",
-      "marketTimestamp": 1773593940
+      "marketTime": "2026-03-16 02:59 KST",
+      "marketTimestamp": 1773597540
     }
   ],
   "mainCharts": [
@@ -4822,9 +4866,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 22105.36,
-      "previousClose": 22311.98,
-      "change": -206.62,
-      "changePercent": -0.926,
+      "previousClose": 22312.0,
+      "change": -206.64,
+      "changePercent": -0.9261,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5152,22 +5196,28 @@
   ],
   "headlines": [
     {
+      "title": "마이클 버리의 '韓 증시 종말론' 가능성은 희박 [한상춘의 국제경제 읽기]",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLVjl5XzE5SXJBNDhtNlV0LUY1WE1Ed2hxZjdZc2FDbmFRdEJtTVJNMzR0Y21SWXJGclhhazBtWHpIOWU0LWJiYnYySklhb0xMZzJBdg?oc=5",
+      "publishedAt": "Sun, 15 Mar 2026 09:06:02 GMT"
+    },
+    {
       "title": "[김한진의 마켓 나우] 전쟁보다 에너지 체력이 증시를 갈랐다",
       "source": "중앙일보",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yMDZrcHdqYmdWOUNFbmJHQ2NpR1ptS0dSc0tuZ1AtYlJFMzZWRlhORmtySlpLcWxHYmg1LXl4UVpKY2RCaDRhNXI3YmJyUHZ3WURYYmhB?oc=5",
       "publishedAt": "Sun, 15 Mar 2026 15:04:00 GMT"
     },
     {
-      "title": "마이클 버리의 '韓 증시 종말론' 가능성은 희박 [한상춘의 국제경제 읽기]",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aZVFLeWN4cmlLUVlvbW10SEltRGVSMk9nT2FDdkVxSWlNdkU0eVNhTnZZaF9YalJHLVVjVnVKMGZKdmFRQXRyY09RVmpmOUNlVlBoMdIBVEFVX3lxTE1aZVFLeWN4cmlLUVlvbW10SEltRGVSMk9nT2FDdkVxSWlNdkU0eVNhTnZZaF9YalJHLVVjVnVKMGZKdmFRQXRyY09RVmpmOUNlVlBoMQ?oc=5",
-      "publishedAt": "Sun, 15 Mar 2026 09:03:18 GMT"
+      "title": "[주간 증시전망] 유가 급등, 실물경제에 파장 우려",
+      "source": "전북일보 인터넷신문",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Mck5WdXBXb3Jmdk5YakdmWGFfN09fZ3VRM3ZWS2lBbjcxVThmUDE1dm5jRnhESFdsYXFHS2J5bXFOTzNtR3hDbG9GTFlUd2hEZy1OOUJUWHbSAVhBVV95cUxNTHJOVnVwV29yZnZOWGpHZlhhXzdPX2d1UTN2VktpQW43MVU4ZlAxNXZuY0Z4REhXbGFxR0tieW1xTk8zbUd4Q2xvRkxZVHdoRGctTjlCVFh2?oc=5",
+      "publishedAt": "Sun, 15 Mar 2026 09:43:57 GMT"
     },
     {
-      "title": "'전쟁 공포' 덮친 증시, 냉정한 분할매수로 대응",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5oQ2VlbDZtU3dkMlN0Y1VCaVQzTnhhM3dQVGNtQXJGSVQxZXAwZXNyLXRKcUdhdnc0elZISGlfdE9pTGNpT3c?oc=5",
-      "publishedAt": "Sun, 15 Mar 2026 08:23:02 GMT"
+      "title": "양지환 대신증권 센터장 \"전쟁 공포가 만든 저점, 코스피 7500 시대의 서막\"",
+      "source": "마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wTWxPV2VrUmJMajl4TVRYTzZKdXhfaGhqYng0MjVLQVVIVEFxYllGZHRmOW9WMEdWQlBoX3BPN1lqQkZ3YThXNzR5bTBNQVZ3S1pJWmczMnZneUpvS2ZONHR2M0ptX2hMeHRfeTAtSnhjU1k?oc=5",
+      "publishedAt": "Sun, 15 Mar 2026 11:37:29 GMT"
     },
     {
       "title": "기초체력 약한 韓경제…원화가치 유독 ‘뚝’-증시도 롤러코스터",
@@ -5182,22 +5232,16 @@
       "publishedAt": "Sun, 15 Mar 2026 05:02:56 GMT"
     },
     {
-      "title": "[주간 증시전망] 유가 급등, 실물경제에 파장 우려",
-      "source": "전북일보 인터넷신문",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FZ01rYXROTHJVMUM2T3l4bS1sX3Y1UWMtbGpCM19oMFl6M2d3MVZnbkNibnFQbDl2NDRmNllUUVdMSDgyV1hsQjlIRVNLbHZRSG5FddIBWEFVX3lxTE1Mck5WdXBXb3Jmdk5YakdmWGFfN09fZ3VRM3ZWS2lBbjcxVThmUDE1dm5jRnhESFdsYXFHS2J5bXFOTzNtR3hDbG9GTFlUd2hEZy1OOUJUWHY?oc=5",
-      "publishedAt": "Sun, 15 Mar 2026 09:33:21 GMT"
+      "title": "[주간증시] 중동 리스크 속 ‘W자 리테스트’…FOMC·AI가 분수령",
+      "source": "에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIVzBvWHc3eXJKVjhMczF5QkpRN2NLbW9zek41YXFvYnNaOXY5LWpTQjVrWWJsb2tBRVRpZHJPdGJMLUQtMF8yQkYzWDdsa05mTEw0WDlMNGdCX3R0ZFU5MmRPcw?oc=5",
+      "publishedAt": "Sun, 15 Mar 2026 00:58:23 GMT"
     },
     {
       "title": "국내 증시 충격 줄었지만…국제유가 불안에 긴장",
       "source": "MTN 머니투데이방송",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zcF9HX2gwbHBLcWhrYjE2aHJMZjBMQWk3WGRsMjhNaDlDcFBiV2RoZmpLWTZHVHdQYlJCeHE1NzU1bTQtdnl6WHhLbkx1aHF4anYyWGlScElQRHhOdDJZZV8wc0I?oc=5",
       "publishedAt": "Sat, 14 Mar 2026 21:02:01 GMT"
-    },
-    {
-      "title": "[주간증시] 중동 리스크 속 ‘W자 리테스트’…FOMC·AI가 분수령",
-      "source": "에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIVzBvWHc3eXJKVjhMczF5QkpRN2NLbW9zek41YXFvYnNaOXY5LWpTQjVrWWJsb2tBRVRpZHJPdGJMLUQtMF8yQkYzWDdsa05mTEw0WDlMNGdCX3R0ZFU5MmRPcw?oc=5",
-      "publishedAt": "Sun, 15 Mar 2026 00:58:23 GMT"
     }
   ],
   "summary": {
@@ -5209,13 +5253,13 @@
     "overview": [
       "국내장은 KOSPI 하락, KOSDAQ 상승 흐름입니다.",
       "해외는 S&P 500 -0.61%, NASDAQ -0.93%로 확인됩니다.",
-      "매크로 변수는 USD/KRW +0.59%, 미 10년물 +0.28%입니다."
+      "매크로 변수는 USD/KRW +0.75%, 미 10년물 +0.28%입니다."
     ],
     "checkpoints": [
       "KOSPI -1.72% 하락",
       "KOSDAQ +0.40% 상승",
       "미국 증시 하락 / 나스닥 -0.93%",
-      "원달러 +0.59% (+8.75)",
+      "원달러 +0.75% (+11.21)",
       "미 10년물 +0.012p (+0.28%)"
     ],
     "leaders": [
@@ -5225,13 +5269,13 @@
         "direction": "상승"
       },
       {
-        "label": "USD/KRW",
-        "changePercent": 0.5877,
+        "label": "Bitcoin",
+        "changePercent": 0.8619,
         "direction": "상승"
       },
       {
-        "label": "KOSDAQ",
-        "changePercent": 0.3971,
+        "label": "USD/KRW",
+        "changePercent": 0.753,
         "direction": "상승"
       }
     ],
@@ -5248,7 +5292,7 @@
       },
       {
         "label": "NASDAQ",
-        "changePercent": -0.926,
+        "changePercent": -0.9261,
         "direction": "하락"
       }
     ]
