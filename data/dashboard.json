@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-22T04:04:03.939730+09:00",
-  "updatedLabel": "2026-03-22 04:04:03 KST",
+  "updatedAt": "2026-03-22T04:55:12.500568+09:00",
+  "updatedLabel": "2026-03-22 04:55:12 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4637,10 +4637,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 70393.0,
+      "price": 70339.836,
       "previousClose": 70517.62,
-      "change": -124.62,
-      "changePercent": -0.1767,
+      "change": -177.784,
+      "changePercent": -0.2521,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5558,16 +5558,56 @@
         ],
         [
           1774119600000,
-          70389.640625
+          70410.242188
         ],
         [
-          1774119660000,
-          70393.0
+          1774119900000,
+          70419.320312
+        ],
+        [
+          1774120200000,
+          70417.625
+        ],
+        [
+          1774120500000,
+          70416.695312
+        ],
+        [
+          1774120800000,
+          70427.023438
+        ],
+        [
+          1774121100000,
+          70426.296875
+        ],
+        [
+          1774121400000,
+          70367.921875
+        ],
+        [
+          1774121700000,
+          70346.773438
+        ],
+        [
+          1774122000000,
+          70328.898438
+        ],
+        [
+          1774122300000,
+          70344.070312
+        ],
+        [
+          1774122600000,
+          70349.226562
+        ],
+        [
+          1774122720000,
+          70339.835938
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-22 04:01 KST",
-      "marketTimestamp": 1774119660
+      "marketTime": "2026-03-22 04:52 KST",
+      "marketTimestamp": 1774122720
     }
   ],
   "mainCharts": [
@@ -6896,22 +6936,22 @@
       "publishedAt": "Sat, 21 Mar 2026 01:37:07 GMT"
     },
     {
-      "title": "“미국 금리인하 기대 소멸”…원·달러 환율 1500원대 재진입",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxZHowcGRsM1hXRHp3NWNUOEU0U1F3TkJEU1laWjQtMTRlSGo3djlNei1YM1RFVGR6NVRpWTMtUHk4VU9TVEk3Sm1nT2w2eXpESlE?oc=5",
-      "publishedAt": "Sat, 21 Mar 2026 02:08:48 GMT"
-    },
-    {
       "title": "아증시 일제 하락에도 코스피는 0.31% 상승 마감 By 시티타임스 CityTimes",
       "source": "Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RTTFzMHYyN0NYNDRPTFl1YjFha2VodUlzZDhWSEFVRHUtQm1qOE9SbFJnek1sWEtBcThFQ3N5NnQwN3hKY0FpTDB3RktKa05wdVQ5VlBaNGQtV0Z3VmxZdHdUYjQ?oc=5",
       "publishedAt": "Sat, 21 Mar 2026 01:11:00 GMT"
     },
     {
-      "title": "전쟁 충격 속 증시의 숨은 변화 – 왜 지금 중소형주가",
-      "source": "브런치",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1pZVZVZzZOYUpfR3ZWMnRFdnFjdUtMZ2JYa3loTWpIRkdkbXNmdkpKZ2ZtU3AxSGREV1VYMnNMb1BaNWxSVE13?oc=5",
-      "publishedAt": "Sat, 21 Mar 2026 09:58:44 GMT"
+      "title": "“미국 금리인하 기대 소멸”…원·달러 환율 1500원대 재진입",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxZHowcGRsM1hXRHp3NWNUOEU0U1F3TkJEU1laWjQtMTRlSGo3djlNei1YM1RFVGR6NVRpWTMtUHk4VU9TVEk3Sm1nT2w2eXpESlE?oc=5",
+      "publishedAt": "Sat, 21 Mar 2026 02:08:48 GMT"
+    },
+    {
+      "title": "한국은행, 7연속 금리 동결 전망…“유가·환율 부담”",
+      "source": "서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QMG1sblNJLXlwWkhla0FpbkEzelFGN1U4alQyYm5EMkhJUElrTTVxYTFTckV3c25jdzE4RmFielJzOWF0NnRFNFNzYXpWNmFucklWODhUVGp3UjNPd245TUZhdUo?oc=5",
+      "publishedAt": "Fri, 20 Mar 2026 23:00:09 GMT"
     }
   ],
   "summary": {
