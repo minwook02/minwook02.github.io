@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-22T06:50:23.768445+09:00",
-  "updatedLabel": "2026-03-22 06:50:23 KST",
+  "updatedAt": "2026-03-22T07:55:04.437610+09:00",
+  "updatedLabel": "2026-03-22 07:55:04 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3788,7 +3788,7 @@
         ],
         [
           1774040100000,
-          98.230003
+          98.089996
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4623,7 +4623,7 @@
         ],
         [
           1774040100000,
-          4492.0
+          4496.299805
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4637,16 +4637,16 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 70339.9,
+      "price": 70283.664,
       "previousClose": 70517.62,
-      "change": -177.72,
-      "changePercent": -0.252,
+      "change": -233.956,
+      "changePercent": -0.3318,
       "tone": "down",
       "direction": "하락",
       "series": [
         [
           1774051200000,
-          70544.125
+          70542.953125
         ],
         [
           1774051500000,
@@ -5690,16 +5690,68 @@
         ],
         [
           1774129500000,
-          70349.773438
+          70358.265625
         ],
         [
-          1774129620000,
-          70339.898438
+          1774129800000,
+          70288.9375
+        ],
+        [
+          1774130100000,
+          70346.492188
+        ],
+        [
+          1774130400000,
+          70270.539062
+        ],
+        [
+          1774130700000,
+          70308.015625
+        ],
+        [
+          1774131000000,
+          70299.820312
+        ],
+        [
+          1774131300000,
+          70316.90625
+        ],
+        [
+          1774131600000,
+          70293.34375
+        ],
+        [
+          1774131900000,
+          70273.851562
+        ],
+        [
+          1774132200000,
+          70315.125
+        ],
+        [
+          1774132500000,
+          70356.867188
+        ],
+        [
+          1774132800000,
+          70332.640625
+        ],
+        [
+          1774133100000,
+          70288.226562
+        ],
+        [
+          1774133400000,
+          70285.203125
+        ],
+        [
+          1774133520000,
+          70283.664062
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-22 06:47 KST",
-      "marketTimestamp": 1774129620
+      "marketTime": "2026-03-22 07:52 KST",
+      "marketTimestamp": 1774133520
     }
   ],
   "mainCharts": [
@@ -6998,6 +7050,18 @@
   ],
   "headlines": [
     {
+      "title": "韓증시에 드리운 '버블' 그림자…곳곳서 나오는 증시과열 경고음",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oNC13ckpnSWlnVG9jWHB4ZjY5bE5QcXl6bUVLRWt5MzZSSWtOekxLVE1ia3lnUG5KX0czSHFLZnlEVWpJbXNtYVhtbWVHTHZXR0dlN0N3SDRnWDTSAWBBVV95cUxPUWhGczRxUU85MHJlWndwVExGTkFNZG9EVHptcmxzWFRvOXJsd0Z4aGs5aTY2amhFaF8wOHU5alpMakx4V2lJV0EzbjNlMVpBVlZZRThTbDJhZnBkbXJiUGQ?oc=5",
+      "publishedAt": "Sat, 21 Mar 2026 22:20:37 GMT"
+    },
+    {
+      "title": "[주간증시전망] 본격적인 주총 시즌… 전쟁 4주차 美 ‘출구전략’도 주목 - 조선비즈",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjNzcWYzUjRJZ3FHSXZlOE9jeWtNZVZDQl8zWFUwUDBocE9fM29DN00wT2VzN2NYaGlKdHdKWFVWV0tadGw0cl9KQnJ2UXFaRzRSLTdrZmJqUDlySjBQeUdON1MtZWFsejZNaXRyZ1o1OXB1dmQ4OENLU2J0eURSUXNWZUNBTG5i0gGcAUFVX3lxTE9SbW5aLWpjdGM1Ri1ob2xuRHBmZWx5VEE2d1ZQbDZaWUdCNDRsbVRLVVdhajBXLUdEdEc4VnZPZmxoZ1Q5OGNOc2dQT1pNYVF2UnktOUpoWVd6cUh4WEk1eVdkSU91M056MFQwUjRIdk9yeVVCZUZMNG5iLVE1ZzNsWWdNUHhiaHNDcVpoOGFaUVgtTmExY3Y1RHJBTw?oc=5",
+      "publishedAt": "Sat, 21 Mar 2026 21:00:00 GMT"
+    },
+    {
       "title": "미국증시 전망 : 추가 하락 후 기술적 반등 예상",
       "source": "네이버 프리미엄콘텐츠",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaHlzYWJJVlBVd3RVOU5OYnR4RU9LV1YxazBocjQ3X1pXamtZMUIwWC02bkVadVhiMm5YakZpODlWRnFYdTNtYnZYbkFEV19LbEVNWGlXQVZrMDkwRzhuNkJXdFdzNWIxRUItdHVKMHo3R1VEQ18yLVVCRkhLOXN3RHAzZw?oc=5",
@@ -7008,12 +7072,6 @@
       "source": "시사저널e",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HVEhwWTFjd3h1OXNNOUIzbUl0allmMHM5OVQ2aGNyZTZoLWNiVG1jaEZFaXJtOW5HcWJ1WnNyUlk3V3VMZGZvdGxRcW1ZR3dQcmwtVGNKbUpsUklPdHlWOS1kMTltTk5VWUk2VkI1Slo5ZnBOMWfSAXZBVV95cUxPR1RIcFkxY3d4dTlzTTlCM21JdGpZZjBzOTlUNmhjcmU2aC1jYlRtY2hGRWlybTluR3FidVpzclJZN1d1TGRmb3RsUXFtWUd3UHJsLVRjSm1KbFJJT3R5VjktZDE5bU5OVVlJNlZCNUpaOWZwTjFn?oc=5",
       "publishedAt": "Sat, 21 Mar 2026 02:54:26 GMT"
-    },
-    {
-      "title": "[주간증시전망] 본격적인 주총 시즌… 전쟁 4주차 美 ‘출구전략’도 주목 - 조선비즈",
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjNzcWYzUjRJZ3FHSXZlOE9jeWtNZVZDQl8zWFUwUDBocE9fM29DN00wT2VzN2NYaGlKdHdKWFVWV0tadGw0cl9KQnJ2UXFaRzRSLTdrZmJqUDlySjBQeUdON1MtZWFsejZNaXRyZ1o1OXB1dmQ4OENLU2J0eURSUXNWZUNBTG5i0gGcAUFVX3lxTE9SbW5aLWpjdGM1Ri1ob2xuRHBmZWx5VEE2d1ZQbDZaWUdCNDRsbVRLVVdhajBXLUdEdEc4VnZPZmxoZ1Q5OGNOc2dQT1pNYVF2UnktOUpoWVd6cUh4WEk1eVdkSU91M056MFQwUjRIdk9yeVVCZUZMNG5iLVE1ZzNsWWdNUHhiaHNDcVpoOGFaUVgtTmExY3Y1RHJBTw?oc=5",
-      "publishedAt": "Sat, 21 Mar 2026 21:00:00 GMT"
     },
     {
       "title": "1501.0원, 1500.6원… 환율 1500원 정말 ‘뉴노멀’ 됐나 [주간 증시해설서]",
@@ -7034,16 +7092,10 @@
       "publishedAt": "Sat, 21 Mar 2026 01:37:07 GMT"
     },
     {
-      "title": "“미국 금리인하 기대 소멸”…원·달러 환율 1500원대 재진입",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxZHowcGRsM1hXRHp3NWNUOEU0U1F3TkJEU1laWjQtMTRlSGo3djlNei1YM1RFVGR6NVRpWTMtUHk4VU9TVEk3Sm1nT2w2eXpESlE?oc=5",
-      "publishedAt": "Sat, 21 Mar 2026 02:08:48 GMT"
-    },
-    {
-      "title": "전쟁 충격 속 증시의 숨은 변화 – 왜 지금 중소형주가",
-      "source": "브런치",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1pZVZVZzZOYUpfR3ZWMnRFdnFjdUtMZ2JYa3loTWpIRkdkbXNmdkpKZ2ZtU3AxSGREV1VYMnNMb1BaNWxSVE13?oc=5",
-      "publishedAt": "Sat, 21 Mar 2026 09:58:44 GMT"
+      "title": "[마켓인사이트] 트럼프, 결국 확전 택할까…또다시 치솟는 변동성",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rZFdBU2dhMWVJeUNnS1IzaHp2N3ZfU3BWRnlVU3FjTmczTHhwWnlnQ1BKVVBuMkFFTGtaYVlPNnZGWW9XRlFtZktCWDlLQktTeFN1T054T080dEwtX1c3SUgyVEJhRUp3YWx0cDhHRjR5TkR0cTdFME9zTQ?oc=5",
+      "publishedAt": "Sat, 21 Mar 2026 22:00:27 GMT"
     }
   ],
   "summary": {
