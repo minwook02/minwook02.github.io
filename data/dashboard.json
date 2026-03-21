@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-22T07:55:04.437610+09:00",
-  "updatedLabel": "2026-03-22 07:55:04 KST",
+  "updatedAt": "2026-03-22T08:51:54.101254+09:00",
+  "updatedLabel": "2026-03-22 08:51:54 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4637,10 +4637,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 70283.664,
+      "price": 69667.4,
       "previousClose": 70517.62,
-      "change": -233.956,
-      "changePercent": -0.3318,
+      "change": -850.22,
+      "changePercent": -1.2057,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5742,16 +5742,60 @@
         ],
         [
           1774133400000,
-          70285.203125
+          70278.101562
         ],
         [
-          1774133520000,
-          70283.664062
+          1774133700000,
+          70291.234375
+        ],
+        [
+          1774134000000,
+          70227.179688
+        ],
+        [
+          1774134300000,
+          70221.320312
+        ],
+        [
+          1774134600000,
+          70146.164062
+        ],
+        [
+          1774134900000,
+          70182.945312
+        ],
+        [
+          1774135200000,
+          70165.429688
+        ],
+        [
+          1774135500000,
+          70134.421875
+        ],
+        [
+          1774135800000,
+          70128.460938
+        ],
+        [
+          1774136100000,
+          70152.015625
+        ],
+        [
+          1774136400000,
+          70169.601562
+        ],
+        [
+          1774136700000,
+          69789.882812
+        ],
+        [
+          1774136940000,
+          69667.398438
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-22 07:52 KST",
-      "marketTimestamp": 1774133520
+      "marketTime": "2026-03-22 08:49 KST",
+      "marketTimestamp": 1774136940
     }
   ],
   "mainCharts": [
@@ -7051,9 +7095,15 @@
   "headlines": [
     {
       "title": "韓증시에 드리운 '버블' 그림자…곳곳서 나오는 증시과열 경고음",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oNC13ckpnSWlnVG9jWHB4ZjY5bE5QcXl6bUVLRWt5MzZSSWtOekxLVE1ia3lnUG5KX0czSHFLZnlEVWpJbXNtYVhtbWVHTHZXR0dlN0N3SDRnWDTSAWBBVV95cUxPUWhGczRxUU85MHJlWndwVExGTkFNZG9EVHptcmxzWFRvOXJsd0Z4aGs5aTY2amhFaF8wOHU5alpMakx4V2lJV0EzbjNlMVpBVlZZRThTbDJhZnBkbXJiUGQ?oc=5",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yTmtkZzBCMHl0dXZjaFBqR1poaU4td0hfMkFpODB5SnI5UTFuQkpnSVZ2TVBGcXhQUDhiS1g2bE5IM0hnejM2cHdrLVZCeWNZZ0E?oc=5",
       "publishedAt": "Sat, 21 Mar 2026 22:20:37 GMT"
+    },
+    {
+      "title": "[마켓인사이트] 트럼프, 결국 확전 택할까…또다시 치솟는 변동성",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rZFdBU2dhMWVJeUNnS1IzaHp2N3ZfU3BWRnlVU3FjTmczTHhwWnlnQ1BKVVBuMkFFTGtaYVlPNnZGWW9XRlFtZktCWDlLQktTeFN1T054T080dEwtX1c3SUgyVEJhRUp3YWx0cDhHRjR5TkR0cTdFME9zTQ?oc=5",
+      "publishedAt": "Sat, 21 Mar 2026 22:00:27 GMT"
     },
     {
       "title": "[주간증시전망] 본격적인 주총 시즌… 전쟁 4주차 美 ‘출구전략’도 주목 - 조선비즈",
@@ -7080,22 +7130,16 @@
       "publishedAt": "Sat, 21 Mar 2026 02:19:45 GMT"
     },
     {
-      "title": "“한국 증시는 바겐세일 중”...전쟁 공포에 개미들 난리났다",
-      "source": "매거진한경",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jSGNUQjJNLTI1RWkzanFSVGFhcGg3eVluNGQ5TG13eWI1aW0xOHVtdFc5QnJBMXBBVDFiNGFZLWNSRGdIZ1FmUWdlaE0wMkFWNVlqaWhRZzRSTkhYWWttd1Z2dWhJTTdJUFhNNw?oc=5",
-      "publishedAt": "Fri, 20 Mar 2026 23:13:00 GMT"
+      "title": "“미국 금리인하 기대 소멸”…원·달러 환율 1500원대 재진입",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE54QWR1NW9LUjRWY2RnUldQSGpGQmEzN0tldWkyTHVDTXVWRVlkX2diOWtieDJjdVZSNEhidWZJLVJxLUIycEE?oc=5",
+      "publishedAt": "Sat, 21 Mar 2026 02:09:00 GMT"
     },
     {
       "title": "[3월 셋째 주 세계경제동향 브리핑] 코스피 반등에도 美 증시 급락…금리 상승·원자재 혼조",
       "source": "기호일보",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TZmNlSWhJSWlXbDZ2UUN6SG4xb3BxUXVQSjJSN21IYjI1VjAwVExnRzJ3YlZaRU5SSnNpTDdsVGhyWU5VOUFQdGtNZmZjWGJfRlJReXQ5UGp6bThwRDVEZ1B2RVdHTGtuQm1Dbkt1UQ?oc=5",
       "publishedAt": "Sat, 21 Mar 2026 01:37:07 GMT"
-    },
-    {
-      "title": "[마켓인사이트] 트럼프, 결국 확전 택할까…또다시 치솟는 변동성",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rZFdBU2dhMWVJeUNnS1IzaHp2N3ZfU3BWRnlVU3FjTmczTHhwWnlnQ1BKVVBuMkFFTGtaYVlPNnZGWW9XRlFtZktCWDlLQktTeFN1T054T080dEwtX1c3SUgyVEJhRUp3YWx0cDhHRjR5TkR0cTdFME9zTQ?oc=5",
-      "publishedAt": "Sat, 21 Mar 2026 22:00:27 GMT"
     }
   ],
   "summary": {
@@ -7145,8 +7189,8 @@
         "direction": "하락"
       },
       {
-        "label": "DOW",
-        "changePercent": -0.9647,
+        "label": "Bitcoin",
+        "changePercent": -1.2057,
         "direction": "하락"
       }
     ]
