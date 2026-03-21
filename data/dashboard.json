@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-21T16:21:12.478287+09:00",
-  "updatedLabel": "2026-03-21 16:21:12 KST",
+  "updatedAt": "2026-03-21T17:00:25.741924+09:00",
+  "updatedLabel": "2026-03-21 17:00:25 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4637,10 +4637,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 70754.4,
+      "price": 70693.84,
       "previousClose": 70517.62,
-      "change": 236.78,
-      "changePercent": 0.3358,
+      "change": 176.22,
+      "changePercent": 0.2499,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -4994,16 +4994,48 @@
         ],
         [
           1774077300000,
-          70751.992188
+          70775.867188
         ],
         [
-          1774077480000,
-          70754.398438
+          1774077600000,
+          70788.757812
+        ],
+        [
+          1774077900000,
+          70871.851562
+        ],
+        [
+          1774078200000,
+          70776.4375
+        ],
+        [
+          1774078500000,
+          70779.84375
+        ],
+        [
+          1774078800000,
+          70777.554688
+        ],
+        [
+          1774079100000,
+          70735.203125
+        ],
+        [
+          1774079400000,
+          70704.5
+        ],
+        [
+          1774079700000,
+          70695.25
+        ],
+        [
+          1774079820000,
+          70693.84375
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-21 16:18 KST",
-      "marketTimestamp": 1774077480
+      "marketTime": "2026-03-21 16:57 KST",
+      "marketTimestamp": 1774079820
     }
   ],
   "mainCharts": [
@@ -6344,10 +6376,10 @@
       "publishedAt": "Sat, 21 Mar 2026 02:08:48 GMT"
     },
     {
-      "title": "한국은행, 7연속 금리 동결 전망…“유가·환율 부담”",
-      "source": "서울경제TV",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QMG1sblNJLXlwWkhla0FpbkEzelFGN1U4alQyYm5EMkhJUElrTTVxYTFTckV3c25jdzE4RmFielJzOWF0NnRFNFNzYXpWNmFucklWODhUVGp3UjNPd245TUZhdUo?oc=5",
-      "publishedAt": "Fri, 20 Mar 2026 23:00:09 GMT"
+      "title": "ETF 시장 커질수록 ‘레버리지 중독’…국장·미장 안 가리는 개미들 - 조선비즈",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXlQMDZFRDd6djMyYXdZMU96aW5QUnFBQ2xCbjY4TjZ1YVMta1VFUktQWnI4SlljdzMwcFl2ZkNVcURteGhGU3o2ZnNTUXFRRW80Um83a0RyVVFPaUlfQmJBSTJJZzNaTjlucnZDVUx0ZS15OGFxaUItYVdiOE1hWklrTlcwc2Jp0gGcAUFVX3lxTE9GVlFYYll3aTU0QkJhRGszNXlnRHo5Z0tPSHR2NjRoVnlZMlltQ0dEWllXQzh3LWtsamVqa1JUSGI0WVhCekVfUmRwczEzTFEzSVdYN3drQVhnbC12ZG1qZ01xM2p3Z29hcFdzQkNXV2wzaHVhRExiOW5Ud2FQQzVOQllNTnZ1eDhwMW5kcHVSbzZ4WHBaaVM4Yi1rOA?oc=5",
+      "publishedAt": "Fri, 20 Mar 2026 21:02:39 GMT"
     }
   ],
   "summary": {
@@ -6380,8 +6412,8 @@
         "direction": "상승"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": 0.3358,
+        "label": "KOSPI",
+        "changePercent": 0.312,
         "direction": "상승"
       }
     ],
