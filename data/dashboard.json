@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-23T01:59:56.730309+09:00",
-  "updatedLabel": "2026-03-23 01:59:56 KST",
+  "updatedAt": "2026-03-23T02:55:00.754008+09:00",
+  "updatedLabel": "2026-03-23 02:55:00 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -972,9 +972,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 21647.611,
-      "previousClose": 22090.691,
-      "change": -443.08,
-      "changePercent": -2.0057,
+      "previousClose": 22090.7,
+      "change": -443.089,
+      "changePercent": -2.0058,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -1307,9 +1307,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 45577.47,
-      "previousClose": 46021.43,
-      "change": -443.96,
-      "changePercent": -0.9647,
+      "previousClose": 46021.4,
+      "change": -443.93,
+      "changePercent": -0.9646,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3003,12 +3003,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 68833.89,
+      "price": 68720.805,
       "previousClose": 68903.22,
-      "change": -69.33,
-      "changePercent": -0.1006,
-      "tone": "flat",
-      "direction": "보합",
+      "change": -182.415,
+      "changePercent": -0.2647,
+      "tone": "down",
+      "direction": "하락",
       "series": [
         [
           1774137600000,
@@ -3824,16 +3824,60 @@
         ],
         [
           1774198500000,
-          68831.015625
+          68829.710938
         ],
         [
-          1774198620000,
-          68833.890625
+          1774198800000,
+          68807.539062
+        ],
+        [
+          1774199100000,
+          68825.875
+        ],
+        [
+          1774199400000,
+          68837.203125
+        ],
+        [
+          1774199700000,
+          68800.007812
+        ],
+        [
+          1774200000000,
+          68803.078125
+        ],
+        [
+          1774200300000,
+          68824.085938
+        ],
+        [
+          1774200600000,
+          68812.039062
+        ],
+        [
+          1774200900000,
+          68699.148438
+        ],
+        [
+          1774201200000,
+          68708.671875
+        ],
+        [
+          1774201500000,
+          68700.453125
+        ],
+        [
+          1774201800000,
+          68715.609375
+        ],
+        [
+          1774201920000,
+          68720.804688
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-23 01:57 KST",
-      "marketTimestamp": 1774198620
+      "marketTime": "2026-03-23 02:52 KST",
+      "marketTimestamp": 1774201920
     }
   ],
   "mainCharts": [
@@ -4802,9 +4846,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 21647.611,
-      "previousClose": 22090.691,
-      "change": -443.08,
-      "changePercent": -2.0057,
+      "previousClose": 22090.7,
+      "change": -443.089,
+      "changePercent": -2.0058,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5132,6 +5176,12 @@
   ],
   "headlines": [
     {
+      "title": "\"해외로 가던 투자자금, 이란전쟁에 미국으로 유턴\"",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12UV9Da2RYeC1Odm1LUk4ta0NEbHF3NzBRRzhLYTBnaHVrODZ4bF9JV01ReDV5Vy0yRFRDSU0xX1hMM0N3blBZeU1qSURJQ1JKeUhacEVQQkFjaknSAWBBVV95cUxPeXdRTURUX1V2RElEYjA3bXMyTDBWbXh5X2FoRTIycVBSXy1MYnhaWUljdS1FNGdzVVJsMV9kMDRPRDd2aGg5OGlPNzc0VUlsVWtiX2ZnS0ZRU1ZaUGNHa3E?oc=5",
+      "publishedAt": "Sun, 22 Mar 2026 16:58:50 GMT"
+    },
+    {
       "title": "韓증시에 드리운 '버블' 그림자…곳곳서 나오는 증시과열 경고음",
       "source": "열린정책뉴스",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WZnR2eEpwbFpwWGRKeUFPU0RMMENNNDRfX1hLQWM2TVdNV0pWR2otOTRGUEs4MDJqS2pwLVp3RnhPSGFRNER5dHlaT3h4c2JnLXVhZEQ4VWRPaVpMdmg3Nk5vMG9nQTE2MHlZ?oc=5",
@@ -5150,28 +5200,22 @@
       "publishedAt": "Sun, 22 Mar 2026 02:31:42 GMT"
     },
     {
-      "title": "[인터뷰] 윤선중 교수 \"韓증시 체질 개선, 개인 투심 살고 외국인 규제 완화\"",
-      "source": "팍스경제TV",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sNDJRU2lGcWotdFVzNnVMQmNRSkhWTFJMTWhUN0tWY3ZFbWNKT0l2WWROSTBzNHVrcmpDdHVmWklhWmswTmo1M3FGUVZFREVEZVo5RDNXRENIZGVSTV9fdE9JVmlwb0NX?oc=5",
-      "publishedAt": "Sun, 22 Mar 2026 09:11:45 GMT"
-    },
-    {
       "title": "美 증시 한풀 꺾이자 …개인 ‘사자’ 10분의 1로",
       "source": "서울경제신문",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YUTg2bmR0U2ZUc2RVVUtPMjI5ckJHTDZwOGFFbndZNC1DbEktV1B5dmlpYWp2X0tSSVFnN1BQMk5mSk9IR09YZWw4NGEyZElvdFHSAVNBVV95cUxQYTd6bkwxWGtMUVVIYlNxMnRPQlV2QmpXd3VhWDYyeXl2bjFKRzNGbi0xem1QLVlUYTUyUHNOV1ZlSjM1ZU5vcG5odm9tUnlzQm12WQ?oc=5",
       "publishedAt": "Sun, 22 Mar 2026 08:32:30 GMT"
     },
     {
+      "title": "[인터뷰] 윤선중 교수 \"韓증시 체질 개선, 개인 투심 살고 외국인 규제 완화\"",
+      "source": "팍스경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sNDJRU2lGcWotdFVzNnVMQmNRSkhWTFJMTWhUN0tWY3ZFbWNKT0l2WWROSTBzNHVrcmpDdHVmWklhWmswTmo1M3FGUVZFREVEZVo5RDNXRENIZGVSTV9fdE9JVmlwb0NX?oc=5",
+      "publishedAt": "Sun, 22 Mar 2026 09:11:45 GMT"
+    },
+    {
       "title": "한국 증시에 “버블”vs“저평가” 국내외 증권가 전망 엇갈려",
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yLWNnS0czVUQyS2s3dk9Rc2M4bzRlNUUyS2Znd2dkTWxSVXdGREhmMS1YUDJSVnJRakFFZFc5VHgyYTdhRXh0Q2kzUTVKOU0?oc=5",
       "publishedAt": "Sun, 22 Mar 2026 04:57:44 GMT"
-    },
-    {
-      "title": "韓증시에 드리운 '버블' 그림자…곳곳서 나오는 증시과열 경고음",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oNC13ckpnSWlnVG9jWHB4ZjY5bE5QcXl6bUVLRWt5MzZSSWtOekxLVE1ia3lnUG5KX0czSHFLZnlEVWpJbXNtYVhtbWVHTHZXR0dlN0N3SDRnWDTSAWBBVV95cUxPUWhGczRxUU85MHJlWndwVExGTkFNZG9EVHptcmxzWFRvOXJsd0Z4aGs5aTY2amhFaF8wOHU5alpMakx4V2lJV0EzbjNlMVpBVlZZRThTbDJhZnBkbXJiUGQ?oc=5",
-      "publishedAt": "Sat, 21 Mar 2026 22:20:37 GMT"
     },
     {
       "title": "뉴욕·상하이 증시, 美 지상군 투입땐 증시 조정 가능성",
@@ -5218,7 +5262,7 @@
     "laggards": [
       {
         "label": "NASDAQ",
-        "changePercent": -2.0057,
+        "changePercent": -2.0058,
         "direction": "하락"
       },
       {
@@ -5228,7 +5272,7 @@
       },
       {
         "label": "DOW",
-        "changePercent": -0.9647,
+        "changePercent": -0.9646,
         "direction": "하락"
       }
     ]
