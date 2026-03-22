@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-23T05:56:51.968303+09:00",
-  "updatedLabel": "2026-03-23 05:56:51 KST",
+  "updatedAt": "2026-03-23T06:53:30.330466+09:00",
+  "updatedLabel": "2026-03-23 06:53:30 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1504.83,
+      "price": 1503.94,
       "previousClose": 1494.41,
-      "change": 10.42,
-      "changePercent": 0.6973,
+      "change": 9.53,
+      "changePercent": 0.6377,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -2618,8 +2618,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-22 22:27 KST",
-      "marketTimestamp": 1774186022
+      "marketTime": "2026-03-23 06:00 KST",
+      "marketTimestamp": 1774213241
     },
     {
       "id": "us10y",
@@ -3003,10 +3003,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 68123.08,
+      "price": 67832.14,
       "previousClose": 68903.22,
-      "change": -780.14,
-      "changePercent": -1.1322,
+      "change": -1071.08,
+      "changePercent": -1.5545,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -4012,16 +4012,64 @@
         ],
         [
           1774212600000,
-          68176.929688
+          68123.078125
         ],
         [
-          1774212840000,
-          68123.078125
+          1774212900000,
+          68189.210938
+        ],
+        [
+          1774213200000,
+          68131.382812
+        ],
+        [
+          1774213500000,
+          67922.429688
+        ],
+        [
+          1774213800000,
+          67733.648438
+        ],
+        [
+          1774214100000,
+          67633.046875
+        ],
+        [
+          1774214400000,
+          67532.539062
+        ],
+        [
+          1774214700000,
+          67808.4375
+        ],
+        [
+          1774215000000,
+          67737.960938
+        ],
+        [
+          1774215300000,
+          67915.609375
+        ],
+        [
+          1774215600000,
+          67873.625
+        ],
+        [
+          1774215900000,
+          67840.835938
+        ],
+        [
+          1774216200000,
+          67845.742188
+        ],
+        [
+          1774216260000,
+          67832.140625
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-23 05:54 KST",
-      "marketTimestamp": 1774212840
+      "marketTime": "2026-03-23 06:51 KST",
+      "marketTimestamp": 1774216260
     }
   ],
   "mainCharts": [
@@ -5326,6 +5374,12 @@
       "publishedAt": "Sun, 22 Mar 2026 16:58:50 GMT"
     },
     {
+      "title": "[오늘의 경제뉴스] 외국계 \"韓증시 전형적 버블\"…'극단적 과열' 경고음 잇따라",
+      "source": "뉴스버스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kZXdPbnRMYk5qYXl1T0V3Zzlwb1h6cktWNWN5R0VsbVZqeDJkSTB3cWJBc2k3OXBoWjQtcXVpMGs2UFpyUXV0RVl0c2VmdExpTDkzb1RsTF8wRkQ4VjRXYzZCRC1zT3pN?oc=5",
+      "publishedAt": "Sun, 22 Mar 2026 21:06:03 GMT"
+    },
+    {
       "title": "韓증시에 드리운 '버블' 그림자…곳곳서 나오는 증시과열 경고음",
       "source": "열린정책뉴스",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WZnR2eEpwbFpwWGRKeUFPU0RMMENNNDRfX1hLQWM2TVdNV0pWR2otOTRGUEs4MDJqS2pwLVp3RnhPSGFRNER5dHlaT3h4c2JnLXVhZEQ4VWRPaVpMdmg3Nk5vMG9nQTE2MHlZ?oc=5",
@@ -5360,12 +5414,6 @@
       "source": "팍스경제TV",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sNDJRU2lGcWotdFVzNnVMQmNRSkhWTFJMTWhUN0tWY3ZFbWNKT0l2WWROSTBzNHVrcmpDdHVmWklhWmswTmo1M3FGUVZFREVEZVo5RDNXRENIZGVSTV9fdE9JVmlwb0NX?oc=5",
       "publishedAt": "Sun, 22 Mar 2026 09:11:45 GMT"
-    },
-    {
-      "title": "한국 증시에 “버블”vs“저평가” 국내외 증권가 전망 엇갈려",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yLWNnS0czVUQyS2s3dk9Rc2M4bzRlNUUyS2Znd2dkTWxSVXdGREhmMS1YUDJSVnJRakFFZFc5VHgyYTdhRXh0Q2kzUTVKOU0?oc=5",
-      "publishedAt": "Sun, 22 Mar 2026 04:57:44 GMT"
     }
   ],
   "summary": {
@@ -5377,13 +5425,13 @@
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 상승 흐름입니다.",
       "해외는 S&P 500 -1.51%, NASDAQ -2.01%로 확인됩니다.",
-      "매크로 변수는 USD/KRW +0.70%, 미 10년물 +2.57%입니다."
+      "매크로 변수는 USD/KRW +0.64%, 미 10년물 +2.57%입니다."
     ],
     "checkpoints": [
       "KOSPI +0.31% 상승",
       "KOSDAQ +1.58% 상승",
       "미국 증시 하락 / 나스닥 -2.01%",
-      "원달러 +0.70% (+10.42)",
+      "원달러 +0.64% (+9.53)",
       "미 10년물 +0.110p (+2.57%)"
     ],
     "leaders": [
@@ -5394,7 +5442,7 @@
       },
       {
         "label": "USD/KRW",
-        "changePercent": 0.6973,
+        "changePercent": 0.6377,
         "direction": "상승"
       },
       {
@@ -5410,13 +5458,13 @@
         "direction": "하락"
       },
       {
-        "label": "S&P 500",
-        "changePercent": -1.5138,
+        "label": "Bitcoin",
+        "changePercent": -1.5545,
         "direction": "하락"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": -1.1322,
+        "label": "S&P 500",
+        "changePercent": -1.5138,
         "direction": "하락"
       }
     ]
