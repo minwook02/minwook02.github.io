@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-23T04:15:44.343828+09:00",
-  "updatedLabel": "2026-03-23 04:15:44 KST",
+  "updatedAt": "2026-03-23T04:56:10.609540+09:00",
+  "updatedLabel": "2026-03-23 04:56:10 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2968,11 +2968,11 @@
       "kind": "commodity",
       "decimals": 2,
       "price": 98.23,
-      "previousClose": 95.55,
-      "change": 2.68,
-      "changePercent": 2.8048,
-      "tone": "up",
-      "direction": "상승",
+      "previousClose": 98.23,
+      "change": 0.0,
+      "changePercent": 0.0,
+      "tone": "flat",
+      "direction": "보합",
       "series": [],
       "marketState": "UNKNOWN",
       "marketTime": "2026-03-21 05:59 KST",
@@ -2986,11 +2986,11 @@
       "kind": "commodity",
       "decimals": 2,
       "price": 4574.9,
-      "previousClose": 4605.7,
-      "change": -30.8,
-      "changePercent": -0.6687,
-      "tone": "down",
-      "direction": "하락",
+      "previousClose": 4574.9,
+      "change": 0.0,
+      "changePercent": 0.0,
+      "tone": "flat",
+      "direction": "보합",
       "series": [],
       "marketState": "UNKNOWN",
       "marketTime": "2026-03-21 05:59 KST",
@@ -3003,10 +3003,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 68437.13,
+      "price": 68195.11,
       "previousClose": 68903.22,
-      "change": -466.09,
-      "changePercent": -0.6764,
+      "change": -708.11,
+      "changePercent": -1.0277,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3668,7 +3668,7 @@
         ],
         [
           1774186800000,
-          68583.570312
+          68564.640625
         ],
         [
           1774187100000,
@@ -3744,7 +3744,7 @@
         ],
         [
           1774192500000,
-          68865.382812
+          68854.640625
         ],
         [
           1774192800000,
@@ -3876,7 +3876,7 @@
         ],
         [
           1774202400000,
-          68643.59375
+          68619.085938
         ],
         [
           1774202700000,
@@ -3932,16 +3932,48 @@
         ],
         [
           1774206600000,
-          68482.171875
+          68407.578125
         ],
         [
-          1774206780000,
-          68437.132812
+          1774206900000,
+          68325.164062
+        ],
+        [
+          1774207200000,
+          68366.757812
+        ],
+        [
+          1774207500000,
+          68368.648438
+        ],
+        [
+          1774207800000,
+          68245.601562
+        ],
+        [
+          1774208100000,
+          68365.609375
+        ],
+        [
+          1774208400000,
+          68388.007812
+        ],
+        [
+          1774208700000,
+          68266.421875
+        ],
+        [
+          1774209000000,
+          68188.554688
+        ],
+        [
+          1774209180000,
+          68195.109375
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-23 04:13 KST",
-      "marketTimestamp": 1774206780
+      "marketTime": "2026-03-23 04:53 KST",
+      "marketTimestamp": 1774209180
     }
   ],
   "mainCharts": [
@@ -5242,7 +5274,7 @@
     {
       "title": "\"해외로 가던 투자자금, 이란전쟁에 미국으로 유턴\"",
       "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12UV9Da2RYeC1Odm1LUk4ta0NEbHF3NzBRRzhLYTBnaHVrODZ4bF9JV01ReDV5Vy0yRFRDSU0xX1hMM0N3blBZeU1qSURJQ1JKeUhacEVQQkFjaknSAWBBVV95cUxPeXdRTURUX1V2RElEYjA3bXMyTDBWbXh5X2FoRTIycVBSXy1MYnhaWUljdS1FNGdzVVJsMV9kMDRPRDd2aGg5OGlPNzc0VUlsVWtiX2ZnS0ZRU1ZaUGNHa3E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95d1FNRFRfVXZESURiMDdtczJMMFZteHlfYWhFMjJxUFJfLUxieFpZSWN1LUU0Z3NVUmwxX2QwNE9EN3ZoaDk4aU83NzRVSWxVa2JfZmdLRlFTVlpQY0drcdIBYEFVX3lxTE95d1FNRFRfVXZESURiMDdtczJMMFZteHlfYWhFMjJxUFJfLUxieFpZSWN1LUU0Z3NVUmwxX2QwNE9EN3ZoaDk4aU83NzRVSWxVa2JfZmdLRlFTVlpQY0drcQ?oc=5",
       "publishedAt": "Sun, 22 Mar 2026 16:58:50 GMT"
     },
     {
@@ -5290,9 +5322,9 @@
   ],
   "summary": {
     "signal": {
-      "label": "Mixed",
-      "tone": "flat",
-      "message": "국내외 자산이 같은 방향으로 움직이지 않는 혼조장입니다."
+      "label": "Defensive",
+      "tone": "down",
+      "message": "환율·안전자산 쏠림이 강해 방어적 흐름입니다."
     },
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 상승 흐름입니다.",
@@ -5308,11 +5340,6 @@
     ],
     "leaders": [
       {
-        "label": "WTI",
-        "changePercent": 2.8048,
-        "direction": "상승"
-      },
-      {
         "label": "KOSDAQ",
         "changePercent": 1.5776,
         "direction": "상승"
@@ -5320,6 +5347,11 @@
       {
         "label": "USD/KRW",
         "changePercent": 0.6973,
+        "direction": "상승"
+      },
+      {
+        "label": "KOSPI",
+        "changePercent": 0.312,
         "direction": "상승"
       }
     ],
@@ -5335,8 +5367,8 @@
         "direction": "하락"
       },
       {
-        "label": "DOW",
-        "changePercent": -0.9646,
+        "label": "Bitcoin",
+        "changePercent": -1.0277,
         "direction": "하락"
       }
     ]
