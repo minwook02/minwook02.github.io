@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-23T07:57:16.680751+09:00",
-  "updatedLabel": "2026-03-23 07:57:16 KST",
+  "updatedAt": "2026-03-23T08:57:16.660671+09:00",
+  "updatedLabel": "2026-03-23 08:57:16 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2967,12 +2967,12 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 98.05,
+      "price": 98.12,
       "previousClose": 98.23,
-      "change": -0.18,
-      "changePercent": -0.1832,
-      "tone": "down",
-      "direction": "하락",
+      "change": -0.11,
+      "changePercent": -0.112,
+      "tone": "flat",
+      "direction": "보합",
       "series": [
         [
           1774217400000,
@@ -3007,13 +3007,61 @@
           97.849998
         ],
         [
-          1774219633000,
+          1774219800000,
+          97.860001
+        ],
+        [
+          1774220100000,
+          98.080002
+        ],
+        [
+          1774220400000,
+          98.029999
+        ],
+        [
+          1774220700000,
+          98.010002
+        ],
+        [
+          1774221000000,
+          97.940002
+        ],
+        [
+          1774221300000,
+          98.040001
+        ],
+        [
+          1774221600000,
+          98.300003
+        ],
+        [
+          1774221900000,
+          98.269997
+        ],
+        [
+          1774222200000,
+          98.139999
+        ],
+        [
+          1774222500000,
           98.050003
+        ],
+        [
+          1774222800000,
+          98.07
+        ],
+        [
+          1774223100000,
+          98.080002
+        ],
+        [
+          1774223230000,
+          98.120003
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-23 07:47 KST",
-      "marketTimestamp": 1774219633
+      "marketTime": "2026-03-23 08:47 KST",
+      "marketTimestamp": 1774223230
     },
     {
       "id": "gold",
@@ -3022,10 +3070,10 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 4507.7,
+      "price": 4485.6,
       "previousClose": 4574.9,
-      "change": -67.2,
-      "changePercent": -1.4689,
+      "change": -89.3,
+      "changePercent": -1.952,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3062,13 +3110,61 @@
           4507.5
         ],
         [
-          1774219631000,
-          4507.700195
+          1774219800000,
+          4506.100098
+        ],
+        [
+          1774220100000,
+          4498.100098
+        ],
+        [
+          1774220400000,
+          4499.399902
+        ],
+        [
+          1774220700000,
+          4495.799805
+        ],
+        [
+          1774221000000,
+          4491.600098
+        ],
+        [
+          1774221300000,
+          4491.0
+        ],
+        [
+          1774221600000,
+          4490.0
+        ],
+        [
+          1774221900000,
+          4486.200195
+        ],
+        [
+          1774222200000,
+          4483.399902
+        ],
+        [
+          1774222500000,
+          4479.0
+        ],
+        [
+          1774222800000,
+          4489.399902
+        ],
+        [
+          1774223100000,
+          4463.700195
+        ],
+        [
+          1774223232000,
+          4485.600098
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-23 07:47 KST",
-      "marketTimestamp": 1774219631
+      "marketTime": "2026-03-23 08:47 KST",
+      "marketTimestamp": 1774223232
     },
     {
       "id": "bitcoin",
@@ -3077,10 +3173,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 68307.6,
+      "price": 67852.805,
       "previousClose": 68903.22,
-      "change": -595.62,
-      "changePercent": -0.8644,
+      "change": -1050.415,
+      "changePercent": -1.5245,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3742,7 +3838,7 @@
         ],
         [
           1774186800000,
-          68564.640625
+          68583.570312
         ],
         [
           1774187100000,
@@ -3818,7 +3914,7 @@
         ],
         [
           1774192500000,
-          68854.640625
+          68865.382812
         ],
         [
           1774192800000,
@@ -3950,7 +4046,7 @@
         ],
         [
           1774202400000,
-          68619.085938
+          68643.59375
         ],
         [
           1774202700000,
@@ -4034,7 +4130,7 @@
         ],
         [
           1774208700000,
-          68266.421875
+          68194.101562
         ],
         [
           1774209000000,
@@ -4182,16 +4278,64 @@
         ],
         [
           1774219800000,
-          68364.664062
+          68307.601562
         ],
         [
-          1774220040000,
-          68307.601562
+          1774220100000,
+          68296.460938
+        ],
+        [
+          1774220400000,
+          68396.890625
+        ],
+        [
+          1774220700000,
+          68220.21875
+        ],
+        [
+          1774221000000,
+          68403.132812
+        ],
+        [
+          1774221300000,
+          68256.25
+        ],
+        [
+          1774221600000,
+          68162.09375
+        ],
+        [
+          1774221900000,
+          68114.773438
+        ],
+        [
+          1774222200000,
+          68002.539062
+        ],
+        [
+          1774222500000,
+          68043.320312
+        ],
+        [
+          1774222800000,
+          68134.671875
+        ],
+        [
+          1774223100000,
+          67989.257812
+        ],
+        [
+          1774223400000,
+          67870.21875
+        ],
+        [
+          1774223640000,
+          67852.804688
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-23 07:54 KST",
-      "marketTimestamp": 1774220040
+      "marketTime": "2026-03-23 08:54 KST",
+      "marketTimestamp": 1774223640
     }
   ],
   "mainCharts": [
@@ -5490,10 +5634,22 @@
   ],
   "headlines": [
     {
+      "title": "[증시 포인트] 하락 출발 전망...주가 급락시 분할 매수 전략 유효",
+      "source": "오피니언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1aFctQUFtUkxTRFBaR0VnMTlVNVh2N3FqcHV0cXRibnAweHk2cVdmTGwxSFFUdGUtVTZXQmR1Z0JVU21rVEl4RHdEa3RvaklNcG5vZ01PTjZVQjBNa192UWZkTzJraEFQbmM3bEM3VlY?oc=5",
+      "publishedAt": "Sun, 22 Mar 2026 23:25:45 GMT"
+    },
+    {
       "title": "\"해외로 가던 투자자금, 이란전쟁에 미국으로 유턴\"",
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12UV9Da2RYeC1Odm1LUk4ta0NEbHF3NzBRRzhLYTBnaHVrODZ4bF9JV01ReDV5Vy0yRFRDSU0xX1hMM0N3blBZeU1qSURJQ1JKeUhacEVQQkFjaknSAWBBVV95cUxPeXdRTURUX1V2RElEYjA3bXMyTDBWbXh5X2FoRTIycVBSXy1MYnhaWUljdS1FNGdzVVJsMV9kMDRPRDd2aGg5OGlPNzc0VUlsVWtiX2ZnS0ZRU1ZaUGNHa3E?oc=5",
       "publishedAt": "Sun, 22 Mar 2026 16:58:50 GMT"
+    },
+    {
+      "title": "유가·금리 불안 여전…변동성 장세 이어질 듯",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KclpXZi13Q25DQk1xYXNTNk50SE82VTJ6QTdlM09Ob2hwMmRJSExSWlR6THJ2cTlRSGxoNnJlX0tQVXJDY2pZSXpiekJDVHR3MDRDVtIBVEFVX3lxTE5KclpXZi13Q25DQk1xYXNTNk50SE82VTJ6QTdlM09Ob2hwMmRJSExSWlR6THJ2cTlRSGxoNnJlX0tQVXJDY2pZSXpiekJDVHR3MDRDVg?oc=5",
+      "publishedAt": "Sun, 22 Mar 2026 22:56:04 GMT"
     },
     {
       "title": "[오늘의증시]이란戰 확전 공포…코스피 하락 출발 전망",
@@ -5514,28 +5670,16 @@
       "publishedAt": "Sun, 22 Mar 2026 21:06:03 GMT"
     },
     {
+      "title": "코스피, 커지는 ‘하방 압력’…전쟁 리스크·연준 매파 전환 [투자360]",
+      "source": "헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NOFBKejcyQlh5X2taWTNabzZ2cnZDR2t3Wi11bmhWdXVNZTA5dVNEc19iVXRuOTV5ZzJRNFF2akhNaUpwRVAxTWJDb3M0eEdoeF9uTzlB?oc=5",
+      "publishedAt": "Sun, 22 Mar 2026 23:18:58 GMT"
+    },
+    {
       "title": "‘6천피’ 꿈틀대다 털썩…한국증시, 이란발 쇼크에 ‘버블 논란’ 격화",
       "source": "브레이크뉴스",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JdjEzT3Uwc2dhRWhXRURXX3I0Zk01dEdqcnM3cS0zbVlSbXhhbFZyWHV4VXRjcC1vY3lQQVdtMjhnY3l5aWt3?oc=5",
       "publishedAt": "Sun, 22 Mar 2026 06:16:58 GMT"
-    },
-    {
-      "title": "韓증시에 드리운 '버블' 그림자…곳곳서 나오는 증시과열 경고음",
-      "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WZnR2eEpwbFpwWGRKeUFPU0RMMENNNDRfX1hLQWM2TVdNV0pWR2otOTRGUEs4MDJqS2pwLVp3RnhPSGFRNER5dHlaT3h4c2JnLXVhZEQ4VWRPaVpMdmg3Nk5vMG9nQTE2MHlZ?oc=5",
-      "publishedAt": "Sun, 22 Mar 2026 14:51:00 GMT"
-    },
-    {
-      "title": "[금융이슈 Summary] 중동발 고환율의 역습, 보험사 외화자산 ‘비용 쇼크’",
-      "source": "한국보험신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHUThOckFnNkJRcElORFl5MHh5UFVYV2pLVExlY3dWdzlEOE9VNUQxbndNcUhFNE9hdkNOZnZTcG5KR280YUthdElobWltdzc3TS1iUjdmRWpMTHdnNXp1WDZsT1IzcjhyRUk40gFvQVVfeXFMTUl5MTJDa1hXaGN3eHN5b25oNWF1Z2hMRllCUW9kczdDWHFVWENGME9XSk0xdU0yYXRaeURmUU1fNmF2OV91NlVDYUktOFlXSl9IdjNKNUhCeXRKLUFrWHFUQXhtYmFLek9DNnY4V2ZR?oc=5",
-      "publishedAt": "Sun, 22 Mar 2026 15:00:00 GMT"
-    },
-    {
-      "title": "美 증시 한풀 꺾이자 …개인 ‘사자’ 10분의 1로",
-      "source": "서울경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YUTg2bmR0U2ZUc2RVVUtPMjI5ckJHTDZwOGFFbndZNC1DbEktV1B5dmlpYWp2X0tSSVFnN1BQMk5mSk9IR09YZWw4NGEyZElvdFHSAVNBVV95cUxQYTd6bkwxWGtMUVVIYlNxMnRPQlV2QmpXd3VhWDYyeXl2bjFKRzNGbi0xem1QLVlUYTUyUHNOV1ZlSjM1ZU5vcG5odm9tUnlzQm12WQ?oc=5",
-      "publishedAt": "Sun, 22 Mar 2026 08:32:30 GMT"
     }
   ],
   "summary": {
@@ -5580,13 +5724,13 @@
         "direction": "하락"
       },
       {
-        "label": "S&P 500",
-        "changePercent": -1.5138,
+        "label": "Gold",
+        "changePercent": -1.952,
         "direction": "하락"
       },
       {
-        "label": "Gold",
-        "changePercent": -1.4689,
+        "label": "Bitcoin",
+        "changePercent": -1.5245,
         "direction": "하락"
       }
     ]
