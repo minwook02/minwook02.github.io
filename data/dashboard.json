@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-22T19:01:48.746241+09:00",
-  "updatedLabel": "2026-03-22 19:01:48 KST",
+  "updatedAt": "2026-03-22T20:40:30.307724+09:00",
+  "updatedLabel": "2026-03-22 20:40:30 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3003,12 +3003,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 68817.266,
+      "price": 68490.695,
       "previousClose": 68903.22,
-      "change": -85.954,
-      "changePercent": -0.1247,
-      "tone": "flat",
-      "direction": "보합",
+      "change": -412.525,
+      "changePercent": -0.5987,
+      "tone": "down",
+      "direction": "하락",
       "series": [
         [
           1774137600000,
@@ -3488,16 +3488,96 @@
         ],
         [
           1774173300000,
-          68819.5625
+          68817.265625
         ],
         [
-          1774173480000,
-          68817.265625
+          1774173600000,
+          68795.992188
+        ],
+        [
+          1774173900000,
+          68712.773438
+        ],
+        [
+          1774174200000,
+          68725.796875
+        ],
+        [
+          1774174500000,
+          68724.921875
+        ],
+        [
+          1774174800000,
+          68711.835938
+        ],
+        [
+          1774175100000,
+          68722.921875
+        ],
+        [
+          1774175400000,
+          68709.984375
+        ],
+        [
+          1774175700000,
+          68682.578125
+        ],
+        [
+          1774176000000,
+          68616.570312
+        ],
+        [
+          1774176300000,
+          68647.78125
+        ],
+        [
+          1774176600000,
+          68630.632812
+        ],
+        [
+          1774176900000,
+          68659.65625
+        ],
+        [
+          1774177200000,
+          68595.273438
+        ],
+        [
+          1774177500000,
+          68630.773438
+        ],
+        [
+          1774177800000,
+          68667.039062
+        ],
+        [
+          1774178100000,
+          68632.867188
+        ],
+        [
+          1774178400000,
+          68648.75
+        ],
+        [
+          1774178700000,
+          68422.953125
+        ],
+        [
+          1774179000000,
+          68471.0625
+        ],
+        [
+          1774179300000,
+          68496.234375
+        ],
+        [
+          1774179480000,
+          68490.695312
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-22 18:58 KST",
-      "marketTimestamp": 1774173480
+      "marketTime": "2026-03-22 20:38 KST",
+      "marketTimestamp": 1774179480
     }
   ],
   "mainCharts": [
@@ -4796,6 +4876,12 @@
   ],
   "headlines": [
     {
+      "title": "중동사태 이후 국내 증시 외국인 ‘선방’ 개미 ‘울상’",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OQXVlVzd2UmVPYXprR1pDb0NweHpLT21sa3FPbjlEbEZPcXpreS0xY2NzRGxDWmF2b0ZnWW5mN3pkb2toLUo0SGFuU2lOWVk?oc=5",
+      "publishedAt": "Sun, 22 Mar 2026 11:33:03 GMT"
+    },
+    {
       "title": "전쟁 3주, 직격탄 맞은 韓日 증시… 개인 코스피 18조 사들였는데 수익률은 처참",
       "source": "조선일보",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa2toZjVpc2l5TVBpVmM2bzdLLXJuNFIxTGc1UHRNdjU3ZGhHUVhqZVFuaWpOMW9JbE9kaHpWNDZQcHQyZzN3UDFlVFN2TzNJWHJHbFptUU40ZG84Z1RVTXhmQ0lyQ1BZMHREbGZKWGtUSFdudGJ4Zl8zY284ZlFHbtIBlAFBVV95cUxNMGxfNXltTW02cEx0NktKVzZNOW0yQmRoRkU1QUV3UWRlNGlCNTJEbExBQUJpWkluNC00bkF2Ry1jdGloV2VJRS1ycFduNWJucDZXYUU4VHNUdlUwUkdaZnFsS1hwWGxHNDBwQ2dxT19lLWEyVHJKX2RPNXRZSVM2b09UMzZXZHllZ0xGRXZpRThjY095?oc=5",
@@ -4830,12 +4916,6 @@
       "source": "동아일보",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HeTdtX1VZbDFiYzhRQWw4SksxVm5lS0plTTVPc1ZteU1LQTVKX1pmQW4xWnBlMWh3bUJySGJRWG1hdk8wR2NYb1U2T1JQMG53QVJEc3dmOTM1cEpXZlhzbTFKaWpEM1Jxc1JvWVBvTmZJZW9rWlHSAWZBVV95cUxQWDJqb1lWNlQyekR3UTdBMmVCZzF4SkJIZmdYOF9XcngydkFjWklKd0pvRGkwNjJrV1dXaTlzVFQ4NmplUGl1MlVWeW1tUUREdDFETF94VG5aelViSUFKdjN1VS1ZSHc?oc=5",
       "publishedAt": "Sun, 22 Mar 2026 06:36:00 GMT"
-    },
-    {
-      "title": "한국 증시에 “버블”vs“저평가” 국내외 증권가 전망 엇갈려",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yLWNnS0czVUQyS2s3dk9Rc2M4bzRlNUUyS2Znd2dkTWxSVXdGREhmMS1YUDJSVnJRakFFZFc5VHgyYTdhRXh0Q2kzUTVKOU0?oc=5",
-      "publishedAt": "Sun, 22 Mar 2026 04:57:44 GMT"
     },
     {
       "title": "뉴욕·상하이 증시, 美 지상군 투입땐 증시 조정 가능성",
