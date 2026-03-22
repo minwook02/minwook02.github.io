@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-22T18:04:17.263662+09:00",
-  "updatedLabel": "2026-03-22 18:04:17 KST",
+  "updatedAt": "2026-03-22T19:01:48.746241+09:00",
+  "updatedLabel": "2026-03-22 19:01:48 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3003,10 +3003,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 68810.695,
+      "price": 68817.266,
       "previousClose": 68903.22,
-      "change": -92.525,
-      "changePercent": -0.1343,
+      "change": -85.954,
+      "changePercent": -0.1247,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -3444,16 +3444,60 @@
         ],
         [
           1774170000000,
-          68799.273438
+          68797.3125
         ],
         [
-          1774170060000,
-          68810.695312
+          1774170300000,
+          68842.773438
+        ],
+        [
+          1774170600000,
+          68857.0625
+        ],
+        [
+          1774170900000,
+          68668.898438
+        ],
+        [
+          1774171200000,
+          68762.75
+        ],
+        [
+          1774171500000,
+          68661.59375
+        ],
+        [
+          1774171800000,
+          68660.929688
+        ],
+        [
+          1774172100000,
+          68755.5625
+        ],
+        [
+          1774172400000,
+          68790.28125
+        ],
+        [
+          1774172700000,
+          68793.453125
+        ],
+        [
+          1774173000000,
+          68792.8125
+        ],
+        [
+          1774173300000,
+          68819.5625
+        ],
+        [
+          1774173480000,
+          68817.265625
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-22 18:01 KST",
-      "marketTimestamp": 1774170060
+      "marketTime": "2026-03-22 18:58 KST",
+      "marketTimestamp": 1774173480
     }
   ],
   "mainCharts": [
@@ -4764,10 +4808,22 @@
       "publishedAt": "Sun, 22 Mar 2026 06:16:58 GMT"
     },
     {
+      "title": "美 증시 한풀 꺾이자 …개인 ‘사자’ 10분의 1로",
+      "source": "서울경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhN3puTDFYa0xRVUhiU3EydE9CVXZCald3dWFYNjJ5eXZuMUpHM0ZuLTF6bVAtWVRhNTJQc05XVmVKMzVlTm9wbmh2b21SeXNCbXZZ0gFTQVVfeXFMUGE3em5MMVhrTFFVSGJTcTJ0T0JVdkJqV3d1YVg2Mnl5dm4xSkczRm4tMXptUC1ZVGE1MlBzTldWZUozNWVOb3BuaHZvbVJ5c0Jtdlk?oc=5",
+      "publishedAt": "Sun, 22 Mar 2026 08:32:30 GMT"
+    },
+    {
       "title": "韓증시에 드리운 '버블' 그림자…곳곳서 나오는 증시과열 경고음",
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oNC13ckpnSWlnVG9jWHB4ZjY5bE5QcXl6bUVLRWt5MzZSSWtOekxLVE1ia3lnUG5KX0czSHFLZnlEVWpJbXNtYVhtbWVHTHZXR0dlN0N3SDRnWDTSAWBBVV95cUxPUWhGczRxUU85MHJlWndwVExGTkFNZG9EVHptcmxzWFRvOXJsd0Z4aGs5aTY2amhFaF8wOHU5alpMakx4V2lJV0EzbjNlMVpBVlZZRThTbDJhZnBkbXJiUGQ?oc=5",
       "publishedAt": "Sat, 21 Mar 2026 22:20:37 GMT"
+    },
+    {
+      "title": "[인터뷰] 윤선중 교수 \"韓증시 체질 개선, 개인 투심 살고 외국인 규제 완화\"",
+      "source": "팍스경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sNDJRU2lGcWotdFVzNnVMQmNRSkhWTFJMTWhUN0tWY3ZFbWNKT0l2WWROSTBzNHVrcmpDdHVmWklhWmswTmo1M3FGUVZFREVEZVo5RDNXRENIZGVSTV9fdE9JVmlwb0NX?oc=5",
+      "publishedAt": "Sun, 22 Mar 2026 09:11:45 GMT"
     },
     {
       "title": "GDP 2배 넘긴 K증시…‘롤러코스터’ 장세에 공포지수 고공행진",
@@ -4782,22 +4838,10 @@
       "publishedAt": "Sun, 22 Mar 2026 04:57:44 GMT"
     },
     {
-      "title": "[증시 주간 전망대] 호르무즈發 불확실성 지속…주총 시즌, '주주 환원'기업 주목",
-      "source": "서울와이어",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BWVUxQjY0M2hxSVlKZEF3cnZWaWFuRkZ6c2pkQnBjLXExTGNBTWJSclFicGNycWRQa3hpejFFRDhOck1FYUU1Z2ZaX1JOWk1rbUxFenBXWjkyZEZQZVY5SVJnRW5MYXdHZVo4?oc=5",
-      "publishedAt": "Sun, 22 Mar 2026 08:00:00 GMT"
-    },
-    {
-      "title": "전쟁이 바꾼 증시 판도…자동차·철강 '쇼크', 방산·원전 '반사이익'",
-      "source": "글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQekNTai1kNlBrbU9XcV9IZmRZMVZlc0lSU19taWtTUExKTDNjT3RNTkg1UDcwLU9xUExoTTJROFdYNXNCa2pQOVhYRDhjRVRDZWxJcElKU1FrMGFYMGpfV2R5bW94YjNaQjhBR1kzblFNRlRNN29zUDZFSUZrY0otN0NjWUs4N0ZQ?oc=5",
-      "publishedAt": "Sun, 22 Mar 2026 02:10:08 GMT"
-    },
-    {
-      "title": "韓증시 ‘과열’ vs ‘저평가’… 버블 논쟁까지 제기",
-      "source": "천지일보",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CeXhMREdEeVNydmZya3Bsdi1LT1JIWmtaNE0ySHNHNkhHaWI5dGZqSzBrcHMxamFqV3RHVXNBXzlFWk5xbjRuM3cyTXYxV3dYVzRmQzV3Wllyb0gyempyeTVBNFhiZ2NSbmc?oc=5",
-      "publishedAt": "Sun, 22 Mar 2026 06:47:52 GMT"
+      "title": "뉴욕·상하이 증시, 美 지상군 투입땐 증시 조정 가능성",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMYmNsdGxBSUdLWlBRTkVJNG0zSTR3SXhnVFRiaFI4SVlDbmsyY0IzRHdRbk01ZzJWWGRVNmhoZnhLOFhqM3FYWlJ4bS1ZZFY5TVRydmtQZUs4UdIBVEFVX3lxTE55TXBVSFl5RUZWU3pYbFlzMkRmdmQzbXVMS09pd01tcUgweUhHcDZLcS1hQ0JfLUtWbHJNZ2w0WG1pWGFYZWVfSE1BSUtaX3FkT3ZrUw?oc=5",
+      "publishedAt": "Sun, 22 Mar 2026 09:17:20 GMT"
     }
   ],
   "summary": {
