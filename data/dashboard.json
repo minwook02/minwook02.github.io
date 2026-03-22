@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-23T04:56:10.609540+09:00",
-  "updatedLabel": "2026-03-23 04:56:10 KST",
+  "updatedAt": "2026-03-23T05:56:51.968303+09:00",
+  "updatedLabel": "2026-03-23 05:56:51 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3003,10 +3003,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 68195.11,
+      "price": 68123.08,
       "previousClose": 68903.22,
-      "change": -708.11,
-      "changePercent": -1.0277,
+      "change": -780.14,
+      "changePercent": -1.1322,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3668,7 +3668,7 @@
         ],
         [
           1774186800000,
-          68564.640625
+          68583.570312
         ],
         [
           1774187100000,
@@ -3744,7 +3744,7 @@
         ],
         [
           1774192500000,
-          68854.640625
+          68865.382812
         ],
         [
           1774192800000,
@@ -3876,7 +3876,7 @@
         ],
         [
           1774202400000,
-          68619.085938
+          68643.59375
         ],
         [
           1774202700000,
@@ -3960,20 +3960,68 @@
         ],
         [
           1774208700000,
-          68266.421875
+          68194.101562
         ],
         [
           1774209000000,
-          68188.554688
+          68203.523438
         ],
         [
-          1774209180000,
-          68195.109375
+          1774209300000,
+          68184.289062
+        ],
+        [
+          1774209600000,
+          68302.132812
+        ],
+        [
+          1774209900000,
+          68308.664062
+        ],
+        [
+          1774210200000,
+          68303.984375
+        ],
+        [
+          1774210500000,
+          68378.484375
+        ],
+        [
+          1774210800000,
+          68418.03125
+        ],
+        [
+          1774211100000,
+          68307.742188
+        ],
+        [
+          1774211400000,
+          68312.492188
+        ],
+        [
+          1774211700000,
+          68262.09375
+        ],
+        [
+          1774212000000,
+          68358.960938
+        ],
+        [
+          1774212300000,
+          68326.648438
+        ],
+        [
+          1774212600000,
+          68176.929688
+        ],
+        [
+          1774212840000,
+          68123.078125
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-23 04:53 KST",
-      "marketTimestamp": 1774209180
+      "marketTime": "2026-03-23 05:54 KST",
+      "marketTimestamp": 1774212840
     }
   ],
   "mainCharts": [
@@ -5274,7 +5322,7 @@
     {
       "title": "\"해외로 가던 투자자금, 이란전쟁에 미국으로 유턴\"",
       "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95d1FNRFRfVXZESURiMDdtczJMMFZteHlfYWhFMjJxUFJfLUxieFpZSWN1LUU0Z3NVUmwxX2QwNE9EN3ZoaDk4aU83NzRVSWxVa2JfZmdLRlFTVlpQY0drcdIBYEFVX3lxTE95d1FNRFRfVXZESURiMDdtczJMMFZteHlfYWhFMjJxUFJfLUxieFpZSWN1LUU0Z3NVUmwxX2QwNE9EN3ZoaDk4aU83NzRVSWxVa2JfZmdLRlFTVlpQY0drcQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12UV9Da2RYeC1Odm1LUk4ta0NEbHF3NzBRRzhLYTBnaHVrODZ4bF9JV01ReDV5Vy0yRFRDSU0xX1hMM0N3blBZeU1qSURJQ1JKeUhacEVQQkFjaknSAWBBVV95cUxPeXdRTURUX1V2RElEYjA3bXMyTDBWbXh5X2FoRTIycVBSXy1MYnhaWUljdS1FNGdzVVJsMV9kMDRPRDd2aGg5OGlPNzc0VUlsVWtiX2ZnS0ZRU1ZaUGNHa3E?oc=5",
       "publishedAt": "Sun, 22 Mar 2026 16:58:50 GMT"
     },
     {
@@ -5288,6 +5336,12 @@
       "source": "브레이크뉴스",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JdjEzT3Uwc2dhRWhXRURXX3I0Zk01dEdqcnM3cS0zbVlSbXhhbFZyWHV4VXRjcC1vY3lQQVdtMjhnY3l5aWt3?oc=5",
       "publishedAt": "Sun, 22 Mar 2026 06:16:58 GMT"
+    },
+    {
+      "title": "[금융이슈 Summary] 중동발 고환율의 역습, 보험사 외화자산 ‘비용 쇼크’",
+      "source": "한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHUThOckFnNkJRcElORFl5MHh5UFVYV2pLVExlY3dWdzlEOE9VNUQxbndNcUhFNE9hdkNOZnZTcG5KR280YUthdElobWltdzc3TS1iUjdmRWpMTHdnNXp1WDZsT1IzcjhyRUk40gFvQVVfeXFMTUl5MTJDa1hXaGN3eHN5b25oNWF1Z2hMRllCUW9kczdDWHFVWENGME9XSk0xdU0yYXRaeURmUU1fNmF2OV91NlVDYUktOFlXSl9IdjNKNUhCeXRKLUFrWHFUQXhtYmFLek9DNnY4V2ZR?oc=5",
+      "publishedAt": "Sun, 22 Mar 2026 15:00:00 GMT"
     },
     {
       "title": "코인·빅테크·부동산 자금 이탈…개인투자자 `국장` 대거 유입",
@@ -5312,12 +5366,6 @@
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yLWNnS0czVUQyS2s3dk9Rc2M4bzRlNUUyS2Znd2dkTWxSVXdGREhmMS1YUDJSVnJRakFFZFc5VHgyYTdhRXh0Q2kzUTVKOU0?oc=5",
       "publishedAt": "Sun, 22 Mar 2026 04:57:44 GMT"
-    },
-    {
-      "title": "뉴욕·상하이 증시, 美 지상군 투입땐 증시 조정 가능성",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMYmNsdGxBSUdLWlBRTkVJNG0zSTR3SXhnVFRiaFI4SVlDbmsyY0IzRHdRbk01ZzJWWGRVNmhoZnhLOFhqM3FYWlJ4bS1ZZFY5TVRydmtQZUs4UdIBVEFVX3lxTE55TXBVSFl5RUZWU3pYbFlzMkRmdmQzbXVMS09pd01tcUgweUhHcDZLcS1hQ0JfLUtWbHJNZ2w0WG1pWGFYZWVfSE1BSUtaX3FkT3ZrUw?oc=5",
-      "publishedAt": "Sun, 22 Mar 2026 09:17:20 GMT"
     }
   ],
   "summary": {
@@ -5368,7 +5416,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -1.0277,
+        "changePercent": -1.1322,
         "direction": "하락"
       }
     ]
