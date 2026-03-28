@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-29T06:51:53.504196+09:00",
-  "updatedLabel": "2026-03-29 06:51:53 KST",
+  "updatedAt": "2026-03-29T08:02:12.494453+09:00",
+  "updatedLabel": "2026-03-29 08:02:12 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2655,6 +2655,10 @@
         [
           1774645500000,
           1508.060059
+        ],
+        [
+          1774645800000,
+          1508.060059
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4663,7 +4667,7 @@
         ],
         [
           1774644900000,
-          4521.299805
+          4520.5
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4677,10 +4681,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 66750.984,
+      "price": 66693.78,
       "previousClose": 66363.414,
-      "change": 387.57,
-      "changePercent": 0.584,
+      "change": 330.366,
+      "changePercent": 0.4978,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5110,7 +5114,7 @@
         ],
         [
           1774687800000,
-          66360.164062
+          66359.726562
         ],
         [
           1774688100000,
@@ -5474,7 +5478,7 @@
         ],
         [
           1774715100000,
-          67037.109375
+          67038.539062
         ],
         [
           1774715400000,
@@ -5482,7 +5486,7 @@
         ],
         [
           1774715700000,
-          66938.15625
+          66928.835938
         ],
         [
           1774716000000,
@@ -5730,16 +5734,72 @@
         ],
         [
           1774734300000,
-          66753.007812
+          66750.984375
         ],
         [
-          1774734540000,
-          66750.984375
+          1774734600000,
+          66591.984375
+        ],
+        [
+          1774734900000,
+          66648.757812
+        ],
+        [
+          1774735200000,
+          66630.804688
+        ],
+        [
+          1774735500000,
+          66653.890625
+        ],
+        [
+          1774735800000,
+          66596.40625
+        ],
+        [
+          1774736100000,
+          66636.8125
+        ],
+        [
+          1774736400000,
+          66712.867188
+        ],
+        [
+          1774736700000,
+          66701.390625
+        ],
+        [
+          1774737000000,
+          66720.328125
+        ],
+        [
+          1774737300000,
+          66692.710938
+        ],
+        [
+          1774737600000,
+          66682.335938
+        ],
+        [
+          1774737900000,
+          66701.28125
+        ],
+        [
+          1774738200000,
+          66696.78125
+        ],
+        [
+          1774738500000,
+          66690.132812
+        ],
+        [
+          1774738740000,
+          66693.78125
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-29 06:49 KST",
-      "marketTimestamp": 1774734540
+      "marketTime": "2026-03-29 07:59 KST",
+      "marketTimestamp": 1774738740
     }
   ],
   "mainCharts": [
@@ -7039,21 +7099,21 @@
   "headlines": [
     {
       "title": "미국증시 전망, 1차 저가 매수할 시점이 다가온다 (feat. SOXL, TQQQ)",
-      "source": "네이버 프리미엄콘텐츠",
+      "source": "contents.premium.naver.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUXU4dUNmb3dyMXVGeks3N2dMR3ZlM2VBYnVKUVVOeHdVbjBXX3B5MHVBTDh5Z2JGRmdBd0FzMVlsUWppcFhZV2NtQWlwYzlHQ1VFaUJMeXFsclRkWVo4TVFHUXVobl83WU05LTNxMWJtTkN6SHV2dTdzcEp0WGpLOFJDYw?oc=5",
       "publishedAt": "Sat, 28 Mar 2026 12:45:00 GMT"
     },
     {
-      "title": "外人 투매에 출렁인 코스피…4월 증시 전망은 [선데이 머니카페]",
-      "source": "서울경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nUlo4Y0ZfX200d1NSTmx4dVFwc19zcVVWU3RVNF96QzVkd1RkQ2Y3aDRHN3lCb1Y4a2RnWmlYYy1zUmVZWFUzT2xsM0JUYzZHT3fSAVNBVV95cUxOeUg3LVhOMjNVVUo1RWhGbzU4T29XTFNWTVZtYlhJV05kcDZVd1BUbUxfd19iQlVMTkNOaUlKRWZXMkJZVXlETmdOb2dWVDNnVFg4RQ?oc=5",
-      "publishedAt": "Sat, 28 Mar 2026 21:30:00 GMT"
-    },
-    {
       "title": "이란 전쟁 한 달 만에…국내 증시 시총 687兆 녹았다",
       "source": "뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95Zkx5VGYza3FhUy1fa1lJVWpEZFNkV0NHT0ZCMkhSUnNuQTN2cHdNSmlTLWtIT25jWjVJNTZqLXJVMHVwRVNZb3AzNnVXR3QwbHIzblFLbElLcWZLZUFDedIBeEFVX3lxTE5JcjdCRC05cFdORmZLTGZUS2VMcjlCQTYyVGtYcFJsaDdNWndDZzd3WE1LNVkyS1p4Tng4NGxfM2J0LW03N0JjVUdweWV6bzJJdDd4ZUhoWXREc1paWHlnbWgzRnJCUXE2VVh5NmNxY1JQX1VrMll1dQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JcjdCRC05cFdORmZLTGZUS2VMcjlCQTYyVGtYcFJsaDdNWndDZzd3WE1LNVkyS1p4Tng4NGxfM2J0LW03N0JjVUdweWV6bzJJdDd4ZUhoWXREc1paWHlnbWgzRnJCUXE2VVh5NmNxY1JQX1VrMll1ddIBeEFVX3lxTE5JcjdCRC05cFdORmZLTGZUS2VMcjlCQTYyVGtYcFJsaDdNWndDZzd3WE1LNVkyS1p4Tng4NGxfM2J0LW03N0JjVUdweWV6bzJJdDd4ZUhoWXREc1paWHlnbWgzRnJCUXE2VVh5NmNxY1JQX1VrMll1dQ?oc=5",
       "publishedAt": "Sat, 28 Mar 2026 21:00:00 GMT"
+    },
+    {
+      "title": "外人 투매에 출렁인 코스피…4월 증시 전망은 [선데이 머니카페]",
+      "source": "서울경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55SDctWE4yM1VVSjVFaEZvNThPb1dMU1ZNVm1iWElXTmRwNlV3UFRtTF93X2JCVUxOQ05pSUpFZlcyQllVeUROZ05vZ1ZUM2dUWDhF0gFTQVVfeXFMTnlINy1YTjIzVVVKNUVoRm81OE9vV0xTVk1WbWJYSVdOZHA2VXdQVG1MX3dfYkJVTE5DTmlJSkVmVzJCWVV5RE5nTm9nVlQzZ1RYOEU?oc=5",
+      "publishedAt": "Sat, 28 Mar 2026 21:30:00 GMT"
     },
     {
       "title": "뉴욕증시 '조정' 국면 진입‥멀어진 금리 인하, 우리 증시는?",
@@ -7062,16 +7122,16 @@
       "publishedAt": "Sat, 28 Mar 2026 11:12:03 GMT"
     },
     {
+      "title": "코스피, 뉴욕증시 약세 속 변동성 확대 국면…수출·고용 지표 주목[주간증시전망]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54ajlTeVlvdFVqV0h2amdaS0VwQ0dRSGs3bWJFLVJ6Q1hvY0k5YjVONTNhc1pmYkFyRTdWUUFvNk5BTE11QnVXM1VTc3lTLU5GYmJz?oc=5",
+      "publishedAt": "Sat, 28 Mar 2026 22:01:00 GMT"
+    },
+    {
       "title": "“돌아와요 증시에” 증권사들, 휴면 고객 모시기 경쟁",
       "source": "시사저널e",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10X203UVdzLUttakV0V2dDRndBcHVQM0xmT0E0czZydEZjbG5mNGkwa0Vod3ZVbFN6WFdKWktvaVcxN041ZURFNVNuckZyVlpobTUxdTgxazhXNE50ZUlldGI0UGxsTHY0dGNjMmREUGdjakdSSlHSAXZBVV95cUxNdF9tN1FXcy1LbWpFdFdnQ0Z3QXB1UDNMZk9BNHM2cnRGY2xuZjRpMGtFaHd2VWxTelhXSlpLb2lXMTdONWVERTVTbnJGclZaaG01MXU4MWs4VzROdGVJZXRiNFBsbEx2NHRjYzJkRFBnY2pHUkpR?oc=5",
       "publishedAt": "Sat, 28 Mar 2026 02:52:00 GMT"
-    },
-    {
-      "title": "外人 투매에 출렁인 코스피…4월 증시 전망은 [선데이 머니카페]",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VMS1hbTJoLVNFWTY1TW1SLTdwWUVOVy00VW1pNWhiLUFMcy15bjZjNHVHSlg1YkgxbU1LQlpmMFZ2aVVkVjF4aHNnZ1R5c2NqMXVF?oc=5",
-      "publishedAt": "Sat, 28 Mar 2026 21:31:00 GMT"
     },
     {
       "title": "중동 정세·한미 경제지표 주목…코스피 5300~6000 [주간 증시 전망]",
@@ -7081,7 +7141,7 @@
     },
     {
       "title": "[포커스] 1,500원 환율 시대, 한국 경제의 경고음",
-      "source": "ceomagazine.co.kr",
+      "source": "CEONEWS",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CWkQzTTVWUWVGa1VVTWRYa0tkcnBSUXZkRGx1blhET0hnSEZaWEZtODMwc3hfYUFjY1RrbXg2aWJ1QVd0RTJLbnFNRFA5WFd2bFhNNEtjd2V6c1IzUDA4?oc=5",
       "publishedAt": "Sat, 28 Mar 2026 06:14:00 GMT"
     }
@@ -7117,7 +7177,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.584,
+        "changePercent": 0.4978,
         "direction": "상승"
       }
     ],
