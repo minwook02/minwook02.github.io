@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-28T16:52:07.254353+09:00",
-  "updatedLabel": "2026-03-28 16:52:07 KST",
+  "updatedAt": "2026-03-28T18:54:45.604345+09:00",
+  "updatedLabel": "2026-03-28 18:54:45 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2655,10 +2655,6 @@
         [
           1774645500000,
           1508.060059
-        ],
-        [
-          1774645800000,
-          1508.060059
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4681,12 +4677,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 66418.65,
+      "price": 66215.68,
       "previousClose": 66363.414,
-      "change": 55.236,
-      "changePercent": 0.0832,
-      "tone": "flat",
-      "direction": "보합",
+      "change": -147.734,
+      "changePercent": -0.2226,
+      "tone": "down",
+      "direction": "하락",
       "series": [
         [
           1774656000000,
@@ -5062,16 +5058,116 @@
         ],
         [
           1774683900000,
-          66415.390625
+          66418.648438
         ],
         [
-          1774684140000,
-          66418.648438
+          1774684200000,
+          66438.921875
+        ],
+        [
+          1774684500000,
+          66508.242188
+        ],
+        [
+          1774684800000,
+          66489.96875
+        ],
+        [
+          1774685100000,
+          66475.59375
+        ],
+        [
+          1774685400000,
+          66461.890625
+        ],
+        [
+          1774685700000,
+          66470.96875
+        ],
+        [
+          1774686000000,
+          66498.898438
+        ],
+        [
+          1774686300000,
+          66504.640625
+        ],
+        [
+          1774686600000,
+          66491.03125
+        ],
+        [
+          1774686900000,
+          66448.601562
+        ],
+        [
+          1774687200000,
+          66409.460938
+        ],
+        [
+          1774687500000,
+          66394.703125
+        ],
+        [
+          1774687800000,
+          66359.726562
+        ],
+        [
+          1774688100000,
+          66355.976562
+        ],
+        [
+          1774688400000,
+          66324.195312
+        ],
+        [
+          1774688700000,
+          66302.078125
+        ],
+        [
+          1774689000000,
+          66311.0
+        ],
+        [
+          1774689300000,
+          66307.492188
+        ],
+        [
+          1774689600000,
+          66347.75
+        ],
+        [
+          1774689900000,
+          66341.453125
+        ],
+        [
+          1774690200000,
+          66284.398438
+        ],
+        [
+          1774690500000,
+          66259.773438
+        ],
+        [
+          1774690800000,
+          66258.765625
+        ],
+        [
+          1774691100000,
+          66253.804688
+        ],
+        [
+          1774691400000,
+          66218.507812
+        ],
+        [
+          1774691520000,
+          66215.679688
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-28 16:49 KST",
-      "marketTimestamp": 1774684140
+      "marketTime": "2026-03-28 18:52 KST",
+      "marketTimestamp": 1774691520
     }
   ],
   "mainCharts": [
@@ -6370,16 +6466,22 @@
   ],
   "headlines": [
     {
+      "title": "한은도 4월 금리 동결 가능성…이란사태로 물가·환율 불안",
+      "source": "kita.net",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaFhPMXFHejZTZ2dQd2N2aFJrdnBrQ014UVh0VHNYdXhoSEpIcGNOUHlsQzhkTGV3S253TWUtYUk5cU1LNW9TQlRXQ1VURF85Zmc2TFNaSVlnaDNBUTVkSXA2di1NZlQ4eVVIUG42V19PTUx0NDVhTF9Rb0tDRVhDTTkyamw3Y3RCN1ZiOU1WYUdMbkVsRTktbExHZ0NLRE5KS3ppcHBHMWFlSVl4MTdRZnVYRHU3aG9oNU5UZFBCcldoWFpyclc3NnRsSnYzYTg4cmhWV1lR?oc=5",
+      "publishedAt": "Sat, 28 Mar 2026 06:19:54 GMT"
+    },
+    {
       "title": "“돌아와요 증시에” 증권사들, 휴면 고객 모시기 경쟁",
       "source": "시사저널e",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10X203UVdzLUttakV0V2dDRndBcHVQM0xmT0E0czZydEZjbG5mNGkwa0Vod3ZVbFN6WFdKWktvaVcxN041ZURFNVNuckZyVlpobTUxdTgxazhXNE50ZUlldGI0UGxsTHY0dGNjMmREUGdjakdSSlHSAXZBVV95cUxNdF9tN1FXcy1LbWpFdFdnQ0Z3QXB1UDNMZk9BNHM2cnRGY2xuZjRpMGtFaHd2VWxTelhXSlpLb2lXMTdONWVERTVTbnJGclZaaG01MXU4MWs4VzROdGVJZXRiNFBsbEx2NHRjYzJkRFBnY2pHUkpR?oc=5",
       "publishedAt": "Sat, 28 Mar 2026 02:52:00 GMT"
     },
     {
-      "title": "한은도 4월 금리 동결 가능성…이란사태로 물가·환율 불안",
-      "source": "kita.net",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaFhPMXFHejZTZ2dQd2N2aFJrdnBrQ014UVh0VHNYdXhoSEpIcGNOUHlsQzhkTGV3S253TWUtYUk5cU1LNW9TQlRXQ1VURF85Zmc2TFNaSVlnaDNBUTVkSXA2di1NZlQ4eVVIUG42V19PTUx0NDVhTF9Rb0tDRVhDTTkyamw3Y3RCN1ZiOU1WYUdMbkVsRTktbExHZ0NLRE5KS3ppcHBHMWFlSVl4MTdRZnVYRHU3aG9oNU5UZFBCcldoWFpyclc3NnRsSnYzYTg4cmhWV1lR?oc=5",
-      "publishedAt": "Sat, 28 Mar 2026 06:19:54 GMT"
+      "title": "중동 사태 이후 코스피 수익률 -12.6%…G20 중 '최하위' 왜?",
+      "source": "뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1MjJFMzA0QkpRZlpwMUZPUFdWUTBNdFd6T1lUcnRwM2tySDQ3bVdBYmw3ZHVHVEd3R3FWSWdCWGtaMDZPVDZlUHZFQms1WkwxTzVvalZUOXFxYlVUS05zWm5LUmxDT2JaUDE0S2RPMXpIM01FQi03bNIBeEFVX3lxTFA1MjJFMzA0QkpRZlpwMUZPUFdWUTBNdFd6T1lUcnRwM2tySDQ3bVdBYmw3ZHVHVEd3R3FWSWdCWGtaMDZPVDZlUHZFQms1WkwxTzVvalZUOXFxYlVUS05zWm5LUmxDT2JaUDE0S2RPMXpIM01FQi03bA?oc=5",
+      "publishedAt": "Fri, 27 Mar 2026 23:02:23 GMT"
     },
     {
       "title": "미국증시 장중..4대지수·메타·MSFT '급락', WTI·10년물금리 '껑충'",
@@ -6394,28 +6496,22 @@
       "publishedAt": "Sat, 28 Mar 2026 00:49:05 GMT"
     },
     {
-      "title": "중동 사태 이후 코스피 수익률 -12.6%…G20 중 '최하위' 왜?",
-      "source": "뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1MjJFMzA0QkpRZlpwMUZPUFdWUTBNdFd6T1lUcnRwM2tySDQ3bVdBYmw3ZHVHVEd3R3FWSWdCWGtaMDZPVDZlUHZFQms1WkwxTzVvalZUOXFxYlVUS05zWm5LUmxDT2JaUDE0S2RPMXpIM01FQi03bNIBeEFVX3lxTFA1MjJFMzA0QkpRZlpwMUZPUFdWUTBNdFd6T1lUcnRwM2tySDQ3bVdBYmw3ZHVHVEd3R3FWSWdCWGtaMDZPVDZlUHZFQms1WkwxTzVvalZUOXFxYlVUS05zWm5LUmxDT2JaUDE0S2RPMXpIM01FQi03bA?oc=5",
-      "publishedAt": "Fri, 27 Mar 2026 23:02:23 GMT"
+      "title": "1,500원 환율 시대, 한국 경제의 경고음",
+      "source": "CEONEWS",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CWkQzTTVWUWVGa1VVTWRYa0tkcnBSUXZkRGx1blhET0hnSEZaWEZtODMwc3hfYUFjY1RrbXg2aWJ1QVd0RTJLbnFNRFA5WFd2bFhNNEtjd2V6c1IzUDA4?oc=5",
+      "publishedAt": "Sat, 28 Mar 2026 06:14:00 GMT"
     },
     {
       "title": "삼성전자도 미국 상장하나… \"110조 투자해도 마이크론 절반 대우\" [코리아 디스카운트 탈출구]",
-      "source": "초이스스탁US",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01SUNqbml4LW5lY0o5eWQ2NFhQUDQzMjNZUnAwYjd4Vjk1WGZvZzhkOFZtYlFZTkYyaFpzZ0FNM3dpV0hzQXZlZ2pTdHczSk9WUWNoVW5Lb1VZbjl0Yy1IV0p0R2otbEU?oc=5",
-      "publishedAt": "Fri, 27 Mar 2026 22:15:00 GMT"
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0hPSVBkZE5tM0dFZDFHck1DS1hhTDJNZkowVlh2V0NaTmRmb3NxRDlTTVZkY0R0VVlVN2hYU1FSLTlXaVpXSkdHZS1iM0pvaTNpQkN0QkdJXzBTaml0ZXF3SW55QW1rVVZiNlBkQnJvMnFjTXA0UHMtWlowQmFLallxTF9IRmY3?oc=5",
+      "publishedAt": "Fri, 27 Mar 2026 22:15:40 GMT"
     },
     {
-      "title": "[슬금슬금] 쓰레기봉투부터 수액백까지…증시가 먼저 알아챈 ‘나프타 쇼크’",
-      "source": "서울와이어",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kWFh5SWFwanc5STVoTEtfQWo5YlFBQ1JmdHRSeTBqaWRNSUZscHcxWXM1ZVNybnZYRGNpUUNjbGc2c0ZMaTE2VW1TRFpqTHc3eGhPcVJPNWc5NG5sWFdZS25aWDNTNDRGTVJN?oc=5",
-      "publishedAt": "Sat, 28 Mar 2026 01:00:00 GMT"
-    },
-    {
-      "title": "엔·달러 환율 160엔 찍었다…미국-이란 전쟁 여파",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50TGVPblFUdDhWNlRfRmU0YWlNTWs0WnNyak5xMUJFNDZ1NGEzSVNubncwQkNuSmtEZ0lqOFc0Y21SblBRbDF5dEl0alNwandqa2lR?oc=5",
-      "publishedAt": "Sat, 28 Mar 2026 01:31:00 GMT"
+      "title": "금리 상승과 강달러로 휘청이는 글로벌 증시",
+      "source": "한국공공정책신문",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5DQVJzZlZVOVpaS0c5NGhNLVZxb0hNSjlGOTlaWUhtTGJZb1M2em5qZHVIUnZEb2l0LVc2ZlFJeml1VFU?oc=5",
+      "publishedAt": "Sat, 28 Mar 2026 09:06:13 GMT"
     }
   ],
   "summary": {
