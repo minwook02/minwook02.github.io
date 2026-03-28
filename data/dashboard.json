@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-28T14:15:53.260631+09:00",
-  "updatedLabel": "2026-03-28 14:15:53 KST",
+  "updatedAt": "2026-03-28T16:52:07.254353+09:00",
+  "updatedLabel": "2026-03-28 16:52:07 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2655,6 +2655,10 @@
         [
           1774645500000,
           1508.060059
+        ],
+        [
+          1774645800000,
+          1508.060059
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4663,7 +4667,7 @@
         ],
         [
           1774644900000,
-          4521.299805
+          4520.5
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4677,12 +4681,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 66191.164,
+      "price": 66418.65,
       "previousClose": 66363.414,
-      "change": -172.25,
-      "changePercent": -0.2596,
-      "tone": "down",
-      "direction": "하락",
+      "change": 55.236,
+      "changePercent": 0.0832,
+      "tone": "flat",
+      "direction": "보합",
       "series": [
         [
           1774656000000,
@@ -4934,16 +4938,140 @@
         ],
         [
           1774674600000,
-          66177.15625
+          66191.882812
         ],
         [
-          1774674780000,
-          66191.164062
+          1774674900000,
+          66208.53125
+        ],
+        [
+          1774675200000,
+          66257.742188
+        ],
+        [
+          1774675500000,
+          66312.164062
+        ],
+        [
+          1774675800000,
+          66301.90625
+        ],
+        [
+          1774676100000,
+          66284.21875
+        ],
+        [
+          1774676400000,
+          66250.921875
+        ],
+        [
+          1774676700000,
+          66302.195312
+        ],
+        [
+          1774677000000,
+          66318.164062
+        ],
+        [
+          1774677300000,
+          66309.601562
+        ],
+        [
+          1774677600000,
+          66267.3125
+        ],
+        [
+          1774677900000,
+          66321.328125
+        ],
+        [
+          1774678200000,
+          66300.039062
+        ],
+        [
+          1774678500000,
+          66446.078125
+        ],
+        [
+          1774678800000,
+          66399.453125
+        ],
+        [
+          1774679100000,
+          66416.460938
+        ],
+        [
+          1774679400000,
+          66415.921875
+        ],
+        [
+          1774679700000,
+          66401.296875
+        ],
+        [
+          1774680000000,
+          66407.546875
+        ],
+        [
+          1774680300000,
+          66367.765625
+        ],
+        [
+          1774680600000,
+          66342.195312
+        ],
+        [
+          1774680900000,
+          66365.632812
+        ],
+        [
+          1774681200000,
+          66360.007812
+        ],
+        [
+          1774681500000,
+          66370.96875
+        ],
+        [
+          1774681800000,
+          66378.6875
+        ],
+        [
+          1774682100000,
+          66432.585938
+        ],
+        [
+          1774682400000,
+          66435.953125
+        ],
+        [
+          1774682700000,
+          66418.6875
+        ],
+        [
+          1774683000000,
+          66402.101562
+        ],
+        [
+          1774683300000,
+          66398.953125
+        ],
+        [
+          1774683600000,
+          66398.90625
+        ],
+        [
+          1774683900000,
+          66415.390625
+        ],
+        [
+          1774684140000,
+          66418.648438
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-28 14:13 KST",
-      "marketTimestamp": 1774674780
+      "marketTime": "2026-03-28 16:49 KST",
+      "marketTimestamp": 1774684140
     }
   ],
   "mainCharts": [
@@ -6248,16 +6376,34 @@
       "publishedAt": "Sat, 28 Mar 2026 02:52:00 GMT"
     },
     {
+      "title": "한은도 4월 금리 동결 가능성…이란사태로 물가·환율 불안",
+      "source": "kita.net",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaFhPMXFHejZTZ2dQd2N2aFJrdnBrQ014UVh0VHNYdXhoSEpIcGNOUHlsQzhkTGV3S253TWUtYUk5cU1LNW9TQlRXQ1VURF85Zmc2TFNaSVlnaDNBUTVkSXA2di1NZlQ4eVVIUG42V19PTUx0NDVhTF9Rb0tDRVhDTTkyamw3Y3RCN1ZiOU1WYUdMbkVsRTktbExHZ0NLRE5KS3ppcHBHMWFlSVl4MTdRZnVYRHU3aG9oNU5UZFBCcldoWFpyclc3NnRsSnYzYTg4cmhWV1lR?oc=5",
+      "publishedAt": "Sat, 28 Mar 2026 06:19:54 GMT"
+    },
+    {
       "title": "미국증시 장중..4대지수·메타·MSFT '급락', WTI·10년물금리 '껑충'",
       "source": "초이스경제",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tQWxLX0IzNkIzSnV2S0FNODlISkRDaXdFNkVzNW1lMlkyN0JobGtrVWhyYzZXSkxWbnlzS1FlUzR6UFZXX3Q4T2FuMnNkT1lwbEJIOGtob19MNDRXdlRGOUl0SG52OE51NlVaMnlfNnHSAXNBVV95cUxPbXh0d3pSTlBzN3RUQXdBOHMxN0xjYWd6YmdtQVNQdVM0MUx5VElNenlNYnlGY3BVOVdORUNvWlBfckFqWEk1dnlycl85ZUZ1YTk0N0loS19ucUw3T1ppWWRpbG9aeEtoU0I3TUN2dlIyYjVB?oc=5",
       "publishedAt": "Fri, 27 Mar 2026 19:30:25 GMT"
     },
     {
-      "title": "증시 뒤흔든 터보퀀트 충격…\"결국 웃는 건 삼전·하닉\" 왜",
-      "source": "joongang.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0YXYydmRUVXJCSmZPNkFON0w0RUUyalB6d0Rvajk2eGMzWGtYZ1hVeW5CdTNyMVU3TmM2cHM5cDVhd0VmeTZYczA3WmtsZ2tJZERRZEpn?oc=5",
-      "publishedAt": "Fri, 27 Mar 2026 07:22:28 GMT"
+      "title": "중동전쟁에 구글 터보퀀트까지… 삼전·SK하닉 ‘흔들’ [주간 증시해설서]",
+      "source": "더스쿠프",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVYjVFYkpFLVh4ZVZvX2pEbC11QTluN04yVWttUGFQNDZtZl9TOFAycXVqbEpfd1ppZTJpY05BWGx1TzBzNXUtVTY3U1lVc0dQWDYtQlJENTlLMndfaVpNWFVha3RSRkJfV3RnaWRn?oc=5",
+      "publishedAt": "Sat, 28 Mar 2026 00:49:05 GMT"
+    },
+    {
+      "title": "중동 사태 이후 코스피 수익률 -12.6%…G20 중 '최하위' 왜?",
+      "source": "뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1MjJFMzA0QkpRZlpwMUZPUFdWUTBNdFd6T1lUcnRwM2tySDQ3bVdBYmw3ZHVHVEd3R3FWSWdCWGtaMDZPVDZlUHZFQms1WkwxTzVvalZUOXFxYlVUS05zWm5LUmxDT2JaUDE0S2RPMXpIM01FQi03bNIBeEFVX3lxTFA1MjJFMzA0QkpRZlpwMUZPUFdWUTBNdFd6T1lUcnRwM2tySDQ3bVdBYmw3ZHVHVEd3R3FWSWdCWGtaMDZPVDZlUHZFQms1WkwxTzVvalZUOXFxYlVUS05zWm5LUmxDT2JaUDE0S2RPMXpIM01FQi03bA?oc=5",
+      "publishedAt": "Fri, 27 Mar 2026 23:02:23 GMT"
+    },
+    {
+      "title": "삼성전자도 미국 상장하나… \"110조 투자해도 마이크론 절반 대우\" [코리아 디스카운트 탈출구]",
+      "source": "초이스스탁US",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01SUNqbml4LW5lY0o5eWQ2NFhQUDQzMjNZUnAwYjd4Vjk1WGZvZzhkOFZtYlFZTkYyaFpzZ0FNM3dpV0hzQXZlZ2pTdHczSk9WUWNoVW5Lb1VZbjl0Yy1IV0p0R2otbEU?oc=5",
+      "publishedAt": "Fri, 27 Mar 2026 22:15:00 GMT"
     },
     {
       "title": "[슬금슬금] 쓰레기봉투부터 수액백까지…증시가 먼저 알아챈 ‘나프타 쇼크’",
@@ -6266,28 +6412,10 @@
       "publishedAt": "Sat, 28 Mar 2026 01:00:00 GMT"
     },
     {
-      "title": "RIA 계좌 3일 만에 3만건 육박…국내 증시 ‘자금 유턴’ 신호탄",
-      "source": "인더스트리뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE40NU4yb011cWRHQk5vT1pyeWZCRGVUclZNMVFDTmhJMnkzZjJVLTBZelVCNHR2cVJ3b29XOW1PR0dDX0xyQl9LZi0tbzdJelY1WXVqcDVTZ2d4bkdURzJlaUR0Tzg0UzV2alNjWWlNU0E4QQ?oc=5",
-      "publishedAt": "Fri, 27 Mar 2026 05:51:23 GMT"
-    },
-    {
       "title": "엔·달러 환율 160엔 찍었다…미국-이란 전쟁 여파",
-      "source": "news.nate.com",
+      "source": "네이트",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50TGVPblFUdDhWNlRfRmU0YWlNTWs0WnNyak5xMUJFNDZ1NGEzSVNubncwQkNuSmtEZ0lqOFc0Y21SblBRbDF5dEl0alNwandqa2lR?oc=5",
       "publishedAt": "Sat, 28 Mar 2026 01:31:00 GMT"
-    },
-    {
-      "title": "[이슈앤피플] '한국 증시 70주년' 정은보 한국거래소 이사장 \"아시아 거점 거래소로 발전해야\"",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjZmM5bnJzN1BjOTZUQUU5bXRfNGs2T2lXLWNRMUFURGo3NzhoNndtekowUkE3bHVvR0NJa3Y2TFRrb09FQkFuVGxfbFQzMFdvLXc?oc=5",
-      "publishedAt": "Fri, 27 Mar 2026 09:17:33 GMT"
-    },
-    {
-      "title": "\"4월 전쟁 불확실성 완화로 증시 상승 전환 가능성\" [위클리뷰]",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sNW13NFpfVmQyQjI5RnhWTGZxN3Ywc1RoNjJDaDFQMm5LNThNT1UybzFIRXJvSkRxN3J2WGF5Mzg3RW1FQUtxYThsTHNRV0VIRjl5VFlhYkw4eHFUeXVORDZCaDFVY2YzeGs2OGxoS2xaV1FDSE53WmlwdjdNUlU?oc=5",
-      "publishedAt": "Fri, 27 Mar 2026 06:55:00 GMT"
     }
   ],
   "summary": {
