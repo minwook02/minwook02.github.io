@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-30T05:02:58.155924+09:00",
-  "updatedLabel": "2026-03-30 05:02:58 KST",
+  "updatedAt": "2026-03-30T06:54:18.270403+09:00",
+  "updatedLabel": "2026-03-30 06:54:18 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1508.06,
+      "price": 1507.95,
       "previousClose": 1507.44,
-      "change": 0.62,
-      "changePercent": 0.0411,
+      "change": 0.51,
+      "changePercent": 0.0338,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -2662,8 +2662,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-29 22:20 KST",
-      "marketTimestamp": 1774790428
+      "marketTime": "2026-03-30 06:33 KST",
+      "marketTimestamp": 1774820026
     },
     {
       "id": "us10y",
@@ -3047,12 +3047,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 66294.16,
+      "price": 66629.63,
       "previousClose": 66331.7,
-      "change": -37.54,
-      "changePercent": -0.0566,
-      "tone": "flat",
-      "direction": "보합",
+      "change": 297.93,
+      "changePercent": 0.4492,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1774742400000,
@@ -4016,12 +4016,104 @@
         ],
         [
           1774814400000,
-          66294.15625
+          66378.632812
+        ],
+        [
+          1774814700000,
+          66425.3125
+        ],
+        [
+          1774815000000,
+          66408.351562
+        ],
+        [
+          1774815300000,
+          66501.78125
+        ],
+        [
+          1774815600000,
+          66710.804688
+        ],
+        [
+          1774815900000,
+          66659.320312
+        ],
+        [
+          1774816200000,
+          66647.289062
+        ],
+        [
+          1774816500000,
+          66621.65625
+        ],
+        [
+          1774816800000,
+          66578.195312
+        ],
+        [
+          1774817100000,
+          66566.195312
+        ],
+        [
+          1774817400000,
+          66520.765625
+        ],
+        [
+          1774817700000,
+          66540.960938
+        ],
+        [
+          1774818000000,
+          66543.445312
+        ],
+        [
+          1774818300000,
+          66532.0625
+        ],
+        [
+          1774818600000,
+          66506.28125
+        ],
+        [
+          1774818900000,
+          66508.15625
+        ],
+        [
+          1774819200000,
+          66530.257812
+        ],
+        [
+          1774819500000,
+          66596.984375
+        ],
+        [
+          1774819800000,
+          66628.070312
+        ],
+        [
+          1774820100000,
+          66608.109375
+        ],
+        [
+          1774820400000,
+          66576.789062
+        ],
+        [
+          1774820700000,
+          66623.046875
+        ],
+        [
+          1774821000000,
+          66650.671875
+        ],
+        [
+          1774821060000,
+          66629.632812
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-30 05:00 KST",
-      "marketTimestamp": 1774814400
+      "marketTime": "2026-03-30 06:51 KST",
+      "marketTimestamp": 1774821060
     }
   ],
   "mainCharts": [
@@ -5332,6 +5424,12 @@
       "publishedAt": "Sun, 29 Mar 2026 15:19:00 GMT"
     },
     {
+      "title": "이번주 증시도 변동성 지속…중동 전쟁·美 경제 지표 주목 [주간 증시 전망]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pcFF2T3d0VEdXMURvQ29LbEFaYnQ2aTZSOEFlWWtuM3lkTzFQMHVJeUJNOGZ1eDJlMFROR0xzTUdFejMtVmxNd1F6NXdfb3FkN3ZJ?oc=5",
+      "publishedAt": "Sun, 29 Mar 2026 21:01:00 GMT"
+    },
+    {
       "title": "이란 전쟁 한 달, 국내 증시 시총 687조 녹았다",
       "source": "문화일보",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tSkoxNlpEcUd2Y01yTXFNWmY2WXROdXcxaFBxLWg4czJMb0hGWW5jdmJiR0xLX25mVmQ0Rm1LSkRlQjVCN0dmUE1yT1FWclpT?oc=5",
@@ -5360,12 +5458,6 @@
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wRHA3ZVhIS29hX1ZxbFZlWnlsUHhFaTdEcGZ2TjZKY3FHZU1LVlpHeGtad2JRLTRILXJLTC16ajcxb1dMSksxZjRDUVZtNFgwbE1ocNIBVEFVX3lxTE1wRHA3ZVhIS29hX1ZxbFZlWnlsUHhFaTdEcGZ2TjZKY3FHZU1LVlpHeGtad2JRLTRILXJLTC16ajcxb1dMSksxZjRDUVZtNFgwbE1ocA?oc=5",
       "publishedAt": "Sun, 29 Mar 2026 09:01:50 GMT"
-    },
-    {
-      "title": "[증시전망대]중동 리스크 속 경제지표 주목…코스피, 5300~6000 예상",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kcG5GbjFsNkFZeDJrSXRya2FRRmtaR0R2Y08tVHNNUmZuSGJyR3RYc21jT1ZyWm5OREVoZDZhMjJTMGZvd3lGR2JrZURpQ2M?oc=5",
-      "publishedAt": "Sun, 29 Mar 2026 05:22:02 GMT"
     }
   ],
   "summary": {
@@ -5377,16 +5469,21 @@
     "overview": [
       "국내장은 KOSPI 하락, KOSDAQ 상승 흐름입니다.",
       "해외는 S&P 500 -1.67%, NASDAQ -2.15%로 확인됩니다.",
-      "매크로 변수는 USD/KRW +0.04%, 미 10년물 +0.54%입니다."
+      "매크로 변수는 USD/KRW +0.03%, 미 10년물 +0.54%입니다."
     ],
     "checkpoints": [
       "KOSPI -0.40% 하락",
       "KOSDAQ +0.43% 상승",
       "미국 증시 하락 / 나스닥 -2.15%",
-      "원달러 +0.04% (+0.62)",
+      "원달러 +0.03% (+0.51)",
       "미 10년물 +0.024p (+0.54%)"
     ],
     "leaders": [
+      {
+        "label": "Bitcoin",
+        "changePercent": 0.4492,
+        "direction": "상승"
+      },
       {
         "label": "KOSDAQ",
         "changePercent": 0.4285,
@@ -5394,12 +5491,7 @@
       },
       {
         "label": "USD/KRW",
-        "changePercent": 0.0411,
-        "direction": "보합"
-      },
-      {
-        "label": "WTI",
-        "changePercent": 0.0,
+        "changePercent": 0.0338,
         "direction": "보합"
       }
     ],
