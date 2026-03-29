@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-30T04:23:35.661948+09:00",
-  "updatedLabel": "2026-03-30 04:23:35 KST",
+  "updatedAt": "2026-03-30T05:02:58.155924+09:00",
+  "updatedLabel": "2026-03-30 05:02:58 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3012,11 +3012,11 @@
       "kind": "commodity",
       "decimals": 2,
       "price": 99.64,
-      "previousClose": 94.48,
-      "change": 5.16,
-      "changePercent": 5.4615,
-      "tone": "up",
-      "direction": "상승",
+      "previousClose": 99.64,
+      "change": 0.0,
+      "changePercent": 0.0,
+      "tone": "flat",
+      "direction": "보합",
       "series": [],
       "marketState": "UNKNOWN",
       "marketTime": "2026-03-28 05:59 KST",
@@ -3047,10 +3047,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 66368.805,
+      "price": 66294.16,
       "previousClose": 66331.7,
-      "change": 37.105,
-      "changePercent": 0.0559,
+      "change": -37.54,
+      "changePercent": -0.0566,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -3984,16 +3984,44 @@
         ],
         [
           1774812000000,
-          66389.765625
+          66411.25
         ],
         [
-          1774812060000,
-          66368.804688
+          1774812300000,
+          66363.132812
+        ],
+        [
+          1774812600000,
+          66402.132812
+        ],
+        [
+          1774812900000,
+          66342.9375
+        ],
+        [
+          1774813200000,
+          66329.875
+        ],
+        [
+          1774813500000,
+          66360.585938
+        ],
+        [
+          1774813800000,
+          66304.289062
+        ],
+        [
+          1774814100000,
+          66290.304688
+        ],
+        [
+          1774814400000,
+          66294.15625
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-30 04:21 KST",
-      "marketTimestamp": 1774812060
+      "marketTime": "2026-03-30 05:00 KST",
+      "marketTimestamp": 1774814400
     }
   ],
   "mainCharts": [
@@ -5342,9 +5370,9 @@
   ],
   "summary": {
     "signal": {
-      "label": "Mixed",
-      "tone": "flat",
-      "message": "국내외 자산이 같은 방향으로 움직이지 않는 혼조장입니다."
+      "label": "Defensive",
+      "tone": "down",
+      "message": "환율·안전자산 쏠림이 강해 방어적 흐름입니다."
     },
     "overview": [
       "국내장은 KOSPI 하락, KOSDAQ 상승 흐름입니다.",
@@ -5360,18 +5388,18 @@
     ],
     "leaders": [
       {
-        "label": "WTI",
-        "changePercent": 5.4615,
-        "direction": "상승"
-      },
-      {
         "label": "KOSDAQ",
         "changePercent": 0.4285,
         "direction": "상승"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": 0.0559,
+        "label": "USD/KRW",
+        "changePercent": 0.0411,
+        "direction": "보합"
+      },
+      {
+        "label": "WTI",
+        "changePercent": 0.0,
         "direction": "보합"
       }
     ],
