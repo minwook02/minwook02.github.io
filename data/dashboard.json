@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-03-29T21:02:07.050421+09:00",
-  "updatedLabel": "2026-03-29 21:02:07 KST",
+  "updatedAt": "2026-03-29T23:07:34.108796+09:00",
+  "updatedLabel": "2026-03-29 23:07:34 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2662,8 +2662,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-28 06:12 KST",
-      "marketTimestamp": 1774645941
+      "marketTime": "2026-03-29 22:20 KST",
+      "marketTimestamp": 1774790428
     },
     {
       "id": "us10y",
@@ -3047,10 +3047,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 66766.01,
+      "price": 66444.77,
       "previousClose": 66331.7,
-      "change": 434.31,
-      "changePercent": 0.6548,
+      "change": 113.07,
+      "changePercent": 0.1705,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3628,16 +3628,116 @@
         ],
         [
           1774785300000,
-          66764.304688
+          66766.007812
         ],
         [
-          1774785480000,
-          66766.007812
+          1774785600000,
+          66779.8125
+        ],
+        [
+          1774785900000,
+          66737.960938
+        ],
+        [
+          1774786200000,
+          66749.179688
+        ],
+        [
+          1774786500000,
+          66737.367188
+        ],
+        [
+          1774786800000,
+          66706.570312
+        ],
+        [
+          1774787100000,
+          66732.71875
+        ],
+        [
+          1774787400000,
+          66685.734375
+        ],
+        [
+          1774787700000,
+          66690.90625
+        ],
+        [
+          1774788000000,
+          66710.40625
+        ],
+        [
+          1774788300000,
+          66750.640625
+        ],
+        [
+          1774788600000,
+          66806.304688
+        ],
+        [
+          1774788900000,
+          66785.875
+        ],
+        [
+          1774789200000,
+          66775.476562
+        ],
+        [
+          1774789500000,
+          66537.976562
+        ],
+        [
+          1774789800000,
+          66551.375
+        ],
+        [
+          1774790100000,
+          66581.8125
+        ],
+        [
+          1774790400000,
+          66628.8125
+        ],
+        [
+          1774790700000,
+          66569.632812
+        ],
+        [
+          1774791000000,
+          66619.140625
+        ],
+        [
+          1774791300000,
+          66602.6875
+        ],
+        [
+          1774791600000,
+          66608.492188
+        ],
+        [
+          1774791900000,
+          66565.164062
+        ],
+        [
+          1774792200000,
+          66571.3125
+        ],
+        [
+          1774792500000,
+          66500.601562
+        ],
+        [
+          1774792800000,
+          66437.726562
+        ],
+        [
+          1774793100000,
+          66444.773438
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-03-29 20:58 KST",
-      "marketTimestamp": 1774785480
+      "marketTime": "2026-03-29 23:05 KST",
+      "marketTimestamp": 1774793100
     }
   ],
   "mainCharts": [
@@ -4936,8 +5036,14 @@
   ],
   "headlines": [
     {
+      "title": "미국증시 장중..4대지수·메타·MSFT '급락', WTI·10년물금리 '껑충'",
+      "source": "choicenews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZVTVBZFJIck45S2RGdEJQQzVhbTZvaVlmTldFaWpsaF80a1ltN0wycjdVcWNSRk5wR2xUSHdDazNkcFRvUHRYaEZ1VjZOckhqMzdkc2tJa3ltNG1hbkVVUkowUEVjTmY4Z0hsTkt1QdIBc0FVX3lxTE9teHR3elJOUHM3dFRBd0E4czE3TGNhZ3piZ21BU1B1UzQxTHlUSU16eU1ieUZjcFU5V05FQ29aUF9yQWpYSTV2eXJyXzllRnVhOTQ3SWhLX25xTDdPWmlZZGlsb1p4S2hTQjdNQ3Z2UjJiNUE?oc=5",
+      "publishedAt": "Sun, 29 Mar 2026 11:27:29 GMT"
+    },
+    {
       "title": "이란 전쟁 한 달, 국내 증시 시총 687조 녹았다",
-      "source": "문화일보",
+      "source": "munhwa.com",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tSkoxNlpEcUd2Y01yTXFNWmY2WXROdXcxaFBxLWg4czJMb0hGWW5jdmJiR0xLX25mVmQ0Rm1LSkRlQjVCN0dmUE1yT1FWclpT?oc=5",
       "publishedAt": "Sun, 29 Mar 2026 00:40:48 GMT"
     },
@@ -4961,7 +5067,7 @@
     },
     {
       "title": "코스피, 중동發 변수에도 올 들어 26% '껑충'…4월 '벚꽃랠리' 이어질까",
-      "source": "newsworks.co.kr",
+      "source": "뉴스웍스",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JVk50ODZRdWVtUktCMXU0TnhJYTNRbnpWaE01YkRUbTNCQkNFQVllTXJNcDA2QkN3dW4yRzlwa0FPeEVJVDViVXVJZ0FtcjJCb3B4VHVIR3czTkNnSlQxVVZtVzRZcTZZQlRlOXNBNEZQSTDSAXNBVV95cUxNSVZOdDg2UXVlbVJLQjF1NE54SWEzUW56VmhNNWJEVG0zQkJDRUFZZU1yTXAwNkJDd3VuMkc5cGtBT3hFSVQ1YlV1SWdBbXIyQm9weFR1SEd3M05DZ0pUMVVWbVc0WXE2WUJUZTlzQTRGUEkw?oc=5",
       "publishedAt": "Sun, 29 Mar 2026 05:02:46 GMT"
     },
@@ -4970,12 +5076,6 @@
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lcDRSRE40RTFZczNFQWE2Q3Z0b05sS05Ra3JRU21rYm9SaVd2Y2YwV0tXLWs3aVVzckZYX3BITkY3SkowekRyV2p2MnlvUm1RQlE?oc=5",
       "publishedAt": "Sun, 29 Mar 2026 08:06:56 GMT"
-    },
-    {
-      "title": "[증시전망대]중동 리스크 속 경제지표 주목…코스피, 5300~6000 예상",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kcG5GbjFsNkFZeDJrSXRya2FRRmtaR0R2Y08tVHNNUmZuSGJyR3RYc21jT1ZyWm5OREVoZDZhMjJTMGZvd3lGR2JrZURpQ2M?oc=5",
-      "publishedAt": "Sun, 29 Mar 2026 05:22:02 GMT"
     },
     {
       "title": "트럼프 한마디에 흔들리는 증시…이번 주 종전 협상에 ‘주목’ [주간증시]",
@@ -5014,8 +5114,8 @@
         "direction": "상승"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": 0.6548,
+        "label": "KOSDAQ",
+        "changePercent": 0.4285,
         "direction": "상승"
       }
     ],
