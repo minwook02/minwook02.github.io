@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-04T06:58:59.297251+09:00",
-  "updatedLabel": "2026-04-04 06:58:59 KST",
+  "updatedAt": "2026-04-04T08:51:30.384311+09:00",
+  "updatedLabel": "2026-04-04 08:51:30 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2639,10 +2639,6 @@
         [
           1775249700000,
           1510.540039
-        ],
-        [
-          1775250003000,
-          1510.540039
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4344,10 +4340,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 66928.29,
+      "price": 66897.26,
       "previousClose": 66888.48,
-      "change": 39.81,
-      "changePercent": 0.0595,
+      "change": 8.78,
+      "changePercent": 0.0131,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -5405,16 +5401,104 @@
         ],
         [
           1775253300000,
-          66920.304688
+          66925.671875
         ],
         [
-          1775253360000,
-          66928.289062
+          1775253600000,
+          66916.40625
+        ],
+        [
+          1775253900000,
+          66867.296875
+        ],
+        [
+          1775254200000,
+          66857.796875
+        ],
+        [
+          1775254500000,
+          66867.789062
+        ],
+        [
+          1775254800000,
+          66875.023438
+        ],
+        [
+          1775255100000,
+          66875.445312
+        ],
+        [
+          1775255400000,
+          66914.65625
+        ],
+        [
+          1775255700000,
+          66924.921875
+        ],
+        [
+          1775256000000,
+          66930.632812
+        ],
+        [
+          1775256300000,
+          66866.320312
+        ],
+        [
+          1775256600000,
+          66865.335938
+        ],
+        [
+          1775256900000,
+          66890.34375
+        ],
+        [
+          1775257200000,
+          66886.789062
+        ],
+        [
+          1775257500000,
+          66873.289062
+        ],
+        [
+          1775257800000,
+          66846.734375
+        ],
+        [
+          1775258100000,
+          66862.851562
+        ],
+        [
+          1775258400000,
+          66865.640625
+        ],
+        [
+          1775258700000,
+          66841.5
+        ],
+        [
+          1775259000000,
+          66880.054688
+        ],
+        [
+          1775259300000,
+          66823.523438
+        ],
+        [
+          1775259600000,
+          66859.515625
+        ],
+        [
+          1775259900000,
+          66899.75
+        ],
+        [
+          1775260080000,
+          66897.257812
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-04 06:56 KST",
-      "marketTimestamp": 1775253360
+      "marketTime": "2026-04-04 08:48 KST",
+      "marketTimestamp": 1775260080
     }
   ],
   "mainCharts": [
@@ -6719,22 +6803,22 @@
       "publishedAt": "Fri, 03 Apr 2026 18:15:25 GMT"
     },
     {
-      "title": "“롤러코스터도 먼저 타자”...이란전쟁에 널뛰는 증시, 시간외 거래 석달만에 4배로",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOEppRkRRYklRcm9RRlQ0U2M4TUxDTHdLSTI3ZnRXRHdyQjZrQk5SZ0tXcHZZanRFSzQ2TVo0RXpwbm9IYlBPTUxpRlN5UFJCWkYtS2FvVHAxaXZ2ejlZVmF1YlBpTzlYaXBlRDBtajB1Wm1TV1hBVERmclNiejZTaNIBlAFBVV95cUxPejVpQXpIVTBqLUhHQ0c0YmZSbmFmeTU0NnRqdFRlbDYwODZrM3JNTHNaZGZ3NWdpaHdzdTR4UG5nLTlqNlZTZVFkdDNTckhPU3cxYmpjRlhxYS0ySERBWkpDX2w4NFNJeXBVUUhFaGx2bW1DeE0xVVQ1dktlVkgwREpyYWpHcXBDOGhMNi1XbWpFRmg2?oc=5",
-      "publishedAt": "Thu, 02 Apr 2026 23:10:18 GMT"
+      "title": "증시 호황…한국거래소 당기순이익 7천억 원",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ubnRrMlZQZnNPMllRZkRUcGZlaXhvRjF3WUFsNWlxdThGTVlGQlNmODhZMGpiRnlKODZHU1FxNWVPVTRDTzlZYzU5UVRrZnlEOFp5Rm02TWlicGJzS2tpMVhQaE8tUQ?oc=5",
+      "publishedAt": "Fri, 03 Apr 2026 12:58:00 GMT"
+    },
+    {
+      "title": "[주간증시전망] 전쟁 뉴스에 흔들린 코스피…다음 주 5700선 회복 시험대",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QNWtwVC1pOExkd1RmV3FpNG9ZNzFnSGVXQzN3Yy1Fa0E2OHhmMU1xS2F2Q0R5X3hKbG5RTzZPQU40NjhHUnQzYmRTUFVaWnJCbWpIWQ?oc=5",
+      "publishedAt": "Fri, 03 Apr 2026 23:00:00 GMT"
     },
     {
       "title": "한국·일본 증시, 기술주 강세에 상승...미국 고용지표 대기",
       "source": "Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15amRvZ1ZIeFJUYmJYeFVxYVZucXVoYmZoeTYzSFJSYlBjbGs2amQtNnlqWTJ0YWpRTzhwN0hWdmV6OV9jME5JY3R6eDlLOHVKbzRuVmRXWURvUWlUcWE1aEZhWEl1eUt0Tm44Y04wcTE?oc=5",
       "publishedAt": "Fri, 03 Apr 2026 04:42:00 GMT"
-    },
-    {
-      "title": "증시 호황…한국거래소 당기순이익 7천억 원",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93czE4aFdGcFh6b200dnpPQmx2dGFjSGd3eXhYdTJRQmNaNnM5OGo5bHFOYklRSmc5TmlfX3U0emViX0FVZk0zUWVHTkw1azRLdEJzbHpqSUp6eDA?oc=5",
-      "publishedAt": "Fri, 03 Apr 2026 10:41:00 GMT"
     },
     {
       "title": "개미들 공포에 던질때 美개미 쓸어담았다…'수익률 꼴찌' 韓 ETF 폭풍매수",
@@ -6749,16 +6833,16 @@
       "publishedAt": "Fri, 03 Apr 2026 06:19:49 GMT"
     },
     {
+      "title": "[증시 레이더] 코스피, 호르무즈 기대에 5,377선 회복⋯하루 만에 반등",
+      "source": "포커스온경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSa1NaMEN1RHUzaUJ5U3hfUGZINVdZVGlsaC1FQXR4eWR2V0toYVFnaEdydmRjYUJpQnJHMU5VTWx6SFBUMi1TY1p5VVJSSXJNMVZTNnpSQjBUTVlBWlFpSg?oc=5",
+      "publishedAt": "Fri, 03 Apr 2026 06:53:09 GMT"
+    },
+    {
       "title": "서학개미 해외 순매수 60% 급감… 국내 증시 유턴하나",
       "source": "이코리아",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzQzk5RmdCSGRwSW81ZVZwWmREX19LZ2NiMWNpZnRoTXUtNEt4TktRS25ueWFHeUthNHE3UXBIMWJfU2M1MEQ4M2tlM3Myei1MSS1NTVRhelkwS3VnWENxdlJwVmhUUEJNMmpvaUl6Yw?oc=5",
       "publishedAt": "Fri, 03 Apr 2026 04:03:21 GMT"
-    },
-    {
-      "title": "널뛰기 증시에 '안정성' 각광받는 IMA, NH투자증권도 완판 행진 이어갈까",
-      "source": "비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XaTFGdFlOU29lRmFCZjRWR1pRamY4em10cnFCa0ItQ2JneTIzcGZTUmNIZVU2WFNYMlRiMDhuT1ZOUm9SMFVnanVTamt1UnpoM0M2OW5weU5QNjFqdVpfZVpXcTY4UVozMlBRdWZOZw?oc=5",
-      "publishedAt": "Fri, 03 Apr 2026 08:26:57 GMT"
     }
   ],
   "summary": {
@@ -6803,13 +6887,13 @@
         "direction": "보합"
       },
       {
-        "label": "USD/KRW",
-        "changePercent": 0.045,
+        "label": "Bitcoin",
+        "changePercent": 0.0131,
         "direction": "보합"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": 0.0595,
+        "label": "USD/KRW",
+        "changePercent": 0.045,
         "direction": "보합"
       }
     ]
