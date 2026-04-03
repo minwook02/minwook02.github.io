@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-04T05:02:06.131254+09:00",
-  "updatedLabel": "2026-04-04 05:02:06 KST",
+  "updatedAt": "2026-04-04T06:58:59.297251+09:00",
+  "updatedLabel": "2026-04-04 06:58:59 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1510.47,
+      "price": 1510.54,
       "previousClose": 1509.86,
-      "change": 0.61,
-      "changePercent": 0.0404,
+      "change": 0.68,
+      "changePercent": 0.045,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -2594,16 +2594,60 @@
         ],
         [
           1775246400000,
-          1510.569946
+          1510.72998
         ],
         [
-          1775246518000,
-          1510.469971
+          1775246700000,
+          1510.589966
+        ],
+        [
+          1775247000000,
+          1510.709961
+        ],
+        [
+          1775247300000,
+          1510.719971
+        ],
+        [
+          1775247600000,
+          1510.819946
+        ],
+        [
+          1775247900000,
+          1510.400024
+        ],
+        [
+          1775248200000,
+          1511.170044
+        ],
+        [
+          1775248500000,
+          1510.540039
+        ],
+        [
+          1775248800000,
+          1511.0
+        ],
+        [
+          1775249100000,
+          1510.890015
+        ],
+        [
+          1775249400000,
+          1511.060059
+        ],
+        [
+          1775249700000,
+          1510.540039
+        ],
+        [
+          1775250003000,
+          1510.540039
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-04 05:01 KST",
-      "marketTimestamp": 1775246518
+      "marketTime": "2026-04-04 06:00 KST",
+      "marketTimestamp": 1775250003
     },
     {
       "id": "us10y",
@@ -4300,10 +4344,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 66861.78,
+      "price": 66928.29,
       "previousClose": 66888.48,
-      "change": -26.7,
-      "changePercent": -0.0399,
+      "change": 39.81,
+      "changePercent": 0.0595,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -5265,16 +5309,112 @@
         ],
         [
           1775246100000,
-          66857.5625
+          66861.78125
         ],
         [
-          1775246340000,
-          66861.78125
+          1775246400000,
+          66862.257812
+        ],
+        [
+          1775246700000,
+          66859.078125
+        ],
+        [
+          1775247000000,
+          66854.070312
+        ],
+        [
+          1775247300000,
+          66854.992188
+        ],
+        [
+          1775247600000,
+          66871.335938
+        ],
+        [
+          1775247900000,
+          66867.226562
+        ],
+        [
+          1775248200000,
+          66872.671875
+        ],
+        [
+          1775248500000,
+          66852.609375
+        ],
+        [
+          1775248800000,
+          66898.054688
+        ],
+        [
+          1775249100000,
+          66887.945312
+        ],
+        [
+          1775249400000,
+          66862.117188
+        ],
+        [
+          1775249700000,
+          66842.601562
+        ],
+        [
+          1775250000000,
+          66834.382812
+        ],
+        [
+          1775250300000,
+          66839.921875
+        ],
+        [
+          1775250600000,
+          66842.140625
+        ],
+        [
+          1775250900000,
+          66914.3125
+        ],
+        [
+          1775251200000,
+          66888.796875
+        ],
+        [
+          1775251500000,
+          66893.570312
+        ],
+        [
+          1775251800000,
+          66889.351562
+        ],
+        [
+          1775252100000,
+          66899.59375
+        ],
+        [
+          1775252400000,
+          66923.984375
+        ],
+        [
+          1775252700000,
+          66904.804688
+        ],
+        [
+          1775253000000,
+          66911.640625
+        ],
+        [
+          1775253300000,
+          66920.304688
+        ],
+        [
+          1775253360000,
+          66928.289062
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-04 04:59 KST",
-      "marketTimestamp": 1775246340
+      "marketTime": "2026-04-04 06:56 KST",
+      "marketTimestamp": 1775253360
     }
   ],
   "mainCharts": [
@@ -6574,7 +6714,7 @@
   "headlines": [
     {
       "title": "성공투자 오후증시",
-      "source": "wowtv.co.kr",
+      "source": "한국경제TV",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdW1nVlI3YjUybTVQTUhwVHZYMTJSUUNQQkl3ZFRON1VaczdGZzk0cnBDNDBZdXcxckdPTG0zODFlYWhTbWpSRUt3cE5uZWIwMzRfVXFOU1FkY0VCMHNYN1ZmaV81aXRWd0pqQmdIWTR0ZFpvcUhnVW4wTFgwMUV3aUJKSi1tTDFueUV2dzJnT1pTX1JZMndtcTFXbnNhQ0MzRVNJ?oc=5",
       "publishedAt": "Fri, 03 Apr 2026 18:15:25 GMT"
     },
@@ -6597,6 +6737,12 @@
       "publishedAt": "Fri, 03 Apr 2026 10:41:00 GMT"
     },
     {
+      "title": "개미들 공포에 던질때 美개미 쓸어담았다…'수익률 꼴찌' 韓 ETF 폭풍매수",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ibjdmdlhyamZpOHdOelBhMkZtOTBJZnc2X3hFTEdXYVp2VmR2dVdZWEtEUEE2LTgzNDdib09mZGtsZ3B6VDF3ZEpNMzJRQi1vcFZV?oc=5",
+      "publishedAt": "Fri, 03 Apr 2026 21:07:00 GMT"
+    },
+    {
       "title": "증시 널뛰기에 연 4%가 어디야…개인·법인 가리지 않고 쏟아지는 IMA ‘러브콜’",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BM2EwS0VKTE1fRUZTb3ByRUI2XzNXamNmOS1fOFdpYkVjQWFCaDdjb3JteHBHaEFqUFJyY0FDQWEzNGhmOFR1My00d1NGMnlTQWc?oc=5",
@@ -6607,12 +6753,6 @@
       "source": "이코리아",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzQzk5RmdCSGRwSW81ZVZwWmREX19LZ2NiMWNpZnRoTXUtNEt4TktRS25ueWFHeUthNHE3UXBIMWJfU2M1MEQ4M2tlM3Myei1MSS1NTVRhelkwS3VnWENxdlJwVmhUUEJNMmpvaUl6Yw?oc=5",
       "publishedAt": "Fri, 03 Apr 2026 04:03:21 GMT"
-    },
-    {
-      "title": "[오늘의 증시]트럼프 후폭풍 털고 코스피 반등할까…호르무즈 기대감 주목",
-      "source": "뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5abk51WlVCV3ZuU0FRSDZpbEVWRzBtZUk5MWxDT01XLTN0MUFjSUFxZTNQeUZ0NmFzWXprWF9IbHpfX2diVERMS1N4dG03aHhSTEp4V3VXVnBlNDBrT0l4TV9VcGhPd1E3VnZSU0U4WE9IYjRTa05LZ9IBeEFVX3lxTE5abk51WlVCV3ZuU0FRSDZpbEVWRzBtZUk5MWxDT01XLTN0MUFjSUFxZTNQeUZ0NmFzWXprWF9IbHpfX2diVERMS1N4dG03aHhSTEp4V3VXVnBlNDBrT0l4TV9VcGhPd1E3VnZSU0U4WE9IYjRTa05LZw?oc=5",
-      "publishedAt": "Thu, 02 Apr 2026 23:25:54 GMT"
     },
     {
       "title": "널뛰기 증시에 '안정성' 각광받는 IMA, NH투자증권도 완판 행진 이어갈까",
@@ -6636,7 +6776,7 @@
       "KOSPI +2.74% 상승",
       "KOSDAQ +1.08% 상승",
       "미국 증시 보합 / 나스닥 +0.18%",
-      "원달러 +0.04% (+0.61)",
+      "원달러 +0.04% (+0.68)",
       "미 10년물 0.000p (0.00%)"
     ],
     "leaders": [
@@ -6663,13 +6803,13 @@
         "direction": "보합"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": -0.0399,
+        "label": "USD/KRW",
+        "changePercent": 0.045,
         "direction": "보합"
       },
       {
-        "label": "USD/KRW",
-        "changePercent": 0.0404,
+        "label": "Bitcoin",
+        "changePercent": 0.0595,
         "direction": "보합"
       }
     ]
