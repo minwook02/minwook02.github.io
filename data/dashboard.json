@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-04T03:05:03.824194+09:00",
-  "updatedLabel": "2026-04-04 03:05:03 KST",
+  "updatedAt": "2026-04-04T05:02:06.131254+09:00",
+  "updatedLabel": "2026-04-04 05:02:06 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1510.25,
+      "price": 1510.47,
       "previousClose": 1509.86,
-      "change": 0.39,
-      "changePercent": 0.0258,
+      "change": 0.61,
+      "changePercent": 0.0404,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -2498,16 +2498,112 @@
         ],
         [
           1775239200000,
+          1510.390015
+        ],
+        [
+          1775239500000,
+          1510.51001
+        ],
+        [
+          1775239800000,
+          1510.530029
+        ],
+        [
+          1775240100000,
+          1510.540039
+        ],
+        [
+          1775240400000,
+          1510.560059
+        ],
+        [
+          1775240700000,
+          1510.469971
+        ],
+        [
+          1775241000000,
+          1510.75
+        ],
+        [
+          1775241300000,
+          1510.640015
+        ],
+        [
+          1775241600000,
+          1510.5
+        ],
+        [
+          1775241900000,
+          1510.719971
+        ],
+        [
+          1775242200000,
+          1510.410034
+        ],
+        [
+          1775242500000,
           1510.459961
         ],
         [
-          1775239488000,
-          1510.25
+          1775242800000,
+          1510.76001
+        ],
+        [
+          1775243100000,
+          1510.709961
+        ],
+        [
+          1775243400000,
+          1510.599976
+        ],
+        [
+          1775243700000,
+          1510.77002
+        ],
+        [
+          1775244000000,
+          1510.77002
+        ],
+        [
+          1775244300000,
+          1510.72998
+        ],
+        [
+          1775244600000,
+          1510.72998
+        ],
+        [
+          1775244900000,
+          1510.319946
+        ],
+        [
+          1775245200000,
+          1510.319946
+        ],
+        [
+          1775245500000,
+          1510.76001
+        ],
+        [
+          1775245800000,
+          1510.619995
+        ],
+        [
+          1775246100000,
+          1510.709961
+        ],
+        [
+          1775246400000,
+          1510.569946
+        ],
+        [
+          1775246518000,
+          1510.469971
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-04 03:04 KST",
-      "marketTimestamp": 1775239488
+      "marketTime": "2026-04-04 05:01 KST",
+      "marketTimestamp": 1775246518
     },
     {
       "id": "us10y",
@@ -4204,10 +4300,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 66845.85,
+      "price": 66861.78,
       "previousClose": 66888.48,
-      "change": -42.63,
-      "changePercent": -0.0637,
+      "change": -26.7,
+      "changePercent": -0.0399,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -5077,16 +5173,108 @@
         ],
         [
           1775239200000,
-          66845.25
+          66834.859375
         ],
         [
-          1775239320000,
-          66845.851562
+          1775239500000,
+          66820.265625
+        ],
+        [
+          1775239800000,
+          66808.015625
+        ],
+        [
+          1775240100000,
+          66890.296875
+        ],
+        [
+          1775240400000,
+          66874.992188
+        ],
+        [
+          1775240700000,
+          66888.414062
+        ],
+        [
+          1775241000000,
+          66876.351562
+        ],
+        [
+          1775241300000,
+          66886.414062
+        ],
+        [
+          1775241600000,
+          66843.0625
+        ],
+        [
+          1775241900000,
+          66809.570312
+        ],
+        [
+          1775242200000,
+          66810.625
+        ],
+        [
+          1775242500000,
+          66806.78125
+        ],
+        [
+          1775242800000,
+          66812.132812
+        ],
+        [
+          1775243100000,
+          66766.132812
+        ],
+        [
+          1775243400000,
+          66779.46875
+        ],
+        [
+          1775243700000,
+          66798.953125
+        ],
+        [
+          1775244000000,
+          66826.632812
+        ],
+        [
+          1775244300000,
+          66777.5625
+        ],
+        [
+          1775244600000,
+          66782.898438
+        ],
+        [
+          1775244900000,
+          66796.414062
+        ],
+        [
+          1775245200000,
+          66822.523438
+        ],
+        [
+          1775245500000,
+          66875.164062
+        ],
+        [
+          1775245800000,
+          66874.195312
+        ],
+        [
+          1775246100000,
+          66857.5625
+        ],
+        [
+          1775246340000,
+          66861.78125
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-04 03:02 KST",
-      "marketTimestamp": 1775239320
+      "marketTime": "2026-04-04 04:59 KST",
+      "marketTimestamp": 1775246340
     }
   ],
   "mainCharts": [
@@ -6383,7 +6571,56 @@
       "marketTimestamp": 1775164559
     }
   ],
-  "headlines": [],
+  "headlines": [
+    {
+      "title": "성공투자 오후증시",
+      "source": "wowtv.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdW1nVlI3YjUybTVQTUhwVHZYMTJSUUNQQkl3ZFRON1VaczdGZzk0cnBDNDBZdXcxckdPTG0zODFlYWhTbWpSRUt3cE5uZWIwMzRfVXFOU1FkY0VCMHNYN1ZmaV81aXRWd0pqQmdIWTR0ZFpvcUhnVW4wTFgwMUV3aUJKSi1tTDFueUV2dzJnT1pTX1JZMndtcTFXbnNhQ0MzRVNJ?oc=5",
+      "publishedAt": "Fri, 03 Apr 2026 18:15:25 GMT"
+    },
+    {
+      "title": "“롤러코스터도 먼저 타자”...이란전쟁에 널뛰는 증시, 시간외 거래 석달만에 4배로",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOEppRkRRYklRcm9RRlQ0U2M4TUxDTHdLSTI3ZnRXRHdyQjZrQk5SZ0tXcHZZanRFSzQ2TVo0RXpwbm9IYlBPTUxpRlN5UFJCWkYtS2FvVHAxaXZ2ejlZVmF1YlBpTzlYaXBlRDBtajB1Wm1TV1hBVERmclNiejZTaNIBlAFBVV95cUxPejVpQXpIVTBqLUhHQ0c0YmZSbmFmeTU0NnRqdFRlbDYwODZrM3JNTHNaZGZ3NWdpaHdzdTR4UG5nLTlqNlZTZVFkdDNTckhPU3cxYmpjRlhxYS0ySERBWkpDX2w4NFNJeXBVUUhFaGx2bW1DeE0xVVQ1dktlVkgwREpyYWpHcXBDOGhMNi1XbWpFRmg2?oc=5",
+      "publishedAt": "Thu, 02 Apr 2026 23:10:18 GMT"
+    },
+    {
+      "title": "한국·일본 증시, 기술주 강세에 상승...미국 고용지표 대기",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15amRvZ1ZIeFJUYmJYeFVxYVZucXVoYmZoeTYzSFJSYlBjbGs2amQtNnlqWTJ0YWpRTzhwN0hWdmV6OV9jME5JY3R6eDlLOHVKbzRuVmRXWURvUWlUcWE1aEZhWEl1eUt0Tm44Y04wcTE?oc=5",
+      "publishedAt": "Fri, 03 Apr 2026 04:42:00 GMT"
+    },
+    {
+      "title": "증시 호황…한국거래소 당기순이익 7천억 원",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93czE4aFdGcFh6b200dnpPQmx2dGFjSGd3eXhYdTJRQmNaNnM5OGo5bHFOYklRSmc5TmlfX3U0emViX0FVZk0zUWVHTkw1azRLdEJzbHpqSUp6eDA?oc=5",
+      "publishedAt": "Fri, 03 Apr 2026 10:41:00 GMT"
+    },
+    {
+      "title": "증시 널뛰기에 연 4%가 어디야…개인·법인 가리지 않고 쏟아지는 IMA ‘러브콜’",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BM2EwS0VKTE1fRUZTb3ByRUI2XzNXamNmOS1fOFdpYkVjQWFCaDdjb3JteHBHaEFqUFJyY0FDQWEzNGhmOFR1My00d1NGMnlTQWc?oc=5",
+      "publishedAt": "Fri, 03 Apr 2026 06:19:49 GMT"
+    },
+    {
+      "title": "서학개미 해외 순매수 60% 급감… 국내 증시 유턴하나",
+      "source": "이코리아",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzQzk5RmdCSGRwSW81ZVZwWmREX19LZ2NiMWNpZnRoTXUtNEt4TktRS25ueWFHeUthNHE3UXBIMWJfU2M1MEQ4M2tlM3Myei1MSS1NTVRhelkwS3VnWENxdlJwVmhUUEJNMmpvaUl6Yw?oc=5",
+      "publishedAt": "Fri, 03 Apr 2026 04:03:21 GMT"
+    },
+    {
+      "title": "[오늘의 증시]트럼프 후폭풍 털고 코스피 반등할까…호르무즈 기대감 주목",
+      "source": "뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5abk51WlVCV3ZuU0FRSDZpbEVWRzBtZUk5MWxDT01XLTN0MUFjSUFxZTNQeUZ0NmFzWXprWF9IbHpfX2diVERMS1N4dG03aHhSTEp4V3VXVnBlNDBrT0l4TV9VcGhPd1E3VnZSU0U4WE9IYjRTa05LZ9IBeEFVX3lxTE5abk51WlVCV3ZuU0FRSDZpbEVWRzBtZUk5MWxDT01XLTN0MUFjSUFxZTNQeUZ0NmFzWXprWF9IbHpfX2diVERMS1N4dG03aHhSTEp4V3VXVnBlNDBrT0l4TV9VcGhPd1E3VnZSU0U4WE9IYjRTa05LZw?oc=5",
+      "publishedAt": "Thu, 02 Apr 2026 23:25:54 GMT"
+    },
+    {
+      "title": "널뛰기 증시에 '안정성' 각광받는 IMA, NH투자증권도 완판 행진 이어갈까",
+      "source": "비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XaTFGdFlOU29lRmFCZjRWR1pRamY4em10cnFCa0ItQ2JneTIzcGZTUmNIZVU2WFNYMlRiMDhuT1ZOUm9SMFVnanVTamt1UnpoM0M2OW5weU5QNjFqdVpfZVpXcTY4UVozMlBRdWZOZw?oc=5",
+      "publishedAt": "Fri, 03 Apr 2026 08:26:57 GMT"
+    }
+  ],
   "summary": {
     "signal": {
       "label": "Risk-On",
@@ -6393,13 +6630,13 @@
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 상승 흐름입니다.",
       "해외는 S&P 500 +0.11%, NASDAQ +0.18%로 확인됩니다.",
-      "매크로 변수는 USD/KRW +0.03%, 미 10년물 0.00%입니다."
+      "매크로 변수는 USD/KRW +0.04%, 미 10년물 0.00%입니다."
     ],
     "checkpoints": [
       "KOSPI +2.74% 상승",
       "KOSDAQ +1.08% 상승",
       "미국 증시 보합 / 나스닥 +0.18%",
-      "원달러 +0.03% (+0.39)",
+      "원달러 +0.04% (+0.61)",
       "미 10년물 0.000p (0.00%)"
     ],
     "leaders": [
@@ -6427,17 +6664,15 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -0.0637,
+        "changePercent": -0.0399,
         "direction": "보합"
       },
       {
         "label": "USD/KRW",
-        "changePercent": 0.0258,
+        "changePercent": 0.0404,
         "direction": "보합"
       }
     ]
   },
-  "errors": [
-    "뉴스: HTTP Error 503: Service Unavailable"
-  ]
+  "errors": []
 }
