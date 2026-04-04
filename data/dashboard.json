@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-05T00:54:08.085063+09:00",
-  "updatedLabel": "2026-04-05 00:54:08 KST",
+  "updatedAt": "2026-04-05T02:49:03.535204+09:00",
+  "updatedLabel": "2026-04-05 02:49:03 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1641,12 +1641,12 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1514.0,
+      "price": 1510.54,
       "previousClose": 1509.86,
-      "change": 4.14,
-      "changePercent": 0.2742,
-      "tone": "up",
-      "direction": "상승",
+      "change": 0.68,
+      "changePercent": 0.045,
+      "tone": "flat",
+      "direction": "보합",
       "series": [
         [
           1775175600000,
@@ -2646,8 +2646,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-04 12:30 KST",
-      "marketTimestamp": 1775273403
+      "marketTime": "2026-04-04 06:00 KST",
+      "marketTimestamp": 1775250003
     },
     {
       "id": "us10y",
@@ -4344,10 +4344,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 67302.0,
+      "price": 67319.77,
       "previousClose": 66937.25,
-      "change": 364.75,
-      "changePercent": 0.5449,
+      "change": 382.52,
+      "changePercent": 0.5715,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5113,16 +5113,108 @@
         ],
         [
           1775317800000,
-          67325.023438
+          67316.015625
         ],
         [
-          1775317860000,
-          67302.0
+          1775318100000,
+          67364.34375
+        ],
+        [
+          1775318400000,
+          67355.203125
+        ],
+        [
+          1775318700000,
+          67345.75
+        ],
+        [
+          1775319000000,
+          67325.789062
+        ],
+        [
+          1775319300000,
+          67327.90625
+        ],
+        [
+          1775319600000,
+          67355.242188
+        ],
+        [
+          1775319900000,
+          67437.992188
+        ],
+        [
+          1775320200000,
+          67374.382812
+        ],
+        [
+          1775320500000,
+          67459.273438
+        ],
+        [
+          1775320800000,
+          67468.171875
+        ],
+        [
+          1775321100000,
+          67459.414062
+        ],
+        [
+          1775321400000,
+          67438.1875
+        ],
+        [
+          1775321700000,
+          67442.90625
+        ],
+        [
+          1775322000000,
+          67301.953125
+        ],
+        [
+          1775322300000,
+          67321.5625
+        ],
+        [
+          1775322600000,
+          67351.75
+        ],
+        [
+          1775322900000,
+          67367.390625
+        ],
+        [
+          1775323200000,
+          67379.078125
+        ],
+        [
+          1775323500000,
+          67399.757812
+        ],
+        [
+          1775323800000,
+          67384.515625
+        ],
+        [
+          1775324100000,
+          67336.554688
+        ],
+        [
+          1775324400000,
+          67331.921875
+        ],
+        [
+          1775324700000,
+          67321.476562
+        ],
+        [
+          1775324760000,
+          67319.773438
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-05 00:51 KST",
-      "marketTimestamp": 1775317860
+      "marketTime": "2026-04-05 02:46 KST",
+      "marketTimestamp": 1775324760
     }
   ],
   "mainCharts": [
@@ -6427,6 +6519,12 @@
       "publishedAt": "Sat, 04 Apr 2026 04:35:41 GMT"
     },
     {
+      "title": "[미국증시] 美 주식, 4월 3일 전면 휴장한다 왜?…다음 휴장일은 언제",
+      "source": "CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjR2ZLWExEZWg5ekpHQlF1SHJ6cW9iMV85MG9ScFVWdzJzeDlzVTBRdDlIdmVRU0NJYzNyaVJNcGpxOWpjMmhvVGVTbXZ3OFZwZHNMQWlQZVpnVUZsNnJVb3hkU2xkUm9w?oc=5",
+      "publishedAt": "Sat, 04 Apr 2026 16:19:45 GMT"
+    },
+    {
       "title": "[4월 첫째 주 세계경제동향 브리핑] 미 증시 3~4% 급등…유가 20% 폭등 ‘혼조장세’",
       "source": "기호일보",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pWTB4UnIyXzVIbkpQUVZNN09PTmRKbFlsWmRoaVZSS1hlb19IQ3Q3YUxXa1BBbmtDWGJ2QW1xUG84M3dRYkMyVzJuMHF1YlpiSjIyaWNudXlhN1VGVUhtX0FQaWFyNjBHTEZ3dDJoTQ?oc=5",
@@ -6439,10 +6537,10 @@
       "publishedAt": "Sat, 04 Apr 2026 06:20:02 GMT"
     },
     {
-      "title": "올 들어 '23번' 멈춘 증시…금융위기 '악몽' 재현되나",
-      "source": "뉴스웍스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UY1pqdWluQ2swVUNVMWN2QnBscm1HXzBsTno4dnF6eDZfN2xZa3pBeGNBdHlINTBZNDJralI5c3JwajBWZWlQYTczQ0FOMmtSYW5iblFpVDRPQ3NrYktlTFQ0bDNScUM5ODhsSGlGZ0dIcGPSAXNBVV95cUxPVGNaanVpbkNrMFVDVTFjdkJwbHJtR18wbE56OHZxeng2XzdsWWt6QXhjQXR5SDUwWTQya2pSOXNycGowVmVpUGE3M0NBTjJrUmFuYm5RaVQ0T0Nza2JLZUxUNGwzUnFDOTg4bEhpRmdHSHBj?oc=5",
-      "publishedAt": "Sat, 04 Apr 2026 01:09:46 GMT"
+      "title": "외국인 45조 순매도 : 한국 증시 탈출 시도?",
+      "source": "브런치",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kSWxTUkFNSHBrd2NnU2RPT3BEV0pyZldoNWxkSHI5TTBpSHdiU1k1ZXd6SDMzMFFKV0NUaHpBTWxnc2tIMFZ3QUhULTFSeDZBTzVZ?oc=5",
+      "publishedAt": "Sat, 04 Apr 2026 06:20:31 GMT"
     },
     {
       "title": "[머니플로우] 서학개미 투자 감소세…지난달 1위 종목은 '속슬'",
@@ -6461,12 +6559,6 @@
       "source": "ebn.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15dFZTeHJCOVc5clVGaG1BZ1Z1Q0EzYkZqMUpqTWJVNUlwbloxUkhadS12N1NvYXV4Mll6MFlPdkRqRHdkc21IWVNucnVzNDNnUXhJYkNEX0s0SjJQVi13UE1SUWdzY2M4?oc=5",
       "publishedAt": "Sat, 04 Apr 2026 08:23:18 GMT"
-    },
-    {
-      "title": "‘국장 복귀계좌’ 9만개 개설됐는데…자금유입은 아직 ‘미미’, 왜?",
-      "source": "stock.mk.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92cDhhQ05OR3pTUS02YmVSNDRPUUhFbTVXUjlaS2hPWGsydWRqSjZrcWtYc3N0Z3ZfbFVuS0Yzb3J0Tm5OdmNsZmJSMEFZSnhDREE?oc=5",
-      "publishedAt": "Sat, 04 Apr 2026 01:04:10 GMT"
     }
   ],
   "summary": {
@@ -6478,13 +6570,13 @@
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 상승 흐름입니다.",
       "해외는 S&P 500 +0.11%, NASDAQ +0.18%로 확인됩니다.",
-      "매크로 변수는 USD/KRW +0.27%, 미 10년물 0.00%입니다."
+      "매크로 변수는 USD/KRW +0.04%, 미 10년물 0.00%입니다."
     ],
     "checkpoints": [
       "KOSPI +2.74% 상승",
       "KOSDAQ +0.70% 상승",
       "미국 증시 보합 / 나스닥 +0.18%",
-      "원달러 +0.27% (+4.14)",
+      "원달러 +0.04% (+0.68)",
       "미 10년물 0.000p (0.00%)"
     ],
     "leaders": [
@@ -6500,7 +6592,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.5449,
+        "changePercent": 0.5715,
         "direction": "상승"
       }
     ],
@@ -6511,14 +6603,14 @@
         "direction": "보합"
       },
       {
-        "label": "S&P 500",
-        "changePercent": 0.1121,
+        "label": "USD/KRW",
+        "changePercent": 0.045,
         "direction": "보합"
       },
       {
-        "label": "NASDAQ",
-        "changePercent": 0.1751,
-        "direction": "상승"
+        "label": "S&P 500",
+        "changePercent": 0.1121,
+        "direction": "보합"
       }
     ]
   },
