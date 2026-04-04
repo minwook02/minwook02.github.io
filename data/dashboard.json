@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-05T06:02:44.666362+09:00",
-  "updatedLabel": "2026-04-05 06:02:44 KST",
+  "updatedAt": "2026-04-05T07:02:25.702508+09:00",
+  "updatedLabel": "2026-04-05 07:02:25 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4344,10 +4344,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 67262.27,
+      "price": 67366.31,
       "previousClose": 66937.25,
-      "change": 325.02,
-      "changePercent": 0.4856,
+      "change": 429.06,
+      "changePercent": 0.641,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5361,12 +5361,60 @@
         ],
         [
           1775336400000,
-          67262.273438
+          67277.929688
+        ],
+        [
+          1775336700000,
+          67264.289062
+        ],
+        [
+          1775337000000,
+          67224.5625
+        ],
+        [
+          1775337300000,
+          67242.273438
+        ],
+        [
+          1775337600000,
+          67260.289062
+        ],
+        [
+          1775337900000,
+          67270.28125
+        ],
+        [
+          1775338200000,
+          67257.570312
+        ],
+        [
+          1775338500000,
+          67275.710938
+        ],
+        [
+          1775338800000,
+          67296.617188
+        ],
+        [
+          1775339100000,
+          67333.328125
+        ],
+        [
+          1775339400000,
+          67395.703125
+        ],
+        [
+          1775339700000,
+          67361.429688
+        ],
+        [
+          1775339940000,
+          67366.3125
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-05 06:00 KST",
-      "marketTimestamp": 1775336400
+      "marketTime": "2026-04-05 06:59 KST",
+      "marketTimestamp": 1775339940
     }
   ],
   "mainCharts": [
@@ -6665,22 +6713,16 @@
   ],
   "headlines": [
     {
-      "title": "시총 1000조 증발 ‘잔인한 3월’… 증시 급등락 방어책 마련해야",
-      "source": "더스쿠프",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2U05ha19fQjN1Q2hlM3ZaR2JqeWhVa2VGRGxreXcwNkpsakZ4T01LSkdhdEhuRHEwcVFGV1JrRzVscXdXc0JoRWJYUGUwWHF1MHcyUnF0QUZPWEJjVVNaTS0zdUltY01rZUg4bk93?oc=5",
-      "publishedAt": "Sat, 04 Apr 2026 04:35:41 GMT"
-    },
-    {
       "title": "[미국증시] 美 주식, 4월 3일 전면 휴장한다 왜?…다음 휴장일은 언제",
       "source": "CBC뉴스",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjR2ZLWExEZWg5ekpHQlF1SHJ6cW9iMV85MG9ScFVWdzJzeDlzVTBRdDlIdmVRU0NJYzNyaVJNcGpxOWpjMmhvVGVTbXZ3OFZwZHNMQWlQZVpnVUZsNnJVb3hkU2xkUm9w?oc=5",
       "publishedAt": "Sat, 04 Apr 2026 19:24:32 GMT"
     },
     {
-      "title": "[4월 첫째 주 세계경제동향 브리핑] 미 증시 3~4% 급등…유가 20% 폭등 ‘혼조장세’",
-      "source": "기호일보",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pWTB4UnIyXzVIbkpQUVZNN09PTmRKbFlsWmRoaVZSS1hlb19IQ3Q3YUxXa1BBbmtDWGJ2QW1xUG84M3dRYkMyVzJuMHF1YlpiSjIyaWNudXlhN1VGVUhtX0FQaWFyNjBHTEZ3dDJoTQ?oc=5",
-      "publishedAt": "Sat, 04 Apr 2026 02:53:05 GMT"
+      "title": "시총 1000조 증발 ‘잔인한 3월’… 증시 급등락 방어책 마련해야",
+      "source": "더스쿠프",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2U05ha19fQjN1Q2hlM3ZaR2JqeWhVa2VGRGxreXcwNkpsakZ4T01LSkdhdEhuRHEwcVFGV1JrRzVscXdXc0JoRWJYUGUwWHF1MHcyUnF0QUZPWEJjVVNaTS0zdUltY01rZUg4bk93?oc=5",
+      "publishedAt": "Sat, 04 Apr 2026 04:35:41 GMT"
     },
     {
       "title": "\"돈 벌기는 글렀네\" 낙담했는데…흔들린 증시 속 '깜짝' 조언 [한경우의 케이스스터디]",
@@ -6689,28 +6731,34 @@
       "publishedAt": "Sat, 04 Apr 2026 06:20:02 GMT"
     },
     {
-      "title": "외국인 45조 순매도 : 한국 증시 탈출 시도?",
-      "source": "브런치",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kSWxTUkFNSHBrd2NnU2RPT3BEV0pyZldoNWxkSHI5TTBpSHdiU1k1ZXd6SDMzMFFKV0NUaHpBTWxnc2tIMFZ3QUhULTFSeDZBTzVZ?oc=5",
-      "publishedAt": "Sat, 04 Apr 2026 06:20:31 GMT"
+      "title": "[4월 첫째 주 세계경제동향 브리핑] 미 증시 3~4% 급등…유가 20% 폭등 ‘혼조장세’",
+      "source": "기호일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pWTB4UnIyXzVIbkpQUVZNN09PTmRKbFlsWmRoaVZSS1hlb19IQ3Q3YUxXa1BBbmtDWGJ2QW1xUG84M3dRYkMyVzJuMHF1YlpiSjIyaWNudXlhN1VGVUhtX0FQaWFyNjBHTEZ3dDJoTQ?oc=5",
+      "publishedAt": "Sat, 04 Apr 2026 02:53:05 GMT"
     },
     {
-      "title": "올 들어 '23번' 멈춘 증시…금융위기 '악몽' 재현되나",
-      "source": "뉴스웍스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UY1pqdWluQ2swVUNVMWN2QnBscm1HXzBsTno4dnF6eDZfN2xZa3pBeGNBdHlINTBZNDJralI5c3JwajBWZWlQYTczQ0FOMmtSYW5iblFpVDRPQ3NrYktlTFQ0bDNScUM5ODhsSGlGZ0dIcGPSAXNBVV95cUxPVGNaanVpbkNrMFVDVTFjdkJwbHJtR18wbE56OHZxeng2XzdsWWt6QXhjQXR5SDUwWTQya2pSOXNycGowVmVpUGE3M0NBTjJrUmFuYm5RaVQ0T0Nza2JLZUxUNGwzUnFDOTg4bEhpRmdHSHBj?oc=5",
-      "publishedAt": "Sat, 04 Apr 2026 01:09:46 GMT"
+      "title": "이란 리스크에 널뛴 코스피…이번 주엔 삼성전자·물가·금리 주목",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxeXI4eFNHS3drZXdZb244TzN1Z0ozREV6dFdOenhCM2xUTm4wU0Q5Yktka2dKbGp2MU1rVTktVVZzNW9tOF8tQmlSWlAxSXBDNkVF?oc=5",
+      "publishedAt": "Sat, 04 Apr 2026 21:01:00 GMT"
+    },
+    {
+      "title": "[증시 동향] 트럼프만 쳐다본 ‘급등락 롤러코스터’ 장세",
+      "source": "이뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4dDh6a2pIRm5wdHNKY3lRLW9XMDJUYjRHZ2VPN05oT2t4RGMzYkdHbjNkM2VYUk1RMUE4aDhITDdpTkdaaldsQWI5R25GM2VkaVFjMDRkNWZKRnpzNm1jSDQ5eUNreUF2Z2gtVWRsaGZ6NWpk0gF0QVVfeXFMUDh0OHprakhGbnB0c0pjeVEtb1cwMlRiNEdnZU83TmhPa3hEYzNiR0duM2QzZVhSTVExQThoOEhMN2lOR1pqV2xBYjlHbkYzZWRpUWMwNGQ1ZkpGenM2bWNINDl5Q2t5QXZnaC1VZGxoZno1amQ?oc=5",
+      "publishedAt": "Sat, 04 Apr 2026 06:23:39 GMT"
+    },
+    {
+      "title": "외국인 45조 순매도 : 한국 증시 탈출 시도?",
+      "source": "brunch.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kSWxTUkFNSHBrd2NnU2RPT3BEV0pyZldoNWxkSHI5TTBpSHdiU1k1ZXd6SDMzMFFKV0NUaHpBTWxnc2tIMFZ3QUhULTFSeDZBTzVZ?oc=5",
+      "publishedAt": "Sat, 04 Apr 2026 06:20:31 GMT"
     },
     {
       "title": "호르무즈 봉쇄 장기화되나…증시 자금 빠르게 이동 중",
       "source": "ebn.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15dFZTeHJCOVc5clVGaG1BZ1Z1Q0EzYkZqMUpqTWJVNUlwbloxUkhadS12N1NvYXV4Mll6MFlPdkRqRHdkc21IWVNucnVzNDNnUXhJYkNEX0s0SjJQVi13UE1SUWdzY2M4?oc=5",
       "publishedAt": "Sat, 04 Apr 2026 08:23:18 GMT"
-    },
-    {
-      "title": "[머니플로우] 서학개미 투자 감소세…지난달 1위 종목은 '속슬'",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vN05DdndwcTRNekZzWFJ6QWZvamYzcnZLakpvMnVvZkU0Y1VkN2JTMGhDMHVxOE50VkRSd1Uzc01KRVBiamRsMWdaMkwtSlFBbVRiN210dEs5ZTjSAWBBVV95cUxQZUdYSjVWMWNQbVhWQ0s3Z1BMeDZ6RGpfeVpadmZ2c0N4U250VTkxVFRSZm9HeVk0bmlIN0ZKNTVaVHgtZlZvUGQxcmVUZ3NqZWZEc2VKRkRIYS1mWHpvWUg?oc=5",
-      "publishedAt": "Fri, 03 Apr 2026 23:00:00 GMT"
     }
   ],
   "summary": {
@@ -6743,8 +6791,8 @@
         "direction": "상승"
       },
       {
-        "label": "Gold",
-        "changePercent": 0.4915,
+        "label": "Bitcoin",
+        "changePercent": 0.641,
         "direction": "상승"
       }
     ],
