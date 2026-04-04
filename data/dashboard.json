@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-05T07:02:25.702508+09:00",
-  "updatedLabel": "2026-04-05 07:02:25 KST",
+  "updatedAt": "2026-04-05T08:55:22.338436+09:00",
+  "updatedLabel": "2026-04-05 08:55:22 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4344,10 +4344,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 67366.31,
+      "price": 67272.51,
       "previousClose": 66937.25,
-      "change": 429.06,
-      "changePercent": 0.641,
+      "change": 335.26,
+      "changePercent": 0.5009,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5405,16 +5405,108 @@
         ],
         [
           1775339700000,
-          67361.429688
+          67366.3125
         ],
         [
-          1775339940000,
-          67366.3125
+          1775340000000,
+          67370.960938
+        ],
+        [
+          1775340300000,
+          67369.117188
+        ],
+        [
+          1775340600000,
+          67356.34375
+        ],
+        [
+          1775340900000,
+          67392.796875
+        ],
+        [
+          1775341200000,
+          67390.804688
+        ],
+        [
+          1775341500000,
+          67417.867188
+        ],
+        [
+          1775341800000,
+          67401.015625
+        ],
+        [
+          1775342100000,
+          67393.382812
+        ],
+        [
+          1775342400000,
+          67393.257812
+        ],
+        [
+          1775342700000,
+          67393.796875
+        ],
+        [
+          1775343000000,
+          67373.140625
+        ],
+        [
+          1775343300000,
+          67378.835938
+        ],
+        [
+          1775343600000,
+          67335.1875
+        ],
+        [
+          1775343900000,
+          67323.75
+        ],
+        [
+          1775344200000,
+          67356.476562
+        ],
+        [
+          1775344500000,
+          67342.023438
+        ],
+        [
+          1775344800000,
+          67321.578125
+        ],
+        [
+          1775345100000,
+          67309.367188
+        ],
+        [
+          1775345400000,
+          67307.90625
+        ],
+        [
+          1775345700000,
+          67294.296875
+        ],
+        [
+          1775346000000,
+          67268.6875
+        ],
+        [
+          1775346300000,
+          67264.617188
+        ],
+        [
+          1775346600000,
+          67260.164062
+        ],
+        [
+          1775346720000,
+          67272.507812
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-05 06:59 KST",
-      "marketTimestamp": 1775339940
+      "marketTime": "2026-04-05 08:52 KST",
+      "marketTimestamp": 1775346720
     }
   ],
   "mainCharts": [
@@ -6713,10 +6805,28 @@
   ],
   "headlines": [
     {
+      "title": "롤러코스터 장세 멈출까…‘종전·기준금리’, 증시 정상화 바로미터 [주간증시]",
+      "source": "에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ndFZVTm9OZG82bGlTMXlEMmpGMkpkekpZT2UxNEtnS0FQWTZOTlp3bFhUU1ZRM0hqM2xQdm84S1oyUW5ET21lZWZxY21CeFI2bmt1U2NTTS1SY1Zsbnc?oc=5",
+      "publishedAt": "Sat, 04 Apr 2026 22:53:10 GMT"
+    },
+    {
+      "title": "이란 리스크에 널뛴 코스피…이번 주엔 삼성전자·물가·금리 주목",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFQllqUDEtdFgtUWFtQWtpSkxWX2dIbGE1aWFqWTlIT1UtdjQwNEpEVW0yOVN1WHFHblZoazZobnczV185cW8tODJJVmpYa2VmNUlLNGZ2T1hLbEZPNnFJ?oc=5",
+      "publishedAt": "Sat, 04 Apr 2026 21:00:00 GMT"
+    },
+    {
       "title": "[미국증시] 美 주식, 4월 3일 전면 휴장한다 왜?…다음 휴장일은 언제",
       "source": "CBC뉴스",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjR2ZLWExEZWg5ekpHQlF1SHJ6cW9iMV85MG9ScFVWdzJzeDlzVTBRdDlIdmVRU0NJYzNyaVJNcGpxOWpjMmhvVGVTbXZ3OFZwZHNMQWlQZVpnVUZsNnJVb3hkU2xkUm9w?oc=5",
       "publishedAt": "Sat, 04 Apr 2026 19:24:32 GMT"
+    },
+    {
+      "title": "전쟁발 롤러코스터 탄 국내 증시…\"변동성 장세 지속\"",
+      "source": "서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tVnlMbmdTUFNTZVJ5WXBBd3J4bnJSUlR6RFBfVWh6MHdqczBqbzRtZkg3OUxsenhlN1ZFRTFWemJDV2l0XzRhdjFrZk5xRmdWTDI2MkowWlNwYWFsQk1seTVVelo?oc=5",
+      "publishedAt": "Sat, 04 Apr 2026 23:00:05 GMT"
     },
     {
       "title": "시총 1000조 증발 ‘잔인한 3월’… 증시 급등락 방어책 마련해야",
@@ -6725,40 +6835,22 @@
       "publishedAt": "Sat, 04 Apr 2026 04:35:41 GMT"
     },
     {
+      "title": "전쟁 불안감에 투심 위축…증시 거래액 30조원대로 절반 '뚝'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pQ3d0UVFoWmZkTVd4bE1sMG0wM21PNko5RHBYTnZrQzFMVlpjRGM3TGVGeEMxOGx0RE11QV9uUXVlcXd4dWlEbHZpSE1JdlUwUXRhVWtvU1RGcFBzcDU4Tg?oc=5",
+      "publishedAt": "Sat, 04 Apr 2026 21:00:00 GMT"
+    },
+    {
       "title": "\"돈 벌기는 글렀네\" 낙담했는데…흔들린 증시 속 '깜짝' 조언 [한경우의 케이스스터디]",
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByQjBKN0hhTTBhdS1uUEFmZjFiVmJnMk5jaDAwZ2I0ZTdHa0R1bmVReWhrMmN0Y3V6cHJmRVFiRHVkUU5oYnRwYWpoMjFmOU0?oc=5",
       "publishedAt": "Sat, 04 Apr 2026 06:20:02 GMT"
     },
     {
-      "title": "[4월 첫째 주 세계경제동향 브리핑] 미 증시 3~4% 급등…유가 20% 폭등 ‘혼조장세’",
-      "source": "기호일보",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pWTB4UnIyXzVIbkpQUVZNN09PTmRKbFlsWmRoaVZSS1hlb19IQ3Q3YUxXa1BBbmtDWGJ2QW1xUG84M3dRYkMyVzJuMHF1YlpiSjIyaWNudXlhN1VGVUhtX0FQaWFyNjBHTEZ3dDJoTQ?oc=5",
-      "publishedAt": "Sat, 04 Apr 2026 02:53:05 GMT"
-    },
-    {
-      "title": "이란 리스크에 널뛴 코스피…이번 주엔 삼성전자·물가·금리 주목",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxeXI4eFNHS3drZXdZb244TzN1Z0ozREV6dFdOenhCM2xUTm4wU0Q5Yktka2dKbGp2MU1rVTktVVZzNW9tOF8tQmlSWlAxSXBDNkVF?oc=5",
-      "publishedAt": "Sat, 04 Apr 2026 21:01:00 GMT"
-    },
-    {
-      "title": "[증시 동향] 트럼프만 쳐다본 ‘급등락 롤러코스터’ 장세",
-      "source": "이뉴스투데이",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4dDh6a2pIRm5wdHNKY3lRLW9XMDJUYjRHZ2VPN05oT2t4RGMzYkdHbjNkM2VYUk1RMUE4aDhITDdpTkdaaldsQWI5R25GM2VkaVFjMDRkNWZKRnpzNm1jSDQ5eUNreUF2Z2gtVWRsaGZ6NWpk0gF0QVVfeXFMUDh0OHprakhGbnB0c0pjeVEtb1cwMlRiNEdnZU83TmhPa3hEYzNiR0duM2QzZVhSTVExQThoOEhMN2lOR1pqV2xBYjlHbkYzZWRpUWMwNGQ1ZkpGenM2bWNINDl5Q2t5QXZnaC1VZGxoZno1amQ?oc=5",
-      "publishedAt": "Sat, 04 Apr 2026 06:23:39 GMT"
-    },
-    {
-      "title": "외국인 45조 순매도 : 한국 증시 탈출 시도?",
-      "source": "brunch.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kSWxTUkFNSHBrd2NnU2RPT3BEV0pyZldoNWxkSHI5TTBpSHdiU1k1ZXd6SDMzMFFKV0NUaHpBTWxnc2tIMFZ3QUhULTFSeDZBTzVZ?oc=5",
-      "publishedAt": "Sat, 04 Apr 2026 06:20:31 GMT"
-    },
-    {
-      "title": "호르무즈 봉쇄 장기화되나…증시 자금 빠르게 이동 중",
-      "source": "ebn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15dFZTeHJCOVc5clVGaG1BZ1Z1Q0EzYkZqMUpqTWJVNUlwbloxUkhadS12N1NvYXV4Mll6MFlPdkRqRHdkc21IWVNucnVzNDNnUXhJYkNEX0s0SjJQVi13UE1SUWdzY2M4?oc=5",
-      "publishedAt": "Sat, 04 Apr 2026 08:23:18 GMT"
+      "title": "[미국 뉴욕증시] 이란 대폭격 데드라인 임박…지난주 다우존스·S&P500·나스닥지수 급반등",
+      "source": "한국강사신문",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aT3lyaldNYzl3T01RZ1FwZUU1bk9ya3lIRm1ORWoybExIR2ZYV2tDdk9pZk9renpNWm5rZl96SmpHWXEwY2xCYnZHYVI4TGVIR3BuUGRIdVRhb0RUOE9za1J6NXdQWmg0cTdoSU1KUGU?oc=5",
+      "publishedAt": "Sat, 04 Apr 2026 22:08:55 GMT"
     }
   ],
   "summary": {
@@ -6792,7 +6884,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.641,
+        "changePercent": 0.5009,
         "direction": "상승"
       }
     ],
