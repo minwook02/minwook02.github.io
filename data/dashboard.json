@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-06T00:55:15.436277+09:00",
-  "updatedLabel": "2026-04-06 00:55:15 KST",
+  "updatedAt": "2026-04-06T02:50:49.773364+09:00",
+  "updatedLabel": "2026-04-06 02:50:49 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -972,9 +972,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 21879.182,
-      "previousClose": 21840.947,
-      "change": 38.235,
-      "changePercent": 0.1751,
+      "previousClose": 21840.9,
+      "change": 38.282,
+      "changePercent": 0.1753,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -2646,8 +2646,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-05 22:32 KST",
-      "marketTimestamp": 1775395979
+      "marketTime": "2026-04-06 00:57 KST",
+      "marketTimestamp": 1775404679
     },
     {
       "id": "us10y",
@@ -2710,10 +2710,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 67391.85,
+      "price": 67326.58,
       "previousClose": 67292.41,
-      "change": 99.44,
-      "changePercent": 0.1478,
+      "change": 34.17,
+      "changePercent": 0.0508,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -2771,7 +2771,7 @@
         ],
         [
           1775351100000,
-          67112.898438
+          67132.414062
         ],
         [
           1775351400000,
@@ -3299,7 +3299,7 @@
         ],
         [
           1775390700000,
-          66934.570312
+          66936.0
         ],
         [
           1775391000000,
@@ -3479,16 +3479,108 @@
         ],
         [
           1775404200000,
-          67403.710938
+          67377.71875
         ],
         [
-          1775404320000,
-          67391.851562
+          1775404500000,
+          67270.234375
+        ],
+        [
+          1775404800000,
+          67339.03125
+        ],
+        [
+          1775405100000,
+          67320.679688
+        ],
+        [
+          1775405400000,
+          67322.265625
+        ],
+        [
+          1775405700000,
+          67326.179688
+        ],
+        [
+          1775406000000,
+          67346.476562
+        ],
+        [
+          1775406300000,
+          67330.742188
+        ],
+        [
+          1775406600000,
+          67369.359375
+        ],
+        [
+          1775406900000,
+          67337.203125
+        ],
+        [
+          1775407200000,
+          67306.984375
+        ],
+        [
+          1775407500000,
+          67219.5
+        ],
+        [
+          1775407800000,
+          67211.15625
+        ],
+        [
+          1775408100000,
+          67188.742188
+        ],
+        [
+          1775408400000,
+          67202.164062
+        ],
+        [
+          1775408700000,
+          67249.742188
+        ],
+        [
+          1775409000000,
+          67260.960938
+        ],
+        [
+          1775409300000,
+          67229.515625
+        ],
+        [
+          1775409600000,
+          67181.320312
+        ],
+        [
+          1775409900000,
+          67313.539062
+        ],
+        [
+          1775410200000,
+          67304.242188
+        ],
+        [
+          1775410500000,
+          67337.84375
+        ],
+        [
+          1775410800000,
+          67365.523438
+        ],
+        [
+          1775411100000,
+          67300.6875
+        ],
+        [
+          1775411280000,
+          67326.578125
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-06 00:52 KST",
-      "marketTimestamp": 1775404320
+      "marketTime": "2026-04-06 02:48 KST",
+      "marketTimestamp": 1775411280
     }
   ],
   "mainCharts": [
@@ -4457,9 +4549,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 21879.182,
-      "previousClose": 21840.947,
-      "change": 38.235,
-      "changePercent": 0.1751,
+      "previousClose": 21840.9,
+      "change": 38.282,
+      "changePercent": 0.1753,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -4800,7 +4892,7 @@
     },
     {
       "title": "뉴욕·상하이 증시, 이란戰 '충격 가늠자' 美 3월 CPI",
-      "source": "한국경제",
+      "source": "hankyung.com",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9INFpHblhUT3dFY29sTUJsYVRzNUJSYUd2bkxHZXMwWTduc1Y3TVdYQ2FiTXA5eWdJRzJyR2k0NjlMQjNKbTBaZ1N2QjhYSVZVd3E2LdIBVEFVX3lxTE9INFpHblhUT3dFY29sTUJsYVRzNUJSYUd2bkxHZXMwWTduc1Y3TVdYQ2FiTXA5eWdJRzJyR2k0NjlMQjNKbTBaZ1N2QjhYSVZVd3E2LQ?oc=5",
       "publishedAt": "Sun, 05 Apr 2026 09:08:45 GMT"
     },
@@ -4809,6 +4901,12 @@
       "source": "뉴시스",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jc1RSZVZmS0ExR2hNcHJHc1RUQks0SjNuajBXWWhrNVYwUWlYWDFOblNucUsteTJFRVNtZ3g2Tk5VaXdrd1VEWFVpVlgzTDZfVTRjMWxGUjdPSkJGZndvSmRzRG01cS1uMnBjTXhhTUFPVWk0TW5lT9IBeEFVX3lxTE5jc1RSZVZmS0ExR2hNcHJHc1RUQks0SjNuajBXWWhrNVYwUWlYWDFOblNucUsteTJFRVNtZ3g2Tk5VaXdrd1VEWFVpVlgzTDZfVTRjMWxGUjdPSkJGZndvSmRzRG01cS1uMnBjTXhhTUFPVWk0TW5lTw?oc=5",
       "publishedAt": "Sun, 05 Apr 2026 00:00:00 GMT"
+    },
+    {
+      "title": "“다음주가 증시 갈림길”…삼전 실적·FOMC 회의록·美CPI 발표까지",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZM3Mzc1NiazV5b2FvZkpTNm9jeEJzNGQtZTJWSGhiMk9xLUZJUmp5YVU3dXlsUTRncWt0dngxT2J4Zzl1alEtLUVlenpGQTRoRWc?oc=5",
+      "publishedAt": "Sat, 04 Apr 2026 23:43:04 GMT"
     },
     {
       "title": "[증시전망] 중동발 리스크 딛고 코스피 반등 시도…주도주는 '반도체'",
@@ -4821,12 +4919,6 @@
       "source": "브릿지경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wVmRKaTk0VmZxOVFGSUY0ZkVaS045QzNTMHVDM29kdjBERHo4Ml9uSlF6Wl85RkFCUDZDdExCYmNCbVYwWDN0d3h4MTMtN2VPNHZwWmV4b1FjZw?oc=5",
       "publishedAt": "Sun, 05 Apr 2026 02:14:00 GMT"
-    },
-    {
-      "title": "“다음주가 증시 갈림길”…삼전 실적·FOMC 회의록·美CPI 발표까지",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZM3Mzc1NiazV5b2FvZkpTNm9jeEJzNGQtZTJWSGhiMk9xLUZJUmp5YVU3dXlsUTRncWt0dngxT2J4Zzl1alEtLUVlenpGQTRoRWc?oc=5",
-      "publishedAt": "Sat, 04 Apr 2026 23:43:04 GMT"
     },
     {
       "title": "[주간증시전망] 종전·인플레 충돌 속 대형 이벤트 대기···\"보수적 대응해야\"",
@@ -4882,8 +4974,8 @@
         "direction": "보합"
       },
       {
-        "label": "S&P 500",
-        "changePercent": 0.1121,
+        "label": "Bitcoin",
+        "changePercent": 0.0508,
         "direction": "보합"
       }
     ]
