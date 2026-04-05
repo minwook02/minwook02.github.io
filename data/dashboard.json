@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-06T04:50:23.878351+09:00",
-  "updatedLabel": "2026-04-06 04:50:23 KST",
+  "updatedAt": "2026-04-06T06:03:00.821043+09:00",
+  "updatedLabel": "2026-04-06 06:03:00 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2710,12 +2710,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 67290.1,
+      "price": 67613.82,
       "previousClose": 67292.41,
-      "change": -2.31,
-      "changePercent": -0.0034,
-      "tone": "flat",
-      "direction": "보합",
+      "change": 321.41,
+      "changePercent": 0.4776,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1775347200000,
@@ -3667,16 +3667,72 @@
         ],
         [
           1775418300000,
-          67283.570312
+          67282.65625
         ],
         [
-          1775418420000,
-          67290.101562
+          1775418600000,
+          67296.734375
+        ],
+        [
+          1775418900000,
+          67301.609375
+        ],
+        [
+          1775419200000,
+          67379.117188
+        ],
+        [
+          1775419500000,
+          67354.460938
+        ],
+        [
+          1775419800000,
+          67350.367188
+        ],
+        [
+          1775420100000,
+          67359.632812
+        ],
+        [
+          1775420400000,
+          67409.078125
+        ],
+        [
+          1775420700000,
+          67456.492188
+        ],
+        [
+          1775421000000,
+          67459.664062
+        ],
+        [
+          1775421300000,
+          67634.625
+        ],
+        [
+          1775421600000,
+          67576.328125
+        ],
+        [
+          1775421900000,
+          67625.65625
+        ],
+        [
+          1775422200000,
+          67602.15625
+        ],
+        [
+          1775422500000,
+          67613.851562
+        ],
+        [
+          1775422800000,
+          67613.820312
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-06 04:47 KST",
-      "marketTimestamp": 1775418420
+      "marketTime": "2026-04-06 06:00 KST",
+      "marketTimestamp": 1775422800
     }
   ],
   "mainCharts": [
@@ -4982,7 +5038,7 @@
     },
     {
       "title": "롤러코스터 장세 멈출까…‘종전·기준금리’, 증시 정상화 바로미터 [주간증시]",
-      "source": "ekn.kr",
+      "source": "에너지경제신문",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ndFZVTm9OZG82bGlTMXlEMmpGMkpkekpZT2UxNEtnS0FQWTZOTlp3bFhUU1ZRM0hqM2xQdm84S1oyUW5ET21lZWZxY21CeFI2bmt1U2NTTS1SY1Zsbnc?oc=5",
       "publishedAt": "Sat, 04 Apr 2026 22:53:10 GMT"
     },
@@ -5005,16 +5061,16 @@
       "publishedAt": "Sat, 04 Apr 2026 23:43:04 GMT"
     },
     {
-      "title": "[증시전망] 중동발 리스크 딛고 코스피 반등 시도…주도주는 '반도체'",
-      "source": "디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tTkVlSF83YjVvbDFTN2NVSDNZM2dMNzN1a3U3djJpWVJtM1h2U2RtTzNoWU5XV1JBajJyb0NhZUhZQ3g5Z1RiWFlSUERkSFhJTHJ1WExyZ3RZWXhwbGZyU25XYWE2RkM4S2JDRXJ1N20wWUE?oc=5",
-      "publishedAt": "Sat, 04 Apr 2026 23:58:00 GMT"
-    },
-    {
       "title": "[주간증시전망] 호르무즈 봉쇄에 갇힌 코스피…협상 타결이 변곡점",
       "source": "브릿지경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wVmRKaTk0VmZxOVFGSUY0ZkVaS045QzNTMHVDM29kdjBERHo4Ml9uSlF6Wl85RkFCUDZDdExCYmNCbVYwWDN0d3h4MTMtN2VPNHZwWmV4b1FjZw?oc=5",
       "publishedAt": "Sun, 05 Apr 2026 02:14:00 GMT"
+    },
+    {
+      "title": "[증시전망] 중동발 리스크 딛고 코스피 반등 시도…주도주는 '반도체'",
+      "source": "디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tTkVlSF83YjVvbDFTN2NVSDNZM2dMNzN1a3U3djJpWVJtM1h2U2RtTzNoWU5XV1JBajJyb0NhZUhZQ3g5Z1RiWFlSUERkSFhJTHJ1WExyZ3RZWXhwbGZyU25XYWE2RkM4S2JDRXJ1N20wWUE?oc=5",
+      "publishedAt": "Sat, 04 Apr 2026 23:58:00 GMT"
     },
     {
       "title": "[주간증시전망] 종전·인플레 충돌 속 대형 이벤트 대기···\"보수적 대응해야\"",
@@ -5065,13 +5121,13 @@
         "direction": "보합"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": -0.0034,
+        "label": "USD/KRW",
+        "changePercent": 0.045,
         "direction": "보합"
       },
       {
-        "label": "USD/KRW",
-        "changePercent": 0.045,
+        "label": "S&P 500",
+        "changePercent": 0.1121,
         "direction": "보합"
       }
     ]
