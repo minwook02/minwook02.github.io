@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-05T14:55:49.404286+09:00",
-  "updatedLabel": "2026-04-05 14:55:49 KST",
+  "updatedAt": "2026-04-05T17:04:34.758710+09:00",
+  "updatedLabel": "2026-04-05 17:04:34 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1307,8 +1307,8 @@
       "kind": "equity",
       "decimals": 2,
       "price": 46504.67,
-      "previousClose": 46565.74,
-      "change": -61.07,
+      "previousClose": 46565.7,
+      "change": -61.03,
       "changePercent": -0.1311,
       "tone": "flat",
       "direction": "보합",
@@ -2710,10 +2710,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 66966.85,
+      "price": 66810.516,
       "previousClose": 67292.41,
-      "change": -325.56,
-      "changePercent": -0.4838,
+      "change": -481.894,
+      "changePercent": -0.7161,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -2999,16 +2999,120 @@
         ],
         [
           1775368200000,
-          67003.640625
+          66966.851562
         ],
         [
-          1775368440000,
-          66966.851562
+          1775368500000,
+          66904.875
+        ],
+        [
+          1775368800000,
+          66917.03125
+        ],
+        [
+          1775369100000,
+          66791.023438
+        ],
+        [
+          1775369400000,
+          66671.234375
+        ],
+        [
+          1775369700000,
+          66615.039062
+        ],
+        [
+          1775370000000,
+          66716.34375
+        ],
+        [
+          1775370300000,
+          66738.164062
+        ],
+        [
+          1775370600000,
+          66820.070312
+        ],
+        [
+          1775370900000,
+          66820.242188
+        ],
+        [
+          1775371200000,
+          66812.710938
+        ],
+        [
+          1775371500000,
+          66823.570312
+        ],
+        [
+          1775371800000,
+          66818.023438
+        ],
+        [
+          1775372100000,
+          66825.3125
+        ],
+        [
+          1775372400000,
+          66867.632812
+        ],
+        [
+          1775372700000,
+          66856.125
+        ],
+        [
+          1775373000000,
+          66849.820312
+        ],
+        [
+          1775373300000,
+          66820.695312
+        ],
+        [
+          1775373600000,
+          66815.960938
+        ],
+        [
+          1775373900000,
+          66789.773438
+        ],
+        [
+          1775374200000,
+          66733.773438
+        ],
+        [
+          1775374500000,
+          66715.054688
+        ],
+        [
+          1775374800000,
+          66745.367188
+        ],
+        [
+          1775375100000,
+          66779.773438
+        ],
+        [
+          1775375400000,
+          66760.984375
+        ],
+        [
+          1775375700000,
+          66795.5
+        ],
+        [
+          1775376000000,
+          66801.195312
+        ],
+        [
+          1775376120000,
+          66810.515625
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-05 14:54 KST",
-      "marketTimestamp": 1775368440
+      "marketTime": "2026-04-05 17:02 KST",
+      "marketTimestamp": 1775376120
     }
   ],
   "mainCharts": [
@@ -4319,8 +4423,26 @@
       "publishedAt": "Sun, 05 Apr 2026 00:00:00 GMT"
     },
     {
+      "title": "[주간증시전망] 종전·인플레 충돌 속 대형 이벤트 대기···\"보수적 대응해야\"",
+      "source": "서울파이낸스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SQWZsMHQzYUV0WFB3WmwwT3dwZ29NRjRSdUVEUGsxbWpXVm5PcS12N0xpSkZVSk9CRnl4VmxLR2l2dlIxcU8tSF9vTG5UT1BpeU1fWm1YZDBoNU5QaVpJU3ByeVM2SmpBYVE?oc=5",
+      "publishedAt": "Sun, 05 Apr 2026 07:55:02 GMT"
+    },
+    {
+      "title": "전쟁에 증시 '일희일비'…삼성전자 실적에 쏠리는 눈 [주간전망]",
+      "source": "hankyung.com",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55bzdNT1dqYTBTS2JST2IxbDd4X0czb2V4d2hkaERLRi11NEhnR1d3OGNHeFRYN0pyZVlTdFBOR2NSQ2pfR25yNEtvNVY3Nno2Z25QUtIBVEFVX3lxTE55bzdNT1dqYTBTS2JST2IxbDd4X0czb2V4d2hkaERLRi11NEhnR1d3OGNHeFRYN0pyZVlTdFBOR2NSQ2pfR25yNEtvNVY3Nno2Z25QUg?oc=5",
+      "publishedAt": "Sun, 05 Apr 2026 04:44:38 GMT"
+    },
+    {
+      "title": "“다음주가 증시 갈림길”…삼전 실적·FOMC 회의록·美CPI 발표까지",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZM3Mzc1NiazV5b2FvZkpTNm9jeEJzNGQtZTJWSGhiMk9xLUZJUmp5YVU3dXlsUTRncWt0dngxT2J4Zzl1alEtLUVlenpGQTRoRWc?oc=5",
+      "publishedAt": "Sat, 04 Apr 2026 23:43:04 GMT"
+    },
+    {
       "title": "[주간증시전망] 호르무즈 봉쇄에 갇힌 코스피…협상 타결이 변곡점",
-      "source": "브릿지경제",
+      "source": "viva100.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wVmRKaTk0VmZxOVFGSUY0ZkVaS045QzNTMHVDM29kdjBERHo4Ml9uSlF6Wl85RkFCUDZDdExCYmNCbVYwWDN0d3h4MTMtN2VPNHZwWmV4b1FjZw?oc=5",
       "publishedAt": "Sun, 05 Apr 2026 02:14:00 GMT"
     },
@@ -4335,24 +4457,6 @@
       "source": "이데일리",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcUFURkhXTzJDTGstU0U4dHVqVjRSNjVJdl9FZ21VUjZzby1oUExDbm9IUENKYWl5ZEN5dUprTGJJNzZnYzZaeVI4YlE0VjJRNGxrYjlhVHNDa3JLeVl3MU5GNU9ZQWZzRVRzendmdmdkLVp1ckI0ZHFsaGs4djRwUw?oc=5",
       "publishedAt": "Sun, 05 Apr 2026 03:49:21 GMT"
-    },
-    {
-      "title": "전쟁발 롤러코스터 탄 국내 증시…\"변동성 장세 지속\"",
-      "source": "서울경제TV",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tVnlMbmdTUFNTZVJ5WXBBd3J4bnJSUlR6RFBfVWh6MHdqczBqbzRtZkg3OUxsenhlN1ZFRTFWemJDV2l0XzRhdjFrZk5xRmdWTDI2MkowWlNwYWFsQk1seTVVelo?oc=5",
-      "publishedAt": "Sat, 04 Apr 2026 23:00:05 GMT"
-    },
-    {
-      "title": "“다음주가 증시 갈림길”…삼전 실적·FOMC 회의록·美CPI 발표까지",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZM3Mzc1NiazV5b2FvZkpTNm9jeEJzNGQtZTJWSGhiMk9xLUZJUmp5YVU3dXlsUTRncWt0dngxT2J4Zzl1alEtLUVlenpGQTRoRWc?oc=5",
-      "publishedAt": "Sat, 04 Apr 2026 23:43:04 GMT"
-    },
-    {
-      "title": "이란 리스크에 널뛴 코스피…이번 주엔 삼성전자·물가·금리 주목",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFQllqUDEtdFgtUWFtQWtpSkxWX2dIbGE1aWFqWTlIT1UtdjQwNEpEVW0yOVN1WHFHblZoazZobnczV185cW8tODJJVmpYa2VmNUlLNGZ2T1hLbEZPNnFJ?oc=5",
-      "publishedAt": "Sat, 04 Apr 2026 21:00:00 GMT"
     }
   ],
   "summary": {
@@ -4393,7 +4497,7 @@
     "laggards": [
       {
         "label": "Bitcoin",
-        "changePercent": -0.4838,
+        "changePercent": -0.7161,
         "direction": "하락"
       },
       {
