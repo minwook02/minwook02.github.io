@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-05T20:50:08.749445+09:00",
-  "updatedLabel": "2026-04-05 20:50:08 KST",
+  "updatedAt": "2026-04-05T23:05:10.196841+09:00",
+  "updatedLabel": "2026-04-05 23:05:10 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2646,8 +2646,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-04 06:00 KST",
-      "marketTimestamp": 1775250003
+      "marketTime": "2026-04-05 22:32 KST",
+      "marketTimestamp": 1775395979
     },
     {
       "id": "us10y",
@@ -2710,10 +2710,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 66955.75,
+      "price": 66877.75,
       "previousClose": 67292.41,
-      "change": -336.66,
-      "changePercent": -0.5003,
+      "change": -414.66,
+      "changePercent": -0.6162,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3283,16 +3283,124 @@
         ],
         [
           1775389500000,
-          66975.632812
+          66962.148438
         ],
         [
-          1775389680000,
-          66955.75
+          1775389800000,
+          66970.664062
+        ],
+        [
+          1775390100000,
+          66972.835938
+        ],
+        [
+          1775390400000,
+          66912.421875
+        ],
+        [
+          1775390700000,
+          66936.0
+        ],
+        [
+          1775391000000,
+          66905.515625
+        ],
+        [
+          1775391300000,
+          66915.773438
+        ],
+        [
+          1775391600000,
+          66890.601562
+        ],
+        [
+          1775391900000,
+          66880.445312
+        ],
+        [
+          1775392200000,
+          66739.203125
+        ],
+        [
+          1775392500000,
+          66752.726562
+        ],
+        [
+          1775392800000,
+          66725.421875
+        ],
+        [
+          1775393100000,
+          66693.382812
+        ],
+        [
+          1775393400000,
+          66777.890625
+        ],
+        [
+          1775393700000,
+          66767.554688
+        ],
+        [
+          1775394000000,
+          66800.273438
+        ],
+        [
+          1775394300000,
+          66799.71875
+        ],
+        [
+          1775394600000,
+          66778.351562
+        ],
+        [
+          1775394900000,
+          66754.5625
+        ],
+        [
+          1775395200000,
+          66827.640625
+        ],
+        [
+          1775395500000,
+          66749.632812
+        ],
+        [
+          1775395800000,
+          66809.453125
+        ],
+        [
+          1775396100000,
+          66788.0625
+        ],
+        [
+          1775396400000,
+          66814.40625
+        ],
+        [
+          1775396700000,
+          66848.429688
+        ],
+        [
+          1775397000000,
+          66848.820312
+        ],
+        [
+          1775397300000,
+          66876.367188
+        ],
+        [
+          1775397600000,
+          66868.835938
+        ],
+        [
+          1775397720000,
+          66877.75
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-05 20:48 KST",
-      "marketTimestamp": 1775389680
+      "marketTime": "2026-04-05 23:02 KST",
+      "marketTimestamp": 1775397720
     }
   ],
   "mainCharts": [
@@ -4591,10 +4699,10 @@
   ],
   "headlines": [
     {
-      "title": "뉴욕·상하이 증시, 이란戰 '충격 가늠자' 美 3월 CPI",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9INFpHblhUT3dFY29sTUJsYVRzNUJSYUd2bkxHZXMwWTduc1Y3TVdYQ2FiTXA5eWdJRzJyR2k0NjlMQjNKbTBaZ1N2QjhYSVZVd3E2LdIBVEFVX3lxTE9INFpHblhUT3dFY29sTUJsYVRzNUJSYUd2bkxHZXMwWTduc1Y3TVdYQ2FiTXA5eWdJRzJyR2k0NjlMQjNKbTBaZ1N2QjhYSVZVd3E2LQ?oc=5",
-      "publishedAt": "Sun, 05 Apr 2026 09:08:45 GMT"
+      "title": "\"2분기 韓증시 반등…반도체 피크아웃 더 늦어질 것\"",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02dm55aW91V3U0MzgwMHk3aWxXZ19kanl0UXhWOVQtamRnVkZrQ2hBaXNqbE5FMUYyTWo5U29BbmxoeWJBREpNdnptQ1Q1VlU?oc=5",
+      "publishedAt": "Sun, 05 Apr 2026 08:40:02 GMT"
     },
     {
       "title": "롤러코스터 장세 멈출까…‘종전·기준금리’, 증시 정상화 바로미터 [주간증시]",
@@ -4603,22 +4711,16 @@
       "publishedAt": "Sat, 04 Apr 2026 22:53:10 GMT"
     },
     {
+      "title": "뉴욕·상하이 증시, 이란戰 '충격 가늠자' 美 3월 CPI",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9INFpHblhUT3dFY29sTUJsYVRzNUJSYUd2bkxHZXMwWTduc1Y3TVdYQ2FiTXA5eWdJRzJyR2k0NjlMQjNKbTBaZ1N2QjhYSVZVd3E2LdIBVEFVX3lxTE9INFpHblhUT3dFY29sTUJsYVRzNUJSYUd2bkxHZXMwWTduc1Y3TVdYQ2FiTXA5eWdJRzJyR2k0NjlMQjNKbTBaZ1N2QjhYSVZVd3E2LQ?oc=5",
+      "publishedAt": "Sun, 05 Apr 2026 09:08:45 GMT"
+    },
+    {
       "title": "전쟁 공포 '정점' 지나는 코스피…삼성전자 실적 등 '촉각'[주간증시전망]",
-      "source": "newsis.com",
+      "source": "뉴시스",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jc1RSZVZmS0ExR2hNcHJHc1RUQks0SjNuajBXWWhrNVYwUWlYWDFOblNucUsteTJFRVNtZ3g2Tk5VaXdrd1VEWFVpVlgzTDZfVTRjMWxGUjdPSkJGZndvSmRzRG01cS1uMnBjTXhhTUFPVWk0TW5lT9IBeEFVX3lxTE5jc1RSZVZmS0ExR2hNcHJHc1RUQks0SjNuajBXWWhrNVYwUWlYWDFOblNucUsteTJFRVNtZ3g2Tk5VaXdrd1VEWFVpVlgzTDZfVTRjMWxGUjdPSkJGZndvSmRzRG01cS1uMnBjTXhhTUFPVWk0TW5lTw?oc=5",
       "publishedAt": "Sun, 05 Apr 2026 00:00:00 GMT"
-    },
-    {
-      "title": "[주간증시전망] 종전·인플레 충돌 속 대형 이벤트 대기···\"보수적 대응해야\"",
-      "source": "서울파이낸스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SQWZsMHQzYUV0WFB3WmwwT3dwZ29NRjRSdUVEUGsxbWpXVm5PcS12N0xpSkZVSk9CRnl4VmxLR2l2dlIxcU8tSF9vTG5UT1BpeU1fWm1YZDBoNU5QaVpJU3ByeVM2SmpBYVE?oc=5",
-      "publishedAt": "Sun, 05 Apr 2026 06:00:00 GMT"
-    },
-    {
-      "title": "“다음주가 증시 갈림길”…삼전 실적·FOMC 회의록·美CPI 발표까지",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZM3Mzc1NiazV5b2FvZkpTNm9jeEJzNGQtZTJWSGhiMk9xLUZJUmp5YVU3dXlsUTRncWt0dngxT2J4Zzl1alEtLUVlenpGQTRoRWc?oc=5",
-      "publishedAt": "Sat, 04 Apr 2026 23:43:04 GMT"
     },
     {
       "title": "[증시전망] 중동발 리스크 딛고 코스피 반등 시도…주도주는 '반도체'",
@@ -4633,10 +4735,16 @@
       "publishedAt": "Sun, 05 Apr 2026 02:14:00 GMT"
     },
     {
-      "title": "美 재정적자發 금리쇼크…코스피 더 큰 파고 맞나",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KUEZla1JLTHpwUTY4dVpxUjhkNExTMUR6NGRsdU0xY2ZkX3dTLXRTMmhvaDdGRUUxdmlNOUlrZEg4em45YThtM3Y0NGtnSEV2MUYwMl9uU3BsSWZtN2Z1Zl9Gazlzd3FNSVZDVkpB?oc=5",
-      "publishedAt": "Sun, 05 Apr 2026 09:47:00 GMT"
+      "title": "[주간증시전망] 종전·인플레 충돌 속 대형 이벤트 대기···\"보수적 대응해야\"",
+      "source": "서울파이낸스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SQWZsMHQzYUV0WFB3WmwwT3dwZ29NRjRSdUVEUGsxbWpXVm5PcS12N0xpSkZVSk9CRnl4VmxLR2l2dlIxcU8tSF9vTG5UT1BpeU1fWm1YZDBoNU5QaVpJU3ByeVM2SmpBYVE?oc=5",
+      "publishedAt": "Sun, 05 Apr 2026 06:00:00 GMT"
+    },
+    {
+      "title": "“다음주가 증시 갈림길”…삼전 실적·FOMC 회의록·美CPI 발표까지",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZM3Mzc1NiazV5b2FvZkpTNm9jeEJzNGQtZTJWSGhiMk9xLUZJUmp5YVU3dXlsUTRncWt0dngxT2J4Zzl1alEtLUVlenpGQTRoRWc?oc=5",
+      "publishedAt": "Sat, 04 Apr 2026 23:43:04 GMT"
     }
   ],
   "summary": {
@@ -4677,7 +4785,7 @@
     "laggards": [
       {
         "label": "Bitcoin",
-        "changePercent": -0.5003,
+        "changePercent": -0.6162,
         "direction": "하락"
       },
       {
