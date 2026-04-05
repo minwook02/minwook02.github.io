@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-06T02:50:49.773364+09:00",
-  "updatedLabel": "2026-04-06 02:50:49 KST",
+  "updatedAt": "2026-04-06T04:50:23.878351+09:00",
+  "updatedLabel": "2026-04-06 04:50:23 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2646,8 +2646,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-06 00:57 KST",
-      "marketTimestamp": 1775404679
+      "marketTime": "2026-04-06 03:44 KST",
+      "marketTimestamp": 1775414674
     },
     {
       "id": "us10y",
@@ -2710,10 +2710,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 67326.58,
+      "price": 67290.1,
       "previousClose": 67292.41,
-      "change": 34.17,
-      "changePercent": 0.0508,
+      "change": -2.31,
+      "changePercent": -0.0034,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -3571,16 +3571,112 @@
         ],
         [
           1775411100000,
-          67300.6875
+          67327.929688
         ],
         [
-          1775411280000,
-          67326.578125
+          1775411400000,
+          67311.671875
+        ],
+        [
+          1775411700000,
+          67334.289062
+        ],
+        [
+          1775412000000,
+          67299.257812
+        ],
+        [
+          1775412300000,
+          67279.71875
+        ],
+        [
+          1775412600000,
+          67305.570312
+        ],
+        [
+          1775412900000,
+          67296.515625
+        ],
+        [
+          1775413200000,
+          67281.523438
+        ],
+        [
+          1775413500000,
+          67273.125
+        ],
+        [
+          1775413800000,
+          67378.6875
+        ],
+        [
+          1775414100000,
+          67394.601562
+        ],
+        [
+          1775414400000,
+          67407.835938
+        ],
+        [
+          1775414700000,
+          67418.625
+        ],
+        [
+          1775415000000,
+          67366.804688
+        ],
+        [
+          1775415300000,
+          67363.9375
+        ],
+        [
+          1775415600000,
+          67362.804688
+        ],
+        [
+          1775415900000,
+          67379.765625
+        ],
+        [
+          1775416200000,
+          67392.3125
+        ],
+        [
+          1775416500000,
+          67423.867188
+        ],
+        [
+          1775416800000,
+          67493.796875
+        ],
+        [
+          1775417100000,
+          67446.671875
+        ],
+        [
+          1775417400000,
+          67416.523438
+        ],
+        [
+          1775417700000,
+          67321.34375
+        ],
+        [
+          1775418000000,
+          67271.382812
+        ],
+        [
+          1775418300000,
+          67283.570312
+        ],
+        [
+          1775418420000,
+          67290.101562
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-06 02:48 KST",
-      "marketTimestamp": 1775411280
+      "marketTime": "2026-04-06 04:47 KST",
+      "marketTimestamp": 1775418420
     }
   ],
   "mainCharts": [
@@ -4881,18 +4977,18 @@
     {
       "title": "“트럼프 말에 휘둘리지 말아야… 코스피 복원력 강할 것” - 조선비즈",
       "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdUdZRFZRZ3R0UlVnUGszcnhVaUx4c19uX1dnSVQ3cGZxWVNQSWRhOG5zbmxFYzhOVnpQdkxBMWhIMmZvbTJOQWVTVnRuWVZOR3dCdjZub3ctQ0pXZDRuSW9qNjljSGxWMGJteVFpUzh0SFh0d2drTEpEUjQzTlpwOFItdU15NjFh0gGcAUFVX3lxTE9jR0hVWXpWVl9UY2VQSlN2LUU2TFVCVVF5UWxjaVFVYmtsR0MwT2pBU1ZyN2ktNEdta1Y1NExLWUZ5Vmpid1A0a0NjVk8zWEZBckpiQ1NmZ3Y5Q2E3ZC1BUnNwR1k4VFZReHpHMHRJcVhRZ1dnbTFlWUFBUjdZTm1xUGxDc2hoNlZqenZQMkRGeW9CWS10LWpXT0dXZQ?oc=5",
-      "publishedAt": "Sun, 05 Apr 2026 15:39:27 GMT"
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPY0dIVVl6VlZfVGNlUEpTdi1FNkxVQlVReVFsY2lRVWJrbEdDME9qQVNWcjdpLTRHbWtWNTRMS1lGeVZqYndQNGtDY1ZPM1hGQXJKYkNTZmd2OUNhN2QtQVJzcEdZOFRWUXh6RzB0SXFYUWdXZ20xZVlBQVI3WU5tcVBsQ3NoaDZWanp2UDJERnlvQlktdC1qV09HV2XSAZwBQVVfeXFMT2NHSFVZelZWX1RjZVBKU3YtRTZMVUJVUXlRbGNpUVVia2xHQzBPakFTVnI3aS00R21rVjU0TEtZRnlWamJ3UDRrQ2NWTzNYRkFySmJDU2ZndjlDYTdkLUFSc3BHWThUVlF4ekcwdElxWFFnV2dtMWVZQUFSN1lObXFQbENzaGg2Vmp6dlAyREZ5b0JZLXQtaldPR1dl?oc=5",
+      "publishedAt": "Sun, 05 Apr 2026 15:36:00 GMT"
     },
     {
       "title": "롤러코스터 장세 멈출까…‘종전·기준금리’, 증시 정상화 바로미터 [주간증시]",
-      "source": "에너지경제신문",
+      "source": "ekn.kr",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ndFZVTm9OZG82bGlTMXlEMmpGMkpkekpZT2UxNEtnS0FQWTZOTlp3bFhUU1ZRM0hqM2xQdm84S1oyUW5ET21lZWZxY21CeFI2bmt1U2NTTS1SY1Zsbnc?oc=5",
       "publishedAt": "Sat, 04 Apr 2026 22:53:10 GMT"
     },
     {
       "title": "뉴욕·상하이 증시, 이란戰 '충격 가늠자' 美 3월 CPI",
-      "source": "hankyung.com",
+      "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9INFpHblhUT3dFY29sTUJsYVRzNUJSYUd2bkxHZXMwWTduc1Y3TVdYQ2FiTXA5eWdJRzJyR2k0NjlMQjNKbTBaZ1N2QjhYSVZVd3E2LdIBVEFVX3lxTE9INFpHblhUT3dFY29sTUJsYVRzNUJSYUd2bkxHZXMwWTduc1Y3TVdYQ2FiTXA5eWdJRzJyR2k0NjlMQjNKbTBaZ1N2QjhYSVZVd3E2LQ?oc=5",
       "publishedAt": "Sun, 05 Apr 2026 09:08:45 GMT"
     },
@@ -4969,13 +5065,13 @@
         "direction": "보합"
       },
       {
-        "label": "USD/KRW",
-        "changePercent": 0.045,
+        "label": "Bitcoin",
+        "changePercent": -0.0034,
         "direction": "보합"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": 0.0508,
+        "label": "USD/KRW",
+        "changePercent": 0.045,
         "direction": "보합"
       }
     ]
