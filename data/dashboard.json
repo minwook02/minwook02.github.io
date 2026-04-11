@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-11T18:49:00.562409+09:00",
-  "updatedLabel": "2026-04-11 18:49:00 KST",
+  "updatedAt": "2026-04-11T19:40:47.255334+09:00",
+  "updatedLabel": "2026-04-11 19:40:47 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4681,10 +4681,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 72871.836,
+      "price": 72865.48,
       "previousClose": 72974.195,
-      "change": -102.359,
-      "changePercent": -0.1403,
+      "change": -108.715,
+      "changePercent": -0.149,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -5157,13 +5157,57 @@
           72853.507812
         ],
         [
-          1775900760000,
-          72871.835938
+          1775900700000,
+          72874.09375
+        ],
+        [
+          1775901000000,
+          72873.914062
+        ],
+        [
+          1775901300000,
+          72913.359375
+        ],
+        [
+          1775901600000,
+          72934.25
+        ],
+        [
+          1775901900000,
+          72915.835938
+        ],
+        [
+          1775902200000,
+          72836.765625
+        ],
+        [
+          1775902500000,
+          72841.015625
+        ],
+        [
+          1775902800000,
+          72868.773438
+        ],
+        [
+          1775903100000,
+          72898.875
+        ],
+        [
+          1775903400000,
+          72893.773438
+        ],
+        [
+          1775903700000,
+          72896.546875
+        ],
+        [
+          1775903820000,
+          72865.476562
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-11 18:46 KST",
-      "marketTimestamp": 1775900760
+      "marketTime": "2026-04-11 19:37 KST",
+      "marketTimestamp": 1775903820
     }
   ],
   "mainCharts": [
@@ -6492,6 +6536,12 @@
       "publishedAt": "Sat, 11 Apr 2026 00:59:48 GMT"
     },
     {
+      "title": "투자자라면 꼭 알아야 하는 경제 일정 브리핑 (26.04.13~26.04.17)",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ1MzdWs1d05XUERjQ3JaMWd4c1FvWDJFVGRXcVM1V2F0eTNZY21zYUh5N3Z0dzd0bkVvTDVjTTdtRnl5c210Z0Jua3h6NkNVemRQYlJuTWhlMUZ5RzhmY2FyV3VfbUEzUExqUFFsX3VGQ2RSQ3VWWlJJRVIyeHdab1UyZXRsN1JtX1E?oc=5",
+      "publishedAt": "Sat, 11 Apr 2026 09:04:36 GMT"
+    },
+    {
       "title": "[주간증시전망] 중동 변수 속 실적 시즌 개막…반등 이후 변동성 장세 지속",
       "source": "아주경제",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yUFI5RHdtMVJCRFJvS0JXcjRMX0c1WDBzR0czdHh4SjZuaHpBWUZFeklvanhaRHEtZmE2MlZlOVlGMmhuc1hIX0hyUkcxZk9hcmxlM01ucEbSAVhBVV95cUxPMlBSOUR3bTFSQkRSb0tCV3I0TF9HNVgwc0dHM3R4eEo2bmh6QVlGRXpJb2p4WkRxLWZhNjJWZTlZRjJobnNYSF9IclJHMWZPYXJsZTNNbnBG?oc=5",
@@ -6502,12 +6552,6 @@
       "source": "세계비즈",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCMGtSRUN1LVF1Mko4WXQ5OHZ4V3dtYktfYW9Rb0VsY1pGSlJnUkhOdmVyMUdrNkxUSk1aVjBZQzVZUDMzQm5kenp1ZnBEamJmV3ljcEJ4RWdCQQ?oc=5",
       "publishedAt": "Fri, 10 Apr 2026 22:00:00 GMT"
-    },
-    {
-      "title": "뉴욕증시, 美·이란 협상 앞두고 경계심…혼조 마감",
-      "source": "한국경제TV",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzWWVMOGNZN2duWnoybDVac3R5UTdqd1ZHZHc5TmU5MHdhV2kyUTlSU0Ixd0FqX1RmTmZmTU5EblFuYVNsZHRrZi1nYTNUSXVSRTVjV2hPWmFKLWFLQzRYV1VPajRtbEt0SWFYWGlwTFZjUjRpTnJLY0JUN3I?oc=5",
-      "publishedAt": "Fri, 10 Apr 2026 20:53:00 GMT"
     }
   ],
   "summary": {
