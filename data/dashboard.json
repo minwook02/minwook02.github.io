@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-11T20:35:50.835455+09:00",
-  "updatedLabel": "2026-04-11 20:35:50 KST",
+  "updatedAt": "2026-04-11T22:09:27.685022+09:00",
+  "updatedLabel": "2026-04-11 22:09:27 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4681,12 +4681,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 72870.016,
+      "price": 72837.44,
       "previousClose": 72974.195,
-      "change": -104.179,
-      "changePercent": -0.1428,
-      "tone": "flat",
-      "direction": "보합",
+      "change": -136.755,
+      "changePercent": -0.1874,
+      "tone": "down",
+      "direction": "하락",
       "series": [
         [
           1775865600000,
@@ -5242,16 +5242,92 @@
         ],
         [
           1775907000000,
-          72867.148438
+          72870.015625
         ],
         [
-          1775907240000,
-          72870.015625
+          1775907300000,
+          72872.765625
+        ],
+        [
+          1775907600000,
+          72867.28125
+        ],
+        [
+          1775907900000,
+          72873.132812
+        ],
+        [
+          1775908200000,
+          72911.148438
+        ],
+        [
+          1775908500000,
+          72925.703125
+        ],
+        [
+          1775908800000,
+          72938.867188
+        ],
+        [
+          1775909100000,
+          72964.664062
+        ],
+        [
+          1775909400000,
+          72921.453125
+        ],
+        [
+          1775909700000,
+          72952.46875
+        ],
+        [
+          1775910000000,
+          72895.539062
+        ],
+        [
+          1775910300000,
+          72878.828125
+        ],
+        [
+          1775910600000,
+          72883.992188
+        ],
+        [
+          1775910900000,
+          72926.65625
+        ],
+        [
+          1775911200000,
+          72954.546875
+        ],
+        [
+          1775911500000,
+          72973.671875
+        ],
+        [
+          1775911800000,
+          72979.429688
+        ],
+        [
+          1775912100000,
+          72967.820312
+        ],
+        [
+          1775912400000,
+          72847.789062
+        ],
+        [
+          1775912700000,
+          72842.757812
+        ],
+        [
+          1775912760000,
+          72837.4375
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-11 20:34 KST",
-      "marketTimestamp": 1775907240
+      "marketTime": "2026-04-11 22:06 KST",
+      "marketTimestamp": 1775912760
     }
   ],
   "mainCharts": [
@@ -6574,16 +6650,16 @@
       "publishedAt": "Fri, 10 Apr 2026 23:22:50 GMT"
     },
     {
-      "title": "주가 상승에 ETF 순자산 400조 '초읽기'…서학개미 유턴 가속",
-      "source": "한국NGO신문",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwaHlqSWdjQWo1Q3lQQ2o3eFJFZDRZNGNpRzBJZEtUS1czY1BkT29aenA3VTZEMnpES2VnX1dPMU5CYzl5and1Tjl2RTUxd0tQSkV3bll5YjJDMWZUWWRXMmpNMXJvVmx5dnc?oc=5",
-      "publishedAt": "Sat, 11 Apr 2026 00:59:48 GMT"
-    },
-    {
       "title": "투자자라면 꼭 알아야 하는 경제 일정 브리핑 (26.04.13~26.04.17)",
       "source": "네이버 프리미엄콘텐츠",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ1MzdWs1d05XUERjQ3JaMWd4c1FvWDJFVGRXcVM1V2F0eTNZY21zYUh5N3Z0dzd0bkVvTDVjTTdtRnl5c210Z0Jua3h6NkNVemRQYlJuTWhlMUZ5RzhmY2FyV3VfbUEzUExqUFFsX3VGQ2RSQ3VWWlJJRVIyeHdab1UyZXRsN1JtX1E?oc=5",
       "publishedAt": "Sat, 11 Apr 2026 09:04:36 GMT"
+    },
+    {
+      "title": "주가 상승에 ETF 순자산 400조 '초읽기'…서학개미 유턴 가속",
+      "source": "한국NGO신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwaHlqSWdjQWo1Q3lQQ2o3eFJFZDRZNGNpRzBJZEtUS1czY1BkT29aenA3VTZEMnpES2VnX1dPMU5CYzl5and1Tjl2RTUxd0tQSkV3bll5YjJDMWZUWWRXMmpNMXJvVmx5dnc?oc=5",
+      "publishedAt": "Sat, 11 Apr 2026 00:59:48 GMT"
     },
     {
       "title": "[주간증시전망] 중동 변수 속 실적 시즌 개막…반등 이후 변동성 장세 지속",
