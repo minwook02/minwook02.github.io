@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-12T06:38:18.011120+09:00",
-  "updatedLabel": "2026-04-12 06:38:18 KST",
+  "updatedAt": "2026-04-12T07:37:36.789970+09:00",
+  "updatedLabel": "2026-04-12 07:37:36 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4681,10 +4681,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 73426.52,
+      "price": 73345.18,
       "previousClose": 72974.195,
-      "change": 452.325,
-      "changePercent": 0.6198,
+      "change": 370.985,
+      "changePercent": 0.5084,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5726,12 +5726,60 @@
         ],
         [
           1775943300000,
-          73426.523438
+          73426.195312
+        ],
+        [
+          1775943600000,
+          73471.34375
+        ],
+        [
+          1775943900000,
+          73491.671875
+        ],
+        [
+          1775944200000,
+          73539.820312
+        ],
+        [
+          1775944500000,
+          73476.75
+        ],
+        [
+          1775944800000,
+          73435.4375
+        ],
+        [
+          1775945100000,
+          73550.828125
+        ],
+        [
+          1775945400000,
+          73540.546875
+        ],
+        [
+          1775945700000,
+          73497.375
+        ],
+        [
+          1775946000000,
+          73484.445312
+        ],
+        [
+          1775946300000,
+          73477.789062
+        ],
+        [
+          1775946600000,
+          73351.039062
+        ],
+        [
+          1775946900000,
+          73345.179688
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-12 06:35 KST",
-      "marketTimestamp": 1775943300
+      "marketTime": "2026-04-12 07:35 KST",
+      "marketTimestamp": 1775946900
     }
   ],
   "mainCharts": [
@@ -7030,22 +7078,34 @@
   ],
   "headlines": [
     {
+      "title": "신현송 \"기준금리, 중립금리 추정 범위 중간에\"…'매파' 선긋기",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94WVlVdTB1RVdqZURocmtaWl92UFdYTGZoSThNdGt2UnlIRlFJQzlPc2RlTlVvNnpjcG00X0ZIblZPRElmdnJLdU1PZ3JkbzZQMkRfOUhGQjJsU0dJMjM2S9IBYEFVX3lxTE94WVlVdTB1RVdqZURocmtaWl92UFdYTGZoSThNdGt2UnlIRlFJQzlPc2RlTlVvNnpjcG00X0ZIblZPRElmdnJLdU1PZ3JkbzZQMkRfOUhGQjJsU0dJMjM2Sw?oc=5",
+      "publishedAt": "Sat, 11 Apr 2026 20:53:01 GMT"
+    },
+    {
+      "title": "외국인 45조 순매도 : 한국 증시 탈출 시도?",
+      "source": "브런치",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kSWxTUkFNSHBrd2NnU2RPT3BEV0pyZldoNWxkSHI5TTBpSHdiU1k1ZXd6SDMzMFFKV0NUaHpBTWxnc2tIMFZ3QUhULTFSeDZBTzVZ?oc=5",
+      "publishedAt": "Sat, 11 Apr 2026 18:24:23 GMT"
+    },
+    {
       "title": "개미들, 2주만 버티면 되나요?…외인 쓸어담는 韓증시 시나리오 [노정동의 어쩌다 투자자]",
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIVjJ5UmdObXJaX21Mck5fYW93TWFjYXV3OW5JOFBvY29nVUdQb25TdGZUbUxfaE5YMUphR2h4TV9ZYS1oaXRXcVdBN0FHeXA0c2FicjNaOTc5d9IBVEFVX3lxTFBhX01RUFBjUzloS3kxeHpUNmNiUGEzWmYwbmhFQVhaVm5MUUZwcWVSbElPWGZwUEVWNzRBUE9LWk1OT0VqSDdtSlNpYUJEMU5lRWFPNw?oc=5",
       "publishedAt": "Sat, 11 Apr 2026 05:22:48 GMT"
     },
     {
-      "title": "신현송 \"기준금리, 중립금리 추정 범위 중간에\"…'매파' 선긋기",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SQkpxUXNxX2kzMVdHc1p3N1dDQ08tYUtaNmtQempQS19hTmVheXRqNzhQS2ZaR2F5Wi02Z1JQZHRFeFhpbGRxeEZwVmZ5cG4yVHc?oc=5",
-      "publishedAt": "Sat, 11 Apr 2026 20:53:01 GMT"
-    },
-    {
       "title": "20만전자, 100만닉스, 미·이란 휴전에 투심 폭발했지만…[주간 증시해설서]",
       "source": "더스쿠프",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yYk04OXpxN2o1eE81UTB4V1o0V3d5SjR6ZVp4djktclpnMGVLZFV3VDdOX08xMVFjZV9RbExLNmN2cExXSzFhRlgzdV82N1JJMC1KX2ZFOXZkQnk0dmpfTzhSTDlZOU5vdm9JQklR?oc=5",
       "publishedAt": "Sat, 11 Apr 2026 01:22:39 GMT"
+    },
+    {
+      "title": "중동전쟁 후 전세계 하락률 '톱' 국내 증시, 회복도 빠를까",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tNnV4eS0xWEkzZjBGN2dxT2xhMlFaaU5ISGFCWDZJVkRPRmdGWFIyblZ4ekM4ZGI1NGVMdXJueW8tMDN6OXluOTRkbEh3T1l1UktR?oc=5",
+      "publishedAt": "Sat, 11 Apr 2026 22:03:00 GMT"
     },
     {
       "title": "실적 기대감과 전쟁 후폭풍의 '줄다리기'…코스피 5400~6200 [주간 증시 전망]",
@@ -7064,18 +7124,6 @@
       "source": "서울경제TV",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pWU9FUTcwbnZPZ0JDOTBQakJEY1FpNTMxTGdhc2ZkMXRFRHREWmFiV1FWZWF4WWp4MV9Ebk9XcTlNNTdobElOZlZQM2VRVk1rbU9wWjN2TGNtQ2hzQTdpMU55cjU?oc=5",
       "publishedAt": "Fri, 10 Apr 2026 23:22:50 GMT"
-    },
-    {
-      "title": "트럼프 ‘휴전 타코’에 증시 반등했지만…월가는 ‘싸늘’ [머니+]",
-      "source": "에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GNjhoV2FyUW9mZEoxTGNpZjR6SURoX3I4TTRfeFdhX2EtV3I5U2JqYWdPT1k4MzZYVFVtS0pMb2NMUTgyN0FrOWIwSmFWaUxjNFBmWGd6OTRlRjg?oc=5",
-      "publishedAt": "Sat, 11 Apr 2026 04:06:02 GMT"
-    },
-    {
-      "title": "주가 상승에 ETF 순자산 400조 '초읽기'…서학개미 유턴 가속",
-      "source": "한국NGO신문",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwaHlqSWdjQWo1Q3lQQ2o3eFJFZDRZNGNpRzBJZEtUS1czY1BkT29aenA3VTZEMnpES2VnX1dPMU5CYzl5and1Tjl2RTUxd0tQSkV3bll5YjJDMWZUWWRXMmpNMXJvVmx5dnc?oc=5",
-      "publishedAt": "Sat, 11 Apr 2026 00:59:48 GMT"
     }
   ],
   "summary": {
@@ -7108,8 +7156,8 @@
         "direction": "상승"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": 0.6198,
+        "label": "USD/KRW",
+        "changePercent": 0.5541,
         "direction": "상승"
       }
     ],
