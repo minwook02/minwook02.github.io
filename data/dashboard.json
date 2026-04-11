@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-12T00:57:42.590883+09:00",
-  "updatedLabel": "2026-04-12 00:57:42 KST",
+  "updatedAt": "2026-04-12T01:50:14.593867+09:00",
+  "updatedLabel": "2026-04-12 01:50:14 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4681,12 +4681,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 72854.664,
+      "price": 73105.56,
       "previousClose": 72974.195,
-      "change": -119.531,
-      "changePercent": -0.1638,
-      "tone": "down",
-      "direction": "하락",
+      "change": 131.365,
+      "changePercent": 0.18,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1775865600000,
@@ -5454,12 +5454,56 @@
         ],
         [
           1775922900000,
-          72854.664062
+          72880.890625
+        ],
+        [
+          1775923200000,
+          72850.484375
+        ],
+        [
+          1775923500000,
+          72850.65625
+        ],
+        [
+          1775923800000,
+          72897.195312
+        ],
+        [
+          1775924100000,
+          72904.351562
+        ],
+        [
+          1775924400000,
+          72893.835938
+        ],
+        [
+          1775924700000,
+          72899.828125
+        ],
+        [
+          1775925000000,
+          72916.734375
+        ],
+        [
+          1775925300000,
+          72951.09375
+        ],
+        [
+          1775925600000,
+          73081.15625
+        ],
+        [
+          1775925900000,
+          73132.429688
+        ],
+        [
+          1775926080000,
+          73105.5625
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-12 00:55 KST",
-      "marketTimestamp": 1775922900
+      "marketTime": "2026-04-12 01:48 KST",
+      "marketTimestamp": 1775926080
     }
   ],
   "mainCharts": [
@@ -6782,35 +6826,35 @@
       "publishedAt": "Fri, 10 Apr 2026 23:22:50 GMT"
     },
     {
+      "title": "트럼프 ‘휴전 타코’에 증시 반등했지만…월가는 ‘싸늘’ [머니+]",
+      "source": "에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GNjhoV2FyUW9mZEoxTGNpZjR6SURoX3I4TTRfeFdhX2EtV3I5U2JqYWdPT1k4MzZYVFVtS0pMb2NMUTgyN0FrOWIwSmFWaUxjNFBmWGd6OTRlRjg?oc=5",
+      "publishedAt": "Sat, 11 Apr 2026 04:06:02 GMT"
+    },
+    {
+      "title": "투자자라면 꼭 알아야 하는 경제 일정 브리핑 (26.04.13~26.04.17)",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ1MzdWs1d05XUERjQ3JaMWd4c1FvWDJFVGRXcVM1V2F0eTNZY21zYUh5N3Z0dzd0bkVvTDVjTTdtRnl5c210Z0Jua3h6NkNVemRQYlJuTWhlMUZ5RzhmY2FyV3VfbUEzUExqUFFsX3VGQ2RSQ3VWWlJJRVIyeHdab1UyZXRsN1JtX1E?oc=5",
+      "publishedAt": "Sat, 11 Apr 2026 09:06:13 GMT"
+    },
+    {
+      "title": "주가 상승에 ETF 순자산 400조 '초읽기'…서학개미 유턴 가속",
+      "source": "한국NGO신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwaHlqSWdjQWo1Q3lQQ2o3eFJFZDRZNGNpRzBJZEtUS1czY1BkT29aenA3VTZEMnpES2VnX1dPMU5CYzl5and1Tjl2RTUxd0tQSkV3bll5YjJDMWZUWWRXMmpNMXJvVmx5dnc?oc=5",
+      "publishedAt": "Sat, 11 Apr 2026 00:59:48 GMT"
+    },
+    {
       "title": "[주간증시전망] 중동 변수 속 실적 시즌 개막…반등 이후 변동성 장세 지속",
       "source": "아주경제",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yUFI5RHdtMVJCRFJvS0JXcjRMX0c1WDBzR0czdHh4SjZuaHpBWUZFeklvanhaRHEtZmE2MlZlOVlGMmhuc1hIX0hyUkcxZk9hcmxlM01ucEbSAVhBVV95cUxPMlBSOUR3bTFSQkRSb0tCV3I0TF9HNVgwc0dHM3R4eEo2bmh6QVlGRXpJb2p4WkRxLWZhNjJWZTlZRjJobnNYSF9IclJHMWZPYXJsZTNNbnBG?oc=5",
       "publishedAt": "Fri, 10 Apr 2026 21:00:00 GMT"
-    },
-    {
-      "title": "삼성화재가 증명한 70년 장기 우상향의 기록 => 외인·기관 융단폭격 매수세 >> 삼성화재를 한국 증시 안전 금고로 선택한 이유 = 삼성전자 자사주 소각 최대 수혜주 => 삼성화재 배당 파티에 시총 30조 향한다",
-      "source": "데일리머니",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HZ28yVjJDQ0dMdjRvVWhvNV85akEydzRkaWRKd3R4OFJMU3owSTUxQ040enNKclI3dGEzSGNTSWJuT0ZjdTlRZ2xocHJLSG9TdVZKYWVGNFRBZmNJQzJLYUlqa2YyN0t1TUJLOGROOGNnT1k?oc=5",
-      "publishedAt": "Sat, 11 Apr 2026 09:08:09 GMT"
-    },
-    {
-      "title": "[주간증시전망] 주말 미국·이란 종전 협상…내주 코스피 상승세 이어질까",
-      "source": "세계비즈",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCMGtSRUN1LVF1Mko4WXQ5OHZ4V3dtYktfYW9Rb0VsY1pGSlJnUkhOdmVyMUdrNkxUSk1aVjBZQzVZUDMzQm5kenp1ZnBEamJmV3ljcEJ4RWdCQQ?oc=5",
-      "publishedAt": "Fri, 10 Apr 2026 22:00:00 GMT"
-    },
-    {
-      "title": "뉴욕증시, 美·이란 협상 앞두고 경계심…혼조 마감",
-      "source": "한국경제TV",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzWWVMOGNZN2duWnoybDVac3R5UTdqd1ZHZHc5TmU5MHdhV2kyUTlSU0Ixd0FqX1RmTmZmTU5EblFuYVNsZHRrZi1nYTNUSXVSRTVjV2hPWmFKLWFLQzRYV1VPajRtbEt0SWFYWGlwTFZjUjRpTnJLY0JUN3I?oc=5",
-      "publishedAt": "Fri, 10 Apr 2026 20:53:00 GMT"
     }
   ],
   "summary": {
     "signal": {
-      "label": "Mixed",
-      "tone": "flat",
-      "message": "국내외 자산이 같은 방향으로 움직이지 않는 혼조장입니다."
+      "label": "Risk-On",
+      "tone": "up",
+      "message": "주식과 위험자산 강세가 우세합니다."
     },
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 상승 흐름입니다.",
