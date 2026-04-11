@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-11T16:53:01.314525+09:00",
-  "updatedLabel": "2026-04-11 16:53:01 KST",
+  "updatedAt": "2026-04-11T17:52:17.673547+09:00",
+  "updatedLabel": "2026-04-11 17:52:17 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4681,10 +4681,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 72731.49,
+      "price": 72757.35,
       "previousClose": 72974.195,
-      "change": -242.705,
-      "changePercent": -0.3326,
+      "change": -216.845,
+      "changePercent": -0.2972,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5066,12 +5066,60 @@
         ],
         [
           1775893800000,
-          72731.492188
+          72726.398438
+        ],
+        [
+          1775894100000,
+          72738.289062
+        ],
+        [
+          1775894400000,
+          72756.484375
+        ],
+        [
+          1775894700000,
+          72753.929688
+        ],
+        [
+          1775895000000,
+          72805.359375
+        ],
+        [
+          1775895300000,
+          72799.921875
+        ],
+        [
+          1775895600000,
+          72808.601562
+        ],
+        [
+          1775895900000,
+          72783.773438
+        ],
+        [
+          1775896200000,
+          72785.445312
+        ],
+        [
+          1775896500000,
+          72735.492188
+        ],
+        [
+          1775896800000,
+          72746.195312
+        ],
+        [
+          1775897100000,
+          72770.070312
+        ],
+        [
+          1775897400000,
+          72757.351562
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-11 16:50 KST",
-      "marketTimestamp": 1775893800
+      "marketTime": "2026-04-11 17:50 KST",
+      "marketTimestamp": 1775897400
     }
   ],
   "mainCharts": [
@@ -6370,9 +6418,9 @@
   ],
   "headlines": [
     {
-      "title": "개미들, 2주만 버티면 되나요?…외인 쓸어담는 韓증시 시나리오 [노정동의 어쩌다 투자자]",
+      "title": "대면 협상의 시간…앞으로 2주간 펼쳐질 증시 시나리오 [노정동의 어쩌다 투자자]",
       "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIVjJ5UmdObXJaX21Mck5fYW93TWFjYXV3OW5JOFBvY29nVUdQb25TdGZUbUxfaE5YMUphR2h4TV9ZYS1oaXRXcVdBN0FHeXA0c2FicjNaOTc5d9IBVEFVX3lxTFBhX01RUFBjUzloS3kxeHpUNmNiUGEzWmYwbmhFQVhaVm5MUUZwcWVSbElPWGZwUEVWNzRBUE9LWk1OT0VqSDdtSlNpYUJEMU5lRWFPNw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhX01RUFBjUzloS3kxeHpUNmNiUGEzWmYwbmhFQVhaVm5MUUZwcWVSbElPWGZwUEVWNzRBUE9LWk1OT0VqSDdtSlNpYUJEMU5lRWFPN9IBVEFVX3lxTFBhX01RUFBjUzloS3kxeHpUNmNiUGEzWmYwbmhFQVhaVm5MUUZwcWVSbElPWGZwUEVWNzRBUE9LWk1OT0VqSDdtSlNpYUJEMU5lRWFPNw?oc=5",
       "publishedAt": "Sat, 11 Apr 2026 05:22:48 GMT"
     },
     {
@@ -6400,6 +6448,12 @@
       "publishedAt": "Fri, 10 Apr 2026 21:00:00 GMT"
     },
     {
+      "title": "주가 상승에 ETF 순자산 400조 '초읽기'…서학개미 유턴 가속",
+      "source": "한국NGO신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwaHlqSWdjQWo1Q3lQQ2o3eFJFZDRZNGNpRzBJZEtUS1czY1BkT29aenA3VTZEMnpES2VnX1dPMU5CYzl5and1Tjl2RTUxd0tQSkV3bll5YjJDMWZUWWRXMmpNMXJvVmx5dnc?oc=5",
+      "publishedAt": "Sat, 11 Apr 2026 00:59:48 GMT"
+    },
+    {
       "title": "[주간증시전망] 주말 미국·이란 종전 협상…내주 코스피 상승세 이어질까",
       "source": "세계비즈",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCMGtSRUN1LVF1Mko4WXQ5OHZ4V3dtYktfYW9Rb0VsY1pGSlJnUkhOdmVyMUdrNkxUSk1aVjBZQzVZUDMzQm5kenp1ZnBEamJmV3ljcEJ4RWdCQQ?oc=5",
@@ -6410,12 +6464,6 @@
       "source": "한국경제TV",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzWWVMOGNZN2duWnoybDVac3R5UTdqd1ZHZHc5TmU5MHdhV2kyUTlSU0Ixd0FqX1RmTmZmTU5EblFuYVNsZHRrZi1nYTNUSXVSRTVjV2hPWmFKLWFLQzRYV1VPajRtbEt0SWFYWGlwTFZjUjRpTnJLY0JUN3I?oc=5",
       "publishedAt": "Fri, 10 Apr 2026 20:53:00 GMT"
-    },
-    {
-      "title": "주가 상승에 ETF 순자산 400조 '초읽기'…서학개미 유턴 가속",
-      "source": "한국NGO신문",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwaHlqSWdjQWo1Q3lQQ2o3eFJFZDRZNGNpRzBJZEtUS1czY1BkT29aenA3VTZEMnpES2VnX1dPMU5CYzl5and1Tjl2RTUxd0tQSkV3bll5YjJDMWZUWWRXMmpNMXJvVmx5dnc?oc=5",
-      "publishedAt": "Sat, 11 Apr 2026 00:59:48 GMT"
     }
   ],
   "summary": {
