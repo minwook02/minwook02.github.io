@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-12T05:40:03.458179+09:00",
-  "updatedLabel": "2026-04-12 05:40:03 KST",
+  "updatedAt": "2026-04-12T06:38:18.011120+09:00",
+  "updatedLabel": "2026-04-12 06:38:18 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4681,10 +4681,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 73347.31,
+      "price": 73426.52,
       "previousClose": 72974.195,
-      "change": 373.115,
-      "changePercent": 0.5113,
+      "change": 452.325,
+      "changePercent": 0.6198,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5678,16 +5678,60 @@
         ],
         [
           1775939700000,
-          73320.117188
+          73331.828125
         ],
         [
-          1775939820000,
-          73347.3125
+          1775940000000,
+          73328.75
+        ],
+        [
+          1775940300000,
+          73411.585938
+        ],
+        [
+          1775940600000,
+          73453.9375
+        ],
+        [
+          1775940900000,
+          73331.304688
+        ],
+        [
+          1775941200000,
+          73272.140625
+        ],
+        [
+          1775941500000,
+          73412.296875
+        ],
+        [
+          1775941800000,
+          73451.046875
+        ],
+        [
+          1775942100000,
+          73452.984375
+        ],
+        [
+          1775942400000,
+          73407.960938
+        ],
+        [
+          1775942700000,
+          73367.757812
+        ],
+        [
+          1775943000000,
+          73352.375
+        ],
+        [
+          1775943300000,
+          73426.523438
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-12 05:37 KST",
-      "marketTimestamp": 1775939820
+      "marketTime": "2026-04-12 06:35 KST",
+      "marketTimestamp": 1775943300
     }
   ],
   "mainCharts": [
@@ -6992,10 +7036,22 @@
       "publishedAt": "Sat, 11 Apr 2026 05:22:48 GMT"
     },
     {
+      "title": "신현송 \"기준금리, 중립금리 추정 범위 중간에\"…'매파' 선긋기",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SQkpxUXNxX2kzMVdHc1p3N1dDQ08tYUtaNmtQempQS19hTmVheXRqNzhQS2ZaR2F5Wi02Z1JQZHRFeFhpbGRxeEZwVmZ5cG4yVHc?oc=5",
+      "publishedAt": "Sat, 11 Apr 2026 20:53:01 GMT"
+    },
+    {
       "title": "20만전자, 100만닉스, 미·이란 휴전에 투심 폭발했지만…[주간 증시해설서]",
       "source": "더스쿠프",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yYk04OXpxN2o1eE81UTB4V1o0V3d5SjR6ZVp4djktclpnMGVLZFV3VDdOX08xMVFjZV9RbExLNmN2cExXSzFhRlgzdV82N1JJMC1KX2ZFOXZkQnk0dmpfTzhSTDlZOU5vdm9JQklR?oc=5",
       "publishedAt": "Sat, 11 Apr 2026 01:22:39 GMT"
+    },
+    {
+      "title": "실적 기대감과 전쟁 후폭풍의 '줄다리기'…코스피 5400~6200 [주간 증시 전망]",
+      "source": "데일리안",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vMDQxbFA3VDNZMnI2aXFIT1RmVDlpYnhkUWFtQ3YwN1EtUElBYkgwLXRGenduWmhxRTBhaGZxWlkzWmZaeWdveGVRRkgwRmFESm1hNmdn0gGmAkFVX3lxTE9lSHF5VHpiUThRdVRNTkF1cHduSzFIYThRUVlicHpUMEVzTk4tTzNNMFUtUE44OWplSjhXb3dpWnhvNUJoVVZhQ2JuRk10dDFCWEZiZldDZmo1V2wxRVpDRHVuNzJtVXFHRWJlbGdaMXNpYWhHcXlSZ3pIYUJqUG0tTE41eVphQ0FUTWZoT3U5Z3dNTElPZXRkbG9Xd3o1SkZRN2ZKUkhpNjVFZVdIUFJQUnBrNDY3Yk81MUhvc3ZYN0ZDaEhrc1Y5UXpOa25nZkhqM1N0UHBpVVVkTWVGZFFoVDBQc1NBcTJqYVFZeVdZRzlaN29UMEhHSnNyTWkxZzFCd3VXOU1OTElvUGY1U1FSeWFYZy1rd0Fhcm56SVIwT0ppZkhkZw?oc=5",
+      "publishedAt": "Sat, 11 Apr 2026 15:10:00 GMT"
     },
     {
       "title": "국내증시 활황에 ETF 순자산 400조 '카운트다운'…서학개미 복귀도 한몫",
@@ -7010,28 +7066,16 @@
       "publishedAt": "Fri, 10 Apr 2026 23:22:50 GMT"
     },
     {
-      "title": "주가 상승에 ETF 순자산 400조 '초읽기'…서학개미 유턴 가속",
-      "source": "한국NGO신문",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwaHlqSWdjQWo1Q3lQQ2o3eFJFZDRZNGNpRzBJZEtUS1czY1BkT29aenA3VTZEMnpES2VnX1dPMU5CYzl5and1Tjl2RTUxd0tQSkV3bll5YjJDMWZUWWRXMmpNMXJvVmx5dnc?oc=5",
-      "publishedAt": "Sat, 11 Apr 2026 00:59:48 GMT"
-    },
-    {
-      "title": "투자자라면 꼭 알아야 하는 경제 일정 브리핑 (26.04.13~26.04.17)",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ1MzdWs1d05XUERjQ3JaMWd4c1FvWDJFVGRXcVM1V2F0eTNZY21zYUh5N3Z0dzd0bkVvTDVjTTdtRnl5c210Z0Jua3h6NkNVemRQYlJuTWhlMUZ5RzhmY2FyV3VfbUEzUExqUFFsX3VGQ2RSQ3VWWlJJRVIyeHdab1UyZXRsN1JtX1E?oc=5",
-      "publishedAt": "Sat, 11 Apr 2026 09:06:13 GMT"
-    },
-    {
       "title": "트럼프 ‘휴전 타코’에 증시 반등했지만…월가는 ‘싸늘’ [머니+]",
       "source": "에너지경제신문",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GNjhoV2FyUW9mZEoxTGNpZjR6SURoX3I4TTRfeFdhX2EtV3I5U2JqYWdPT1k4MzZYVFVtS0pMb2NMUTgyN0FrOWIwSmFWaUxjNFBmWGd6OTRlRjg?oc=5",
       "publishedAt": "Sat, 11 Apr 2026 04:06:02 GMT"
     },
     {
-      "title": "삼성화재가 증명한 70년 장기 우상향의 기록 => 외인·기관 융단폭격 매수세 >> 삼성화재를 한국 증시 안전 금고로 선택한 이유 = 삼성전자 자사주 소각 최대 수혜주 => 삼성화재 배당 파티에 시총 30조 향한다",
-      "source": "데일리머니",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HZ28yVjJDQ0dMdjRvVWhvNV85akEydzRkaWRKd3R4OFJMU3owSTUxQ040enNKclI3dGEzSGNTSWJuT0ZjdTlRZ2xocHJLSG9TdVZKYWVGNFRBZmNJQzJLYUlqa2YyN0t1TUJLOGROOGNnT1k?oc=5",
-      "publishedAt": "Sat, 11 Apr 2026 09:08:09 GMT"
+      "title": "주가 상승에 ETF 순자산 400조 '초읽기'…서학개미 유턴 가속",
+      "source": "한국NGO신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwaHlqSWdjQWo1Q3lQQ2o3eFJFZDRZNGNpRzBJZEtUS1czY1BkT29aenA3VTZEMnpES2VnX1dPMU5CYzl5and1Tjl2RTUxd0tQSkV3bll5YjJDMWZUWWRXMmpNMXJvVmx5dnc?oc=5",
+      "publishedAt": "Sat, 11 Apr 2026 00:59:48 GMT"
     }
   ],
   "summary": {
@@ -7064,8 +7108,8 @@
         "direction": "상승"
       },
       {
-        "label": "USD/KRW",
-        "changePercent": 0.5541,
+        "label": "Bitcoin",
+        "changePercent": 0.6198,
         "direction": "상승"
       }
     ],
