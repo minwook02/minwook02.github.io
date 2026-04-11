@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-11T17:52:17.673547+09:00",
-  "updatedLabel": "2026-04-11 17:52:17 KST",
+  "updatedAt": "2026-04-11T18:49:00.562409+09:00",
+  "updatedLabel": "2026-04-11 18:49:00 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4681,12 +4681,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 72757.35,
+      "price": 72871.836,
       "previousClose": 72974.195,
-      "change": -216.845,
-      "changePercent": -0.2972,
-      "tone": "down",
-      "direction": "하락",
+      "change": -102.359,
+      "changePercent": -0.1403,
+      "tone": "flat",
+      "direction": "보합",
       "series": [
         [
           1775865600000,
@@ -5114,12 +5114,56 @@
         ],
         [
           1775897400000,
-          72757.351562
+          72697.90625
+        ],
+        [
+          1775897700000,
+          72715.710938
+        ],
+        [
+          1775898000000,
+          72708.265625
+        ],
+        [
+          1775898300000,
+          72680.742188
+        ],
+        [
+          1775898600000,
+          72659.4375
+        ],
+        [
+          1775898900000,
+          72811.953125
+        ],
+        [
+          1775899200000,
+          72903.585938
+        ],
+        [
+          1775899500000,
+          72886.828125
+        ],
+        [
+          1775899800000,
+          72853.523438
+        ],
+        [
+          1775900100000,
+          72858.484375
+        ],
+        [
+          1775900400000,
+          72853.507812
+        ],
+        [
+          1775900760000,
+          72871.835938
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-11 17:50 KST",
-      "marketTimestamp": 1775897400
+      "marketTime": "2026-04-11 18:46 KST",
+      "marketTimestamp": 1775900760
     }
   ],
   "mainCharts": [
@@ -6442,16 +6486,16 @@
       "publishedAt": "Fri, 10 Apr 2026 23:22:50 GMT"
     },
     {
-      "title": "[주간증시전망] 중동 변수 속 실적 시즌 개막…반등 이후 변동성 장세 지속",
-      "source": "아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yUFI5RHdtMVJCRFJvS0JXcjRMX0c1WDBzR0czdHh4SjZuaHpBWUZFeklvanhaRHEtZmE2MlZlOVlGMmhuc1hIX0hyUkcxZk9hcmxlM01ucEbSAVhBVV95cUxPMlBSOUR3bTFSQkRSb0tCV3I0TF9HNVgwc0dHM3R4eEo2bmh6QVlGRXpJb2p4WkRxLWZhNjJWZTlZRjJobnNYSF9IclJHMWZPYXJsZTNNbnBG?oc=5",
-      "publishedAt": "Fri, 10 Apr 2026 21:00:00 GMT"
-    },
-    {
       "title": "주가 상승에 ETF 순자산 400조 '초읽기'…서학개미 유턴 가속",
       "source": "한국NGO신문",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwaHlqSWdjQWo1Q3lQQ2o3eFJFZDRZNGNpRzBJZEtUS1czY1BkT29aenA3VTZEMnpES2VnX1dPMU5CYzl5and1Tjl2RTUxd0tQSkV3bll5YjJDMWZUWWRXMmpNMXJvVmx5dnc?oc=5",
       "publishedAt": "Sat, 11 Apr 2026 00:59:48 GMT"
+    },
+    {
+      "title": "[주간증시전망] 중동 변수 속 실적 시즌 개막…반등 이후 변동성 장세 지속",
+      "source": "아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yUFI5RHdtMVJCRFJvS0JXcjRMX0c1WDBzR0czdHh4SjZuaHpBWUZFeklvanhaRHEtZmE2MlZlOVlGMmhuc1hIX0hyUkcxZk9hcmxlM01ucEbSAVhBVV95cUxPMlBSOUR3bTFSQkRSb0tCV3I0TF9HNVgwc0dHM3R4eEo2bmh6QVlGRXpJb2p4WkRxLWZhNjJWZTlZRjJobnNYSF9IclJHMWZPYXJsZTNNbnBG?oc=5",
+      "publishedAt": "Fri, 10 Apr 2026 21:00:00 GMT"
     },
     {
       "title": "[주간증시전망] 주말 미국·이란 종전 협상…내주 코스피 상승세 이어질까",
