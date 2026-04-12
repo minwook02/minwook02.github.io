@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-12T20:58:35.027385+09:00",
-  "updatedLabel": "2026-04-12 20:58:35 KST",
+  "updatedAt": "2026-04-12T22:20:52.566617+09:00",
+  "updatedLabel": "2026-04-12 22:20:52 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3051,10 +3051,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 71494.37,
+      "price": 71050.336,
       "previousClose": 73057.16,
-      "change": -1562.79,
-      "changePercent": -2.1391,
+      "change": -2006.824,
+      "changePercent": -2.7469,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3632,12 +3632,80 @@
         ],
         [
           1775994900000,
-          71494.367188
+          71494.46875
+        ],
+        [
+          1775995200000,
+          71421.203125
+        ],
+        [
+          1775995500000,
+          71391.546875
+        ],
+        [
+          1775995800000,
+          71377.039062
+        ],
+        [
+          1775996100000,
+          71413.4375
+        ],
+        [
+          1775996400000,
+          71434.046875
+        ],
+        [
+          1775996700000,
+          71433.523438
+        ],
+        [
+          1775997000000,
+          71378.171875
+        ],
+        [
+          1775997300000,
+          71458.117188
+        ],
+        [
+          1775997600000,
+          71515.148438
+        ],
+        [
+          1775997900000,
+          71467.46875
+        ],
+        [
+          1775998200000,
+          71210.234375
+        ],
+        [
+          1775998500000,
+          71158.734375
+        ],
+        [
+          1775998800000,
+          70971.15625
+        ],
+        [
+          1775999100000,
+          71054.984375
+        ],
+        [
+          1775999400000,
+          71067.078125
+        ],
+        [
+          1775999700000,
+          71066.835938
+        ],
+        [
+          1775999940000,
+          71050.335938
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-12 20:55 KST",
-      "marketTimestamp": 1775994900
+      "marketTime": "2026-04-12 22:19 KST",
+      "marketTimestamp": 1775999940
     }
   ],
   "mainCharts": [
@@ -4936,6 +5004,12 @@
   ],
   "headlines": [
     {
+      "title": "[글로벌이코노믹 사설] 외국인 투자자가 한국증시 떠나는 이유",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcUItYlJxUUYta0p2cklMNlJQcDUyU2FScEx6eGR4eFNJYTQ0WDc0eFB2VUw4QkdSMUxaSjNueGxrMXV3NW05TkVaenFBMkZFNkRQYXJ0bHVaOXJEaDV3MmhYbnBZQVl6ZkpmWnRFdlcyX0pBSFUtSUd4VVVNQnloN1l4S2E?oc=5",
+      "publishedAt": "Sun, 12 Apr 2026 07:40:19 GMT"
+    },
+    {
       "title": "미·이란 전쟁에 세계에서 낙폭 톱 기록한 한국 증시…종전되면 V자 반등 가능할까",
       "source": "디지털데일리",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMajl0ZmdBNUNSS3JCa1FLM1JKUFBvZEJla3d4NkNPWS1PcE5lZUNqaDZwYTA0aDBIYWRBTHMyYllLNDlrdXUzZDA4NGU3YUQwOUhFQWdMeV8yQTlUTkRIMWp4TUo?oc=5",
@@ -4948,16 +5022,22 @@
       "publishedAt": "Sun, 12 Apr 2026 06:28:00 GMT"
     },
     {
-      "title": "[글로벌이코노믹 사설] 외국인 투자자가 한국증시 떠나는 이유",
-      "source": "글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcUItYlJxUUYta0p2cklMNlJQcDUyU2FScEx6eGR4eFNJYTQ0WDc0eFB2VUw4QkdSMUxaSjNueGxrMXV3NW05TkVaenFBMkZFNkRQYXJ0bHVaOXJEaDV3MmhYbnBZQVl6ZkpmWnRFdlcyX0pBSFUtSUd4VVVNQnloN1l4S2E?oc=5",
-      "publishedAt": "Sun, 12 Apr 2026 07:40:19 GMT"
-    },
-    {
       "title": "예금 3조 늘 때 증시엔 70조 '폭주'…은행 아성 넘보는 증권사",
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOcVlQYllOclY1UEFsSi1yMlRhU0RrSUFTTEhxYWZFSmozVFlpMUN0djg3eVBzemdRYmVyNjljNTlDZTlLaHFtMmY0a0xNVFNkZVhFQ3BFM0NsUdIBVEFVX3lxTE9LZHBhYS1xTFB3eTNyZ3FMRTdYa3NsZ09lRlRSS29TdlNmOUVqTXFpU2VaYlh4Z0dDMFBRVlhlWHNQcm9lR09jcFBNbFNINDA5d2dMSQ?oc=5",
       "publishedAt": "Sun, 12 Apr 2026 08:43:31 GMT"
+    },
+    {
+      "title": "신현송 \"현 기준금리 2.50%, 중립 수준…환율 상승은 대외 요인\"",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uMUV1X0Q2RGVwWkJ0SU1GSTlNay1nSmlEQ085emhHU0w4dFZIOGc1VU90OHJzeDRYRVNtMnhINUZJNVpnRkFubEozckhJeWNsd0loTWxVX0xpdw?oc=5",
+      "publishedAt": "Sun, 12 Apr 2026 11:10:59 GMT"
+    },
+    {
+      "title": "중복상장에 연간이익 60조 착시 … K증시 레벨업 힘겨워",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45bm1hQXV4LXV1RkwtUE81ZmxSUEdlZ0FFT1l5eExicmNUX3JmeWxOZloxNUxxQ1U1QjVCRk1wcUc2WnQ3V0RXQ1JNQVpxNC1FMWc?oc=5",
+      "publishedAt": "Sun, 12 Apr 2026 08:15:36 GMT"
     },
     {
       "title": "ETF 400조 시대 초읽기…국내 증시 반등에 자금 몰려",
@@ -4966,22 +5046,10 @@
       "publishedAt": "Sun, 12 Apr 2026 07:32:39 GMT"
     },
     {
-      "title": "한은총재 후보자 \"기준금리, 중립금리 추정 범위 중간에\"…'매파' 선긋기",
-      "source": "글로벌경제신문",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jb1JmNWM3UWlVY1l3VFlTdEhmT01ScVJPeGJTc1pKVlktSmtJN1FNcE1uTlB3VTljOVdrWUNVbXhyU09oVkpHaWE5dWtBcjd3R2F1VGFXVFBHLU1ONkJZQnFZMFFVMHloZ21xQXV3?oc=5",
-      "publishedAt": "Sun, 12 Apr 2026 10:34:44 GMT"
-    },
-    {
       "title": "[증시 주간 전망대] 중동 리스크 완화…기업 실적 주시하는 투심, 6000P 재돌파 관심",
       "source": "서울와이어",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50LXcwM1lnV2RZQldSQklMS1g0Ty1uNFpEVXlHMHQ3UC1mUE5RRkY0Rk8zNWJha2ljNUxNR3Bfb3MtUzhjemJ1Z19MQUhNWGsyZmplTGFjVG04Nkwtb1ZTUmtLZnZHT1pzckJJ?oc=5",
       "publishedAt": "Sun, 12 Apr 2026 08:00:00 GMT"
-    },
-    {
-      "title": "‘휴전·반도체 실적’ 맞물려 반등…방향키는 ‘유가·환율’ [주간증시]",
-      "source": "에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EWUlNM2VGbldqMVo4NHVJUHpOSkQ3Y2g5cGJ5MjVocHBrSVl3WHpHaWNOVFBLemRNSW5vSFdTYjN2STdUZFpjZHN3ZEozem1XUURaQ282M080VzQ?oc=5",
-      "publishedAt": "Sun, 12 Apr 2026 00:00:00 GMT"
     }
   ],
   "summary": {
@@ -5022,7 +5090,7 @@
     "laggards": [
       {
         "label": "Bitcoin",
-        "changePercent": -2.1391,
+        "changePercent": -2.7469,
         "direction": "하락"
       },
       {
