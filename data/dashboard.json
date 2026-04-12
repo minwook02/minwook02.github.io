@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-13T06:02:10.771871+09:00",
-  "updatedLabel": "2026-04-13 06:02:10 KST",
+  "updatedAt": "2026-04-13T06:59:26.576245+09:00",
+  "updatedLabel": "2026-04-13 06:59:26 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1483.09,
+      "price": 1483.01,
       "previousClose": 1474.53,
-      "change": 8.56,
-      "changePercent": 0.5805,
+      "change": 8.48,
+      "changePercent": 0.5751,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -2662,8 +2662,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-13 05:55 KST",
-      "marketTimestamp": 1776027313
+      "marketTime": "2026-04-13 06:35 KST",
+      "marketTimestamp": 1776029727
     },
     {
       "id": "us10y",
@@ -3047,10 +3047,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 71359.4,
+      "price": 71274.7,
       "previousClose": 73057.16,
-      "change": -1697.76,
-      "changePercent": -2.3239,
+      "change": -1782.46,
+      "changePercent": -2.4398,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -4060,16 +4060,64 @@
         ],
         [
           1776027300000,
-          71324.25
+          71359.398438
         ],
         [
-          1776027540000,
-          71359.398438
+          1776027600000,
+          71438.90625
+        ],
+        [
+          1776027900000,
+          71349.710938
+        ],
+        [
+          1776028200000,
+          71260.265625
+        ],
+        [
+          1776028500000,
+          71329.15625
+        ],
+        [
+          1776028800000,
+          71310.148438
+        ],
+        [
+          1776029100000,
+          71318.515625
+        ],
+        [
+          1776029400000,
+          71254.882812
+        ],
+        [
+          1776029700000,
+          71311.0625
+        ],
+        [
+          1776030000000,
+          71347.265625
+        ],
+        [
+          1776030300000,
+          71271.257812
+        ],
+        [
+          1776030600000,
+          71243.976562
+        ],
+        [
+          1776030900000,
+          71244.585938
+        ],
+        [
+          1776031020000,
+          71274.703125
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-13 05:59 KST",
-      "marketTimestamp": 1776027540
+      "marketTime": "2026-04-13 06:57 KST",
+      "marketTimestamp": 1776031020
     }
   ],
   "mainCharts": [
@@ -5398,22 +5446,22 @@
       "publishedAt": "Sun, 12 Apr 2026 05:11:07 GMT"
     },
     {
+      "title": "개미들 10일도 못 버텼다…'육천피' 가로막는 의외의 변수",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wdUc3VkpuUERGemU0UE9scHZpbS1HMmNqUllTVnZGS2lzS3F0cnF4bVBQbXEwaGhjVDQ0czhmSnFIX2pOX0JIZTVIZUk4OUtzcFRYSjN5S0lXRHlmVExsYXAzSEVsMXpfVmdMeHZCT1o0anhUdHA3Zg?oc=5",
+      "publishedAt": "Sun, 12 Apr 2026 20:01:00 GMT"
+    },
+    {
       "title": "신현송 \"현 기준금리 2.50%, 중립 수준…환율 상승은 대외 요인\"",
       "source": "뉴스1",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uMUV1X0Q2RGVwWkJ0SU1GSTlNay1nSmlEQ085emhHU0w4dFZIOGc1VU90OHJzeDRYRVNtMnhINUZJNVpnRkFubEozckhJeWNsd0loTWxVX0xpdw?oc=5",
       "publishedAt": "Sun, 12 Apr 2026 11:10:59 GMT"
     },
     {
-      "title": "[데스크 시각] 증시 호황에 땀이 식는다",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95U3FTMlNqdDRCZWhYSko1bXN1N0x4dGlQcUtkd3FMVHNSTnFUZGQxNEN1eWoxbG5uWS10U1dPbmpGb3hmU1ZSdS1aZjl3b0prakJZ?oc=5",
-      "publishedAt": "Sun, 12 Apr 2026 20:11:00 GMT"
-    },
-    {
-      "title": "\"지금 아니면 더는 기회가 없을 거래요” , 증시 쥐락펴락 동학 개미들",
-      "source": "메트로신문",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UcUpkZ0xweFpOaEZnX3lMV2pBcXFJY1VqYlo4NDdQdFdVekVncWRKWklfMHZKbERyUnJaWmFhRi0zS1VTV0Q5V2lpTTdwR0JNSmZsOW1RTHc2U09oNW0tUg?oc=5",
-      "publishedAt": "Sun, 12 Apr 2026 01:40:42 GMT"
+      "title": "중복상장에 연간이익 60조 착시 … K증시 레벨업 힘겨워",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45bm1hQXV4LXV1RkwtUE81ZmxSUEdlZ0FFT1l5eExicmNUX3JmeWxOZloxNUxxQ1U1QjVCRk1wcUc2WnQ3V0RXQ1JNQVpxNC1FMWc?oc=5",
+      "publishedAt": "Sun, 12 Apr 2026 08:15:36 GMT"
     }
   ],
   "summary": {
@@ -5431,7 +5479,7 @@
       "KOSPI +1.40% 상승",
       "KOSDAQ +1.64% 상승",
       "미국 증시 보합 / 나스닥 +0.35%",
-      "원달러 +0.58% (+8.56)",
+      "원달러 +0.58% (+8.48)",
       "미 10년물 +0.024p (+0.56%)"
     ],
     "leaders": [
@@ -5447,14 +5495,14 @@
       },
       {
         "label": "USD/KRW",
-        "changePercent": 0.5805,
+        "changePercent": 0.5751,
         "direction": "상승"
       }
     ],
     "laggards": [
       {
         "label": "Bitcoin",
-        "changePercent": -2.3239,
+        "changePercent": -2.4398,
         "direction": "하락"
       },
       {
