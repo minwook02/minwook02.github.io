@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-18T06:10:50.436253+09:00",
-  "updatedLabel": "2026-04-18 06:10:50 KST",
+  "updatedAt": "2026-04-18T07:06:41.381561+09:00",
+  "updatedLabel": "2026-04-18 07:06:41 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1296,8 +1296,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-18 06:10 KST",
-      "marketTimestamp": 1776460248
+      "marketTime": "2026-04-18 06:15 KST",
+      "marketTimestamp": 1776460559
     },
     {
       "id": "dow",
@@ -2650,16 +2650,16 @@
         ],
         [
           1776459300000,
-          1466.219971
+          1465.680054
         ],
         [
-          1776459512000,
+          1776461312000,
           1465.680054
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-18 05:58 KST",
-      "marketTimestamp": 1776459512
+      "marketTime": "2026-04-18 06:28 KST",
+      "marketTimestamp": 1776461312
     },
     {
       "id": "us10y",
@@ -3828,7 +3828,7 @@
         ],
         [
           1776459300000,
-          83.599998
+          84.0
         ],
         [
           1776459599000,
@@ -4685,10 +4685,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 77386.3,
+      "price": 77531.23,
       "previousClose": 75151.99,
-      "change": 2234.31,
-      "changePercent": 2.9731,
+      "change": 2379.24,
+      "changePercent": 3.1659,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5709,13 +5709,61 @@
           77392.476562
         ],
         [
-          1776460244000,
-          77386.296875
+          1776460200000,
+          77419.992188
+        ],
+        [
+          1776460500000,
+          77415.0
+        ],
+        [
+          1776460800000,
+          77465.75
+        ],
+        [
+          1776461100000,
+          77471.257812
+        ],
+        [
+          1776461400000,
+          77400.023438
+        ],
+        [
+          1776461700000,
+          77310.007812
+        ],
+        [
+          1776462000000,
+          77441.25
+        ],
+        [
+          1776462300000,
+          77436.34375
+        ],
+        [
+          1776462600000,
+          77499.539062
+        ],
+        [
+          1776462900000,
+          77475.0
+        ],
+        [
+          1776463200000,
+          77524.007812
+        ],
+        [
+          1776463500000,
+          77528.0
+        ],
+        [
+          1776463596000,
+          77531.226562
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-18 06:10 KST",
-      "marketTimestamp": 1776460244
+      "marketTime": "2026-04-18 07:06 KST",
+      "marketTimestamp": 1776463596
     }
   ],
   "mainCharts": [
@@ -7008,16 +7056,16 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-18 06:10 KST",
-      "marketTimestamp": 1776460248
+      "marketTime": "2026-04-18 06:15 KST",
+      "marketTimestamp": 1776460559
     }
   ],
   "headlines": [
     {
       "title": "골드만삭스 \"한국 증시, 여전히 저평가\"...추가 상승 사이클 기대",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rR1I4NjBHaDRkei10UGZfRzRzbl9KNExFVm1jLTVERUdrcjM4N21xWTRjTDhvVXR6Wnp1YnUzS1FIVl9Pd2VScVZKRnF3XzM1Y3BGaA?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 17:05:48 GMT"
+      "source": "파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvbjYyX1hnbjJyaFBkZy1rWWtieHY2YVdSQ1J1cEZ6U3dybUZ5ODlRdWN0Vk5HWUQ1RnpYSVZibWFITk9qdksxSVNRQUhKOHRPM0QyT3pVUU9jd9IBXkFVX3lxTE5LUzE4dWtTRGVRTV9FdXMwTVJPbllrQldKVlFnb21zbldXcU9Sczkyd2ZCZTY5MHFPN0FPSGJXMWZJNjhoZUZ1ZkdyUG9XY1VRSWdpR01lMVJ3akNSR1E?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 17:04:05 GMT"
     },
     {
       "title": "[미국주식 브리핑] \"합의 임박!\" 트럼프의 한마디와 TSMC의 역대급 실적이 쏘아 올린 나스닥 랠리 2026.04.16(현지시간)",
@@ -7050,10 +7098,10 @@
       "publishedAt": "Fri, 17 Apr 2026 06:31:42 GMT"
     },
     {
-      "title": "중동 긴장 완화, 미 증시 상승 지속",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85WnF6UDVFN2ZqX1F6aFprVkdxMUFFaG9SaWdkM1RaQ0hGeThlSGc3QkowQlhlV3hza2FnaHFVWWpRNGgwRURhQUFKLWpvX0ZuMUgtUUdIdDNGWGRQMXQwSmhFNnNDLW5VQlY3Wg?oc=5",
-      "publishedAt": "Thu, 16 Apr 2026 22:39:05 GMT"
+      "title": "[‘클릭’ 증시] 미·이란 60일 최종협상 기간 확정...글로벌 시장 안정세",
+      "source": "공공뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11UlBfZ1ZBNktaQzFuc1lJbllYbXE2aUw2V3F0dlhYaXVCNmZKS2Q3QVBoT2tSaEVGbXNuLVdaU2MwWFZnOU5FNkdUdHhHcGdKcVN4cldSMEF6aDZoTVY2TmdOTUgwY2h6TGfSAW5BVV95cUxQNENweVM4RE40ZlNENURxQmxEckt4dE1YeloxNEZuQ2o0RGVRQVE0X3J1UWp6MmFZOVp4RENPUjBtLXNYTnR4cnVCM0RBNUQ5d2o4R3ZaSy14Z1VqdXJtYUZjVGJHbU1iaE8zZFVxQQ?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 09:10:05 GMT"
     },
     {
       "title": "대만 증시, 시총 4조 달러 돌파...영국 추월",
@@ -7083,7 +7131,7 @@
     "leaders": [
       {
         "label": "Bitcoin",
-        "changePercent": 2.9731,
+        "changePercent": 3.1659,
         "direction": "상승"
       },
       {
