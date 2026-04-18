@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-18T16:16:22.826432+09:00",
-  "updatedLabel": "2026-04-18 16:16:22 KST",
+  "updatedAt": "2026-04-18T17:08:13.979790+09:00",
+  "updatedLabel": "2026-04-18 17:08:13 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4677,12 +4677,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 77098.37,
+      "price": 76998.76,
       "previousClose": 77126.02,
-      "change": -27.65,
-      "changePercent": -0.0359,
-      "tone": "flat",
-      "direction": "보합",
+      "change": -127.26,
+      "changePercent": -0.165,
+      "tone": "down",
+      "direction": "하락",
       "series": [
         [
           1776470400000,
@@ -5034,16 +5034,56 @@
         ],
         [
           1776496500000,
-          77098.367188
+          77077.609375
         ],
         [
-          1776496580000,
-          77098.367188
+          1776496800000,
+          77109.507812
+        ],
+        [
+          1776497100000,
+          77111.25
+        ],
+        [
+          1776497400000,
+          77095.898438
+        ],
+        [
+          1776497700000,
+          77047.992188
+        ],
+        [
+          1776498000000,
+          77066.601562
+        ],
+        [
+          1776498300000,
+          76990.023438
+        ],
+        [
+          1776498600000,
+          76972.507812
+        ],
+        [
+          1776498900000,
+          77020.007812
+        ],
+        [
+          1776499200000,
+          77028.210938
+        ],
+        [
+          1776499500000,
+          77000.0
+        ],
+        [
+          1776499685000,
+          76998.757812
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-18 16:16 KST",
-      "marketTimestamp": 1776496580
+      "marketTime": "2026-04-18 17:08 KST",
+      "marketTimestamp": 1776499685
     }
   ],
   "mainCharts": [
@@ -6384,10 +6424,10 @@
       "publishedAt": "Fri, 17 Apr 2026 23:00:00 GMT"
     },
     {
-      "title": "증시 대기·주변자금 635조…ETF 순자산 408조 원",
-      "source": "SBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DNjNnSzJYNDBPdGt1SVd5VWtlWWowZGwySWw1SEVYanpYbWlWSFREa2lXeUlwMlpSNHg1aDZFUVZkRHNNTG9fYnk4bERxUTRiU3A2MFR2Z3lZaXBTQXFxNkVPTU52NU1HSkE?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 00:13:00 GMT"
+      "title": "뉴욕증시, 호르무즈 해협 개방에 상승 출발",
+      "source": "한국경제TV",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4Z0I4UXJzZTZwSkFhUHdfQzFFYm1mYkZRWElWMmpWQVJOTFRwZ3VpT2laRU5HZ3VtMjRRdWFnTERCRV80TzgtNUlzWTdycHlReHBhVnNXR1lfdzloWGJ4Wk5CQ1dpSTRNSzJPWmQ0OGlaOE4tN05HVzlLbXY?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 14:32:00 GMT"
     }
   ],
   "summary": {
