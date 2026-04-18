@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-18T20:08:52.128687+09:00",
-  "updatedLabel": "2026-04-18 20:08:52 KST",
+  "updatedAt": "2026-04-18T20:58:49.646866+09:00",
+  "updatedLabel": "2026-04-18 20:58:49 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4677,10 +4677,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 75986.21,
+      "price": 76075.14,
       "previousClose": 77126.02,
-      "change": -1139.81,
-      "changePercent": -1.4779,
+      "change": -1050.88,
+      "changePercent": -1.3625,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5218,16 +5218,56 @@
         ],
         [
           1776510300000,
-          76005.4375
+          76004.976562
         ],
         [
-          1776510528000,
-          75986.210938
+          1776510600000,
+          75980.96875
+        ],
+        [
+          1776510900000,
+          76074.578125
+        ],
+        [
+          1776511200000,
+          76104.0
+        ],
+        [
+          1776511500000,
+          76108.453125
+        ],
+        [
+          1776511800000,
+          76151.632812
+        ],
+        [
+          1776512100000,
+          75866.382812
+        ],
+        [
+          1776512400000,
+          75877.273438
+        ],
+        [
+          1776512700000,
+          75873.75
+        ],
+        [
+          1776513000000,
+          76014.0
+        ],
+        [
+          1776513300000,
+          76115.171875
+        ],
+        [
+          1776513524000,
+          76075.140625
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-18 20:08 KST",
-      "marketTimestamp": 1776510528
+      "marketTime": "2026-04-18 20:58 KST",
+      "marketTimestamp": 1776513524
     }
   ],
   "mainCharts": [
@@ -6562,16 +6602,16 @@
       "publishedAt": "Sat, 18 Apr 2026 01:00:00 GMT"
     },
     {
+      "title": "[주간증시전망] 중동 리스크 완화·실적 시즌 본격화…랠리 속 되돌림 가능성도",
+      "source": "아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EZXBwSkdzdE5Ya0ZSbE80c05DTHlYSWNuYnUtMS1vM2tWM2dRdTBZbVZTSjlZZFpnWjgwV1ZNVERmVmx5OTdiN1h1cjlOa09EZjVXRzFsSzDSAVhBVV95cUxORGVwcEpHc3ROWGtGUmxPNHNOQ0x5WEljbmJ1LTEtbzNrVjNnUXUwWW1WU0o5WWRaZ1o4MFdWTVREZlZseTk3YjdYdXI5TmtPRGY1V0cxbEsw?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 21:00:00 GMT"
+    },
+    {
       "title": "[주간증시전망] 다음 주 코스피 5700~6400⋯SK하닉 실적에 쏠린 시선",
       "source": "이투데이",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FaWllVHRjbmxqTWVfSEUxVGgtVFRtWkV6bGZYRWw3ajVzVlZ5dC05UGY2b3dSa3FJRE5kMEl0ZUZoenRWdk9zYjh4bU5VZmdCSFFWMg?oc=5",
       "publishedAt": "Fri, 17 Apr 2026 23:00:00 GMT"
-    },
-    {
-      "title": "블랙록, 신흥국 '비중확대' 근거로 韓 거론.. \"놀라운 모멘텀\"",
-      "source": "열린정책뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yYXdoNUVLMDNtOHhSRzZFcFkzUndob2NqQ2ZBemg0SmRtaVlpSGFNUlBtcWo1T2JJdXMxMnlCem9zd1NVLWVSdnZ6Sk42UE55eHhhVFdYX1c1cldBRnpQRS00QXlLQThweVpZ?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 02:41:49 GMT"
     }
   ],
   "summary": {
@@ -6617,7 +6657,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -1.4779,
+        "changePercent": -1.3625,
         "direction": "하락"
       },
       {
