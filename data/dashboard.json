@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-19T07:49:52.313736+09:00",
-  "updatedLabel": "2026-04-19 07:49:52 KST",
+  "updatedAt": "2026-04-19T08:40:24.328112+09:00",
+  "updatedLabel": "2026-04-19 08:40:24 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4677,10 +4677,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 75868.61,
+      "price": 75742.29,
       "previousClose": 77126.02,
-      "change": -1257.41,
-      "changePercent": -1.6303,
+      "change": -1383.73,
+      "changePercent": -1.7941,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5778,16 +5778,56 @@
         ],
         [
           1776552300000,
-          75859.296875
+          75862.007812
         ],
         [
-          1776552589000,
-          75868.609375
+          1776552600000,
+          75843.640625
+        ],
+        [
+          1776552900000,
+          75846.96875
+        ],
+        [
+          1776553200000,
+          75891.140625
+        ],
+        [
+          1776553500000,
+          75874.03125
+        ],
+        [
+          1776553800000,
+          75856.546875
+        ],
+        [
+          1776554100000,
+          75853.109375
+        ],
+        [
+          1776554400000,
+          75885.617188
+        ],
+        [
+          1776554700000,
+          75843.640625
+        ],
+        [
+          1776555000000,
+          75804.882812
+        ],
+        [
+          1776555300000,
+          75735.359375
+        ],
+        [
+          1776555615000,
+          75742.289062
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-19 07:49 KST",
-      "marketTimestamp": 1776552589
+      "marketTime": "2026-04-19 08:40 KST",
+      "marketTimestamp": 1776555615
     }
   ],
   "mainCharts": [
@@ -7098,6 +7138,12 @@
       "publishedAt": "Sat, 18 Apr 2026 22:30:13 GMT"
     },
     {
+      "title": "1조 클럽 회복… 중동 전쟁 후 국내 증시 반등세 계속",
+      "source": "스페셜타임스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVTjJYY2hicHlTdnplMl9XdE1xM3FCTnNXdmt6bDlySy1aWm5oMlRDNW5HeGhNTlY3X0JKeE1iaDVRbGtvSk50VG5OU2NDZlRtbXhxTEdYSjRJN1QzT2k1QXNqZXRSVHYxQnpQeWkwam9ZQQ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 23:28:58 GMT"
+    },
+    {
       "title": "[머니플로우] 증시 대기·주변자금 635조…ETF 순자산 408조원",
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83NlhSbUZXS0swUGVsT1Y4VzJhbF9UZWpOb3QtZ29ZZ2pueGxhVk45SnktNWsxcG9fcjlWV3NmTGJmM01OSGtqWW1qWFEwdXZGZURzTkdkRUVCZnfSAWBBVV95cUxPZHkta01lVmpEWnc2VDhuc3V1RGM4SmlJZEZ6VjhVNk5GTzZVTUFVREx4dnNQbnEzaE5jZ3hSZ1NaSGREejNkSUZlcjdyVmJIeUhsMUo2QjhnTmg2cXkzeE8?oc=5",
@@ -7126,12 +7172,6 @@
       "source": "코리아리포트",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmRHBmZWpyblQzWnpRZHJFVTN3TXc0aUU4b3Y2OXpDazVPUjlVY21Kb2ZzRks0c0lmaEFqWW1Nb0MzZWYtSklYbE52aWhjUlVRME11aDlUVGFzNjg4cTg1WUt6aVRvS0JjY2U2WncxV2g?oc=5",
       "publishedAt": "Sat, 18 Apr 2026 13:43:53 GMT"
-    },
-    {
-      "title": "한국증시 6,000선 돌파로 자금 유입 급증…'빚투' 신용거래융자 역대 최고치",
-      "source": "공감신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RaGJMcjZkMFk3UWNsT1VoZVJpQlFFcVJjbkE4VDg2ajZfZjRTMlZJOGY4b1lSZXZfck85QTQ3T2VfV2JHR3JvQV9kVVdBejA1QVhYM2h3ZTNXVVpkdXdpTC1iNU5EMXJr?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 01:46:42 GMT"
     }
   ],
   "summary": {
@@ -7177,7 +7217,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -1.6303,
+        "changePercent": -1.7941,
         "direction": "하락"
       },
       {
