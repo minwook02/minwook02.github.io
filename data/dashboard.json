@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-19T03:03:17.315612+09:00",
-  "updatedLabel": "2026-04-19 03:03:17 KST",
+  "updatedAt": "2026-04-19T04:23:52.053291+09:00",
+  "updatedLabel": "2026-04-19 04:23:52 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4677,10 +4677,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 75749.96,
+      "price": 75672.02,
       "previousClose": 77126.02,
-      "change": -1376.06,
-      "changePercent": -1.7842,
+      "change": -1454.0,
+      "changePercent": -1.8852,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5550,16 +5550,80 @@
         ],
         [
           1776535200000,
-          75737.039062
+          75789.96875
         ],
         [
-          1776535395000,
-          75749.960938
+          1776535500000,
+          75863.03125
+        ],
+        [
+          1776535800000,
+          75832.828125
+        ],
+        [
+          1776536100000,
+          75656.28125
+        ],
+        [
+          1776536400000,
+          75665.976562
+        ],
+        [
+          1776536700000,
+          75690.5625
+        ],
+        [
+          1776537000000,
+          75669.203125
+        ],
+        [
+          1776537300000,
+          75601.367188
+        ],
+        [
+          1776537600000,
+          75595.0
+        ],
+        [
+          1776537900000,
+          75695.0625
+        ],
+        [
+          1776538200000,
+          75596.007812
+        ],
+        [
+          1776538500000,
+          75672.4375
+        ],
+        [
+          1776538800000,
+          75731.148438
+        ],
+        [
+          1776539100000,
+          75763.109375
+        ],
+        [
+          1776539400000,
+          75784.007812
+        ],
+        [
+          1776539700000,
+          75777.0
+        ],
+        [
+          1776540000000,
+          75701.523438
+        ],
+        [
+          1776540229000,
+          75672.023438
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-19 03:03 KST",
-      "marketTimestamp": 1776535395
+      "marketTime": "2026-04-19 04:23 KST",
+      "marketTimestamp": 1776540229
     }
   ],
   "mainCharts": [
@@ -6870,22 +6934,10 @@
       "publishedAt": "Sat, 18 Apr 2026 00:00:00 GMT"
     },
     {
-      "title": "전쟁 끝?…증권업계 “삼성전자 36만원·하이닉스 180만원 간다” [증시레이더]",
-      "source": "디지털데일리",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JVnBqTkQ5aHloMlhVaXVHSzVHQ2U4cVZNbTRrTTVqbHFpMVFDWnhuOS1QWnBoMlA1MkxQOEVZLW5QWkp1WHFMMk4tOGMyV1pCcE01UHZmUkpSMEl6UjhmUkhMNVI?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 04:20:51 GMT"
-    },
-    {
       "title": "증시 대기자금 635조 ‘사상 최대 규모…코스피 상승 속 유동성 급팽창",
       "source": "베타뉴스",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14SmhhVnppcUxRNE1XcjJhQVd0QnNJd1BzYXRNX0hOZmswc0ZieE55amtGQTB4di1BMVRJLWtnOEs3MjZvYTJrSkJjSC1ndG5Jbmw0SWZGQjJHZG93R21iY2lMSHI?oc=5",
       "publishedAt": "Sat, 18 Apr 2026 05:39:53 GMT"
-    },
-    {
-      "title": "“신흥국 투자? 한국부터 담아라”…세계 1위 자산운용사의 ‘낙관론’ 근거는?",
-      "source": "서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9neEVCOW1DN2h0MXF3N0pfeUREcUhvSG9IbmlXZ1lod2xORmE0ZG43aHlXLW44cXR5VXBZZGoxY3NBb0xjREtDUFBKejlzcW9iT0HSAVNBVV95cUxOYTFvcUFZamZidDE3Rkx0WjhmRzl6b2lPQWlUR1NzcFZKQlB6dVh3RnZRRzJ0eEdyNVI1TkhvYWJfeHA0cTlBWVo3VlJFNnJsek1tMA?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 21:59:34 GMT"
     },
     {
       "title": "코스피 6천선 회복…실적장세 전환 속 대기자금 635조 웃돌아",
@@ -6894,16 +6946,28 @@
       "publishedAt": "Sat, 18 Apr 2026 08:46:11 GMT"
     },
     {
+      "title": "“신흥국 투자? 한국부터 담아라”…세계 1위 자산운용사의 ‘낙관론’ 근거는?",
+      "source": "서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9neEVCOW1DN2h0MXF3N0pfeUREcUhvSG9IbmlXZ1lod2xORmE0ZG43aHlXLW44cXR5VXBZZGoxY3NBb0xjREtDUFBKejlzcW9iT0HSAVNBVV95cUxOYTFvcUFZamZidDE3Rkx0WjhmRzl6b2lPQWlUR1NzcFZKQlB6dVh3RnZRRzJ0eEdyNVI1TkhvYWJfeHA0cTlBWVo3VlJFNnJsek1tMA?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 21:59:34 GMT"
+    },
+    {
       "title": "한국증시 6,000선 돌파로 자금 유입 급증…'빚투' 신용거래융자 역대 최고치",
       "source": "공감신문",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RaGJMcjZkMFk3UWNsT1VoZVJpQlFFcVJjbkE4VDg2ajZfZjRTMlZJOGY4b1lSZXZfck85QTQ3T2VfV2JHR3JvQV9kVVdBejA1QVhYM2h3ZTNXVVpkdXdpTC1iNU5EMXJr?oc=5",
       "publishedAt": "Sat, 18 Apr 2026 01:46:42 GMT"
     },
     {
-      "title": "개인 3주 연속 '차익 실현'..기관이 상승 주도",
-      "source": "코리아리포트",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmRHBmZWpyblQzWnpRZHJFVTN3TXc0aUU4b3Y2OXpDazVPUjlVY21Kb2ZzRks0c0lmaEFqWW1Nb0MzZWYtSklYbE52aWhjUlVRME11aDlUVGFzNjg4cTg1WUt6aVRvS0JjY2U2WncxV2g?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 13:43:53 GMT"
+      "title": "증시 호황에 우주까지 터졌다…‘1조 클럽’ 입성, 이 증권사 [종목Pick]",
+      "source": "헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHdFA0Vjhod2JwQ0VmM2RmT2pVMENrSExETl8xUXZwYjAxUUZ1OXhRSHl2ZjIwRzZPY1Vjai14SDJvZTFhWVhBcEx3OGRpXzBibkV6MEx3?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 01:00:00 GMT"
+    },
+    {
+      "title": "블랙록, 신흥국 '비중확대' 근거로 韓 거론.. \"놀라운 모멘텀\"",
+      "source": "열린정책뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yYXdoNUVLMDNtOHhSRzZFcFkzUndob2NqQ2ZBemg0SmRtaVlpSGFNUlBtcWo1T2JJdXMxMnlCem9zd1NVLWVSdnZ6Sk42UE55eHhhVFdYX1c1cldBRnpQRS00QXlLQThweVpZ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 02:41:49 GMT"
     }
   ],
   "summary": {
@@ -6949,7 +7013,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -1.7842,
+        "changePercent": -1.8852,
         "direction": "하락"
       },
       {
