@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-18T09:04:30.605316+09:00",
-  "updatedLabel": "2026-04-18 09:04:30 KST",
+  "updatedAt": "2026-04-18T12:36:57.076210+09:00",
+  "updatedLabel": "2026-04-18 12:36:57 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -326,9 +326,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 1170.04,
-      "previousClose": 1152.43,
-      "change": 17.61,
-      "changePercent": 1.5281,
+      "previousClose": 1162.97,
+      "change": 7.07,
+      "changePercent": 0.6079,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -4667,7 +4667,7 @@
         ],
         [
           1776459300000,
-          4851.700195
+          4849.399902
         ],
         [
           1776459598000,
@@ -4685,25 +4685,197 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 77197.51,
-      "previousClose": 75151.99,
-      "change": 2045.52,
-      "changePercent": 2.7218,
-      "tone": "up",
-      "direction": "상승",
+      "price": 77182.5,
+      "previousClose": 77126.02,
+      "change": 56.48,
+      "changePercent": 0.0732,
+      "tone": "flat",
+      "direction": "보합",
       "series": [
         [
           1776470400000,
-          77221.4375
+          77204.046875
         ],
         [
-          1776470664000,
-          77197.507812
+          1776470700000,
+          77125.632812
+        ],
+        [
+          1776471000000,
+          77133.742188
+        ],
+        [
+          1776471300000,
+          77241.179688
+        ],
+        [
+          1776471600000,
+          77206.0
+        ],
+        [
+          1776471900000,
+          77255.976562
+        ],
+        [
+          1776472200000,
+          77105.992188
+        ],
+        [
+          1776472500000,
+          77064.953125
+        ],
+        [
+          1776472800000,
+          77047.492188
+        ],
+        [
+          1776473100000,
+          77192.09375
+        ],
+        [
+          1776473400000,
+          77219.226562
+        ],
+        [
+          1776473700000,
+          77195.992188
+        ],
+        [
+          1776474000000,
+          77221.59375
+        ],
+        [
+          1776474300000,
+          77218.023438
+        ],
+        [
+          1776474600000,
+          77347.53125
+        ],
+        [
+          1776474900000,
+          77364.742188
+        ],
+        [
+          1776475200000,
+          77338.0
+        ],
+        [
+          1776475500000,
+          77331.359375
+        ],
+        [
+          1776475800000,
+          77276.257812
+        ],
+        [
+          1776476100000,
+          77267.03125
+        ],
+        [
+          1776476400000,
+          77241.6875
+        ],
+        [
+          1776476700000,
+          77209.117188
+        ],
+        [
+          1776477000000,
+          77215.0
+        ],
+        [
+          1776477300000,
+          77250.601562
+        ],
+        [
+          1776477600000,
+          77192.109375
+        ],
+        [
+          1776477900000,
+          77272.5
+        ],
+        [
+          1776478200000,
+          77321.023438
+        ],
+        [
+          1776478500000,
+          77385.476562
+        ],
+        [
+          1776478800000,
+          77373.757812
+        ],
+        [
+          1776479100000,
+          77356.578125
+        ],
+        [
+          1776479400000,
+          77309.992188
+        ],
+        [
+          1776479700000,
+          77385.007812
+        ],
+        [
+          1776480000000,
+          77355.0
+        ],
+        [
+          1776480300000,
+          77336.5625
+        ],
+        [
+          1776480600000,
+          77313.757812
+        ],
+        [
+          1776480900000,
+          77321.25
+        ],
+        [
+          1776481200000,
+          77328.742188
+        ],
+        [
+          1776481500000,
+          77323.351562
+        ],
+        [
+          1776481800000,
+          77292.40625
+        ],
+        [
+          1776482100000,
+          77276.257812
+        ],
+        [
+          1776482400000,
+          77276.632812
+        ],
+        [
+          1776482700000,
+          77203.992188
+        ],
+        [
+          1776483000000,
+          77191.632812
+        ],
+        [
+          1776483300000,
+          77191.640625
+        ],
+        [
+          1776483412000,
+          77182.5
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-18 09:04 KST",
-      "marketTimestamp": 1776470664
+      "marketTime": "2026-04-18 12:36 KST",
+      "marketTimestamp": 1776483412
     }
   ],
   "mainCharts": [
@@ -5026,9 +5198,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 1170.04,
-      "previousClose": 1152.43,
-      "change": 17.61,
-      "changePercent": 1.5281,
+      "previousClose": 1162.97,
+      "change": 7.07,
+      "changePercent": 0.6079,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -6002,16 +6174,34 @@
   ],
   "headlines": [
     {
+      "title": "[머니플로우] 증시 대기·주변자금 635조…ETF 순자산 408조원",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9keS1rTWVWakRadzZUOG5zdXVEYzhKaUlkRnpWOFU2TkZPNlVNQVVETHh2c1BucTNoTmNneFJnU1pIZER6M2RJRmVyN3JWYkh5SGwxSjZCOGdOaDZxeTN4T9IBYEFVX3lxTE9keS1rTWVWakRadzZUOG5zdXVEYzhKaUlkRnpWOFU2TkZPNlVNQVVETHh2c1BucTNoTmNneFJnU1pIZER6M2RJRmVyN3JWYkh5SGwxSjZCOGdOaDZxeTN4Tw?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 00:00:00 GMT"
+    },
+    {
       "title": "골드만삭스 \"한국 증시, 여전히 저평가\"...추가 상승 사이클 기대",
       "source": "파이낸셜뉴스",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvbjYyX1hnbjJyaFBkZy1rWWtieHY2YVdSQ1J1cEZ6U3dybUZ5ODlRdWN0Vk5HWUQ1RnpYSVZibWFITk9qdksxSVNRQUhKOHRPM0QyT3pVUU9jd9IBXkFVX3lxTE5LUzE4dWtTRGVRTV9FdXMwTVJPbllrQldKVlFnb21zbldXcU9Sczkyd2ZCZTY5MHFPN0FPSGJXMWZJNjhoZUZ1ZkdyUG9XY1VRSWdpR01lMVJ3akNSR1E?oc=5",
       "publishedAt": "Fri, 17 Apr 2026 17:04:05 GMT"
     },
     {
-      "title": "[미국주식 브리핑] \"합의 임박!\" 트럼프의 한마디와 TSMC의 역대급 실적이 쏘아 올린 나스닥 랠리 2026.04.16(현지시간)",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMUhDZEhqZDluSHVyajVSRUhGTEFPX0ZqeW9WMzJJMjFSVTgzYmVQakpFSUl6WmFtQnY1QTdPSGs1OFhnczJCRFU2YW1udW13bU9nRmFDUTZhVEkwTUg3d2JHLXJnd0FhdjVPdzBreEI2ZEZpaXM5NnFocnVqOHozUW81amFVdnJIUVE?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 07:57:00 GMT"
+      "title": "한국증시 6,000선 돌파로 자금 유입 급증…'빚투' 신용거래융자 역대 최고치",
+      "source": "공감신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RaGJMcjZkMFk3UWNsT1VoZVJpQlFFcVJjbkE4VDg2ajZfZjRTMlZJOGY4b1lSZXZfck85QTQ3T2VfV2JHR3JvQV9kVVdBejA1QVhYM2h3ZTNXVVpkdXdpTC1iNU5EMXJr?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 01:46:42 GMT"
+    },
+    {
+      "title": "증시 호황에 우주까지 터졌다…‘1조 클럽’ 입성, 이 증권사 [종목Pick]",
+      "source": "헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHdFA0Vjhod2JwQ0VmM2RmT2pVMENrSExETl8xUXZwYjAxUUZ1OXhRSHl2ZjIwRzZPY1Vjai14SDJvZTFhWVhBcEx3OGRpXzBibkV6MEx3?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 01:00:00 GMT"
+    },
+    {
+      "title": "블랙록, 신흥국 '비중확대' 근거로 韓 거론.. \"놀라운 모멘텀\"",
+      "source": "열린정책뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yYXdoNUVLMDNtOHhSRzZFcFkzUndob2NqQ2ZBemg0SmRtaVlpSGFNUlBtcWo1T2JJdXMxMnlCem9zd1NVLWVSdnZ6Sk42UE55eHhhVFdYX1c1cldBRnpQRS00QXlLQThweVpZ?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 02:41:49 GMT"
     },
     {
       "title": "[주간증시전망] 다음 주 코스피 5700~6400⋯SK하닉 실적에 쏠린 시선",
@@ -6020,41 +6210,23 @@
       "publishedAt": "Fri, 17 Apr 2026 23:00:00 GMT"
     },
     {
+      "title": "[미국주식 브리핑] \"합의 임박!\" 트럼프의 한마디와 TSMC의 역대급 실적이 쏘아 올린 나스닥 랠리 2026.04.16(현지시간)",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMUhDZEhqZDluSHVyajVSRUhGTEFPX0ZqeW9WMzJJMjFSVTgzYmVQakpFSUl6WmFtQnY1QTdPSGs1OFhnczJCRFU2YW1udW13bU9nRmFDUTZhVEkwTUg3d2JHLXJnd0FhdjVPdzBreEI2ZEZpaXM5NnFocnVqOHozUW81amFVdnJIUVE?oc=5",
+      "publishedAt": "Fri, 17 Apr 2026 07:57:00 GMT"
+    },
+    {
       "title": "[김대준의 증시산책] 끝이 보이는 중동 전쟁…안도랠리 지속될까",
       "source": "주간한국",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FWF91WFp3VkFkbFJfQ2k3c1A3VFZfcDVZLW5BQ3V0ZnNXeTJ3cVFRMk51RjlSNURyQzd4LWZJWlZ2UWR3TEl3UlEtMzRzMGFoNVFxeGRCV2RqeklyallVbzlPR3hZZTJHbU5hbUhrTTl4dGtK0gF0QVVfeXFMT0VYX3VYWndWQWRsUl9DaTdzUDdUVl9wNVktbkFDdXRmc1d5MndxUVEyTnVGOVI1RHJDN3gtZklaVnZRZHdMSXdSUS0zNHMwYWg1UXF4ZEJXZGp6SXJqWVVvOU9HeFllMkdtTmFtSGtNOXh0a0o?oc=5",
       "publishedAt": "Fri, 17 Apr 2026 08:46:56 GMT"
-    },
-    {
-      "title": "뉴욕증시, 호르무즈 해협 개방에 상승 출발",
-      "source": "한국경제TV",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4Z0I4UXJzZTZwSkFhUHdfQzFFYm1mYkZRWElWMmpWQVJOTFRwZ3VpT2laRU5HZ3VtMjRRdWFnTERCRV80TzgtNUlzWTdycHlReHBhVnNXR1lfdzloWGJ4Wk5CQ1dpSTRNSzJPWmQ0OGlaOE4tN05HVzlLbXY?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 14:32:00 GMT"
-    },
-    {
-      "title": "[증시 레이더] 코스피 숨 고르기⋯ 6,200선 반납",
-      "source": "포커스온경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5waE1OOFRYNUVZbGRJejYxLUl5SVVLVFZCemtuRUtSNGhJLXJTZ3BCOU9XaFd4dDVJdUhXOFR6akFIWkpnank1b0hscVhaZ0UzQW0yQlJSU1FHOHI0VElvcA?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 06:52:19 GMT"
-    },
-    {
-      "title": "불어오는 종전 훈풍, 차오르는 K증시 유동성",
-      "source": "뉴스드림",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zSHBCZ3Q4WVozeWdLeGtWbDhRZDFla0tqWldKbU9fUTdQaVZ1OW5KQTF0TWl1VXdYdWlXdmVQR1hzWm9mOHVreDh6ZGJPa0ktNFdMWk10aWVmdHNpejNhQVFYc2FpVE9leVHSAW5BVV95cUxPckdaSTMyYnRBTER0NGROeTVtYmFja3VFazRHclo3aGpKWU9zRE44MTl2VTJUazJlSmZ3R0ROM2xHcFlIeHNmYVZnQ0NwSnA2dHY4VUFjcVB2MUs0TG42V2hlbXpWR00tNWJHREpfdw?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 06:31:42 GMT"
-    },
-    {
-      "title": "[‘클릭’ 증시] 미·이란 60일 최종협상 기간 확정...글로벌 시장 안정세",
-      "source": "공공뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11UlBfZ1ZBNktaQzFuc1lJbllYbXE2aUw2V3F0dlhYaXVCNmZKS2Q3QVBoT2tSaEVGbXNuLVdaU2MwWFZnOU5FNkdUdHhHcGdKcVN4cldSMEF6aDZoTVY2TmdOTUgwY2h6TGfSAW5BVV95cUxQNENweVM4RE40ZlNENURxQmxEckt4dE1YeloxNEZuQ2o0RGVRQVE0X3J1UWp6MmFZOVp4RENPUjBtLXNYTnR4cnVCM0RBNUQ5d2o4R3ZaSy14Z1VqdXJtYUZjVGJHbU1iaE8zZFVxQQ?oc=5",
-      "publishedAt": "Fri, 17 Apr 2026 09:10:05 GMT"
     }
   ],
   "summary": {
     "signal": {
-      "label": "Mixed",
-      "tone": "flat",
-      "message": "국내외 자산이 같은 방향으로 움직이지 않는 혼조장입니다."
+      "label": "Defensive",
+      "tone": "down",
+      "message": "환율·안전자산 쏠림이 강해 방어적 흐름입니다."
     },
     "overview": [
       "국내장은 KOSPI 하락, KOSDAQ 상승 흐름입니다.",
@@ -6063,25 +6235,25 @@
     ],
     "checkpoints": [
       "KOSPI -0.55% 하락",
-      "KOSDAQ +1.53% 상승",
+      "KOSDAQ +0.61% 상승",
       "미국 증시 상승 / 나스닥 +1.52%",
       "원달러 -0.91% (-13.52)",
       "미 10년물 -0.063p (-1.46%)"
     ],
     "leaders": [
       {
-        "label": "Bitcoin",
-        "changePercent": 2.7218,
-        "direction": "상승"
-      },
-      {
         "label": "DOW",
         "changePercent": 1.7883,
         "direction": "상승"
       },
       {
-        "label": "KOSDAQ",
-        "changePercent": 1.5281,
+        "label": "NASDAQ",
+        "changePercent": 1.5176,
+        "direction": "상승"
+      },
+      {
+        "label": "S&P 500",
+        "changePercent": 1.204,
         "direction": "상승"
       }
     ],
