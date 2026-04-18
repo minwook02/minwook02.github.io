@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-19T06:59:41.102964+09:00",
-  "updatedLabel": "2026-04-19 06:59:41 KST",
+  "updatedAt": "2026-04-19T07:49:52.313736+09:00",
+  "updatedLabel": "2026-04-19 07:49:52 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4677,10 +4677,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 75849.61,
+      "price": 75868.61,
       "previousClose": 77126.02,
-      "change": -1276.41,
-      "changePercent": -1.655,
+      "change": -1257.41,
+      "changePercent": -1.6303,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5738,16 +5738,56 @@
         ],
         [
           1776549300000,
-          75856.1875
+          75854.570312
         ],
         [
-          1776549578000,
-          75849.609375
+          1776549600000,
+          75710.023438
+        ],
+        [
+          1776549900000,
+          75678.671875
+        ],
+        [
+          1776550200000,
+          75695.0625
+        ],
+        [
+          1776550500000,
+          75688.007812
+        ],
+        [
+          1776550800000,
+          75737.992188
+        ],
+        [
+          1776551100000,
+          75756.117188
+        ],
+        [
+          1776551400000,
+          75830.898438
+        ],
+        [
+          1776551700000,
+          75785.476562
+        ],
+        [
+          1776552000000,
+          75817.78125
+        ],
+        [
+          1776552300000,
+          75859.296875
+        ],
+        [
+          1776552589000,
+          75868.609375
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-19 06:59 KST",
-      "marketTimestamp": 1776549578
+      "marketTime": "2026-04-19 07:49 KST",
+      "marketTimestamp": 1776552589
     }
   ],
   "mainCharts": [
@@ -7052,6 +7092,12 @@
       "publishedAt": "Sat, 18 Apr 2026 10:41:00 GMT"
     },
     {
+      "title": "[코스피·코스닥지수] 호르무즈 개방에 미국 뉴욕증시 급등…격랑의 파고 속 코스피의 향방은?",
+      "source": "한국강사신문",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iZUhaVU1YRWNuTkJtVEZEdllQM0RvOHo1eUx3VVNjdEtfZUxYckt5eHRaYUNNdVZHZ3kzcUZOVk0wSUE1eXdMTzlvNkFZcXBpWmIzdElVdjNFTWdqeF84UVZFU0FMbVlBY2pSNUQwSUM?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:30:13 GMT"
+    },
+    {
       "title": "[머니플로우] 증시 대기·주변자금 635조…ETF 순자산 408조원",
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83NlhSbUZXS0swUGVsT1Y4VzJhbF9UZWpOb3QtZ29ZZ2pueGxhVk45SnktNWsxcG9fcjlWV3NmTGJmM01OSGtqWW1qWFEwdXZGZURzTkdkRUVCZnfSAWBBVV95cUxPZHkta01lVmpEWnc2VDhuc3V1RGM4SmlJZEZ6VjhVNk5GTzZVTUFVREx4dnNQbnEzaE5jZ3hSZ1NaSGREejNkSUZlcjdyVmJIeUhsMUo2QjhnTmg2cXkzeE8?oc=5",
@@ -7062,12 +7108,6 @@
       "source": "디지털데일리",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JVnBqTkQ5aHloMlhVaXVHSzVHQ2U4cVZNbTRrTTVqbHFpMVFDWnhuOS1QWnBoMlA1MkxQOEVZLW5QWkp1WHFMMk4tOGMyV1pCcE01UHZmUkpSMEl6UjhmUkhMNVI?oc=5",
       "publishedAt": "Sat, 18 Apr 2026 04:20:51 GMT"
-    },
-    {
-      "title": "[4월 셋째 주 세계경제동향 브리핑] 코스피 6,100선 돌파…글로벌 증시 동반 급등",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBTWTFNbG5MT2duUjcyYVlrd1ZmdTlEVW1uN05ueDBtZlVtMDBodlBXZUtSWFhVOWlGeVhreE1uLUtIRVV1ZVE?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 01:49:35 GMT"
     },
     {
       "title": "코스피 6천선 회복…실적장세 전환 속 대기자금 635조 웃돌아",
@@ -7082,10 +7122,10 @@
       "publishedAt": "Sat, 18 Apr 2026 05:39:53 GMT"
     },
     {
-      "title": "구윤철 “한국 시장 기대 크다”…G20서 투자·환율·공급망 존재감 부각",
-      "source": "abcn.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaRm16cFV1NXQ1alNQdDNyVHdwcnpxb2xlTF9pVjVWTFJaY0MxbC1LTE9BWDdRYW9XX1NpRWZadmxrSFFuWWQ2eHJKdGJlRWdzOUU3RmpfWHdqZlA1ODdaN054bFJxR1HSAWdBVV95cUxQWkZtenBVdTV0NWpTUHQzclR3cHJ6cW9sZUxfaVY1VkxSWmNDMWwtS0xPQVg3UWFvV19TaUVmWnZsa0hRbllkNnhySnRiZUVnczlFN0ZqX1h3amZQNTg3WjdOeGxScUdR?oc=5",
-      "publishedAt": "Sat, 18 Apr 2026 01:25:32 GMT"
+      "title": "개인 3주 연속 '차익 실현'..기관이 상승 주도",
+      "source": "코리아리포트",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmRHBmZWpyblQzWnpRZHJFVTN3TXc0aUU4b3Y2OXpDazVPUjlVY21Kb2ZzRks0c0lmaEFqWW1Nb0MzZWYtSklYbE52aWhjUlVRME11aDlUVGFzNjg4cTg1WUt6aVRvS0JjY2U2WncxV2g?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 13:43:53 GMT"
     },
     {
       "title": "한국증시 6,000선 돌파로 자금 유입 급증…'빚투' 신용거래융자 역대 최고치",
@@ -7137,7 +7177,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -1.655,
+        "changePercent": -1.6303,
         "direction": "하락"
       },
       {
