@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-20T02:07:03.574814+09:00",
-  "updatedLabel": "2026-04-20 02:07:03 KST",
+  "updatedAt": "2026-04-20T03:03:53.086337+09:00",
+  "updatedLabel": "2026-04-20 03:03:53 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -972,8 +972,8 @@
       "kind": "equity",
       "decimals": 2,
       "price": 24468.48,
-      "previousClose": 24102.703,
-      "change": 365.777,
+      "previousClose": 24102.7,
+      "change": 365.78,
       "changePercent": 1.5176,
       "tone": "up",
       "direction": "상승",
@@ -3043,10 +3043,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 75176.0,
+      "price": 74868.17,
       "previousClose": 75723.41,
-      "change": -547.41,
-      "changePercent": -0.7229,
+      "change": -855.24,
+      "changePercent": -1.1294,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3872,16 +3872,60 @@
         ],
         [
           1776618300000,
-          75149.171875
+          75171.789062
         ],
         [
-          1776618421000,
-          75176.0
+          1776618600000,
+          75297.796875
+        ],
+        [
+          1776618900000,
+          75322.21875
+        ],
+        [
+          1776619200000,
+          75234.609375
+        ],
+        [
+          1776619500000,
+          75300.453125
+        ],
+        [
+          1776619800000,
+          75165.328125
+        ],
+        [
+          1776620100000,
+          75228.039062
+        ],
+        [
+          1776620400000,
+          75220.140625
+        ],
+        [
+          1776620700000,
+          75091.179688
+        ],
+        [
+          1776621000000,
+          74843.148438
+        ],
+        [
+          1776621300000,
+          74820.851562
+        ],
+        [
+          1776621600000,
+          74887.546875
+        ],
+        [
+          1776621828000,
+          74868.171875
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-20 02:07 KST",
-      "marketTimestamp": 1776618421
+      "marketTime": "2026-04-20 03:03 KST",
+      "marketTimestamp": 1776621828
     }
   ],
   "mainCharts": [
@@ -4850,8 +4894,8 @@
       "kind": "equity",
       "decimals": 2,
       "price": 24468.48,
-      "previousClose": 24102.703,
-      "change": 365.777,
+      "previousClose": 24102.7,
+      "change": 365.78,
       "changePercent": 1.5176,
       "tone": "up",
       "direction": "상승",
@@ -5270,13 +5314,13 @@
         "direction": "하락"
       },
       {
-        "label": "USD/KRW",
-        "changePercent": -0.914,
+        "label": "Bitcoin",
+        "changePercent": -1.1294,
         "direction": "하락"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": -0.7229,
+        "label": "USD/KRW",
+        "changePercent": -0.914,
         "direction": "하락"
       }
     ]
