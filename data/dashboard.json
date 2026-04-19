@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-19T14:40:26.445074+09:00",
-  "updatedLabel": "2026-04-19 14:40:26 KST",
+  "updatedAt": "2026-04-19T16:26:43.975943+09:00",
+  "updatedLabel": "2026-04-19 16:26:43 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3043,12 +3043,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 75659.54,
+      "price": 75060.0,
       "previousClose": 75723.41,
-      "change": -63.87,
-      "changePercent": -0.0843,
-      "tone": "flat",
-      "direction": "보합",
+      "change": -663.41,
+      "changePercent": -0.8761,
+      "tone": "down",
+      "direction": "하락",
       "series": [
         [
           1776556800000,
@@ -3323,13 +3323,101 @@
           75667.703125
         ],
         [
-          1776577221000,
-          75659.539062
+          1776577200000,
+          75632.023438
+        ],
+        [
+          1776577500000,
+          75633.8125
+        ],
+        [
+          1776577800000,
+          75588.039062
+        ],
+        [
+          1776578100000,
+          75580.007812
+        ],
+        [
+          1776578400000,
+          75494.796875
+        ],
+        [
+          1776578700000,
+          75475.992188
+        ],
+        [
+          1776579000000,
+          75432.5
+        ],
+        [
+          1776579300000,
+          75401.648438
+        ],
+        [
+          1776579600000,
+          75474.132812
+        ],
+        [
+          1776579900000,
+          75443.023438
+        ],
+        [
+          1776580200000,
+          75499.820312
+        ],
+        [
+          1776580500000,
+          75491.546875
+        ],
+        [
+          1776580800000,
+          75462.492188
+        ],
+        [
+          1776581100000,
+          75448.023438
+        ],
+        [
+          1776581400000,
+          75434.007812
+        ],
+        [
+          1776581700000,
+          75429.742188
+        ],
+        [
+          1776582000000,
+          75378.507812
+        ],
+        [
+          1776582300000,
+          75268.390625
+        ],
+        [
+          1776582600000,
+          75275.140625
+        ],
+        [
+          1776582900000,
+          75159.15625
+        ],
+        [
+          1776583200000,
+          75034.023438
+        ],
+        [
+          1776583500000,
+          75053.476562
+        ],
+        [
+          1776583599000,
+          75060.0
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-19 14:40 KST",
-      "marketTimestamp": 1776577221
+      "marketTime": "2026-04-19 16:26 KST",
+      "marketTimestamp": 1776583599
     }
   ],
   "mainCharts": [
@@ -4628,16 +4716,28 @@
   ],
   "headlines": [
     {
+      "title": "호르무즈 재봉쇄 속 미·이란 종전협상 기로···국내 증시 영향 주목",
+      "source": "시사저널e",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mbEp3alFBYnFFaWgyXzZvSjNjRFhxaGpxLUJ0Ui1ObDNBcUZzNkJ4a0M0VG1WNWlfcWtuN3Q2MWVPeko2eUFKV0dzNUFLNGZadWt5VkJpS2wwakYwczhwRlM1N2o3MDF2ZlRKQWxVSzhad9IBdkFVX3lxTE5RMXJVbTIxdGQ2TnZpbmFxOGRRcWtIZ1dIT0xYeUR6QmkzQS1acjhtRFdjMVlmeFJkWlp3bTdKQ0FBNjhId1hWYmRpd1lraG9KMGJCT1VlWThIRjl2VXkyWENZSFdMYlVEY283RF9LTmRXekY3RXc?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 07:10:53 GMT"
+    },
+    {
       "title": "국내 증시 시총 ‘1조 클럽’ 377곳…전쟁 이전 수준 회복 [마켓시그널]",
       "source": "서울경제",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yMkI0eWI3VTdSR0ZLTHZMUFdkSmlJWm1iZnpMcGJxZHZ6ZGJ6YVpOaDVkZW41YmMyVjNsTTdjQkZPMlhVdGFxYXpYSTVlZjJEMlHSAVNBVV95cUxPT3RMajhKNWtoS2RJWUl0d29ObWxGdkc4WmxQd1RfbE00cGw0MWxVS29odW9tYWhaRTZPZHREVVRsckJ4NFkzdzlUSWRZQ1Nud0lTMA?oc=5",
       "publishedAt": "Sun, 19 Apr 2026 02:00:00 GMT"
     },
     {
-      "title": "코스피 6200선 앞두고 '수출주' 랠리 시동...\"본격 실적 시즌 맞물려 주도주 부각 장세 연출\"",
-      "source": "프라임경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FUTRrRFJ3NFZGVzNYVmJTb3o2T0dBVDJ1ZVZ6cEZoQzhRWEZCSWY0TVltNlJ2OVluTGhFYU04S0tXaVdMdjZyRTc5aWo2LTRnekFGMWlGUU1iR2RfTjdINEVZX2k5YjB4bEEzdQ?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 03:05:29 GMT"
+      "title": "이번 주 분수령은 실적…SK하이닉스·중동 협상 주목 [주간증시]",
+      "source": "에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mSndxVVBPODd6ZVF4ZXBkRkRteHpaRWhWV050ZWpINVhPQllRaVl3aFBIN2hENDlVWTJjV2pLQ3VBT09jQWxVNklzQjNsTVNPQUpTalM3cWhpdTdoQ1JnVUtOUQ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 00:26:33 GMT"
+    },
+    {
+      "title": "국내증시 1조 클럽 다시 377개…전쟁 이전 수준 회복",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LcUFmbnRlOGtiSWU3MjIxY21xNG42aWkzbzJ0eTN6QlhRLWM2UVpSMWQzMUZqWmthSzFBaTN4amx6TGhNZTNNTGNXY3VMZ0M0NmozQw?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 05:13:00 GMT"
     },
     {
       "title": "[이번주 증시] 미-이란 2차 회담 관건...SK하이닉스 등 실적도 주목",
@@ -4652,28 +4752,16 @@
       "publishedAt": "Sat, 18 Apr 2026 22:00:17 GMT"
     },
     {
-      "title": "국내증시 1조 클럽 다시 377개…전쟁 이전 수준 회복",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LcUFmbnRlOGtiSWU3MjIxY21xNG42aWkzbzJ0eTN6QlhRLWM2UVpSMWQzMUZqWmthSzFBaTN4amx6TGhNZTNNTGNXY3VMZ0M0NmozQw?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 05:13:00 GMT"
+      "title": "코스피 6200선 앞두고 '수출주' 랠리 시동...\"본격 실적 시즌 맞물려 주도주 부각 장세 연출\"",
+      "source": "프라임경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FUTRrRFJ3NFZGVzNYVmJTb3o2T0dBVDJ1ZVZ6cEZoQzhRWEZCSWY0TVltNlJ2OVluTGhFYU04S0tXaVdMdjZyRTc5aWo2LTRnekFGMWlGUU1iR2RfTjdINEVZX2k5YjB4bEEzdQ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 03:05:29 GMT"
     },
     {
-      "title": "이번 주 분수령은 실적…SK하이닉스·중동 협상 주목 [주간증시]",
-      "source": "에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mSndxVVBPODd6ZVF4ZXBkRkRteHpaRWhWV050ZWpINVhPQllRaVl3aFBIN2hENDlVWTJjV2pLQ3VBT09jQWxVNklzQjNsTVNPQUpTalM3cWhpdTdoQ1JnVUtOUQ?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 00:26:33 GMT"
-    },
-    {
-      "title": "코스피 6300넘을까…실적 vs 지정학 변수[주간증시전망]",
-      "source": "뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96RTgybXdEd0ZiSHl1QWc4Y2RTUE1keHRCZVIwMXpmdDRjQjZRSmdxR05ucHlfTVJRWW1tdWkwYjFSN2Z3RFdveFVEYWFwODVaa3daejM1d3NEUXNBWlZMM9IBeEFVX3lxTFBLekloS1I1R0ZrNlhQcERuRmhCak9RZDItSWdmY3JIdFNZMVd2aExONUNoYzRTWmxoWnlnbjJRc2xZV25CRXFuVWpGMHdKMGlDX3NrTDRqeUQzWjZqZEJwTDFRR0VSMzZ5dC1CR2NSTE1idEhNeFZ2bw?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 00:00:00 GMT"
-    },
-    {
-      "title": "전쟁 충격 딛고 증시 반등···'1조클럽' 다시 늘었다",
-      "source": "서울파이낸스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SM0Vhb2dEaTQxQzF3MTF6cEgxVG1ORlhOcHprWDVUYzhLNUpZVldlWldXR0NQMThVcl9vWlNoWVV6RmFaS3Zselg4MVJvVzU2T0JXenEtb1VEcVhfeEo1ZTNPZVcwbzRJcmc?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 01:31:34 GMT"
+      "title": "“코스피 6600 향해 간다”…SK하이닉스 실적에 쏠린 눈[주간증시전망]",
+      "source": "이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTWtfS3JDTEtfaHZydjdPN1V1a3g2RFprT0dqUGxyZ0loYktLam5rYlozWTNRZjQyMHVxRzVWdnZiM0k1REt0RmRsMTNpNjZBUlB1aHVhTEhSeE1nZEdGdGt5dWxaNm1PZDlkX2RaREl4dmtZYXVIZGpVcW9LcXNwXw?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 04:43:10 GMT"
     }
   ],
   "summary": {
@@ -4723,8 +4811,8 @@
         "direction": "하락"
       },
       {
-        "label": "KOSPI",
-        "changePercent": -0.5482,
+        "label": "Bitcoin",
+        "changePercent": -0.8761,
         "direction": "하락"
       }
     ]
