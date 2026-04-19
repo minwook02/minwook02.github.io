@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-19T16:26:43.975943+09:00",
-  "updatedLabel": "2026-04-19 16:26:43 KST",
+  "updatedAt": "2026-04-19T17:33:13.705354+09:00",
+  "updatedLabel": "2026-04-19 17:33:13 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3043,10 +3043,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 75060.0,
+      "price": 75143.61,
       "previousClose": 75723.41,
-      "change": -663.41,
-      "changePercent": -0.8761,
+      "change": -579.8,
+      "changePercent": -0.7657,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3408,16 +3408,68 @@
         ],
         [
           1776583500000,
-          75053.476562
+          75022.523438
         ],
         [
-          1776583599000,
-          75060.0
+          1776583800000,
+          75098.507812
+        ],
+        [
+          1776584100000,
+          75082.023438
+        ],
+        [
+          1776584400000,
+          75220.226562
+        ],
+        [
+          1776584700000,
+          75206.789062
+        ],
+        [
+          1776585000000,
+          75270.0
+        ],
+        [
+          1776585300000,
+          75291.117188
+        ],
+        [
+          1776585600000,
+          75231.007812
+        ],
+        [
+          1776585900000,
+          75242.023438
+        ],
+        [
+          1776586200000,
+          75291.242188
+        ],
+        [
+          1776586500000,
+          75273.492188
+        ],
+        [
+          1776586800000,
+          75244.96875
+        ],
+        [
+          1776587100000,
+          75181.492188
+        ],
+        [
+          1776587400000,
+          75152.40625
+        ],
+        [
+          1776587583000,
+          75143.609375
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-19 16:26 KST",
-      "marketTimestamp": 1776583599
+      "marketTime": "2026-04-19 17:33 KST",
+      "marketTimestamp": 1776587583
     }
   ],
   "mainCharts": [
@@ -4728,12 +4780,6 @@
       "publishedAt": "Sun, 19 Apr 2026 02:00:00 GMT"
     },
     {
-      "title": "이번 주 분수령은 실적…SK하이닉스·중동 협상 주목 [주간증시]",
-      "source": "에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mSndxVVBPODd6ZVF4ZXBkRkRteHpaRWhWV050ZWpINVhPQllRaVl3aFBIN2hENDlVWTJjV2pLQ3VBT09jQWxVNklzQjNsTVNPQUpTalM3cWhpdTdoQ1JnVUtOUQ?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 00:26:33 GMT"
-    },
-    {
       "title": "국내증시 1조 클럽 다시 377개…전쟁 이전 수준 회복",
       "source": "이투데이",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LcUFmbnRlOGtiSWU3MjIxY21xNG42aWkzbzJ0eTN6QlhRLWM2UVpSMWQzMUZqWmthSzFBaTN4amx6TGhNZTNNTGNXY3VMZ0M0NmozQw?oc=5",
@@ -4744,6 +4790,12 @@
       "source": "오피니언뉴스",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lQTlSdVdUNEFHWWUxSGJIVmc4TTlqR1d5NlFpTzQzbHViWEdQdnRNM0g4dFlldTZyeUpqQU5UTmpoZ3ZhbFo1SXdPYnEtemk5VFRwREZzZXZoLUgtNHBwNDFzbjB3Ym01NldvSUpSLTdYUQ?oc=5",
       "publishedAt": "Sun, 19 Apr 2026 00:00:00 GMT"
+    },
+    {
+      "title": "이번 주 분수령은 실적…SK하이닉스·중동 협상 주목 [주간증시]",
+      "source": "에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyNFhaOGJwdTB4b05uakdYMXlWWGF5X1JCb1VQbVlhSVFIanBYYl9EdDFkM2Y4Rk9jY29oX0RBUHQ3TUwydkdRZlhQWklOYUZNNW9sYXBZclFXUUE?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 00:26:33 GMT"
     },
     {
       "title": "[마켓인사이트] 열리자마자 닫힌 호르무즈…코스피 영향은",
@@ -4812,7 +4864,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -0.8761,
+        "changePercent": -0.7657,
         "direction": "하락"
       }
     ]
