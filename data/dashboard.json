@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-19T23:10:11.074905+09:00",
-  "updatedLabel": "2026-04-19 23:10:11 KST",
+  "updatedAt": "2026-04-20T00:07:25.651530+09:00",
+  "updatedLabel": "2026-04-20 00:07:25 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3043,12 +3043,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 75736.02,
+      "price": 75964.39,
       "previousClose": 75723.41,
-      "change": 12.61,
-      "changePercent": 0.0167,
-      "tone": "flat",
-      "direction": "보합",
+      "change": 240.98,
+      "changePercent": 0.3182,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1776556800000,
@@ -3732,12 +3732,60 @@
         ],
         [
           1776607800000,
-          75736.023438
+          75829.492188
+        ],
+        [
+          1776608100000,
+          75888.726562
+        ],
+        [
+          1776608400000,
+          75921.148438
+        ],
+        [
+          1776608700000,
+          75999.40625
+        ],
+        [
+          1776609000000,
+          75892.671875
+        ],
+        [
+          1776609300000,
+          75962.476562
+        ],
+        [
+          1776609600000,
+          76020.429688
+        ],
+        [
+          1776609900000,
+          76131.101562
+        ],
+        [
+          1776610200000,
+          76018.078125
+        ],
+        [
+          1776610500000,
+          76064.960938
+        ],
+        [
+          1776610800000,
+          76043.992188
+        ],
+        [
+          1776611100000,
+          75948.773438
+        ],
+        [
+          1776611242000,
+          75964.390625
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-19 23:10 KST",
-      "marketTimestamp": 1776607800
+      "marketTime": "2026-04-20 00:07 KST",
+      "marketTimestamp": 1776611242
     }
   ],
   "mainCharts": [
@@ -5034,7 +5082,56 @@
       "marketTimestamp": 1776460559
     }
   ],
-  "headlines": [],
+  "headlines": [
+    {
+      "title": "뉴욕·상하이 증시, 美 워시 청문회·中 기준금리 '촉각'",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FV0doSDRZTHJKOUQ5V0M4cWs1am15c1U2TXZiVVR3QnFRUDR4UHcwVk5xOGJ4VDZ4elNIU2o2RUFzaGNCcUstcDIxYXlVOUtvbUFjZdIBVEFVX3lxTE9FV0doSDRZTHJKOUQ5V0M4cWs1am15c1U2TXZiVVR3QnFRUDR4UHcwVk5xOGJ4VDZ4elNIU2o2RUFzaGNCcUstcDIxYXlVOUtvbUFjZQ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 09:03:21 GMT"
+    },
+    {
+      "title": "국내 증시 시총 ‘1조 클럽’ 377곳…전쟁 이전 수준 회복 [마켓시그널]",
+      "source": "서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yMkI0eWI3VTdSR0ZLTHZMUFdkSmlJWm1iZnpMcGJxZHZ6ZGJ6YVpOaDVkZW41YmMyVjNsTTdjQkZPMlhVdGFxYXpYSTVlZjJEMlHSAVNBVV95cUxPT3RMajhKNWtoS2RJWUl0d29ObWxGdkc4WmxQd1RfbE00cGw0MWxVS29odW9tYWhaRTZPZHREVVRsckJ4NFkzdzlUSWRZQ1Nud0lTMA?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 02:00:00 GMT"
+    },
+    {
+      "title": "호르무즈 재봉쇄 속 미·이란 종전협상 기로···국내 증시 영향 주목",
+      "source": "시사저널e",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mbEp3alFBYnFFaWgyXzZvSjNjRFhxaGpxLUJ0Ui1ObDNBcUZzNkJ4a0M0VG1WNWlfcWtuN3Q2MWVPeko2eUFKV0dzNUFLNGZadWt5VkJpS2wwakYwczhwRlM1N2o3MDF2ZlRKQWxVSzhad9IBdkFVX3lxTE5RMXJVbTIxdGQ2TnZpbmFxOGRRcWtIZ1dIT0xYeUR6QmkzQS1acjhtRFdjMVlmeFJkWlp3bTdKQ0FBNjhId1hWYmRpd1lraG9KMGJCT1VlWThIRjl2VXkyWENZSFdMYlVEY283RF9LTmRXekY3RXc?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 07:10:53 GMT"
+    },
+    {
+      "title": "미국·이란 전쟁 협상에 '촉각'…환율 1400원 후반대 박스권 맴도나",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXRm1mUVFPZzdPVjJTbDJ0bGZyQmROU2ZXSGVNTk43U3o1OU1mUTdGYW42MFRhdmNhMTduVVFyT0FoM3diSHpVVjBkSlhLZ2s?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 02:55:33 GMT"
+    },
+    {
+      "title": "[주간증시전망] \"미-이란 종전 협상에 달렸다\"···SK하닉 등 실적 '주목'",
+      "source": "서울파이낸스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QRkVINWF6R2ZOdW5FQTFmRWNSYmhqUWlSR3lNcXNwUVVYUTl2MFdZN1VjZHVnU1JmbXMtWnJRNjhNSTdtcXhaa3RHaEhLaTFmY3hvTnc5bEJEQ3hlZDFKNHJwXzYwSl9rYVE?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 09:45:00 GMT"
+    },
+    {
+      "title": "[이번주 증시] 미-이란 2차 회담 관건...SK하이닉스 등 실적도 주목",
+      "source": "오피니언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lQTlSdVdUNEFHWWUxSGJIVmc4TTlqR1d5NlFpTzQzbHViWEdQdnRNM0g4dFlldTZyeUpqQU5UTmpoZ3ZhbFo1SXdPYnEtemk5VFRwREZzZXZoLUgtNHBwNDFzbjB3Ym01NldvSUpSLTdYUQ?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 00:00:00 GMT"
+    },
+    {
+      "title": "이번 주 분수령은 실적…SK하이닉스·중동 협상 주목 [주간증시]",
+      "source": "에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyNFhaOGJwdTB4b05uakdYMXlWWGF5X1JCb1VQbVlhSVFIanBYYl9EdDFkM2Y4Rk9jY29oX0RBUHQ3TUwydkdRZlhQWklOYUZNNW9sYXBZclFXUUE?oc=5",
+      "publishedAt": "Sun, 19 Apr 2026 00:26:33 GMT"
+    },
+    {
+      "title": "[마켓인사이트] 열리자마자 닫힌 호르무즈…코스피 영향은",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DTWtXNll6bFlKLU1yVV8zZXE2UUEtYkR0am1fakRTbkIzbjBESUNGbm9QdVVrXzdmU1Q4QVhUejlHcVR5UmxfZ1RuQlc5ZjdxcW4wUmVOUmhRVFZjODRVeNIBYEFVX3lxTE5DTWtXNll6bFlKLU1yVV8zZXE2UUEtYkR0am1fakRTbkIzbjBESUNGbm9QdVVrXzdmU1Q4QVhUejlHcVR5UmxfZ1RuQlc5ZjdxcW4wUmVOUmhRVFZjODRVeA?oc=5",
+      "publishedAt": "Sat, 18 Apr 2026 22:00:17 GMT"
+    }
+  ],
   "summary": {
     "signal": {
       "label": "Defensive",
@@ -5088,7 +5185,5 @@
       }
     ]
   },
-  "errors": [
-    "뉴스: HTTP Error 503: Service Unavailable"
-  ]
+  "errors": []
 }
