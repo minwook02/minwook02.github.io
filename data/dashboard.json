@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-25T07:10:09.562583+09:00",
-  "updatedLabel": "2026-04-25 07:10:09 KST",
+  "updatedAt": "2026-04-25T08:08:40.963433+09:00",
+  "updatedLabel": "2026-04-25 08:08:40 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2655,10 +2655,6 @@
         [
           1777064100000,
           1476.089966
-        ],
-        [
-          1777064396000,
-          1476.319946
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4689,10 +4685,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 77571.64,
+      "price": 77388.33,
       "previousClose": 78278.66,
-      "change": -707.02,
-      "changePercent": -0.9032,
+      "change": -890.33,
+      "changePercent": -1.1374,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5761,13 +5757,61 @@
           77573.53125
         ],
         [
-          1777068602000,
-          77571.640625
+          1777068600000,
+          77635.03125
+        ],
+        [
+          1777068900000,
+          77637.5625
+        ],
+        [
+          1777069200000,
+          77608.367188
+        ],
+        [
+          1777069500000,
+          77572.648438
+        ],
+        [
+          1777069800000,
+          77490.0
+        ],
+        [
+          1777070100000,
+          77339.117188
+        ],
+        [
+          1777070400000,
+          77316.828125
+        ],
+        [
+          1777070700000,
+          77353.90625
+        ],
+        [
+          1777071000000,
+          77344.84375
+        ],
+        [
+          1777071300000,
+          77360.0
+        ],
+        [
+          1777071600000,
+          77381.757812
+        ],
+        [
+          1777071900000,
+          77386.007812
+        ],
+        [
+          1777072111000,
+          77388.328125
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-25 07:10 KST",
-      "marketTimestamp": 1777068602
+      "marketTime": "2026-04-25 08:08 KST",
+      "marketTimestamp": 1777072111
     }
   ],
   "mainCharts": [
@@ -7102,16 +7146,16 @@
       "publishedAt": "Fri, 24 Apr 2026 07:00:17 GMT"
     },
     {
-      "title": "[오늘의 증시]중동 긴장감 재고조…'최고치' 코스피 숨고르기 들어가나",
-      "source": "뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5dEU3bnd0dlg3bm5IVG8zSncxcFREX19pbmxFLWxBLUk1d1BIYVI1YUh4elRVSnV6YVAzZi1GSVEyX0gzSlhfcFNWS0RjNUV5QzV4djdYWjNidlNJS2lHeFFnTnlBdzRCTTlvUFZWSldsdUlwN1BJX9IBeEFVX3lxTFB5dEU3bnd0dlg3bm5IVG8zSncxcFREX19pbmxFLWxBLUk1d1BIYVI1YUh4elRVSnV6YVAzZi1GSVEyX0gzSlhfcFNWS0RjNUV5QzV4djdYWjNidlNJS2lHeFFnTnlBdzRCTTlvUFZWSldsdUlwN1BJXw?oc=5",
-      "publishedAt": "Thu, 23 Apr 2026 23:13:03 GMT"
-    },
-    {
       "title": "[포커스] 국내증시 ‘너무 뜨겁다’… 투자 경고음에 빚투 우려까지",
       "source": "오늘경제",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtbzdXZHJ5UlY2NV9CUXhRUUVfckNWamRtaVNtUHpubGNKZFk0Y1lPOFMtMGZ0ZVdpUVFUdU94RGtmY2ppemU2RXZuUUlUdGNYTWc5dE1mS3BSSF9OT1IySU1zNUVYZy1CWjgwZ3Z4bGdJSzQ?oc=5",
       "publishedAt": "Fri, 24 Apr 2026 06:56:14 GMT"
+    },
+    {
+      "title": "\"코스피 뛰어도 美주식 산다\"…서학개미, 작년 美증시 109조원 순매수",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DMXFib2daUWRjSXVYU3U0T0szbmQ5Z211RHRudm9Ja3U0X1o0bEFYQlBSNFotX2E0UlVrNDNWZWJPajVqUXZwUXMyVmVxOE9iOC04?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 12:20:00 GMT"
     }
   ],
   "summary": {
@@ -7151,13 +7195,13 @@
     ],
     "laggards": [
       {
-        "label": "WTI",
-        "changePercent": -1.012,
+        "label": "Bitcoin",
+        "changePercent": -1.1374,
         "direction": "하락"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": -0.9032,
+        "label": "WTI",
+        "changePercent": -1.012,
         "direction": "하락"
       },
       {
