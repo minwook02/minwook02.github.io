@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-26T00:09:38.386894+09:00",
-  "updatedLabel": "2026-04-26 00:09:38 KST",
+  "updatedAt": "2026-04-26T01:05:48.923277+09:00",
+  "updatedLabel": "2026-04-26 01:05:48 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4677,12 +4677,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 77683.0,
+      "price": 77395.05,
       "previousClose": 77456.77,
-      "change": 226.23,
-      "changePercent": 0.2921,
-      "tone": "up",
-      "direction": "상승",
+      "change": -61.72,
+      "changePercent": -0.0797,
+      "tone": "flat",
+      "direction": "보합",
       "series": [
         [
           1777075200000,
@@ -5410,16 +5410,60 @@
         ],
         [
           1777129500000,
-          77683.53125
+          77680.507812
         ],
         [
-          1777129774000,
-          77683.0
+          1777129800000,
+          77695.96875
+        ],
+        [
+          1777130100000,
+          77700.023438
+        ],
+        [
+          1777130400000,
+          77726.21875
+        ],
+        [
+          1777130700000,
+          77728.007812
+        ],
+        [
+          1777131000000,
+          77729.679688
+        ],
+        [
+          1777131300000,
+          77714.601562
+        ],
+        [
+          1777131600000,
+          77684.09375
+        ],
+        [
+          1777131900000,
+          77518.320312
+        ],
+        [
+          1777132200000,
+          77355.320312
+        ],
+        [
+          1777132500000,
+          77354.0625
+        ],
+        [
+          1777132800000,
+          77425.039062
+        ],
+        [
+          1777133145000,
+          77395.046875
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-26 00:09 KST",
-      "marketTimestamp": 1777129774
+      "marketTime": "2026-04-26 01:05 KST",
+      "marketTimestamp": 1777133145
     }
   ],
   "mainCharts": [
@@ -6754,16 +6798,16 @@
       "publishedAt": "Fri, 24 Apr 2026 21:00:00 GMT"
     },
     {
-      "title": "골드만삭스 \"韓 개인 투자자, 세금 혜택에 국내 증시 회귀\"",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWN0NVQ0VfU1NIeFV6NW54cjlyTFY0MzZxWVRzeFBDdXM2ZFo0R21oWnBnSmlXWEVVcTFjazFFTWFRLUNPT0tTdlpROFNkc0dibkpseFdHX1BYRlBXWFRQWHZ2dE5hb0NsN1JtQkk1SlhmU0JhZldJ?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 15:22:00 GMT"
+      "title": "[속보] 뉴욕증시, 2차 협상 기대감 속 혼조 마감…S&P500·나스닥 사상 최고",
+      "source": "뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oMlZ6UzV6dEt5Z3FjVmR3cUhuRVlNbzhva0FlQjA2ZG0zN2dma2JNbFJYc05oZGlkVHRrWDZCUjhxZlBYSjdFZ1BDRWNXYzNPeHptRWNPSkN0V1gzb1RIZdIBeEFVX3lxTE1Bb2o2dncxYmt2eFU2a01sMTdxNWdhaEtTUVJYdUtpUklqVmp4RHlMYjZOVjF0bk13MHgxeDVZSEhLa0pMVUFsQURHbTJNZ0h5QTZoUlVFLXpQWk1KZWxZS2FKS1l0WWJmaGViUFQzRk1OQWl6SXhpbw?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 20:09:21 GMT"
     },
     {
-      "title": "뉴욕 증시, 미국·이란 갈등 주목하며 혼조 출발",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb1M5M1lXaVBhZ2VTOFVGYnZ2Y25qc19CVEZDTjJucmJlMXpRMDIzcm9XMXVINi1DZnRMc2R5UDMtUUdDY2VEc3V0MEJtcG5Fa2RZbWhVUjNzMk93eUJTWVVGS3M1TkMtbE9adXBHY1NhbnNqakpnTGxvdUJBQ3FQTXd5dw?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 15:38:00 GMT"
+      "title": "[주간증시전망] 코스피 6400선 랠리·코스닥 25년 만에 1200선…다음주 예상밴드 5800~6700선",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iUXVmVWtyMUhPcndZTDltV2Y0SWRlbi1jUjZEOEc4ZGZ1TzVHemZvamJfNUZlVXFNTUlOd1BxN2dVaDYtYnVOa0ViLWJ3Y1VZaGk3Yg?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 22:00:00 GMT"
     }
   ],
   "summary": {
