@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-26T01:05:48.923277+09:00",
-  "updatedLabel": "2026-04-26 01:05:48 KST",
+  "updatedAt": "2026-04-26T02:10:06.000829+09:00",
+  "updatedLabel": "2026-04-26 02:10:06 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4663,7 +4663,7 @@
         ],
         [
           1777064100000,
-          4740.899902
+          4725.399902
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4677,10 +4677,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 77395.05,
+      "price": 77389.11,
       "previousClose": 77456.77,
-      "change": -61.72,
-      "changePercent": -0.0797,
+      "change": -67.66,
+      "changePercent": -0.0874,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -5457,13 +5457,65 @@
           77425.039062
         ],
         [
-          1777133145000,
-          77395.046875
+          1777133100000,
+          77431.171875
+        ],
+        [
+          1777133400000,
+          77471.578125
+        ],
+        [
+          1777133700000,
+          77440.8125
+        ],
+        [
+          1777134000000,
+          77447.359375
+        ],
+        [
+          1777134300000,
+          77428.0
+        ],
+        [
+          1777134600000,
+          77417.859375
+        ],
+        [
+          1777134900000,
+          77292.382812
+        ],
+        [
+          1777135200000,
+          77390.976562
+        ],
+        [
+          1777135500000,
+          77419.023438
+        ],
+        [
+          1777135800000,
+          77411.289062
+        ],
+        [
+          1777136100000,
+          77427.6875
+        ],
+        [
+          1777136400000,
+          77409.773438
+        ],
+        [
+          1777136700000,
+          77388.359375
+        ],
+        [
+          1777136985000,
+          77389.109375
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-26 01:05 KST",
-      "marketTimestamp": 1777133145
+      "marketTime": "2026-04-26 02:09 KST",
+      "marketTimestamp": 1777136985
     }
   ],
   "mainCharts": [
@@ -6762,6 +6814,12 @@
   ],
   "headlines": [
     {
+      "title": "[비즈토크] 유가 100달러에 코스피 7000?…상식 파괴되는 '반도체 광기' 어디까지",
+      "source": "더팩트",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5NU9meTBGQWNQVk8tN1k2QW9rSWlqbmo1Z1ZTbktkYmJVekxNNk9ZRXlfOXp2NnFXVXNfUjhvTEhHMDdMcGlzNVhTUDhfdU5Sb0c3Tg?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 15:00:00 GMT"
+    },
+    {
       "title": "[4월 넷째 주 세계경제동향 브리핑] 코스피 6,400선 돌파…유가 급등 속 증시 ‘혼조’",
       "source": "기호일보",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wcjcxUmJaWUxpX052Mlh3UEhVYXI4RTIwcnNvOGFyTDR1eS1pcG5JNkpENGJBTmFVLVRkYUdIV2ExRWEtNS1JbTlqTFI3MU04Y19WSmtyMVFIaUROU09BTUl0V3Z6WkhUZWlWSmNpZw?oc=5",
@@ -6802,12 +6860,6 @@
       "source": "뉴시스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oMlZ6UzV6dEt5Z3FjVmR3cUhuRVlNbzhva0FlQjA2ZG0zN2dma2JNbFJYc05oZGlkVHRrWDZCUjhxZlBYSjdFZ1BDRWNXYzNPeHptRWNPSkN0V1gzb1RIZdIBeEFVX3lxTE1Bb2o2dncxYmt2eFU2a01sMTdxNWdhaEtTUVJYdUtpUklqVmp4RHlMYjZOVjF0bk13MHgxeDVZSEhLa0pMVUFsQURHbTJNZ0h5QTZoUlVFLXpQWk1KZWxZS2FKS1l0WWJmaGViUFQzRk1OQWl6SXhpbw?oc=5",
       "publishedAt": "Fri, 24 Apr 2026 20:09:21 GMT"
-    },
-    {
-      "title": "[주간증시전망] 코스피 6400선 랠리·코스닥 25년 만에 1200선…다음주 예상밴드 5800~6700선",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iUXVmVWtyMUhPcndZTDltV2Y0SWRlbi1jUjZEOEc4ZGZ1TzVHemZvamJfNUZlVXFNTUlOd1BxN2dVaDYtYnVOa0ViLWJ3Y1VZaGk3Yg?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 22:00:00 GMT"
     }
   ],
   "summary": {
