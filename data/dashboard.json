@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-26T07:02:23.981061+09:00",
-  "updatedLabel": "2026-04-26 07:02:23 KST",
+  "updatedAt": "2026-04-26T08:06:05.161296+09:00",
+  "updatedLabel": "2026-04-26 08:06:05 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2655,6 +2655,10 @@
         [
           1777064100000,
           1476.319946
+        ],
+        [
+          1777071540000,
+          1476.319946
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4677,12 +4681,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 77545.99,
+      "price": 77585.75,
       "previousClose": 77456.77,
-      "change": 89.22,
-      "changePercent": 0.1152,
-      "tone": "flat",
-      "direction": "보합",
+      "change": 128.98,
+      "changePercent": 0.1665,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1777075200000,
@@ -5742,16 +5746,68 @@
         ],
         [
           1777154400000,
-          77539.210938
+          77547.890625
         ],
         [
-          1777154540000,
-          77545.992188
+          1777154700000,
+          77562.632812
+        ],
+        [
+          1777155000000,
+          77526.023438
+        ],
+        [
+          1777155300000,
+          77528.976562
+        ],
+        [
+          1777155600000,
+          77552.023438
+        ],
+        [
+          1777155900000,
+          77576.703125
+        ],
+        [
+          1777156200000,
+          77644.898438
+        ],
+        [
+          1777156500000,
+          77604.117188
+        ],
+        [
+          1777156800000,
+          77616.351562
+        ],
+        [
+          1777157100000,
+          77568.828125
+        ],
+        [
+          1777157400000,
+          77567.976562
+        ],
+        [
+          1777157700000,
+          77577.960938
+        ],
+        [
+          1777158000000,
+          77593.390625
+        ],
+        [
+          1777158300000,
+          77585.75
+        ],
+        [
+          1777158358000,
+          77585.75
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-26 07:02 KST",
-      "marketTimestamp": 1777154540
+      "marketTime": "2026-04-26 08:05 KST",
+      "marketTimestamp": 1777158358
     }
   ],
   "mainCharts": [
@@ -7050,15 +7106,27 @@
   ],
   "headlines": [
     {
-      "title": "(주간증시전망)\"상승 이어가나 숨고르기냐\"…코스피, 이번주 FOMC·AI 실적에 방향 결정",
-      "source": "뉴스토마토",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aWFNmTEhPXzA5eURrU2VnWE1CejFYNFNhNk50VUxUVG5fX1lITWs5bzhlRkVVa1JXajRrMkFCWWNiNjBycHRyYzlpVVgydFJjM1h5cVkxekVldE92V05FMQ?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 21:00:00 GMT"
+      "title": "[마켓인사이트] 이란 사태속에 맞은 '슈퍼위크'…韓증시 향방은",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55YTZZVTRXSFYzeUU2ekk1TFRwWlU1Tlo0S0pyZ0I2Vmg5ekRmd0pDWm5sdmR1bmROSVJmRFdsc2RsNHo4UUkxSGNHbzJKM2pCclAtMDhLS3JPZDDSAWBBVV95cUxNeFg1bWJ3cXp3ZDhicEhFV3BKVEl3bGpHOXRSQ2tYYmh2S2UtS2pRV3BCOFQtZXEtMXBKSFFmSmRTR09XRDhvVnJrOU1rUTZzZ0RydjI2ck1MTDBzd1A4clg?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 22:00:27 GMT"
+    },
+    {
+      "title": "[증시전망] 신고가 이후 코스피 향방은?…반도체·달러·실적 '주목'",
+      "source": "디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5USXRsdkRNS3gtSEZoNGZMbUREdmZQVm5UeHRzRnljMDNRV3I5RnlMREIwalFvMEJGdmVRcTM4ano0em5IeWQ3bnFDekJZXzd6OUNnaVdMMXhmbVRCYWtTLXhmdTZFYWlmR1M1bkVXUjU0S28?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 23:00:00 GMT"
     },
     {
       "title": "[주간증시전망] 급등한 코스피, 이번주 변동성 시험대…美 FOMC·빅테크 실적 촉각",
       "source": "Chosunbiz",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVJ5R1d0cHlUT2FhMVVyanJNQXB5WGdaX2NkRURGU2diNzVvWEw4dTFUY2k3M0NqcUpzTl9qWkRxbWNJUWhOMGpQaWt0OF91cjkyX25YdklJMWFUZzAwaUFDaEc1aUhyOHFtWHZIT2pGYnBnTS02Z2hEdXpvN1h3VGJ1UHF3eWc5?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 21:00:00 GMT"
+    },
+    {
+      "title": "(주간증시전망)\"상승 이어가나 숨고르기냐\"…코스피, 이번주 FOMC·AI 실적에 방향 결정",
+      "source": "뉴스토마토",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aWFNmTEhPXzA5eURrU2VnWE1CejFYNFNhNk50VUxUVG5fX1lITWs5bzhlRkVVa1JXajRrMkFCWWNiNjBycHRyYzlpVVgydFJjM1h5cVkxekVldE92V05FMQ?oc=5",
       "publishedAt": "Sat, 25 Apr 2026 21:00:00 GMT"
     },
     {
@@ -7084,18 +7152,6 @@
       "source": "이뉴스투데이",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GYUQtQV83T1NXREFnZ25nQ2hhUXM3dkpCRndiTFlmeWxPdkp1V19uS2Jyb2dkdjFqNHVrNjctbmxmZlIwVDM0SkhvdWEyODZRdGltQW5tSjI4RE5qNkRlWU82TFRFaEsxN0x0bGFDMXpMUW820gF0QVVfeXFMTkZhRC1BXzdPU1dEQWdnbmdDaGFRczd2SkJGd2JMWWZ5bE92SnVXX25LYnJvZ2R2MWo0dWs2Ny1ubGZmUjBUMzRKSG91YTI4NlF0aW1Bbm1KMjhETmo2RGVZTzZMVEVoSzE3THRsYUMxekxRbzY?oc=5",
       "publishedAt": "Sat, 25 Apr 2026 06:08:45 GMT"
-    },
-    {
-      "title": "투자자라면 꼭 알아야 하는 경제 일정 브리핑 (26.04.27~26.05.01)",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeXR0dnRHcnlTSmVIajVfQU81Q2pXaXlGSHVrRDM2b2J5dExWNFp5YnZMWVJOUDdJbDN4MUNtcTAzZDFGYVRRV3VHQndJbk5XbjluU2c4QjREMUlLNnlZaW9vZ2ZmVF9qeVFJamJ2ZVZsOGhqN044TnFTVWVzMHpIMmJWQjFmOE5BOWc?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 07:42:17 GMT"
-    },
-    {
-      "title": "‘삼전닉스’ ETF, 美서도 ‘미친 존재감’…출시 2주만에 10억달러 돌파",
-      "source": "헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BLTVYVE12TVBmQzNtXzhMbmI3S3Q0V0VlbU9fVWh6ckVFUjBrTG5KY2RZMnRwNTVyLWJITXlYOHBKNTJ2eG5Mazd0ZmtLbkZlbUEtTzNR?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 09:10:25 GMT"
     }
   ],
   "summary": {
