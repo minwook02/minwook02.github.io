@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-25T09:06:16.943442+09:00",
-  "updatedLabel": "2026-04-25 09:06:16 KST",
+  "updatedAt": "2026-04-25T12:40:40.000579+09:00",
+  "updatedLabel": "2026-04-25 12:40:40 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -326,9 +326,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 1203.84,
-      "previousClose": 1181.12,
-      "change": 22.72,
-      "changePercent": 1.9236,
+      "previousClose": 1174.31,
+      "change": 29.53,
+      "changePercent": 2.5147,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -2654,12 +2654,12 @@
         ],
         [
           1777064100000,
-          1476.089966
+          1476.319946
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-25 05:59 KST",
-      "marketTimestamp": 1777064396
+      "marketTime": "2026-04-25 11:26 KST",
+      "marketTimestamp": 1777084001
     },
     {
       "id": "us10y",
@@ -4685,12 +4685,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 77478.19,
+      "price": 77678.55,
       "previousClose": 77456.77,
-      "change": 21.42,
-      "changePercent": 0.0277,
-      "tone": "flat",
-      "direction": "보합",
+      "change": 221.78,
+      "changePercent": 0.2863,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1777075200000,
@@ -4698,16 +4698,184 @@
         ],
         [
           1777075500000,
-          77467.03125
+          77483.4375
         ],
         [
-          1777075571000,
-          77478.1875
+          1777075800000,
+          77450.640625
+        ],
+        [
+          1777076100000,
+          77388.328125
+        ],
+        [
+          1777076400000,
+          77390.0
+        ],
+        [
+          1777076700000,
+          77341.796875
+        ],
+        [
+          1777077000000,
+          77371.929688
+        ],
+        [
+          1777077300000,
+          77418.546875
+        ],
+        [
+          1777077600000,
+          77392.257812
+        ],
+        [
+          1777077900000,
+          77436.007812
+        ],
+        [
+          1777078200000,
+          77440.21875
+        ],
+        [
+          1777078500000,
+          77483.4375
+        ],
+        [
+          1777078800000,
+          77477.4375
+        ],
+        [
+          1777079100000,
+          77476.882812
+        ],
+        [
+          1777079400000,
+          77532.0
+        ],
+        [
+          1777079700000,
+          77544.640625
+        ],
+        [
+          1777080000000,
+          77515.117188
+        ],
+        [
+          1777080300000,
+          77509.671875
+        ],
+        [
+          1777080600000,
+          77568.351562
+        ],
+        [
+          1777080900000,
+          77568.0625
+        ],
+        [
+          1777081200000,
+          77582.757812
+        ],
+        [
+          1777081500000,
+          77611.828125
+        ],
+        [
+          1777081800000,
+          77583.0
+        ],
+        [
+          1777082100000,
+          77559.96875
+        ],
+        [
+          1777082400000,
+          77526.09375
+        ],
+        [
+          1777082700000,
+          77586.023438
+        ],
+        [
+          1777083000000,
+          77563.929688
+        ],
+        [
+          1777083300000,
+          77593.210938
+        ],
+        [
+          1777083600000,
+          77614.289062
+        ],
+        [
+          1777083900000,
+          77658.492188
+        ],
+        [
+          1777084200000,
+          77650.71875
+        ],
+        [
+          1777084500000,
+          77653.820312
+        ],
+        [
+          1777084800000,
+          77650.710938
+        ],
+        [
+          1777085100000,
+          77650.679688
+        ],
+        [
+          1777085400000,
+          77656.1875
+        ],
+        [
+          1777085700000,
+          77639.179688
+        ],
+        [
+          1777086000000,
+          77670.640625
+        ],
+        [
+          1777086300000,
+          77625.023438
+        ],
+        [
+          1777086600000,
+          77606.789062
+        ],
+        [
+          1777086900000,
+          77623.539062
+        ],
+        [
+          1777087200000,
+          77604.421875
+        ],
+        [
+          1777087500000,
+          77581.851562
+        ],
+        [
+          1777087800000,
+          77614.640625
+        ],
+        [
+          1777088100000,
+          77647.898438
+        ],
+        [
+          1777088437000,
+          77678.546875
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-25 09:06 KST",
-      "marketTimestamp": 1777075571
+      "marketTime": "2026-04-25 12:40 KST",
+      "marketTimestamp": 1777088437
     }
   ],
   "mainCharts": [
@@ -5030,9 +5198,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 1203.84,
-      "previousClose": 1181.12,
-      "change": 22.72,
-      "changePercent": 1.9236,
+      "previousClose": 1174.31,
+      "change": 29.53,
+      "changePercent": 2.5147,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -6018,16 +6186,22 @@
       "publishedAt": "Fri, 24 Apr 2026 07:43:19 GMT"
     },
     {
+      "title": "AI 열풍에 증시 급등…100년 전 '악몽'은 없겠지",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OaUdCYkQwUTdBdURSMktXR2V2aVFMekVNSkJUM3Q4SHRTZEEyRG1jRW93OXVDVmF6eldERWRxaE1FRHJEdmdHLWF4SW1nb2Z3MlFmZUtoOEtZQdIBVEFVX3lxTE9wdkVuZUtUS2VSVEZvcVJJcFltdVUzaEhTSHh1alktdzB6UWxOVlYzZnRlUGYwWTJ6dE9LblBGcWZOUUNHM2hLZ2txN2trdGdqNXZ5OA?oc=5",
+      "publishedAt": "Fri, 24 Apr 2026 09:12:02 GMT"
+    },
+    {
+      "title": "[칼럼 - 박동명] 빚으로 버티는 증시, 누구를 위한 게임인가",
+      "source": "브랜드경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA2enh6MHQwb1RKX1JfY2dUV2FnUXVkOEZBOVNkaDZ3MkFzYWc2UllUVEgtdzllbDZDZmtpa1FQODJ1ODg?oc=5",
+      "publishedAt": "Sat, 25 Apr 2026 01:45:23 GMT"
+    },
+    {
       "title": "한국거래소 \"바이낸스도 韓 증시 상품 상장...거래시간 연장해야\"",
       "source": "디지털애셋",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HX1oxZjAxMDh6bjZUX3NvbEJ2YjY3SzZudEtIbGZneExINkcydWZoQnJ0TGhfTGlnSlR6a2loTW92WDVmRWN5X3kyTm93dGNidUdTTnI0dHFwVThNTlI4dzdpZ2hMT0pmREQ2NXhsQzBRZw?oc=5",
       "publishedAt": "Fri, 24 Apr 2026 08:42:26 GMT"
-    },
-    {
-      "title": "AI 열풍에 증시 급등…100년 전 '악몽'은 없겠지",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wdkVuZUtUS2VSVEZvcVJJcFltdVUzaEhTSHh1alktdzB6UWxOVlYzZnRlUGYwWTJ6dE9LblBGcWZOUUNHM2hLZ2txN2trdGdqNXZ5ONIBVEFVX3lxTE9wdkVuZUtUS2VSVEZvcVJJcFltdVUzaEhTSHh1alktdzB6UWxOVlYzZnRlUGYwWTJ6dE9LblBGcWZOUUNHM2hLZ2txN2trdGdqNXZ5OA?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 09:12:02 GMT"
     },
     {
       "title": "성공투자 오후증시",
@@ -6046,12 +6220,6 @@
       "source": "네이트",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DMXFib2daUWRjSXVYU3U0T0szbmQ5Z211RHRudm9Ja3U0X1o0bEFYQlBSNFotX2E0UlVrNDNWZWJPajVqUXZwUXMyVmVxOE9iOC04?oc=5",
       "publishedAt": "Fri, 24 Apr 2026 12:20:00 GMT"
-    },
-    {
-      "title": "[포커스] 국내증시 ‘너무 뜨겁다’… 투자 경고음에 빚투 우려까지",
-      "source": "오늘경제",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtbzdXZHJ5UlY2NV9CUXhRUUVfckNWamRtaVNtUHpubGNKZFk0Y1lPOFMtMGZ0ZVdpUVFUdU94RGtmY2ppemU2RXZuUUlUdGNYTWc5dE1mS3BSSF9OT1IySU1zNUVYZy1CWjgwZ3Z4bGdJSzQ?oc=5",
-      "publishedAt": "Fri, 24 Apr 2026 06:56:14 GMT"
     }
   ],
   "summary": {
@@ -6067,7 +6235,7 @@
     ],
     "checkpoints": [
       "KOSPI -0.00% 보합",
-      "KOSDAQ +1.92% 상승",
+      "KOSDAQ +2.51% 상승",
       "미국 증시 상승 / 나스닥 +1.63%",
       "원달러 -0.28% (-4.11)",
       "미 10년물 -0.013p (-0.30%)"
@@ -6075,7 +6243,7 @@
     "leaders": [
       {
         "label": "KOSDAQ",
-        "changePercent": 1.9236,
+        "changePercent": 2.5147,
         "direction": "상승"
       },
       {
