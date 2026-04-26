@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-27T03:06:34.395404+09:00",
-  "updatedLabel": "2026-04-27 03:06:34 KST",
+  "updatedAt": "2026-04-27T04:28:58.203428+09:00",
+  "updatedLabel": "2026-04-27 04:28:58 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3008,11 +3008,11 @@
       "kind": "commodity",
       "decimals": 2,
       "price": 94.4,
-      "previousClose": 95.85,
-      "change": -1.45,
-      "changePercent": -1.5128,
-      "tone": "down",
-      "direction": "하락",
+      "previousClose": 94.4,
+      "change": 0.0,
+      "changePercent": 0.0,
+      "tone": "flat",
+      "direction": "보합",
       "series": [],
       "marketState": "UNKNOWN",
       "marketTime": "2026-04-25 05:59 KST",
@@ -3026,11 +3026,11 @@
       "kind": "commodity",
       "decimals": 2,
       "price": 4740.9,
-      "previousClose": 4724.0,
-      "change": 16.9,
-      "changePercent": 0.3577,
-      "tone": "up",
-      "direction": "상승",
+      "previousClose": 4740.9,
+      "change": 0.0,
+      "changePercent": 0.0,
+      "tone": "flat",
+      "direction": "보합",
       "series": [],
       "marketState": "UNKNOWN",
       "marketTime": "2026-04-25 05:59 KST",
@@ -3043,10 +3043,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 78019.74,
+      "price": 78191.54,
       "previousClose": 77632.07,
-      "change": 387.67,
-      "changePercent": 0.4994,
+      "change": 559.47,
+      "changePercent": 0.7207,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3920,16 +3920,80 @@
         ],
         [
           1777226700000,
-          78023.453125
+          78109.90625
         ],
         [
-          1777226790000,
-          78019.742188
+          1777227000000,
+          78112.023438
+        ],
+        [
+          1777227300000,
+          78228.0
+        ],
+        [
+          1777227600000,
+          78232.070312
+        ],
+        [
+          1777227900000,
+          78202.03125
+        ],
+        [
+          1777228200000,
+          78159.132812
+        ],
+        [
+          1777228500000,
+          78182.09375
+        ],
+        [
+          1777228800000,
+          78230.03125
+        ],
+        [
+          1777229100000,
+          78265.242188
+        ],
+        [
+          1777229400000,
+          78286.710938
+        ],
+        [
+          1777229700000,
+          78301.992188
+        ],
+        [
+          1777230000000,
+          78230.710938
+        ],
+        [
+          1777230300000,
+          78313.289062
+        ],
+        [
+          1777230600000,
+          78415.210938
+        ],
+        [
+          1777230900000,
+          78414.773438
+        ],
+        [
+          1777231200000,
+          78249.359375
+        ],
+        [
+          1777231500000,
+          78184.726562
+        ],
+        [
+          1777231735000,
+          78191.539062
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-27 03:06 KST",
-      "marketTimestamp": 1777226790
+      "marketTime": "2026-04-27 04:28 KST",
+      "marketTimestamp": 1777231735
     }
   ],
   "mainCharts": [
@@ -5228,6 +5292,12 @@
   ],
   "headlines": [
     {
+      "title": "[주간증시전망] '최고점' 코스피, 중동 변수 속 어닝슈퍼위크 맞아 '시험대'",
+      "source": "서울파이낸스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JN1VPRml4SW5CQVg0dXUyRFplZmFnYnhBZmZoWXpqSnhWZGFDLXFmZ2FRclBqa2R3ZXdUOEVJUGY2a2V5eXpBZ09tOVNsTmpNQlRIR3YtcmREckFKaGVCcTUyNGM3VDFRYkE?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 19:15:00 GMT"
+    },
+    {
       "title": "ETF 시장도 '미장보단 국장'...국내증시형이 미국증시형 압도",
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE11VC1Pd1ZxQjVlMFlKZmRHcVNtcXNnWWpmZlhIemZ6VFVpSGdJU1ZCcFVpZVl4NUpPcklfcGp3UUhHam8xYWc?oc=5",
@@ -5262,12 +5332,6 @@
       "source": "머니투데이",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6N0ZxZGppeGhua2JtX1hPUFBhbWJuY3R1d0FuNmNHQlZlYVdvM2JhTkgxUE4zZXdOUWVlZm1QS1QzcEZYWmtPUy1pUmhmUTlyazNHQU91b2dGWV93a3Nhd2VaT2tLTWRUWF9KNXl30gFuQVVfeXFMUHo3RnFkaml4aG5rYm1fWE9QUGFtYm5jdHV3QW42Y0dCVmVhV28zYmFOSDFQTjNld05RZWVmbVBLVDNwRlhaa09TLWlSaGZROXJrM0dBT3VvZ0ZZX3drc2F3ZVpPa0tNZFRYX0o1eXc?oc=5",
       "publishedAt": "Sun, 26 Apr 2026 06:02:00 GMT"
-    },
-    {
-      "title": "증시 반등장에 개미 14.7조 순매도…月 최대 기록 ‘눈앞’",
-      "source": "세계일보",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6WFFyVmdOWnpoY3ZjVDMzdTVDUUlGc29Nb3U0cHNkVGFZR2JXS3JZUF9Ob1NVaU9pOWp6ZjFhS20zWUJNWW4tUGRCTF9tdE1ESHpXNzNEUjPSAVRBVV95cUxPZDMzZDZyZmo2bFVoV1l3RHFtTUxYMUhyNVNjLVEzZkdlelNXRy1LdjFuX3RjTzhTbE1zMzRjZ25lVlRhaU9nOGt5ajVVMm9qZXJfSnI?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 10:49:18 GMT"
     },
     {
       "title": "서학개미, 1년만에 美주식 2.4조원 '순매도'…'WGBI·RIA' 훈풍에 국내 유턴",
@@ -5313,11 +5377,6 @@
     ],
     "laggards": [
       {
-        "label": "WTI",
-        "changePercent": -1.5128,
-        "direction": "하락"
-      },
-      {
         "label": "USD/KRW",
         "changePercent": -0.2776,
         "direction": "하락"
@@ -5326,6 +5385,11 @@
         "label": "DOW",
         "changePercent": -0.1614,
         "direction": "하락"
+      },
+      {
+        "label": "KOSPI",
+        "changePercent": -0.0028,
+        "direction": "보합"
       }
     ]
   },
