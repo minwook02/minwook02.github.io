@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-27T06:05:39.468105+09:00",
-  "updatedLabel": "2026-04-27 06:05:39 KST",
+  "updatedAt": "2026-04-27T07:03:57.715098+09:00",
+  "updatedLabel": "2026-04-27 07:03:57 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1475.58,
+      "price": 1475.59,
       "previousClose": 1480.43,
-      "change": -4.85,
-      "changePercent": -0.3276,
+      "change": -4.84,
+      "changePercent": -0.3269,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -2658,8 +2658,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-27 05:25 KST",
-      "marketTimestamp": 1777235136
+      "marketTime": "2026-04-27 07:01 KST",
+      "marketTimestamp": 1777240869
     },
     {
       "id": "us10y",
@@ -3043,10 +3043,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 78296.09,
+      "price": 78421.52,
       "previousClose": 77632.07,
-      "change": 664.02,
-      "changePercent": 0.8553,
+      "change": 789.45,
+      "changePercent": 1.0169,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -4063,13 +4063,61 @@
           78300.0
         ],
         [
-          1777237536000,
-          78296.09375
+          1777237500000,
+          78280.96875
+        ],
+        [
+          1777237800000,
+          78267.921875
+        ],
+        [
+          1777238100000,
+          78267.09375
+        ],
+        [
+          1777238400000,
+          78280.789062
+        ],
+        [
+          1777238700000,
+          78218.710938
+        ],
+        [
+          1777239000000,
+          78034.796875
+        ],
+        [
+          1777239300000,
+          78066.078125
+        ],
+        [
+          1777239600000,
+          78021.679688
+        ],
+        [
+          1777239900000,
+          77978.71875
+        ],
+        [
+          1777240200000,
+          78385.0
+        ],
+        [
+          1777240500000,
+          78437.960938
+        ],
+        [
+          1777240800000,
+          78515.0
+        ],
+        [
+          1777241033000,
+          78421.523438
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-27 06:05 KST",
-      "marketTimestamp": 1777237536
+      "marketTime": "2026-04-27 07:03 KST",
+      "marketTimestamp": 1777241033
     }
   ],
   "mainCharts": [
@@ -5368,10 +5416,22 @@
   ],
   "headlines": [
     {
+      "title": "곽상준 “코스닥 이미 버블, 삼성전자는 팔아야 할 때 다가오고 있어” - 조선비즈",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSWQwclQ1NkY2QU1yaEMwc1Q2bFpSZ3Q5eUE0VkYzVEs4YThfSmx4Y2dpRjBwZWljdExCNER0dnlONzJEQ1ZUVWt1N1Fkekc5S3NUNGdRM2phbExPbGNZWXpOQ2ZSbVJUOXdlTVExZXAyYkNkZEtQTGUzcDFOR19RQ3piTFpyQlpr0gGcAUFVX3lxTE5qVHZVMlMtZE1IcHdhTnNFZXhYM2RmUGlLUzY3OVlqSE9qSDctUWZsX0VvYWR0aGRuV3IybVZicm1YZ0VkQkFSam4xZVJybXdQeWFUYzRISkhhYm02RXEzX0l2QUlxTFdpcE5hRXVhVEtmcGJOQm1xeVF4VDVOQi00T1MtY1lfU3dzLU9laEc2SUFSLVBpTEpvWXBEeQ?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 20:30:00 GMT"
+    },
+    {
       "title": "[주간증시전망] '최고점' 코스피, 중동 변수 속 어닝슈퍼위크 맞아 '시험대'",
       "source": "서울파이낸스",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JN1VPRml4SW5CQVg0dXUyRFplZmFnYnhBZmZoWXpqSnhWZGFDLXFmZ2FRclBqa2R3ZXdUOEVJUGY2a2V5eXpBZ09tOVNsTmpNQlRIR3YtcmREckFKaGVCcTUyNGM3VDFRYkE?oc=5",
       "publishedAt": "Sun, 26 Apr 2026 19:15:00 GMT"
+    },
+    {
+      "title": "[미리보는 증시재료] 미국·일본·유럽, 기준금리 결정 주간",
+      "source": "뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hT2VQLW1ha1B3UmFxNFI1TW4yRlJYZC0xTGg1RWNRamJIUXJYSWE1dzV2bEczVWxoYkt0ZXgtTTlNay0xbTRnWWVySFF2Smtnb0p0cTlhMmRzUTE2?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 21:10:00 GMT"
     },
     {
       "title": "ETF 시장도 '미장보단 국장'...국내증시형이 미국증시형 압도",
@@ -5398,18 +5458,6 @@
       "publishedAt": "Sun, 26 Apr 2026 03:15:47 GMT"
     },
     {
-      "title": "증시 훈풍에도 IPO 시장은 찬바람...올 1분기 신규 상장 기업 반토막으로 ‘뚝’",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRVVBVDlUenRKQ0hERk9mX1VEZ0kyN2JXSjlTSXVtRE9aRE1Sb0hxcHUwTGFTNTU5MFhOd0lHWnhqSFowby15MEZEdnpDQUl2TUhZWThyX0dFY2wwUVgtMktNWE5qdmxwRTU5LXY4c1NnWFFBeHVSYmlYNGthNmxDeQ?oc=5",
-      "publishedAt": "Sun, 26 Apr 2026 02:07:11 GMT"
-    },
-    {
-      "title": "[마켓인사이트] 이란 사태속에 맞은 '슈퍼위크'…韓증시 향방은",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14WDVtYndxendkOGJwSEVXcEpUSXdsakc5dFJDa1hiaHZLZS1LalFXcEI4VC1lcS0xcEpIUWZKZFNHT1dEOG9Wcms5TWtRNnNnRHJ2MjZyTUxMMHN3UDhyWNIBYEFVX3lxTE14WDVtYndxendkOGJwSEVXcEpUSXdsakc5dFJDa1hiaHZLZS1LalFXcEI4VC1lcS0xcEpIUWZKZFNHT1dEOG9Wcms5TWtRNnNnRHJ2MjZyTUxMMHN3UDhyWA?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 22:00:27 GMT"
-    },
-    {
       "title": "실적이 이끄는 국내 증시, 전고점 또 넘을까?…美 FOMC 주목 - 머니투데이",
       "source": "머니투데이",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6N0ZxZGppeGhua2JtX1hPUFBhbWJuY3R1d0FuNmNHQlZlYVdvM2JhTkgxUE4zZXdOUWVlZm1QS1QzcEZYWmtPUy1pUmhmUTlyazNHQU91b2dGWV93a3Nhd2VaT2tLTWRUWF9KNXl30gFuQVVfeXFMUHo3RnFkaml4aG5rYm1fWE9QUGFtYm5jdHV3QW42Y0dCVmVhV28zYmFOSDFQTjNld05RZWVmbVBLVDNwRlhaa09TLWlSaGZROXJrM0dBT3VvZ0ZZX3drc2F3ZVpPa0tNZFRYX0o1eXc?oc=5",
@@ -5431,7 +5479,7 @@
       "KOSPI -0.00% 보합",
       "KOSDAQ +2.51% 상승",
       "미국 증시 상승 / 나스닥 +1.63%",
-      "원달러 -0.33% (-4.85)",
+      "원달러 -0.33% (-4.84)",
       "미 10년물 -0.013p (-0.30%)"
     ],
     "leaders": [
@@ -5447,14 +5495,14 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.8553,
+        "changePercent": 1.0169,
         "direction": "상승"
       }
     ],
     "laggards": [
       {
         "label": "USD/KRW",
-        "changePercent": -0.3276,
+        "changePercent": -0.3269,
         "direction": "하락"
       },
       {
