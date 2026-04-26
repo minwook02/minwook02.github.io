@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-04-26T23:23:25.096068+09:00",
-  "updatedLabel": "2026-04-26 23:23:25 KST",
+  "updatedAt": "2026-04-27T00:10:03.317573+09:00",
+  "updatedLabel": "2026-04-27 00:10:03 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2658,8 +2658,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-26 23:01 KST",
-      "marketTimestamp": 1777212091
+      "marketTime": "2026-04-26 23:33 KST",
+      "marketTimestamp": 1777213998
     },
     {
       "id": "us10y",
@@ -3043,10 +3043,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 78119.76,
+      "price": 78106.0,
       "previousClose": 77632.07,
-      "change": 487.69,
-      "changePercent": 0.6282,
+      "change": 473.93,
+      "changePercent": 0.6105,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3740,16 +3740,52 @@
         ],
         [
           1777213200000,
-          78099.09375
+          78072.539062
         ],
         [
-          1777213397000,
-          78119.757812
+          1777213500000,
+          78079.828125
+        ],
+        [
+          1777213800000,
+          78085.382812
+        ],
+        [
+          1777214100000,
+          78092.359375
+        ],
+        [
+          1777214400000,
+          78072.5625
+        ],
+        [
+          1777214700000,
+          78041.476562
+        ],
+        [
+          1777215000000,
+          78156.09375
+        ],
+        [
+          1777215300000,
+          78108.382812
+        ],
+        [
+          1777215600000,
+          78115.34375
+        ],
+        [
+          1777215900000,
+          78120.851562
+        ],
+        [
+          1777216193000,
+          78106.0
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-04-26 23:23 KST",
-      "marketTimestamp": 1777213397
+      "marketTime": "2026-04-27 00:09 KST",
+      "marketTimestamp": 1777216193
     }
   ],
   "mainCharts": [
@@ -5078,6 +5114,12 @@
       "publishedAt": "Sun, 26 Apr 2026 02:07:11 GMT"
     },
     {
+      "title": "증시 반등장에 개미 14.7조 순매도…月 최대 기록 ‘눈앞’",
+      "source": "세계일보",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6WFFyVmdOWnpoY3ZjVDMzdTVDUUlGc29Nb3U0cHNkVGFZR2JXS3JZUF9Ob1NVaU9pOWp6ZjFhS20zWUJNWW4tUGRCTF9tdE1ESHpXNzNEUjPSAVRBVV95cUxPZDMzZDZyZmo2bFVoV1l3RHFtTUxYMUhyNVNjLVEzZkdlelNXRy1LdjFuX3RjTzhTbE1zMzRjZ25lVlRhaU9nOGt5ajVVMm9qZXJfSnI?oc=5",
+      "publishedAt": "Sun, 26 Apr 2026 10:49:18 GMT"
+    },
+    {
       "title": "실적이 이끄는 국내 증시, 전고점 또 넘을까?…美 FOMC 주목 - 머니투데이",
       "source": "머니투데이",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6N0ZxZGppeGhua2JtX1hPUFBhbWJuY3R1d0FuNmNHQlZlYVdvM2JhTkgxUE4zZXdOUWVlZm1QS1QzcEZYWmtPUy1pUmhmUTlyazNHQU91b2dGWV93a3Nhd2VaT2tLTWRUWF9KNXl30gFuQVVfeXFMUHo3RnFkaml4aG5rYm1fWE9QUGFtYm5jdHV3QW42Y0dCVmVhV28zYmFOSDFQTjNld05RZWVmbVBLVDNwRlhaa09TLWlSaGZROXJrM0dBT3VvZ0ZZX3drc2F3ZVpPa0tNZFRYX0o1eXc?oc=5",
@@ -5088,12 +5130,6 @@
       "source": "글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1ZHZV9za0FXa2xlTVB5TkZLRjg5TmM5ejVra25GaUl0b0xjTEQtRGRwX05XdW9GUERKTjBCaVBtZGNjVE9ESW5NcUlpVFUwR0dqdjFaV0pQWFZqcnAzX0ZJSjhmS1dZWWdnZWRNS2xXeFVyZEM2Y1YzVnZGdmE1bjFZRGozOUgz?oc=5",
       "publishedAt": "Sat, 25 Apr 2026 20:00:00 GMT"
-    },
-    {
-      "title": "[증시전망] 신고가 이후 코스피 향방은?…반도체·달러·실적 '주목'",
-      "source": "디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5USXRsdkRNS3gtSEZoNGZMbUREdmZQVm5UeHRzRnljMDNRV3I5RnlMREIwalFvMEJGdmVRcTM4ano0em5IeWQ3bnFDekJZXzd6OUNnaVdMMXhmbVRCYWtTLXhmdTZFYWlmR1M1bkVXUjU0S28?oc=5",
-      "publishedAt": "Sat, 25 Apr 2026 23:00:00 GMT"
     }
   ],
   "summary": {
