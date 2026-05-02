@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-02T20:23:29.244001+09:00",
-  "updatedLabel": "2026-05-02 20:23:29 KST",
+  "updatedAt": "2026-05-02T21:08:41.530315+09:00",
+  "updatedLabel": "2026-05-02 21:08:41 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4505,10 +4505,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 78216.75,
+      "price": 78156.26,
       "previousClose": 78214.95,
-      "change": 1.8,
-      "changePercent": 0.0023,
+      "change": -58.69,
+      "changePercent": -0.075,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -5058,16 +5058,52 @@
         ],
         [
           1777720800000,
-          78202.90625
+          78233.351562
         ],
         [
-          1777721007000,
-          78216.75
+          1777721100000,
+          78212.367188
+        ],
+        [
+          1777721400000,
+          78172.570312
+        ],
+        [
+          1777721700000,
+          78164.148438
+        ],
+        [
+          1777722000000,
+          78171.40625
+        ],
+        [
+          1777722300000,
+          78102.976562
+        ],
+        [
+          1777722600000,
+          78105.671875
+        ],
+        [
+          1777722900000,
+          78147.039062
+        ],
+        [
+          1777723200000,
+          78133.710938
+        ],
+        [
+          1777723500000,
+          78156.257812
+        ],
+        [
+          1777723717000,
+          78156.257812
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-02 20:23 KST",
-      "marketTimestamp": 1777721007
+      "marketTime": "2026-05-02 21:08 KST",
+      "marketTimestamp": 1777723717
     }
   ],
   "mainCharts": [
@@ -6369,7 +6405,7 @@
       "title": "[국내 증시] 한국 주식 5월 1일 휴장, 왜?…다음 재개일은 언제",
       "source": "CBC뉴스",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xNE13dGJHV0hQSUVvTTdDX3ZoVlNxcFFlTzNzMUVxb0lQSGEta1RKajdFemthQXFfMFdwaDBDVWxfN2FsZWtCbS1vdG1oS2xMNXBUWTFENVNoVk9NWHFQajd4VFFXVkNf?oc=5",
-      "publishedAt": "Sat, 02 May 2026 08:47:22 GMT"
+      "publishedAt": "Sat, 02 May 2026 11:47:00 GMT"
     },
     {
       "title": "뉴욕 증시 4% 오를 때 60% 상승한 코스피…일시적 현상일까 [김학균의 시장읽기]",
@@ -6402,16 +6438,16 @@
       "publishedAt": "Fri, 01 May 2026 23:15:18 GMT"
     },
     {
-      "title": "코스피, 중동 전쟁에도 세계 1위 상승률…글로벌 증시 ‘게임체인저’",
-      "source": "시사1",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YLTlLUzNYUUtick8ya0Exdm1sMy13TDhVSFo2SFdYd3Jub2JXT1A4Y3FfbkxITTVPejNYNzkzalFkSWJtN2V3WEJFTXV1bVNrS05tNG80R2d3MTllV3FuUw?oc=5",
-      "publishedAt": "Sat, 02 May 2026 06:21:28 GMT"
-    },
-    {
       "title": "“지수는 크게 뛰었는데 계좌엔 반도체뿐”···한국 증시 ETF 붐은 ‘AI 칩’ 외길 베팅",
       "source": "Benzinga",
       "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNaWY5MDJYenRWNzl4Y002ZzJzZ1R3WFBzWVRNTlN2TkM4WU0zY0lxdkVuV2VvTWJxWGw3N3NRSEF2ZUM2cUItRHc0dk52cG9ySXA0cm54WkF4TDVBdVdFZEFEYklCc3BuemN3MFZwdUlYRWVnQ3pEUGhLYjg0ODB2ZnlNTVI3NUp4VThsY2N4Qm1QUGVPdmhld3JseFpNSDhQSW1Ma01hNmQzWFAtR0RWQW5PRjlJUjQ2TU94aTBqdmljZ3BtaXA5X3B3VWRqbkd1Uzg1WGxwX1loaFZfLURKdHdBMmVDVXFGczZybHNHdHl0QnA1OU5lNmFhTFN0V2Y1WlBPbEYxUmJJZy1lNjFjTThDNmpmT20zTHoxdXRidXhOZzRMb2p4Yzhid2ZpS242bjBhX0w5ei1uel9EMkE?oc=5",
       "publishedAt": "Fri, 01 May 2026 23:50:10 GMT"
+    },
+    {
+      "title": "코스피, 중동 전쟁에도 세계 1위 상승률…글로벌 증시 ‘게임체인저’",
+      "source": "시사1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YLTlLUzNYUUtick8ya0Exdm1sMy13TDhVSFo2SFdYd3Jub2JXT1A4Y3FfbkxITTVPejNYNzkzalFkSWJtN2V3WEJFTXV1bVNrS05tNG80R2d3MTllV3FuUw?oc=5",
+      "publishedAt": "Sat, 02 May 2026 06:21:28 GMT"
     }
   ],
   "summary": {
