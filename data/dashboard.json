@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-02T21:08:41.530315+09:00",
-  "updatedLabel": "2026-05-02 21:08:41 KST",
+  "updatedAt": "2026-05-02T22:53:43.278111+09:00",
+  "updatedLabel": "2026-05-02 22:53:43 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4505,12 +4505,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 78156.26,
+      "price": 78341.31,
       "previousClose": 78214.95,
-      "change": -58.69,
-      "changePercent": -0.075,
-      "tone": "flat",
-      "direction": "보합",
+      "change": 126.36,
+      "changePercent": 0.1616,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1777680000000,
@@ -5094,16 +5094,100 @@
         ],
         [
           1777723500000,
-          78156.257812
+          78109.203125
         ],
         [
-          1777723717000,
-          78156.257812
+          1777723800000,
+          78137.578125
+        ],
+        [
+          1777724100000,
+          78142.460938
+        ],
+        [
+          1777724400000,
+          78170.460938
+        ],
+        [
+          1777724700000,
+          78245.5625
+        ],
+        [
+          1777725000000,
+          78230.992188
+        ],
+        [
+          1777725300000,
+          78194.75
+        ],
+        [
+          1777725600000,
+          78214.039062
+        ],
+        [
+          1777725900000,
+          78210.359375
+        ],
+        [
+          1777726200000,
+          78184.15625
+        ],
+        [
+          1777726500000,
+          78213.15625
+        ],
+        [
+          1777726800000,
+          78305.78125
+        ],
+        [
+          1777727100000,
+          78313.640625
+        ],
+        [
+          1777727400000,
+          78393.273438
+        ],
+        [
+          1777727700000,
+          78317.03125
+        ],
+        [
+          1777728000000,
+          78301.882812
+        ],
+        [
+          1777728300000,
+          78301.140625
+        ],
+        [
+          1777728600000,
+          78310.460938
+        ],
+        [
+          1777728900000,
+          78305.492188
+        ],
+        [
+          1777729200000,
+          78364.992188
+        ],
+        [
+          1777729500000,
+          78336.210938
+        ],
+        [
+          1777729800000,
+          78317.460938
+        ],
+        [
+          1777730019000,
+          78341.3125
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-02 21:08 KST",
-      "marketTimestamp": 1777723717
+      "marketTime": "2026-05-02 22:53 KST",
+      "marketTimestamp": 1777730019
     }
   ],
   "mainCharts": [
@@ -6408,10 +6492,22 @@
       "publishedAt": "Sat, 02 May 2026 11:47:00 GMT"
     },
     {
+      "title": "[AJP 데스크 칼럼] \"5월엔 팔고 떠나라\"… 그런데 지금 한국 증시는, 떠날 사람이 없다",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PTlRwT2U0VVk1cVRoUXZyWU01NF91bHc1eEVEbXFNd19ZT3Fud1pURHZ6cTFQeVlkTUxWdGc2YUR0SUgxQ1BVVnUwa1hYdkEyYUtCSw?oc=5",
+      "publishedAt": "Fri, 01 May 2026 23:15:25 GMT"
+    },
+    {
       "title": "뉴욕 증시 4% 오를 때 60% 상승한 코스피…일시적 현상일까 [김학균의 시장읽기]",
       "source": "시사저널",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Tang2SkFLRmo0c0R5VzdPVnd2WFVZT2hEc0pKMTVDTlBaLUUxZWdyY19peElMdktJVkpEZjlxSDdPYXRIWG1QSnJ2Z1dVdWZrMi1jYVNKS1NtOHI2WTVzNzg2aXBaaHpJRmtoOUVkNktBWTTSAXNBVV95cUxNU2p4NkpBS0ZqNHNEeVc3T1Z3dlhVWU9oRHNKSjE1Q05QWi1FMWVncmNfaXhJTHZLSVZKRGY5cUg3T2F0SFhtUEpydmdXVXVmazItY2FTSktTbThyNlk1czc4NmlwWmh6SUZraDlFZDZLQVk0?oc=5",
       "publishedAt": "Sat, 02 May 2026 05:02:20 GMT"
+    },
+    {
+      "title": "증시 활황에 증권사 리포트도 '폭증'…수요 증가",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yeDkwMTREb2xJTzlPUkk1amJnem5JYXdxY0JrWXhwSEx0VFFJOHZkY0tKVS1FeG5QZk9BZ3NRNmgxZmJrQUp1WHBqMjlFQ3ctMEE?oc=5",
+      "publishedAt": "Sat, 02 May 2026 04:15:05 GMT"
     },
     {
       "title": "중동전쟁에도 증시는 연일 ‘불장` 이유는",
@@ -6426,22 +6522,10 @@
       "publishedAt": "Fri, 01 May 2026 23:14:08 GMT"
     },
     {
-      "title": "증시 활황에 증권사 리포트도 '폭증'…수요 증가",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yeDkwMTREb2xJTzlPUkk1amJnem5JYXdxY0JrWXhwSEx0VFFJOHZkY0tKVS1FeG5QZk9BZ3NRNmgxZmJrQUp1WHBqMjlFQ3ctMEE?oc=5",
-      "publishedAt": "Sat, 02 May 2026 04:15:05 GMT"
-    },
-    {
-      "title": "[AJP 데스크 칼럼] 5월엔 팔고 떠나라… 그런데 지금 한국 증시는, 떠날 사람이 없다",
-      "source": "아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrWmZpQVNaWnlWVWZRZ0dOSXR0R3VoaGpMSHFKMTFFTVU3T2hYWUM4UU91UUdsNWxHbUlUZ1FGYWR6dnkyaXFPLUFaV3lZd3o1eGRvZi1JMng2Z9IBWEFVX3lxTFBDT0NETk5Janc5ejNPbEJsMFJWeV9MelNuaEJjc2xnVS01QWhSTHVMX19lTzczdjVEODJFWDM2Zkk2MFk3SGZXbGJfcTRTc0JaZmdaRTZnMlk?oc=5",
-      "publishedAt": "Fri, 01 May 2026 23:15:18 GMT"
-    },
-    {
-      "title": "“지수는 크게 뛰었는데 계좌엔 반도체뿐”···한국 증시 ETF 붐은 ‘AI 칩’ 외길 베팅",
-      "source": "Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNaWY5MDJYenRWNzl4Y002ZzJzZ1R3WFBzWVRNTlN2TkM4WU0zY0lxdkVuV2VvTWJxWGw3N3NRSEF2ZUM2cUItRHc0dk52cG9ySXA0cm54WkF4TDVBdVdFZEFEYklCc3BuemN3MFZwdUlYRWVnQ3pEUGhLYjg0ODB2ZnlNTVI3NUp4VThsY2N4Qm1QUGVPdmhld3JseFpNSDhQSW1Ma01hNmQzWFAtR0RWQW5PRjlJUjQ2TU94aTBqdmljZ3BtaXA5X3B3VWRqbkd1Uzg1WGxwX1loaFZfLURKdHdBMmVDVXFGczZybHNHdHl0QnA1OU5lNmFhTFN0V2Y1WlBPbEYxUmJJZy1lNjFjTThDNmpmT20zTHoxdXRidXhOZzRMb2p4Yzhid2ZpS242bjBhX0w5ei1uel9EMkE?oc=5",
-      "publishedAt": "Fri, 01 May 2026 23:50:10 GMT"
+      "title": "증시활황에 증권사 보고서 건수도 늘었다…투자자 수요 증가",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fTTg3bjFDVXlxem9yWFNwWmRxTFZnTGpnUTlFUVVpSG5ZcFlhNkwyaFVRSV80ZmJfWERiLVdDbUt3ZGVJbXE4dVVqdUtYYTFVWm9Fdi1OcHBER0hITDVPMw?oc=5",
+      "publishedAt": "Fri, 01 May 2026 22:30:00 GMT"
     },
     {
       "title": "코스피, 중동 전쟁에도 세계 1위 상승률…글로벌 증시 ‘게임체인저’",
