@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-03T05:04:38.904331+09:00",
-  "updatedLabel": "2026-05-03 05:04:38 KST",
+  "updatedAt": "2026-05-03T06:09:31.174187+09:00",
+  "updatedLabel": "2026-05-03 06:09:31 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4505,10 +4505,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 78449.33,
+      "price": 78521.24,
       "previousClose": 78214.95,
-      "change": 234.38,
-      "changePercent": 0.2997,
+      "change": 306.29,
+      "changePercent": 0.3916,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5474,16 +5474,68 @@
         ],
         [
           1777752000000,
-          78448.140625
+          78449.328125
         ],
         [
-          1777752274000,
-          78449.328125
+          1777752300000,
+          78454.25
+        ],
+        [
+          1777752600000,
+          78425.007812
+        ],
+        [
+          1777752900000,
+          78427.8125
+        ],
+        [
+          1777753200000,
+          78432.0
+        ],
+        [
+          1777753500000,
+          78432.390625
+        ],
+        [
+          1777753800000,
+          78450.0
+        ],
+        [
+          1777754100000,
+          78481.179688
+        ],
+        [
+          1777754400000,
+          78439.671875
+        ],
+        [
+          1777754700000,
+          78415.867188
+        ],
+        [
+          1777755000000,
+          78456.007812
+        ],
+        [
+          1777755300000,
+          78458.671875
+        ],
+        [
+          1777755600000,
+          78492.65625
+        ],
+        [
+          1777755900000,
+          78509.21875
+        ],
+        [
+          1777756165000,
+          78521.242188
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-03 05:04 KST",
-      "marketTimestamp": 1777752274
+      "marketTime": "2026-05-03 06:09 KST",
+      "marketTimestamp": 1777756165
     }
   ],
   "mainCharts": [
@@ -6785,7 +6837,13 @@
       "title": "[국내 증시] 한국 주식 5월 1일 휴장, 왜?…다음 재개일은 언제",
       "source": "CBC뉴스",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xNE13dGJHV0hQSUVvTTdDX3ZoVlNxcFFlTzNzMUVxb0lQSGEta1RKajdFemthQXFfMFdwaDBDVWxfN2FsZWtCbS1vdG1oS2xMNXBUWTFENVNoVk9NWHFQajd4VFFXVkNf?oc=5",
-      "publishedAt": "Sat, 02 May 2026 17:57:00 GMT"
+      "publishedAt": "Sat, 02 May 2026 20:57:21 GMT"
+    },
+    {
+      "title": "한국 증시 '6000조' 돌파 영국보다 커졌다…글로벌 5위도 가시권",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YM3VFbFFXeE9UMWtxV2RtWVhMSmtnZjJRaGhEUnVBRVV6eDNDdGJWcjZYWDd4Q3R1dldnOFJwWDhLUnJ4TnQzWHhjQkMydWRVYVJfZ1lNSGpuWk1SdjR3?oc=5",
+      "publishedAt": "Sat, 02 May 2026 21:00:00 GMT"
     },
     {
       "title": "미국 등 주요국 잇따라 금리 동결…한국은 연 2회 인상?",
@@ -6810,12 +6868,6 @@
       "source": "스트레이트뉴스",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyS0Nza2hNbHNFMTRlcEpmNFl2UDRuSmM0S0lhcFJLZDFkRGRaWXNJMGswUXJMaVJJRlNUR0xIcWFJYWVrb0ViVW5yMXR4TkxsYk9IX3BnYW13YjZqUFdoSXg5UWlBTEx4RTJ6d0RSYV82RndMYWVn0gF3QVVfeXFMUDJLQ3NraE1sc0UxNGVwSmY0WXZQNG5KYzRLSWFwUktkMWREZFpZc0kwazBRckxpUklGU1RHTEhxYUlhZWtvRWJVbnIxdHhOTGxiT0hfcGdhbXdiNmpQV2hJeDlRaUFMTHhFMnp3RFJhXzZGd0xhZWc?oc=5",
       "publishedAt": "Fri, 01 May 2026 23:14:08 GMT"
-    },
-    {
-      "title": "[AJP 데스크 칼럼] 5월엔 팔고 떠나라… 그런데 지금 한국 증시는, 떠날 사람이 없다",
-      "source": "아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDT0NETk5Janc5ejNPbEJsMFJWeV9MelNuaEJjc2xnVS01QWhSTHVMX19lTzczdjVEODJFWDM2Zkk2MFk3SGZXbGJfcTRTc0JaZmdaRTZnMlnSAVhBVV95cUxQQ09DRE5OSWp3OXozT2xCbDBSVnlfTHpTbmhCY3NsZ1UtNUFoUkx1TF9fZU83M3Y1RDgyRVgzNmZJNjBZN0hmV2xiX3E0U3NCWmZnWkU2ZzJZ?oc=5",
-      "publishedAt": "Fri, 01 May 2026 23:16:57 GMT"
     },
     {
       "title": "코스피 6700선 시험대…\"AI 투자 사이클이 만든 실적 장세\"",
@@ -6855,13 +6907,13 @@
         "direction": "상승"
       },
       {
-        "label": "Gold",
-        "changePercent": 0.3218,
+        "label": "Bitcoin",
+        "changePercent": 0.3916,
         "direction": "상승"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": 0.2997,
+        "label": "Gold",
+        "changePercent": 0.3218,
         "direction": "상승"
       }
     ],
