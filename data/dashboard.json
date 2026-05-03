@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-04T00:25:33.772164+09:00",
-  "updatedLabel": "2026-05-04 00:25:33 KST",
+  "updatedAt": "2026-05-04T01:10:48.229796+09:00",
+  "updatedLabel": "2026-05-04 01:10:48 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2875,10 +2875,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 78729.31,
+      "price": 78607.74,
       "previousClose": 78669.555,
-      "change": 59.755,
-      "changePercent": 0.076,
+      "change": -61.815,
+      "changePercent": -0.0786,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -3623,13 +3623,49 @@
           78724.953125
         ],
         [
-          1777821930000,
-          78729.3125
+          1777821900000,
+          78752.039062
+        ],
+        [
+          1777822200000,
+          78719.226562
+        ],
+        [
+          1777822500000,
+          78679.226562
+        ],
+        [
+          1777822800000,
+          78683.859375
+        ],
+        [
+          1777823100000,
+          78656.203125
+        ],
+        [
+          1777823400000,
+          78655.0
+        ],
+        [
+          1777823700000,
+          78656.84375
+        ],
+        [
+          1777824000000,
+          78683.140625
+        ],
+        [
+          1777824300000,
+          78621.578125
+        ],
+        [
+          1777824640000,
+          78607.742188
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-04 00:25 KST",
-      "marketTimestamp": 1777821930
+      "marketTime": "2026-05-04 01:10 KST",
+      "marketTimestamp": 1777824640
     }
   ],
   "mainCharts": [
@@ -4928,6 +4964,12 @@
   ],
   "headlines": [
     {
+      "title": "[244회]증시로 본 한국경제ㅣ이슈 인사이드",
+      "source": "대구MBC",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qQzQ4ZG1zOTNDWTkwbXliWmxseEJ1bk9UVjNfTXZqWXpOd3dqUTJsRl8tUXNqNklCckhuTTJSZDFoTTBiNXRzYVNXamZzdnRGaVZkeGZZLUNEcnlaS2V5QXpSaHY?oc=5",
+      "publishedAt": "Sun, 03 May 2026 05:21:41 GMT"
+    },
+    {
       "title": "[마켓인사이트] 노동절 연휴 美기술주 강세지속…한국도 오를까",
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XOEpMc2lld3dFQ09kcS1DX1hmQ19nSllDcnVkX1JWa2dBeHlOS3lHdnpYNmNGczBmTEkyMW5nbU8xaUliZjBlZ1lyeTgzNnk0NDZMZ21LeXRFMzVPNkZ6QtIBYEFVX3lxTE9XOEpMc2lld3dFQ09kcS1DX1hmQ19nSllDcnVkX1JWa2dBeHlOS3lHdnpYNmNGczBmTEkyMW5nbU8xaUliZjBlZ1lyeTgzNnk0NDZMZ21LeXRFMzVPNkZ6Qg?oc=5",
@@ -4968,12 +5010,6 @@
       "source": "뉴스1",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQRTZmU1VNQ0FHSzR0YkJjOWlpZkwwMDZCZ05VbkdHNEpIT2NOVHBkMWNOVndSWnhjd0VpU294MTcyZHpjZEFtSktDQVhhTVF6NzJqbzZYSlF5bncwMHRZ?oc=5",
       "publishedAt": "Sun, 03 May 2026 04:05:08 GMT"
-    },
-    {
-      "title": "활황 국장의 이면… 20대ㆍ고령층 ‘빚투’ 위험하다 [주말 Q&A]",
-      "source": "더스쿠프",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXVF83TDl1ZzY4THdYSUdfNDBpUldVSDJYdU1sRE91YzBoSWhMaE9HU0VkYVdRWjlWell4Z2RLdHpWcmRvZUdPdTUzRHZwbndpNDRXNjNwLTVhNkZ1MmJjMHZmZEIxYUZMZmdING9n?oc=5",
-      "publishedAt": "Sun, 03 May 2026 05:57:19 GMT"
     }
   ],
   "summary": {
