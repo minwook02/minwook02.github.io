@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-04T02:25:54.733737+09:00",
-  "updatedLabel": "2026-05-04 02:25:54 KST",
+  "updatedAt": "2026-05-04T03:29:48.864672+09:00",
+  "updatedLabel": "2026-05-04 03:29:48 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2875,10 +2875,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 78769.89,
+      "price": 78725.39,
       "previousClose": 78669.555,
-      "change": 100.335,
-      "changePercent": 0.1275,
+      "change": 55.835,
+      "changePercent": 0.071,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -3719,13 +3719,65 @@
           78757.96875
         ],
         [
-          1777829150000,
-          78769.890625
+          1777829100000,
+          78725.007812
+        ],
+        [
+          1777829400000,
+          78754.492188
+        ],
+        [
+          1777829700000,
+          78773.828125
+        ],
+        [
+          1777830000000,
+          78799.210938
+        ],
+        [
+          1777830300000,
+          78770.351562
+        ],
+        [
+          1777830600000,
+          78731.132812
+        ],
+        [
+          1777830900000,
+          78721.359375
+        ],
+        [
+          1777831200000,
+          78670.023438
+        ],
+        [
+          1777831500000,
+          78680.390625
+        ],
+        [
+          1777831800000,
+          78663.109375
+        ],
+        [
+          1777832100000,
+          78694.242188
+        ],
+        [
+          1777832400000,
+          78700.0
+        ],
+        [
+          1777832700000,
+          78746.8125
+        ],
+        [
+          1777832983000,
+          78725.390625
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-04 02:25 KST",
-      "marketTimestamp": 1777829150
+      "marketTime": "2026-05-04 03:29 KST",
+      "marketTimestamp": 1777832983
     }
   ],
   "mainCharts": [
@@ -5030,6 +5082,12 @@
       "publishedAt": "Sat, 02 May 2026 22:00:28 GMT"
     },
     {
+      "title": "'1조 클럽' 400개 첫 돌파…국내 증시 시총 6000조 시대",
+      "source": "티제이비",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NWmN1OHRjaFVyeXNFWlNFN2o3UHhPTHB5YWRBbk4xZ29BYnFEWDIxWDNRODhiTEJCbkpna3JUWXVmdzNtWnh0NHZkTWNjTmhlU1doaUlPVndZUm8?oc=5",
+      "publishedAt": "Sun, 03 May 2026 02:37:33 GMT"
+    },
+    {
       "title": "국내 증시 시총 6000조 시대…‘1조 클럽’도 사상 처음 400곳 돌파",
       "source": "경향신문",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vRGgwUk9UX0hXT2xDLWkxeWJZa3IxYlQ0VEkyakxwa0JlMG1kVVVlTXprdkVueC1URlB2SFYxYU9nWW5Mb2Q5OXFJTEdRSk5TVzdtd2xjNHZIZ9IBX0FVX3lxTFBwV0VYYWJ1enU1M0hLZlVzTVBNT3V0dThRc1gxY1VXY1lNa3FqTWNINnRBQVAtUUtmWDc4MVVBcnJZcERhSmNnVUVCRW9EMXZsZHFhNGlUOUNSX25wamdZ?oc=5",
@@ -5042,16 +5100,16 @@
       "publishedAt": "Sun, 03 May 2026 08:28:19 GMT"
     },
     {
-      "title": "[주간증시전망] '고유가·고금리' 변동성 확대···Sell in May?",
-      "source": "서울파이낸스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80LXQxMy1xS0t4ZGtvSjZTazBKWWtrNXdnc1EtbWhEM3ZNQ2EtRkM3cmx5WXRjQ2ZyaDRpNUE4cVZZWjFKeWI4UXR0Q09LRTNkSEtrNl9sOC1uTllEcGZIaXFnc3dseUxZaEE?oc=5",
-      "publishedAt": "Sun, 03 May 2026 09:30:00 GMT"
-    },
-    {
       "title": "국내 증시 '1조 클럽' 첫 400곳 돌파…시총 6000조 시대 열렸다",
       "source": "뉴스1",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQRTZmU1VNQ0FHSzR0YkJjOWlpZkwwMDZCZ05VbkdHNEpIT2NOVHBkMWNOVndSWnhjd0VpU294MTcyZHpjZEFtSktDQVhhTVF6NzJqbzZYSlF5bncwMHRZ?oc=5",
       "publishedAt": "Sun, 03 May 2026 04:05:08 GMT"
+    },
+    {
+      "title": "[주간증시전망] '고유가·고금리' 변동성 확대···Sell in May?",
+      "source": "서울파이낸스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80LXQxMy1xS0t4ZGtvSjZTazBKWWtrNXdnc1EtbWhEM3ZNQ2EtRkM3cmx5WXRjQ2ZyaDRpNUE4cVZZWjFKeWI4UXR0Q09LRTNkSEtrNl9sOC1uTllEcGZIaXFnc3dseUxZaEE?oc=5",
+      "publishedAt": "Sun, 03 May 2026 09:30:00 GMT"
     },
     {
       "title": "불나방 투자에 경고등⋯4월 국내 증시, 투자경고ㆍ위험 지정 건수 50%↑",
@@ -5064,12 +5122,6 @@
       "source": "더스쿠프",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXVF83TDl1ZzY4THdYSUdfNDBpUldVSDJYdU1sRE91YzBoSWhMaE9HU0VkYVdRWjlWell4Z2RLdHpWcmRvZUdPdTUzRHZwbndpNDRXNjNwLTVhNkZ1MmJjMHZmZEIxYUZMZmdING9n?oc=5",
       "publishedAt": "Sun, 03 May 2026 05:57:19 GMT"
-    },
-    {
-      "title": "국내 증시 `시총 6천조` 시대…`1조 클럽` 사상 첫 400곳 돌파",
-      "source": "매일신문",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YbWt4aXFyTXA1dFVWTkRkRldHVnRSX25RTXlEZEdCQjlmakNaNTJKWlVBT0V0VGl0Rm1Ia1ViclhtTXd3MjlJTzA1blhTcWIybml3dzBWeTN5YlkyUDFmeF93?oc=5",
-      "publishedAt": "Sun, 03 May 2026 09:38:12 GMT"
     }
   ],
   "summary": {
