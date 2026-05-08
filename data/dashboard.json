@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-09T07:01:21.611123+09:00",
-  "updatedLabel": "2026-05-09 07:01:21 KST",
+  "updatedAt": "2026-05-09T08:29:34.333843+09:00",
+  "updatedLabel": "2026-05-09 08:29:34 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2663,10 +2663,6 @@
         [
           1778274300000,
           1461.47998
-        ],
-        [
-          1778274503000,
-          1461.47998
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4697,10 +4693,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 80297.99,
+      "price": 80201.45,
       "previousClose": 80015.266,
-      "change": 282.724,
-      "changePercent": 0.3533,
+      "change": 186.184,
+      "changePercent": 0.2327,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5670,16 +5666,84 @@
         ],
         [
           1778277600000,
-          80282.40625
+          80310.007812
         ],
         [
-          1778277677000,
-          80297.992188
+          1778277900000,
+          80291.039062
+        ],
+        [
+          1778278200000,
+          80387.296875
+        ],
+        [
+          1778278500000,
+          80343.5625
+        ],
+        [
+          1778278800000,
+          80318.257812
+        ],
+        [
+          1778279100000,
+          80346.210938
+        ],
+        [
+          1778279400000,
+          80332.320312
+        ],
+        [
+          1778279700000,
+          80290.828125
+        ],
+        [
+          1778280000000,
+          80318.0
+        ],
+        [
+          1778280300000,
+          80344.617188
+        ],
+        [
+          1778280600000,
+          80281.40625
+        ],
+        [
+          1778280900000,
+          80270.117188
+        ],
+        [
+          1778281200000,
+          80266.460938
+        ],
+        [
+          1778281500000,
+          80233.617188
+        ],
+        [
+          1778281800000,
+          80204.679688
+        ],
+        [
+          1778282100000,
+          80228.539062
+        ],
+        [
+          1778282400000,
+          80183.710938
+        ],
+        [
+          1778282700000,
+          80203.179688
+        ],
+        [
+          1778282968000,
+          80201.453125
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-09 07:01 KST",
-      "marketTimestamp": 1778277677
+      "marketTime": "2026-05-09 08:29 KST",
+      "marketTimestamp": 1778282968
     }
   ],
   "mainCharts": [
@@ -6978,6 +7042,18 @@
   ],
   "headlines": [
     {
+      "title": "[임병식 칼럼] 코스피 7000 시대, 환호와 경계 사이",
+      "source": "아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPamVpNVhKLTlwQ3lacFdqWldQUU5TZzQ4ak1iV24wQWlTckxCNTFBeF9rZDFxTjU0dlM3b21nUTcwSl9ZUmlhN3g5dGtfUjE2bE1sYmtyZVnSAVhBVV95cUxQT2plaTVYSi05cEN5WnBXalpXUFFOU2c0OGpNYlduMEFpU3JMQjUxQXhfa2QxcU41NHZTN29tZ1E3MEpfWVJpYTd4OXRrX1IxNmxNbGJrcmVZ?oc=5",
+      "publishedAt": "Fri, 08 May 2026 21:00:00 GMT"
+    },
+    {
+      "title": "[속보]나스닥 2만6247 돌파…미국 증시 다시 강세, 다우는 4만9600선 유지",
+      "source": "CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6VEZuMUNXalIwc2VjQ3Vyc1RjSjM4MG5ucHNHZXd4bk02WHJXQkxET1ZXUzVSUXFZeEdFV2xjcXFhZVV4b1dXSFplVzZZTWFHaW1IM3ZDVlh5ZFFhRTdab0tWZ1dwbmNo?oc=5",
+      "publishedAt": "Fri, 08 May 2026 22:56:00 GMT"
+    },
+    {
       "title": "[증시 인사이트] 국내증시 혼조 마감…\"대내외 이슈로 변동성 극심\"",
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91aFpscmdCbjF3UXRveUNUelE3WmNLdW1jamZzZ0t6TUFsWWtUZlUyZ05JYng2aEZvVVdIR2ktalBydzZtS3BvUlFnVmdPWTQ?oc=5",
@@ -7008,22 +7084,10 @@
       "publishedAt": "Fri, 08 May 2026 01:38:23 GMT"
     },
     {
-      "title": "[속보]다우·S&P500·나스닥 모두 상승…미국 증시, 기술주 강세에 일제히",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82WWxHV1BmekdnS0pMUFVPYWs3YnVrTFZ1YVAtMWZyZXotZTIxRXdETng0Q2ZHYXBTRVRLeXJ5djlyazRyZGI2Mi03aVNoaDhndXVFS0RfYUZ6TmFlNnZZSjlCTHFMbE8z?oc=5",
-      "publishedAt": "Fri, 08 May 2026 15:00:00 GMT"
-    },
-    {
       "title": "성공투자 오후증시",
       "source": "한국경제TV",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNVA2c2MwQXpGcmFvT2RFaUdpSFJxQURDNElzNGhCTTRiTE8zeUQ3Y0p6UnRzRzFYcXNLazB2b1ZXUWNIU1h4TmVFelV3SkpzMEtjaGJGNHdHX0JoRkdESlROSVdaNXlyazg1ams2bHNfYlhSV3ZMMG9ReVQwcTRaYlp3aE11OW5hZVZGLVh2WmlMa1hOQXB6VlNSNGdFX1N2N0tj?oc=5",
       "publishedAt": "Fri, 08 May 2026 07:04:41 GMT"
-    },
-    {
-      "title": "美증시 투자, 이젠 환차손 고려할 때…수출 증가로 중장기 환율 하락 전망",
-      "source": "KPI뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzSWxYNVM0Slo4LUNVRmFueVBCM1l6X0JlWEZMaDNqa21feS16NGlCSnc4N2dlaUhtR2lzcmhHQWlDNFc5d1VvcVZXVjVZZzRCS3Fn?oc=5",
-      "publishedAt": "Fri, 08 May 2026 07:46:47 GMT"
     }
   ],
   "summary": {
