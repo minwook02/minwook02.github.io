@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-09T22:59:11.227012+09:00",
-  "updatedLabel": "2026-05-09 22:59:11 KST",
+  "updatedAt": "2026-05-10T00:03:58.218600+09:00",
+  "updatedLabel": "2026-05-10 00:03:58 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4685,10 +4685,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 80384.71,
+      "price": 80349.26,
       "previousClose": 80184.33,
-      "change": 200.38,
-      "changePercent": 0.2499,
+      "change": 164.93,
+      "changePercent": 0.2057,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5362,16 +5362,68 @@
         ],
         [
           1778334900000,
-          80385.773438
+          80391.53125
         ],
         [
-          1778335145000,
-          80384.710938
+          1778335200000,
+          80362.296875
+        ],
+        [
+          1778335500000,
+          80351.953125
+        ],
+        [
+          1778335800000,
+          80384.679688
+        ],
+        [
+          1778336100000,
+          80364.046875
+        ],
+        [
+          1778336400000,
+          80312.492188
+        ],
+        [
+          1778336700000,
+          80312.609375
+        ],
+        [
+          1778337000000,
+          80270.890625
+        ],
+        [
+          1778337300000,
+          80276.6875
+        ],
+        [
+          1778337600000,
+          80327.890625
+        ],
+        [
+          1778337900000,
+          80336.898438
+        ],
+        [
+          1778338200000,
+          80296.773438
+        ],
+        [
+          1778338500000,
+          80325.34375
+        ],
+        [
+          1778338800000,
+          80345.90625
+        ],
+        [
+          1778339032000,
+          80349.257812
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-09 22:59 KST",
-      "marketTimestamp": 1778335145
+      "marketTime": "2026-05-10 00:03 KST",
+      "marketTimestamp": 1778339032
     }
   ],
   "mainCharts": [
@@ -6712,10 +6764,10 @@
       "publishedAt": "Fri, 08 May 2026 23:27:44 GMT"
     },
     {
-      "title": "골드만삭스 “코스피 9000 간다…韓 증시 ‘아시아 최선호 시장’”",
-      "source": "이코노미스트",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04Wnk4a3BxbUIzNFo2MUI2RFRnYk00NjhRSzg2ekcwWkNpRmFKYkgtRmw1dHpVcHpFZFM3T3ZKYmpSdFh3clVxSHpOWXhGSHoyckRFYm53d3hUREZOSzI5bFhR?oc=5",
-      "publishedAt": "Sat, 09 May 2026 06:11:00 GMT"
+      "title": "[임병식 칼럼] 코스피 7000 시대, 환호와 경계 사이",
+      "source": "아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPamVpNVhKLTlwQ3lacFdqWldQUU5TZzQ4ak1iV24wQWlTckxCNTFBeF9rZDFxTjU0dlM3b21nUTcwSl9ZUmlhN3g5dGtfUjE2bE1sYmtyZVnSAVhBVV95cUxQT2plaTVYSi05cEN5WnBXalpXUFFOU2c0OGpNYlduMEFpU3JMQjUxQXhfa2QxcU41NHZTN29tZ1E3MEpfWVJpYTd4OXRrX1IxNmxNbGJrcmVZ?oc=5",
+      "publishedAt": "Fri, 08 May 2026 21:00:00 GMT"
     }
   ],
   "summary": {
@@ -6766,7 +6818,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.2499,
+        "changePercent": 0.2057,
         "direction": "상승"
       }
     ]
