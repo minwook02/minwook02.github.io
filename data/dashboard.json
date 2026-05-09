@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-09T16:10:09.638853+09:00",
-  "updatedLabel": "2026-05-09 16:10:09 KST",
+  "updatedAt": "2026-05-09T17:59:47.041560+09:00",
+  "updatedLabel": "2026-05-09 17:59:47 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3836,7 +3836,7 @@
         ],
         [
           1778273700000,
-          94.68
+          95.419998
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4671,7 +4671,7 @@
         ],
         [
           1778273700000,
-          4723.700195
+          4730.700195
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4685,12 +4685,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 80143.85,
+      "price": 80400.0,
       "previousClose": 80184.33,
-      "change": -40.48,
-      "changePercent": -0.0505,
-      "tone": "flat",
-      "direction": "보합",
+      "change": 215.67,
+      "changePercent": 0.269,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1778284800000,
@@ -5037,13 +5037,101 @@
           80143.851562
         ],
         [
-          1778310606000,
-          80143.851562
+          1778310600000,
+          80181.671875
+        ],
+        [
+          1778310900000,
+          80218.34375
+        ],
+        [
+          1778311200000,
+          80258.492188
+        ],
+        [
+          1778311500000,
+          80235.023438
+        ],
+        [
+          1778311800000,
+          80264.648438
+        ],
+        [
+          1778312100000,
+          80230.21875
+        ],
+        [
+          1778312400000,
+          80237.5625
+        ],
+        [
+          1778312700000,
+          80205.882812
+        ],
+        [
+          1778313000000,
+          80223.398438
+        ],
+        [
+          1778313300000,
+          80214.859375
+        ],
+        [
+          1778313600000,
+          80373.679688
+        ],
+        [
+          1778313900000,
+          80350.351562
+        ],
+        [
+          1778314200000,
+          80387.757812
+        ],
+        [
+          1778314500000,
+          80402.289062
+        ],
+        [
+          1778314800000,
+          80374.992188
+        ],
+        [
+          1778315100000,
+          80395.671875
+        ],
+        [
+          1778315400000,
+          80391.171875
+        ],
+        [
+          1778315700000,
+          80421.976562
+        ],
+        [
+          1778316000000,
+          80409.59375
+        ],
+        [
+          1778316300000,
+          80400.132812
+        ],
+        [
+          1778316600000,
+          80423.507812
+        ],
+        [
+          1778316900000,
+          80396.78125
+        ],
+        [
+          1778317154000,
+          80400.0
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-09 16:10 KST",
-      "marketTimestamp": 1778310606
+      "marketTime": "2026-05-09 17:59 KST",
+      "marketTimestamp": 1778317154
     }
   ],
   "mainCharts": [
@@ -6342,6 +6430,12 @@
   ],
   "headlines": [
     {
+      "title": "반도체發 증시 랠리에 ‘ELS’ 떠들썩한데…은행권 “안팔아요”",
+      "source": "에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pZ0REb1JERENKemIyNUVzWFg1NTZka1h5em83MFpqaGlVV1dOb3JRN19sRzZUZHpvUWVhV0NDTmk0R3pqa25zVjdzcnR6Y1lyZDkzX2RBOXd2TTdYbVJjb25mVQ?oc=5",
+      "publishedAt": "Sat, 09 May 2026 08:06:00 GMT"
+    },
+    {
       "title": "한국증시 버핏지수 260% 사상 최고치…美·日·英보다 높아",
       "source": "조선일보",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nU2VTZVZHUlVpRnZ6bzRCeEUzSjFWTjQxVUpGcmxBWV83dHdfc1JESkJUdFV5MUtjUVoxVjBNWklMdmF5eTBZSE4zcXRDVkE3VFMxQTRBUFJpdnhZY05yd0p2emhqOW5qLXlVTkRR0gFuQVVfeXFMTmdTZVNlVkdSVWlGdnpvNEJ4RTNKMVZONDFVSkZybEFZXzd0d19zUkRKQlR0VXkxS2NRWjFWME1aSUx2YXl5MFlITjNxdENWQTdUUzFBNEFQUml2eFljTnJ3SnZ6aGo5bmoteVVORFE?oc=5",
@@ -6366,6 +6460,12 @@
       "publishedAt": "Sat, 09 May 2026 00:38:57 GMT"
     },
     {
+      "title": "증시 폭등애도 \"한국 증시 아직 싸다\"…글로벌 IB '코스피 9000' 제시",
+      "source": "시사의창",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QNTFINTNPa3gyc29JaDkzY1RiWGI5T2g2eHVZRlB1bGNaWEpfa3FLaGp2enI4Nl9WRFBJZjVWOV9qeVpxODZoZGZXbFg1UGxYY3VnaQ?oc=5",
+      "publishedAt": "Sat, 09 May 2026 08:31:06 GMT"
+    },
+    {
       "title": "美 고용 호조에 뉴욕증시 강세…S&P500·나스닥 또 사상 최고",
       "source": "스트레이트뉴스",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fSi1sY0pUdDFtYmpVbjZHQVVXVTBiMWlrOWV1RWJhRHVMQ3NNOTVnN2xhVTJtY25KcjloU1d0R3drSEFpb0dRVmNNY1p6SXQ5YUtkaWdHUW1ORlBrLVJ6UUt1eGZGNElETy1EeXduNWFkU2_SAXdBVV95cUxNUzgtT3FQV1VtVTlmQ0pqYmZ6czFkMndWRkh0ZEoxVzVoS3cyRWk5cnEwem5qRTFKZ0QzS21FaU1YZkphbUJURWtwOUd0VGk0cXgzN3pObTNWTklPRzBEQWFtZHZELU1EdE1iSXhfZzJ5ZFBaUDZscw?oc=5",
@@ -6376,18 +6476,6 @@
       "source": "아주경제",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPamVpNVhKLTlwQ3lacFdqWldQUU5TZzQ4ak1iV24wQWlTckxCNTFBeF9rZDFxTjU0dlM3b21nUTcwSl9ZUmlhN3g5dGtfUjE2bE1sYmtyZVnSAVhBVV95cUxQT2plaTVYSi05cEN5WnBXalpXUFFOU2c0OGpNYlduMEFpU3JMQjUxQXhfa2QxcU41NHZTN29tZ1E3MEpfWVJpYTd4OXRrX1IxNmxNbGJrcmVZ?oc=5",
       "publishedAt": "Fri, 08 May 2026 21:00:00 GMT"
-    },
-    {
-      "title": "골드만삭스 “코스피 9000 간다…韓 증시 ‘아시아 최선호 시장’”",
-      "source": "이코노미스트",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04Wnk4a3BxbUIzNFo2MUI2RFRnYk00NjhRSzg2ekcwWkNpRmFKYkgtRmw1dHpVcHpFZFM3T3ZKYmpSdFh3clVxSHpOWXhGSHoyckRFYm53d3hUREZOSzI5bFhR?oc=5",
-      "publishedAt": "Sat, 09 May 2026 06:11:00 GMT"
-    },
-    {
-      "title": "[속보]나스닥 2만6247 돌파…미국 증시 다시 강세, 다우는 4만9600선 유지",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6VEZuMUNXalIwc2VjQ3Vyc1RjSjM4MG5ucHNHZXd4bk02WHJXQkxET1ZXUzVSUXFZeEdFV2xjcXFhZVV4b1dXSFplVzZZTWFHaW1IM3ZDVlh5ZFFhRTdab0tWZ1dwbmNo?oc=5",
-      "publishedAt": "Fri, 08 May 2026 22:56:00 GMT"
     }
   ],
   "summary": {
@@ -6427,11 +6515,6 @@
     ],
     "laggards": [
       {
-        "label": "Bitcoin",
-        "changePercent": -0.0505,
-        "direction": "보합"
-      },
-      {
         "label": "DOW",
         "changePercent": 0.0246,
         "direction": "보합"
@@ -6440,6 +6523,11 @@
         "label": "KOSPI",
         "changePercent": 0.1061,
         "direction": "보합"
+      },
+      {
+        "label": "Bitcoin",
+        "changePercent": 0.269,
+        "direction": "상승"
       }
     ]
   },
