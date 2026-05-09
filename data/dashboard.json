@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-09T13:51:02.184329+09:00",
-  "updatedLabel": "2026-05-09 13:51:02 KST",
+  "updatedAt": "2026-05-09T16:10:09.638853+09:00",
+  "updatedLabel": "2026-05-09 16:10:09 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4685,12 +4685,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 80451.34,
+      "price": 80143.85,
       "previousClose": 80184.33,
-      "change": 267.01,
-      "changePercent": 0.333,
-      "tone": "up",
-      "direction": "상승",
+      "change": -40.48,
+      "changePercent": -0.0505,
+      "tone": "flat",
+      "direction": "보합",
       "series": [
         [
           1778284800000,
@@ -4925,13 +4925,125 @@
           80435.359375
         ],
         [
-          1778302259000,
-          80451.34375
+          1778302200000,
+          80381.09375
+        ],
+        [
+          1778302500000,
+          80385.0625
+        ],
+        [
+          1778302800000,
+          80357.96875
+        ],
+        [
+          1778303100000,
+          80373.007812
+        ],
+        [
+          1778303400000,
+          80367.03125
+        ],
+        [
+          1778303700000,
+          80419.6875
+        ],
+        [
+          1778304000000,
+          80434.140625
+        ],
+        [
+          1778304300000,
+          80436.21875
+        ],
+        [
+          1778304600000,
+          80469.328125
+        ],
+        [
+          1778304900000,
+          80470.8125
+        ],
+        [
+          1778305200000,
+          80468.140625
+        ],
+        [
+          1778305500000,
+          80391.273438
+        ],
+        [
+          1778305800000,
+          80378.601562
+        ],
+        [
+          1778306100000,
+          80374.0
+        ],
+        [
+          1778306400000,
+          80403.109375
+        ],
+        [
+          1778306700000,
+          80411.71875
+        ],
+        [
+          1778307000000,
+          80410.898438
+        ],
+        [
+          1778307300000,
+          80302.632812
+        ],
+        [
+          1778307600000,
+          80303.578125
+        ],
+        [
+          1778307900000,
+          80309.601562
+        ],
+        [
+          1778308200000,
+          80345.382812
+        ],
+        [
+          1778308500000,
+          80218.210938
+        ],
+        [
+          1778308800000,
+          80207.453125
+        ],
+        [
+          1778309100000,
+          80240.78125
+        ],
+        [
+          1778309400000,
+          80204.65625
+        ],
+        [
+          1778309700000,
+          80248.132812
+        ],
+        [
+          1778310000000,
+          80207.007812
+        ],
+        [
+          1778310300000,
+          80143.851562
+        ],
+        [
+          1778310606000,
+          80143.851562
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-09 13:50 KST",
-      "marketTimestamp": 1778302259
+      "marketTime": "2026-05-09 16:10 KST",
+      "marketTimestamp": 1778310606
     }
   ],
   "mainCharts": [
@@ -6266,16 +6378,16 @@
       "publishedAt": "Fri, 08 May 2026 21:00:00 GMT"
     },
     {
+      "title": "골드만삭스 “코스피 9000 간다…韓 증시 ‘아시아 최선호 시장’”",
+      "source": "이코노미스트",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04Wnk4a3BxbUIzNFo2MUI2RFRnYk00NjhRSzg2ekcwWkNpRmFKYkgtRmw1dHpVcHpFZFM3T3ZKYmpSdFh3clVxSHpOWXhGSHoyckRFYm53d3hUREZOSzI5bFhR?oc=5",
+      "publishedAt": "Sat, 09 May 2026 06:11:00 GMT"
+    },
+    {
       "title": "[속보]나스닥 2만6247 돌파…미국 증시 다시 강세, 다우는 4만9600선 유지",
       "source": "CBC뉴스",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6VEZuMUNXalIwc2VjQ3Vyc1RjSjM4MG5ucHNHZXd4bk02WHJXQkxET1ZXUzVSUXFZeEdFV2xjcXFhZVV4b1dXSFplVzZZTWFHaW1IM3ZDVlh5ZFFhRTdab0tWZ1dwbmNo?oc=5",
       "publishedAt": "Fri, 08 May 2026 22:56:00 GMT"
-    },
-    {
-      "title": "하나證 \"한은, 하반기 매파 스탠스로 환율 하락 유도할 것\"",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84VTZyUTVMWDF4LTE0UEN1TU4tUTVVSGVDQy00cnl1N1pmNHV4RVRZUVU1T2ZPNFBSNmNKN2NwOGZrUGRfdUdZcUZZbGlaNURTZW9DdENMTnJsM2FXZU5vMEotOEhBOGU3N1h1V1B2Yi14Zw?oc=5",
-      "publishedAt": "Fri, 08 May 2026 23:20:00 GMT"
     }
   ],
   "summary": {
@@ -6315,6 +6427,11 @@
     ],
     "laggards": [
       {
+        "label": "Bitcoin",
+        "changePercent": -0.0505,
+        "direction": "보합"
+      },
+      {
         "label": "DOW",
         "changePercent": 0.0246,
         "direction": "보합"
@@ -6323,11 +6440,6 @@
         "label": "KOSPI",
         "changePercent": 0.1061,
         "direction": "보합"
-      },
-      {
-        "label": "Bitcoin",
-        "changePercent": 0.333,
-        "direction": "상승"
       }
     ]
   },
