@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-09T20:26:14.056192+09:00",
-  "updatedLabel": "2026-05-09 20:26:14 KST",
+  "updatedAt": "2026-05-09T21:11:23.273143+09:00",
+  "updatedLabel": "2026-05-09 21:11:23 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4685,12 +4685,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 80336.23,
+      "price": 80292.99,
       "previousClose": 80184.33,
-      "change": 151.9,
-      "changePercent": 0.1894,
-      "tone": "up",
-      "direction": "상승",
+      "change": 108.66,
+      "changePercent": 0.1355,
+      "tone": "flat",
+      "direction": "보합",
       "series": [
         [
           1778284800000,
@@ -5242,16 +5242,52 @@
         ],
         [
           1778325900000,
-          80336.226562
+          80338.21875
         ],
         [
-          1778325966000,
-          80336.226562
+          1778326200000,
+          80350.476562
+        ],
+        [
+          1778326500000,
+          80335.953125
+        ],
+        [
+          1778326800000,
+          80339.4375
+        ],
+        [
+          1778327100000,
+          80314.890625
+        ],
+        [
+          1778327400000,
+          80330.726562
+        ],
+        [
+          1778327700000,
+          80330.5
+        ],
+        [
+          1778328000000,
+          80357.226562
+        ],
+        [
+          1778328300000,
+          80297.570312
+        ],
+        [
+          1778328600000,
+          80297.390625
+        ],
+        [
+          1778328677000,
+          80292.992188
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-09 20:26 KST",
-      "marketTimestamp": 1778325966
+      "marketTime": "2026-05-09 21:11 KST",
+      "marketTimestamp": 1778328677
     }
   ],
   "mainCharts": [
@@ -6550,16 +6586,16 @@
   ],
   "headlines": [
     {
-      "title": "한국증시 버핏지수 260% 사상 최고치…美·日·英보다 높아",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UaFhaRnJDQnZfcGVfTUkyTDlHeVBOb1QzaURQVTZEZ2dOX2tXcnNtTS1iUEtaTTc4RjlpUHQ2ZGFDSmM2Vy1WTm1oMGZVRmhQQnRUYTc4RjA3dGNYN3RyZ1FBVkFtdkpJbVHSAW5BVV95cUxOZ1NlU2VWR1JVaUZ2em80QnhFM0oxVk40MVVKRnJsQVlfN3R3X3NSREpCVHRVeTFLY1FaMVYwTVpJTHZheXkwWUhOM3F0Q1ZBN1RTMUE0QVBSaXZ4WWNOcndKdnpoajluai15VU5EUQ?oc=5",
-      "publishedAt": "Sat, 09 May 2026 02:30:00 GMT"
-    },
-    {
       "title": "한국증시, 미국보다 과열?…버핏지수 260% 사상 최고치",
       "source": "newsis.com",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtR18tWkRET045YkgxUm15NjJZSzhHYmpTMXlWUzFWUHpVN0p2SE1nR28xNUpqSWYwTi1ZbUJ6V0tHTWVqM3NSdU5kWU40OFU0eEI2WmRqaTdTZkFrSkF5RNIBeEFVX3lxTE80U19XUU9RR3hEdE9ib1dfWi16cFpTT0kxNnNYcXlMSlBSQzlFVXpaS0dTTEs2YTczWGZ1dk9FTzZiOWxwNmlCX015elNwVWNiNjdGeFlDNEFsWW92YUp4aTgyV0lXVUVNNzhvQzBiSmNkcE5NUm03cA?oc=5",
       "publishedAt": "Sat, 09 May 2026 00:00:00 GMT"
+    },
+    {
+      "title": "한국증시 버핏지수 260% 사상 최고치…美·日·英보다 높아",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nU2VTZVZHUlVpRnZ6bzRCeEUzSjFWTjQxVUpGcmxBWV83dHdfc1JESkJUdFV5MUtjUVoxVjBNWklMdmF5eTBZSE4zcXRDVkE3VFMxQTRBUFJpdnhZY05yd0p2emhqOW5qLXlVTkRR0gFuQVVfeXFMTmdTZVNlVkdSVWlGdnpvNEJ4RTNKMVZONDFVSkZybEFZXzd0d19zUkRKQlR0VXkxS2NRWjFWME1aSUx2YXl5MFlITjNxdENWQTdUUzFBNEFQUml2eFljTnJ3SnZ6aGo5bmoteVVORFE?oc=5",
+      "publishedAt": "Sat, 09 May 2026 02:33:16 GMT"
     },
     {
       "title": "[NZSI INDEX] 2026년 5월 5일 미국 증시 상승 속 반도체 강세",
@@ -6592,10 +6628,10 @@
       "publishedAt": "Fri, 08 May 2026 23:27:44 GMT"
     },
     {
-      "title": "골드만삭스 “코스피 9000 간다…韓 증시 ‘아시아 최선호 시장’”",
-      "source": "이코노미스트",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04Wnk4a3BxbUIzNFo2MUI2RFRnYk00NjhRSzg2ekcwWkNpRmFKYkgtRmw1dHpVcHpFZFM3T3ZKYmpSdFh3clVxSHpOWXhGSHoyckRFYm53d3hUREZOSzI5bFhR?oc=5",
-      "publishedAt": "Sat, 09 May 2026 06:11:00 GMT"
+      "title": "[임병식 칼럼] 코스피 7000 시대, 환호와 경계 사이",
+      "source": "아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPamVpNVhKLTlwQ3lacFdqWldQUU5TZzQ4ak1iV24wQWlTckxCNTFBeF9rZDFxTjU0dlM3b21nUTcwSl9ZUmlhN3g5dGtfUjE2bE1sYmtyZVnSAVhBVV95cUxQT2plaTVYSi05cEN5WnBXalpXUFFOU2c0OGpNYlduMEFpU3JMQjUxQXhfa2QxcU41NHZTN29tZ1E3MEpfWVJpYTd4OXRrX1IxNmxNbGJrcmVZ?oc=5",
+      "publishedAt": "Fri, 08 May 2026 21:00:00 GMT"
     }
   ],
   "summary": {
@@ -6646,8 +6682,8 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.1894,
-        "direction": "상승"
+        "changePercent": 0.1355,
+        "direction": "보합"
       }
     ]
   },
