@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-10T04:10:13.156244+09:00",
-  "updatedLabel": "2026-05-10 04:10:13 KST",
+  "updatedAt": "2026-05-10T05:08:48.258116+09:00",
+  "updatedLabel": "2026-05-10 05:08:48 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4685,10 +4685,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 80868.4,
+      "price": 80857.95,
       "previousClose": 80184.33,
-      "change": 684.07,
-      "changePercent": 0.8531,
+      "change": 673.62,
+      "changePercent": 0.8401,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5613,13 +5613,61 @@
           80882.929688
         ],
         [
-          1778353810000,
-          80868.398438
+          1778353800000,
+          80884.1875
+        ],
+        [
+          1778354100000,
+          80887.039062
+        ],
+        [
+          1778354400000,
+          80871.296875
+        ],
+        [
+          1778354700000,
+          80819.992188
+        ],
+        [
+          1778355000000,
+          80800.828125
+        ],
+        [
+          1778355300000,
+          80799.390625
+        ],
+        [
+          1778355600000,
+          80833.289062
+        ],
+        [
+          1778355900000,
+          80848.8125
+        ],
+        [
+          1778356200000,
+          80923.84375
+        ],
+        [
+          1778356500000,
+          80933.4375
+        ],
+        [
+          1778356800000,
+          80882.59375
+        ],
+        [
+          1778357100000,
+          80869.5625
+        ],
+        [
+          1778357322000,
+          80857.953125
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-10 04:10 KST",
-      "marketTimestamp": 1778353810
+      "marketTime": "2026-05-10 05:08 KST",
+      "marketTimestamp": 1778357322
     }
   ],
   "mainCharts": [
@@ -6954,16 +7002,16 @@
       "publishedAt": "Sat, 09 May 2026 15:00:00 GMT"
     },
     {
+      "title": "[데이터로 본 세계] AI 랠리 속 다시 커진 한국 증시",
+      "source": "월드투데이",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yS2lGNkVlMUdaZGhtT3FXczFGdnMtZ2JiTV9xRlBiYnQ4VEhwSkhpV2NyWnBvdVlQZXJBNElLVXZQS0d1empHM1hJS0JHZFltS3hhbEdvQVRORVdlbV90OUtVT2RaaFgzWEpBMkdHQQ?oc=5",
+      "publishedAt": "Sat, 09 May 2026 18:08:55 GMT"
+    },
+    {
       "title": "뉴욕증시 S&P, 나스닥 또 사상 최고치…인텔 등 반도체주 상승",
       "source": "부산일보",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40TFdmTTkxaXd2UXpVVFVuV2FpMHBuN1ZBaFFTZi1GdjB3X0R2bWFRZ2JjcDRWd3J3MTV0ZmhkZEQyRG84bDgtUThyMFJqNTVUQkhoN2F3RHZyaHpibnZ0ejZYOE1ZdFF2SFVkOTYxN3EyUzJv?oc=5",
       "publishedAt": "Sat, 09 May 2026 00:38:57 GMT"
-    },
-    {
-      "title": "증시 폭등애도 \"한국 증시 아직 싸다\"…글로벌 IB '코스피 9000' 제시",
-      "source": "시사의창",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QNTFINTNPa3gyc29JaDkzY1RiWGI5T2g2eHVZRlB1bGNaWEpfa3FLaGp2enI4Nl9WRFBJZjVWOV9qeVpxODZoZGZXbFg1UGxYY3VnaQ?oc=5",
-      "publishedAt": "Sat, 09 May 2026 08:31:06 GMT"
     }
   ],
   "summary": {
@@ -6991,13 +7039,13 @@
         "direction": "상승"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": 0.8531,
+        "label": "S&P 500",
+        "changePercent": 0.8426,
         "direction": "상승"
       },
       {
-        "label": "S&P 500",
-        "changePercent": 0.8426,
+        "label": "Bitcoin",
+        "changePercent": 0.8401,
         "direction": "상승"
       }
     ],
