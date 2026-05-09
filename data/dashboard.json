@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-09T19:14:43.436356+09:00",
-  "updatedLabel": "2026-05-09 19:14:43 KST",
+  "updatedAt": "2026-05-09T20:26:14.056192+09:00",
+  "updatedLabel": "2026-05-09 20:26:14 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4685,12 +4685,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 80211.92,
+      "price": 80336.23,
       "previousClose": 80184.33,
-      "change": 27.59,
-      "changePercent": 0.0344,
-      "tone": "flat",
-      "direction": "보합",
+      "change": 151.9,
+      "changePercent": 0.1894,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1778284800000,
@@ -5182,16 +5182,76 @@
         ],
         [
           1778321400000,
-          80213.476562
+          80211.921875
         ],
         [
-          1778321678000,
-          80211.921875
+          1778321700000,
+          80187.796875
+        ],
+        [
+          1778322000000,
+          80218.703125
+        ],
+        [
+          1778322300000,
+          80193.257812
+        ],
+        [
+          1778322600000,
+          80253.453125
+        ],
+        [
+          1778322900000,
+          80323.65625
+        ],
+        [
+          1778323200000,
+          80318.851562
+        ],
+        [
+          1778323500000,
+          80251.46875
+        ],
+        [
+          1778323800000,
+          80270.273438
+        ],
+        [
+          1778324100000,
+          80259.320312
+        ],
+        [
+          1778324400000,
+          80285.078125
+        ],
+        [
+          1778324700000,
+          80279.710938
+        ],
+        [
+          1778325000000,
+          80315.84375
+        ],
+        [
+          1778325300000,
+          80331.070312
+        ],
+        [
+          1778325600000,
+          80331.15625
+        ],
+        [
+          1778325900000,
+          80336.226562
+        ],
+        [
+          1778325966000,
+          80336.226562
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-09 19:14 KST",
-      "marketTimestamp": 1778321678
+      "marketTime": "2026-05-09 20:26 KST",
+      "marketTimestamp": 1778325966
     }
   ],
   "mainCharts": [
@@ -6492,8 +6552,8 @@
     {
       "title": "한국증시 버핏지수 260% 사상 최고치…美·日·英보다 높아",
       "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nU2VTZVZHUlVpRnZ6bzRCeEUzSjFWTjQxVUpGcmxBWV83dHdfc1JESkJUdFV5MUtjUVoxVjBNWklMdmF5eTBZSE4zcXRDVkE3VFMxQTRBUFJpdnhZY05yd0p2emhqOW5qLXlVTkRR0gFuQVVfeXFMTmdTZVNlVkdSVWlGdnpvNEJ4RTNKMVZONDFVSkZybEFZXzd0d19zUkRKQlR0VXkxS2NRWjFWME1aSUx2YXl5MFlITjNxdENWQTdUUzFBNEFQUml2eFljTnJ3SnZ6aGo5bmoteVVORFE?oc=5",
-      "publishedAt": "Sat, 09 May 2026 02:33:16 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UaFhaRnJDQnZfcGVfTUkyTDlHeVBOb1QzaURQVTZEZ2dOX2tXcnNtTS1iUEtaTTc4RjlpUHQ2ZGFDSmM2Vy1WTm1oMGZVRmhQQnRUYTc4RjA3dGNYN3RyZ1FBVkFtdkpJbVHSAW5BVV95cUxOZ1NlU2VWR1JVaUZ2em80QnhFM0oxVk40MVVKRnJsQVlfN3R3X3NSREpCVHRVeTFLY1FaMVYwTVpJTHZheXkwWUhOM3F0Q1ZBN1RTMUE0QVBSaXZ4WWNOcndKdnpoajluai15VU5EUQ?oc=5",
+      "publishedAt": "Sat, 09 May 2026 02:30:00 GMT"
     },
     {
       "title": "한국증시, 미국보다 과열?…버핏지수 260% 사상 최고치",
@@ -6580,14 +6640,14 @@
         "direction": "보합"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": 0.0344,
-        "direction": "보합"
-      },
-      {
         "label": "KOSPI",
         "changePercent": 0.1061,
         "direction": "보합"
+      },
+      {
+        "label": "Bitcoin",
+        "changePercent": 0.1894,
+        "direction": "상승"
       }
     ]
   },
