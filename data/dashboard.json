@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-09T17:59:47.041560+09:00",
-  "updatedLabel": "2026-05-09 17:59:47 KST",
+  "updatedAt": "2026-05-09T19:14:43.436356+09:00",
+  "updatedLabel": "2026-05-09 19:14:43 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4685,12 +4685,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 80400.0,
+      "price": 80211.92,
       "previousClose": 80184.33,
-      "change": 215.67,
-      "changePercent": 0.269,
-      "tone": "up",
-      "direction": "상승",
+      "change": 27.59,
+      "changePercent": 0.0344,
+      "tone": "flat",
+      "direction": "보합",
       "series": [
         [
           1778284800000,
@@ -5122,16 +5122,76 @@
         ],
         [
           1778316900000,
-          80396.78125
+          80399.992188
         ],
         [
-          1778317154000,
-          80400.0
+          1778317200000,
+          80396.890625
+        ],
+        [
+          1778317500000,
+          80395.53125
+        ],
+        [
+          1778317800000,
+          80333.03125
+        ],
+        [
+          1778318100000,
+          80248.726562
+        ],
+        [
+          1778318400000,
+          80300.4375
+        ],
+        [
+          1778318700000,
+          80249.0
+        ],
+        [
+          1778319000000,
+          80229.710938
+        ],
+        [
+          1778319300000,
+          80242.59375
+        ],
+        [
+          1778319600000,
+          80231.867188
+        ],
+        [
+          1778319900000,
+          80216.5
+        ],
+        [
+          1778320200000,
+          80233.726562
+        ],
+        [
+          1778320500000,
+          80236.742188
+        ],
+        [
+          1778320800000,
+          80243.578125
+        ],
+        [
+          1778321100000,
+          80175.109375
+        ],
+        [
+          1778321400000,
+          80213.476562
+        ],
+        [
+          1778321678000,
+          80211.921875
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-09 17:59 KST",
-      "marketTimestamp": 1778317154
+      "marketTime": "2026-05-09 19:14 KST",
+      "marketTimestamp": 1778321678
     }
   ],
   "mainCharts": [
@@ -6430,12 +6490,6 @@
   ],
   "headlines": [
     {
-      "title": "반도체發 증시 랠리에 ‘ELS’ 떠들썩한데…은행권 “안팔아요”",
-      "source": "에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pZ0REb1JERENKemIyNUVzWFg1NTZka1h5em83MFpqaGlVV1dOb3JRN19sRzZUZHpvUWVhV0NDTmk0R3pqa25zVjdzcnR6Y1lyZDkzX2RBOXd2TTdYbVJjb25mVQ?oc=5",
-      "publishedAt": "Sat, 09 May 2026 08:06:00 GMT"
-    },
-    {
       "title": "한국증시 버핏지수 260% 사상 최고치…美·日·英보다 높아",
       "source": "조선일보",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nU2VTZVZHUlVpRnZ6bzRCeEUzSjFWTjQxVUpGcmxBWV83dHdfc1JESkJUdFV5MUtjUVoxVjBNWklMdmF5eTBZSE4zcXRDVkE3VFMxQTRBUFJpdnhZY05yd0p2emhqOW5qLXlVTkRR0gFuQVVfeXFMTmdTZVNlVkdSVWlGdnpvNEJ4RTNKMVZONDFVSkZybEFZXzd0d19zUkRKQlR0VXkxS2NRWjFWME1aSUx2YXl5MFlITjNxdENWQTdUUzFBNEFQUml2eFljTnJ3SnZ6aGo5bmoteVVORFE?oc=5",
@@ -6452,6 +6506,12 @@
       "source": "세종의소리",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UUWMwcVJhR3dNMlVkcFMtS0ZGTjQxNlI5c3JtSXJFU1NHRlNlbmlBblZVZC1VUGRqQlJZQ0RJRlV2UjVfeWdkM2JzMW9kdzdQMkxseU83SzdUeHgxU2hVTEdjajN3LXM?oc=5",
       "publishedAt": "Fri, 08 May 2026 23:20:41 GMT"
+    },
+    {
+      "title": "반도체發 증시 랠리에 ‘ELS’ 떠들썩한데…은행권 “안팔아요”",
+      "source": "에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZS1BLLXY3c3otRHpDVzUtdkkyOEFSR1R0bjRQQ2Q2Z05mcFQyLXF0aVdReEtPREJ4Z0hCY3pDdS1teVZGeWlRZzZHYXFvZjJCNERHenhsTk01NVk?oc=5",
+      "publishedAt": "Sat, 09 May 2026 08:06:00 GMT"
     },
     {
       "title": "뉴욕증시 S&P, 나스닥 또 사상 최고치…인텔 등 반도체주 상승",
@@ -6472,10 +6532,10 @@
       "publishedAt": "Fri, 08 May 2026 23:27:44 GMT"
     },
     {
-      "title": "[임병식 칼럼] 코스피 7000 시대, 환호와 경계 사이",
-      "source": "아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPamVpNVhKLTlwQ3lacFdqWldQUU5TZzQ4ak1iV24wQWlTckxCNTFBeF9rZDFxTjU0dlM3b21nUTcwSl9ZUmlhN3g5dGtfUjE2bE1sYmtyZVnSAVhBVV95cUxQT2plaTVYSi05cEN5WnBXalpXUFFOU2c0OGpNYlduMEFpU3JMQjUxQXhfa2QxcU41NHZTN29tZ1E3MEpfWVJpYTd4OXRrX1IxNmxNbGJrcmVZ?oc=5",
-      "publishedAt": "Fri, 08 May 2026 21:00:00 GMT"
+      "title": "골드만삭스 “코스피 9000 간다…韓 증시 ‘아시아 최선호 시장’”",
+      "source": "이코노미스트",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04Wnk4a3BxbUIzNFo2MUI2RFRnYk00NjhRSzg2ekcwWkNpRmFKYkgtRmw1dHpVcHpFZFM3T3ZKYmpSdFh3clVxSHpOWXhGSHoyckRFYm53d3hUREZOSzI5bFhR?oc=5",
+      "publishedAt": "Sat, 09 May 2026 06:11:00 GMT"
     }
   ],
   "summary": {
@@ -6520,14 +6580,14 @@
         "direction": "보합"
       },
       {
-        "label": "KOSPI",
-        "changePercent": 0.1061,
+        "label": "Bitcoin",
+        "changePercent": 0.0344,
         "direction": "보합"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": 0.269,
-        "direction": "상승"
+        "label": "KOSPI",
+        "changePercent": 0.1061,
+        "direction": "보합"
       }
     ]
   },
