@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-10T02:31:04.348724+09:00",
-  "updatedLabel": "2026-05-10 02:31:04 KST",
+  "updatedAt": "2026-05-10T04:10:13.156244+09:00",
+  "updatedLabel": "2026-05-10 04:10:13 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4685,10 +4685,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 80842.34,
+      "price": 80868.4,
       "previousClose": 80184.33,
-      "change": 658.01,
-      "changePercent": 0.8206,
+      "change": 684.07,
+      "changePercent": 0.8531,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5533,13 +5533,93 @@
           80816.789062
         ],
         [
-          1778347858000,
-          80842.34375
+          1778347800000,
+          80841.648438
+        ],
+        [
+          1778348100000,
+          80880.21875
+        ],
+        [
+          1778348400000,
+          80802.96875
+        ],
+        [
+          1778348700000,
+          80781.65625
+        ],
+        [
+          1778349000000,
+          80776.0625
+        ],
+        [
+          1778349300000,
+          80795.453125
+        ],
+        [
+          1778349600000,
+          80811.507812
+        ],
+        [
+          1778349900000,
+          80811.0
+        ],
+        [
+          1778350200000,
+          80829.242188
+        ],
+        [
+          1778350500000,
+          80811.6875
+        ],
+        [
+          1778350800000,
+          80845.570312
+        ],
+        [
+          1778351100000,
+          81021.53125
+        ],
+        [
+          1778351400000,
+          81015.4375
+        ],
+        [
+          1778351700000,
+          80944.921875
+        ],
+        [
+          1778352000000,
+          80891.65625
+        ],
+        [
+          1778352300000,
+          80891.546875
+        ],
+        [
+          1778352600000,
+          80894.890625
+        ],
+        [
+          1778352900000,
+          80898.40625
+        ],
+        [
+          1778353200000,
+          80869.710938
+        ],
+        [
+          1778353500000,
+          80882.929688
+        ],
+        [
+          1778353810000,
+          80868.398438
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-10 02:30 KST",
-      "marketTimestamp": 1778347858
+      "marketTime": "2026-05-10 04:10 KST",
+      "marketTimestamp": 1778353810
     }
   ],
   "mainCharts": [
@@ -6862,16 +6942,16 @@
       "publishedAt": "Fri, 08 May 2026 23:20:41 GMT"
     },
     {
-      "title": "[김대호 진단] 필라델피아 반도체 지수 SOX의 함정... 뉴욕증시 vs 코스피",
-      "source": "글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX1k4aTlNSE85ZjVGRFFpQWU5QV9xWWxYOURscTV0SzBQT3duQVJ6Z0hFdkpmN3pFdV9ZR3phUWFDeTJXOXZxOGxIZW5ZU1BVanQ3OEJuTjJTUVpxeUZEV1BLQmJnY193VnlobUYycWdhOG9fVTR6b3lLZTBRVzM3S1p6NU8?oc=5",
-      "publishedAt": "Sat, 09 May 2026 15:00:00 GMT"
-    },
-    {
       "title": "반도체發 증시 랠리에 ‘ELS’ 떠들썩한데…은행권 “안팔아요”",
       "source": "에너지경제신문",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZS1BLLXY3c3otRHpDVzUtdkkyOEFSR1R0bjRQQ2Q2Z05mcFQyLXF0aVdReEtPREJ4Z0hCY3pDdS1teVZGeWlRZzZHYXFvZjJCNERHenhsTk01NVk?oc=5",
       "publishedAt": "Sat, 09 May 2026 08:06:00 GMT"
+    },
+    {
+      "title": "[김대호 진단] 필라델피아 반도체 지수 SOX의 함정... 뉴욕증시 vs 코스피",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX1k4aTlNSE85ZjVGRFFpQWU5QV9xWWxYOURscTV0SzBQT3duQVJ6Z0hFdkpmN3pFdV9ZR3phUWFDeTJXOXZxOGxIZW5ZU1BVanQ3OEJuTjJTUVpxeUZEV1BLQmJnY193VnlobUYycWdhOG9fVTR6b3lLZTBRVzM3S1p6NU8?oc=5",
+      "publishedAt": "Sat, 09 May 2026 15:00:00 GMT"
     },
     {
       "title": "뉴욕증시 S&P, 나스닥 또 사상 최고치…인텔 등 반도체주 상승",
@@ -6911,13 +6991,13 @@
         "direction": "상승"
       },
       {
-        "label": "S&P 500",
-        "changePercent": 0.8426,
+        "label": "Bitcoin",
+        "changePercent": 0.8531,
         "direction": "상승"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": 0.8206,
+        "label": "S&P 500",
+        "changePercent": 0.8426,
         "direction": "상승"
       }
     ],
