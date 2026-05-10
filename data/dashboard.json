@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-10T23:00:16.020345+09:00",
-  "updatedLabel": "2026-05-10 23:00:16 KST",
+  "updatedAt": "2026-05-11T00:31:25.156943+09:00",
+  "updatedLabel": "2026-05-11 00:31:25 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2666,8 +2666,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-09 06:08 KST",
-      "marketTimestamp": 1778274503
+      "marketTime": "2026-05-10 23:17 KST",
+      "marketTimestamp": 1778422653
     },
     {
       "id": "us10y",
@@ -3051,10 +3051,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 80954.01,
+      "price": 80959.93,
       "previousClose": 80655.64,
-      "change": 298.37,
-      "changePercent": 0.3699,
+      "change": 304.29,
+      "changePercent": 0.3773,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3731,13 +3731,89 @@
           80962.34375
         ],
         [
-          1778421611000,
-          80954.007812
+          1778421600000,
+          80932.9375
+        ],
+        [
+          1778421900000,
+          80925.5
+        ],
+        [
+          1778422200000,
+          80910.023438
+        ],
+        [
+          1778422500000,
+          80912.0
+        ],
+        [
+          1778422800000,
+          80920.1875
+        ],
+        [
+          1778423100000,
+          80902.789062
+        ],
+        [
+          1778423400000,
+          80945.796875
+        ],
+        [
+          1778423700000,
+          80941.640625
+        ],
+        [
+          1778424000000,
+          80887.59375
+        ],
+        [
+          1778424300000,
+          80820.476562
+        ],
+        [
+          1778424600000,
+          80974.976562
+        ],
+        [
+          1778424900000,
+          80960.898438
+        ],
+        [
+          1778425200000,
+          81033.203125
+        ],
+        [
+          1778425500000,
+          80941.5
+        ],
+        [
+          1778425800000,
+          81038.609375
+        ],
+        [
+          1778426100000,
+          80991.9375
+        ],
+        [
+          1778426400000,
+          80957.609375
+        ],
+        [
+          1778426700000,
+          80944.0
+        ],
+        [
+          1778427000000,
+          80972.382812
+        ],
+        [
+          1778427079000,
+          80959.929688
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-10 23:00 KST",
-      "marketTimestamp": 1778421611
+      "marketTime": "2026-05-11 00:31 KST",
+      "marketTimestamp": 1778427079
     }
   ],
   "mainCharts": [
@@ -5072,16 +5148,16 @@
       "publishedAt": "Sat, 09 May 2026 22:00:07 GMT"
     },
     {
+      "title": "[경제] 전쟁, 한국의 금리 인상, 미국 관세 위법, 빅테크 인력 감축, 산업 흐름",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTHBtSTFlTF9GeWNRQWVzYUFnWGpidEN6WVotakFWcEgybkEwWTNwMDR3ZWNwZ0FuYXBlVjdGR0dSa3E4Vjl3WlhYajhlU0ZDSmZzRXhGRGVDekJ1TEh2cld0czhTUGsxdGZhSWZZM0hWYlRhaDFGWU80Tndaa2Z5RzZR?oc=5",
+      "publishedAt": "Sun, 10 May 2026 08:55:00 GMT"
+    },
+    {
       "title": "코스피 7500 눈앞…인천 증시는 냉기류",
       "source": "인천일보",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4V3JuZWY0eGQtLVpmYW5rcGloS2t5N2R0UlhmTlB2aThFb3JwMzFUTlZOUzhUTVlkVmkxVEVlV21ZTmlhbGJBQ3BvQ3g1bGxZMl9PcWFwNlFOdkxFNkx0UDh0UlhKRnJXcFQyRU0tN0Y?oc=5",
       "publishedAt": "Sun, 10 May 2026 07:25:00 GMT"
-    },
-    {
-      "title": "‘K-주식 직구’ 시대 본격화…30년 빗장 푼 한국 증시 ‘인프라 대전환’",
-      "source": "쿠키뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXVEdxcE1Tak9PWHRRRmZCUDJFNFlfOFR0U1UxY1Atb19yTmF5RXVlb2NQb2VYams2bmtpS3kxYzNZQVB3T0N1XzV2VlI4dHFxbEZnbTd3anhQLWx1cWNTRzAtdw?oc=5",
-      "publishedAt": "Sat, 09 May 2026 21:12:57 GMT"
     }
   ],
   "summary": {
@@ -5132,7 +5208,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.3699,
+        "changePercent": 0.3773,
         "direction": "상승"
       }
     ]
