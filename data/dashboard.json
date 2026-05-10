@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-11T02:00:33.118476+09:00",
-  "updatedLabel": "2026-05-11 02:00:33 KST",
+  "updatedAt": "2026-05-11T03:31:38.757423+09:00",
+  "updatedLabel": "2026-05-11 03:31:38 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -972,8 +972,8 @@
       "kind": "equity",
       "decimals": 2,
       "price": 26247.076,
-      "previousClose": 25806.195,
-      "change": 440.881,
+      "previousClose": 25806.2,
+      "change": 440.876,
       "changePercent": 1.7084,
       "tone": "up",
       "direction": "상승",
@@ -1307,9 +1307,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 49609.16,
-      "previousClose": 49596.97,
-      "change": 12.19,
-      "changePercent": 0.0246,
+      "previousClose": 49597.0,
+      "change": 12.16,
+      "changePercent": 0.0245,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1461.48,
+      "price": 1461.47,
       "previousClose": 1454.82,
-      "change": 6.66,
-      "changePercent": 0.4578,
+      "change": 6.65,
+      "changePercent": 0.4571,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -2666,8 +2666,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-10 23:17 KST",
-      "marketTimestamp": 1778422653
+      "marketTime": "2026-05-11 03:30 KST",
+      "marketTimestamp": 1778437840
     },
     {
       "id": "us10y",
@@ -3051,10 +3051,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 81364.98,
+      "price": 81405.44,
       "previousClose": 80655.64,
-      "change": 709.34,
-      "changePercent": 0.8795,
+      "change": 749.8,
+      "changePercent": 0.9296,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3875,13 +3875,89 @@
           81357.273438
         ],
         [
-          1778432430000,
-          81364.976562
+          1778432400000,
+          81384.320312
+        ],
+        [
+          1778432700000,
+          81233.890625
+        ],
+        [
+          1778433000000,
+          81330.640625
+        ],
+        [
+          1778433300000,
+          81340.46875
+        ],
+        [
+          1778433600000,
+          81386.96875
+        ],
+        [
+          1778433900000,
+          81370.453125
+        ],
+        [
+          1778434200000,
+          81318.789062
+        ],
+        [
+          1778434500000,
+          81279.039062
+        ],
+        [
+          1778434800000,
+          81375.382812
+        ],
+        [
+          1778435100000,
+          81359.867188
+        ],
+        [
+          1778435400000,
+          81480.0
+        ],
+        [
+          1778435700000,
+          81471.421875
+        ],
+        [
+          1778436000000,
+          81462.640625
+        ],
+        [
+          1778436300000,
+          81403.28125
+        ],
+        [
+          1778436600000,
+          81438.546875
+        ],
+        [
+          1778436900000,
+          81335.921875
+        ],
+        [
+          1778437200000,
+          81387.359375
+        ],
+        [
+          1778437500000,
+          81351.25
+        ],
+        [
+          1778437800000,
+          81341.242188
+        ],
+        [
+          1778437891000,
+          81405.4375
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-11 02:00 KST",
-      "marketTimestamp": 1778432430
+      "marketTime": "2026-05-11 03:31 KST",
+      "marketTimestamp": 1778437891
     }
   ],
   "mainCharts": [
@@ -4850,8 +4926,8 @@
       "kind": "equity",
       "decimals": 2,
       "price": 26247.076,
-      "previousClose": 25806.195,
-      "change": 440.881,
+      "previousClose": 25806.2,
+      "change": 440.876,
       "changePercent": 1.7084,
       "tone": "up",
       "direction": "상승",
@@ -5243,7 +5319,7 @@
       "KOSPI +0.11% 보합",
       "KOSDAQ +0.71% 상승",
       "미국 증시 상승 / 나스닥 +1.71%",
-      "원달러 +0.46% (+6.66)",
+      "원달러 +0.46% (+6.65)",
       "미 10년물 -0.028p (-0.64%)"
     ],
     "leaders": [
@@ -5254,7 +5330,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.8795,
+        "changePercent": 0.9296,
         "direction": "상승"
       },
       {
@@ -5266,7 +5342,7 @@
     "laggards": [
       {
         "label": "DOW",
-        "changePercent": 0.0246,
+        "changePercent": 0.0245,
         "direction": "보합"
       },
       {
