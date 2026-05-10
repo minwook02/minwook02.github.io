@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-10T20:02:17.268135+09:00",
-  "updatedLabel": "2026-05-10 20:02:17 KST",
+  "updatedAt": "2026-05-10T21:09:05.560849+09:00",
+  "updatedLabel": "2026-05-10 21:09:05 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3051,10 +3051,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 80922.05,
+      "price": 80805.99,
       "previousClose": 80655.64,
-      "change": 266.41,
-      "changePercent": 0.3303,
+      "change": 150.35,
+      "changePercent": 0.1864,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3588,16 +3588,68 @@
         ],
         [
           1778410800000,
-          80890.828125
+          80919.140625
         ],
         [
-          1778410928000,
-          80922.046875
+          1778411100000,
+          80865.023438
+        ],
+        [
+          1778411400000,
+          80893.398438
+        ],
+        [
+          1778411700000,
+          80843.78125
+        ],
+        [
+          1778412000000,
+          80782.179688
+        ],
+        [
+          1778412300000,
+          80766.789062
+        ],
+        [
+          1778412600000,
+          80800.75
+        ],
+        [
+          1778412900000,
+          80797.90625
+        ],
+        [
+          1778413200000,
+          80813.492188
+        ],
+        [
+          1778413500000,
+          80827.273438
+        ],
+        [
+          1778413800000,
+          80809.429688
+        ],
+        [
+          1778414100000,
+          80790.007812
+        ],
+        [
+          1778414400000,
+          80787.210938
+        ],
+        [
+          1778414700000,
+          80805.976562
+        ],
+        [
+          1778414943000,
+          80805.992188
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-10 20:02 KST",
-      "marketTimestamp": 1778410928
+      "marketTime": "2026-05-10 21:09 KST",
+      "marketTimestamp": 1778414943
     }
   ],
   "mainCharts": [
@@ -4896,6 +4948,12 @@
   ],
   "headlines": [
     {
+      "title": "[아 그렇군!] 5월중순 한국 증시는 어떻게 될까?",
+      "source": "이슈데일리",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IRHBucmJfUlJ3TkdNdzRLcTV4U2JWUkV0OEp0ejJnaVdHZUtHWDRjMlJfeDFXQlcweDlaX1lnWlJxUzNnTGU4cTg2ajQ3cUNfOXpaNDVudk50a2c?oc=5",
+      "publishedAt": "Sun, 10 May 2026 09:29:00 GMT"
+    },
+    {
       "title": "[사설] 상승 랠리 코스피, 건전한 투자문화 정착이 과제다",
       "source": "국제신문",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbUdNbnZHWW80RWlQU2dsdTJhZ1FDaWZwOFJjUUNKc3h3ekZYdUFEOWZaOXcxUWtxVUFvQlJMVFdLT2tmd2JzWEJBUklLQW9OTnJKdTdnbkhobDYwVnNOdlZXWXM5YTNUVmdRNzl5dUpaU3VneDdnT2VCYm5PWklvN3BNelQzQ3I5UlpiSVRR?oc=5",
@@ -4918,12 +4976,6 @@
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQanQyR2dqTTJnelA5Ri1EVjVTa0d4WlNEamlXNXpSeWRVdTZLbWlDUUlwRnYzTWZJYTVDY3RJRVJ0STlDVmVJb21nODhyNnhuQ01JT2hsdnRqSDNHa0J6QtIBYEFVX3lxTFBQanQyR2dqTTJnelA5Ri1EVjVTa0d4WlNEamlXNXpSeWRVdTZLbWlDUUlwRnYzTWZJYTVDY3RJRVJ0STlDVmVJb21nODhyNnhuQ01JT2hsdnRqSDNHa0J6Qg?oc=5",
       "publishedAt": "Sat, 09 May 2026 22:00:07 GMT"
-    },
-    {
-      "title": "[이슈분석] 반도체 온기, 어디로 번지나… 2026 하반기 증시 ‘순환매’ 지도",
-      "source": "이슈데일리",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YSUlnNXRBT2FlLW1pODY3NnFuZ1djZjRyQjhwWmlETF9Qdm5SWGFCOU1HaWszTl9TYlZid0R4bDZDd1JzaDRKdjlpVDBubF9CbUxxWUdLcFQ5eTg?oc=5",
-      "publishedAt": "Sun, 10 May 2026 09:10:00 GMT"
     },
     {
       "title": "코스피 7500 눈앞…인천 증시는 냉기류",
@@ -4992,7 +5044,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.3303,
+        "changePercent": 0.1864,
         "direction": "상승"
       }
     ]
