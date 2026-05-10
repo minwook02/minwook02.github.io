@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-11T06:00:11.134502+09:00",
-  "updatedLabel": "2026-05-11 06:00:11 KST",
+  "updatedAt": "2026-05-11T06:58:52.080543+09:00",
+  "updatedLabel": "2026-05-11 06:58:52 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1461.35,
+      "price": 1461.43,
       "previousClose": 1454.82,
-      "change": 6.53,
-      "changePercent": 0.4489,
+      "change": 6.61,
+      "changePercent": 0.4544,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -2666,8 +2666,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-11 05:25 KST",
-      "marketTimestamp": 1778444728
+      "marketTime": "2026-05-11 06:33 KST",
+      "marketTimestamp": 1778448836
     },
     {
       "id": "us10y",
@@ -3051,10 +3051,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 80722.18,
+      "price": 80724.15,
       "previousClose": 80655.64,
-      "change": 66.54,
-      "changePercent": 0.0825,
+      "change": 68.51,
+      "changePercent": 0.0849,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -4067,13 +4067,61 @@
           80724.0
         ],
         [
-          1778446807000,
-          80722.179688
+          1778446800000,
+          80785.78125
+        ],
+        [
+          1778447100000,
+          80831.3125
+        ],
+        [
+          1778447400000,
+          80643.789062
+        ],
+        [
+          1778447700000,
+          80863.609375
+        ],
+        [
+          1778448000000,
+          80743.007812
+        ],
+        [
+          1778448300000,
+          80829.601562
+        ],
+        [
+          1778448600000,
+          80851.453125
+        ],
+        [
+          1778448900000,
+          80761.953125
+        ],
+        [
+          1778449200000,
+          80827.679688
+        ],
+        [
+          1778449500000,
+          80858.453125
+        ],
+        [
+          1778449800000,
+          80749.117188
+        ],
+        [
+          1778450100000,
+          80737.71875
+        ],
+        [
+          1778450329000,
+          80724.148438
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-11 06:00 KST",
-      "marketTimestamp": 1778446807
+      "marketTime": "2026-05-11 06:58 KST",
+      "marketTimestamp": 1778450329
     }
   ],
   "mainCharts": [
@@ -5384,6 +5432,12 @@
       "publishedAt": "Sun, 10 May 2026 09:29:00 GMT"
     },
     {
+      "title": "8천피 넘보는 韓증시…중복상장 규제 꺼낸 당국, 체질 개선 속도",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vVDNIdkxnUnJQZ1JZMGFSYVhFLV9xRlZXVk1waFFjUXFJbWFOU0xQYXFFNzdMbTlmU3ozbi0tczJ2SVJmUWJlVW5FdUNJZzZlUWc?oc=5",
+      "publishedAt": "Sun, 10 May 2026 20:53:01 GMT"
+    },
+    {
       "title": "★5월 둘째 주 증시 일정(5/11~5/15) 전체 공개",
       "source": "네이버 프리미엄콘텐츠",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYThUNG45MnduQnlwNkNxT0RSd2dqdEJKN0hyMkNFaGVQNlBZZVhCc1hBOExpWFpPaGs3UklSMG5tM2tTcnp4SlZEOXlOMkt5V1ZWZ2tlaXA1XzF4VFA3Y2I0VGx4eENCNnNCTF83RW1lMDUwTGJzT1VnTUxZWEE2a1Nn?oc=5",
@@ -5396,22 +5450,16 @@
       "publishedAt": "Sun, 10 May 2026 09:32:00 GMT"
     },
     {
-      "title": "반도체 실적이 견인하는 '코스피 9000선'...K-증시 리레이팅 서막 올랐다",
-      "source": "글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU1VJUjgtcFJjS2Q4RWU5elhOVHZsaU9ISi0xdTVRbnJjZjZna3I3ZlAxd2xnY2NWbC1kUGtDUHo3YVM0SC1Iei1fYXluSGpXOHA4Mm5PS3FvU1BRYk9hUFVYOUhRWEFMamZ5V3JDSG9BMUpjZ09LbWxOajZlVVRYd3MxaWt6OXpn?oc=5",
-      "publishedAt": "Sun, 10 May 2026 09:30:00 GMT"
+      "title": "뉴욕·상하이 증시…트럼프 방중 앞두고, 美 4월 물가 발표",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPLU5HQXRWNmw5QlBDZmV5aGJKMW9aYkE4R0NtSWZWYXdoT0hmREItQ1FVVUgtX3RJZGJyd2ZnMndEcVNaXzRkanJiZ0NOZVBWZGRJcGRoWC1DZ9IBVEFVX3lxTE1OaEVKMnFNalU2QlBucXpCbnI3bmtZSUV6ZU0wZS1OMGMzbXZBTXp1U3R3Q2hCUkdiNFBiOUJaSElNZ1A4eU9KUjhidy1YdmFQUmdtYQ?oc=5",
+      "publishedAt": "Sun, 10 May 2026 09:18:59 GMT"
     },
     {
       "title": "“韓증시, 이제 세계가 다시 본다”…블룸버그가 본 韓증시의 놀라운 변화 [투자360]",
       "source": "헤럴드경제",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KSHVoaU55cWZYUC1SQ2N1NzBhWmtNVEZ1dXJNSkFGMEJMbFRpYnlCNFYzaEtJWFZLNnc4NWNIQXZTWlVOLXdkTTJQS19aT3hyREN0RHRn?oc=5",
       "publishedAt": "Sun, 10 May 2026 12:40:00 GMT"
-    },
-    {
-      "title": "뉴욕·상하이 증시…트럼프 방중 앞두고, 美 4월 물가 발표",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPLU5HQXRWNmw5QlBDZmV5aGJKMW9aYkE4R0NtSWZWYXdoT0hmREItQ1FVVUgtX3RJZGJyd2ZnMndEcVNaXzRkanJiZ0NOZVBWZGRJcGRoWC1DZ9IBVEFVX3lxTE1OaEVKMnFNalU2QlBucXpCbnI3bmtZSUV6ZU0wZS1OMGMzbXZBTXp1U3R3Q2hCUkdiNFBiOUJaSElNZ1A4eU9KUjhidy1YdmFQUmdtYQ?oc=5",
-      "publishedAt": "Sun, 10 May 2026 09:18:59 GMT"
     },
     {
       "title": "[속보]나스닥 2만6247 돌파…미국 증시 다시 강세, 다우는 4만9600선 유지",
@@ -5435,7 +5483,7 @@
       "KOSPI +0.11% 보합",
       "KOSDAQ +0.71% 상승",
       "미국 증시 상승 / 나스닥 +1.71%",
-      "원달러 +0.45% (+6.53)",
+      "원달러 +0.45% (+6.61)",
       "미 10년물 -0.028p (-0.64%)"
     ],
     "leaders": [
