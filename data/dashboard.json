@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-10T16:39:11.895408+09:00",
-  "updatedLabel": "2026-05-10 16:39:11 KST",
+  "updatedAt": "2026-05-10T18:41:14.227787+09:00",
+  "updatedLabel": "2026-05-10 18:41:14 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3051,10 +3051,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 80763.71,
+      "price": 80758.31,
       "previousClose": 80655.64,
-      "change": 108.07,
-      "changePercent": 0.134,
+      "change": 102.67,
+      "changePercent": 0.1273,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -3424,16 +3424,116 @@
         ],
         [
           1778398500000,
-          80763.710938
+          80765.203125
         ],
         [
-          1778398744000,
-          80763.710938
+          1778398800000,
+          80778.429688
+        ],
+        [
+          1778399100000,
+          80775.007812
+        ],
+        [
+          1778399400000,
+          80734.898438
+        ],
+        [
+          1778399700000,
+          80725.851562
+        ],
+        [
+          1778400000000,
+          80704.8125
+        ],
+        [
+          1778400300000,
+          80782.367188
+        ],
+        [
+          1778400600000,
+          80750.617188
+        ],
+        [
+          1778400900000,
+          80761.320312
+        ],
+        [
+          1778401200000,
+          80810.601562
+        ],
+        [
+          1778401500000,
+          80854.539062
+        ],
+        [
+          1778401800000,
+          80833.242188
+        ],
+        [
+          1778402100000,
+          80832.640625
+        ],
+        [
+          1778402400000,
+          80812.257812
+        ],
+        [
+          1778402700000,
+          80836.507812
+        ],
+        [
+          1778403000000,
+          80818.5
+        ],
+        [
+          1778403300000,
+          80818.992188
+        ],
+        [
+          1778403600000,
+          80887.742188
+        ],
+        [
+          1778403900000,
+          80840.703125
+        ],
+        [
+          1778404200000,
+          80825.5625
+        ],
+        [
+          1778404500000,
+          80817.65625
+        ],
+        [
+          1778404800000,
+          80808.210938
+        ],
+        [
+          1778405100000,
+          80802.289062
+        ],
+        [
+          1778405400000,
+          80784.0
+        ],
+        [
+          1778405700000,
+          80758.953125
+        ],
+        [
+          1778406000000,
+          80766.617188
+        ],
+        [
+          1778406069000,
+          80758.3125
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-10 16:39 KST",
-      "marketTimestamp": 1778398744
+      "marketTime": "2026-05-10 18:41 KST",
+      "marketTimestamp": 1778406069
     }
   ],
   "mainCharts": [
@@ -4732,10 +4832,34 @@
   ],
   "headlines": [
     {
+      "title": "[사설] 상승 랠리 코스피, 건전한 투자문화 정착이 과제다",
+      "source": "국제신문",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbUdNbnZHWW80RWlQU2dsdTJhZ1FDaWZwOFJjUUNKc3h3ekZYdUFEOWZaOXcxUWtxVUFvQlJMVFdLT2tmd2JzWEJBUklLQW9OTnJKdTdnbkhobDYwVnNOdlZXWXM5YTNUVmdRNzl5dUpaU3VneDdnT2VCYm5PWklvN3BNelQzQ3I5UlpiSVRR?oc=5",
+      "publishedAt": "Sun, 10 May 2026 09:32:00 GMT"
+    },
+    {
+      "title": "반도체 실적이 견인하는 '코스피 9000선'...K-증시 리레이팅 서막 올랐다",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU1VJUjgtcFJjS2Q4RWU5elhOVHZsaU9ISi0xdTVRbnJjZjZna3I3ZlAxd2xnY2NWbC1kUGtDUHo3YVM0SC1Iei1fYXluSGpXOHA4Mm5PS3FvU1BRYk9hUFVYOUhRWEFMamZ5V3JDSG9BMUpjZ09LbWxOajZlVVRYd3MxaWt6OXpn?oc=5",
+      "publishedAt": "Sun, 10 May 2026 09:30:00 GMT"
+    },
+    {
+      "title": "뉴욕·상하이 증시…트럼프 방중 앞두고, 美 4월 물가 발표",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPLU5HQXRWNmw5QlBDZmV5aGJKMW9aYkE4R0NtSWZWYXdoT0hmREItQ1FVVUgtX3RJZGJyd2ZnMndEcVNaXzRkanJiZ0NOZVBWZGRJcGRoWC1DZ9IBVEFVX3lxTE1OaEVKMnFNalU2QlBucXpCbnI3bmtZSUV6ZU0wZS1OMGMzbXZBTXp1U3R3Q2hCUkdiNFBiOUJaSElNZ1A4eU9KUjhidy1YdmFQUmdtYQ?oc=5",
+      "publishedAt": "Sun, 10 May 2026 09:18:59 GMT"
+    },
+    {
       "title": "[마켓인사이트] '7천피' 달성 韓증시, 한주만 '8천피' 도전 나서나",
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQanQyR2dqTTJnelA5Ri1EVjVTa0d4WlNEamlXNXpSeWRVdTZLbWlDUUlwRnYzTWZJYTVDY3RJRVJ0STlDVmVJb21nODhyNnhuQ01JT2hsdnRqSDNHa0J6QtIBYEFVX3lxTFBQanQyR2dqTTJnelA5Ri1EVjVTa0d4WlNEamlXNXpSeWRVdTZLbWlDUUlwRnYzTWZJYTVDY3RJRVJ0STlDVmVJb21nODhyNnhuQ01JT2hsdnRqSDNHa0J6Qg?oc=5",
       "publishedAt": "Sat, 09 May 2026 22:00:07 GMT"
+    },
+    {
+      "title": "코스피 7500 눈앞…인천 증시는 냉기류",
+      "source": "인천일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4V3JuZWY0eGQtLVpmYW5rcGloS2t5N2R0UlhmTlB2aThFb3JwMzFUTlZOUzhUTVlkVmkxVEVlV21ZTmlhbGJBQ3BvQ3g1bGxZMl9PcWFwNlFOdkxFNkx0UDh0UlhKRnJXcFQyRU0tN0Y?oc=5",
+      "publishedAt": "Sun, 10 May 2026 07:25:00 GMT"
     },
     {
       "title": "“반도체 아직도 고점 안 갔다”…전문가 5인의 국내 증시 전망",
@@ -4744,40 +4868,16 @@
       "publishedAt": "Sun, 10 May 2026 06:42:12 GMT"
     },
     {
-      "title": "[주간증시전망] 코스피, 최고가 랠리 이어질까… 美 CPI·실적 발표 변수 - 조선비즈",
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUpqZzhoUW1fWlNTOHpPV3F0NXpsM3dWLUo3OWRGY1c4RkdMdkNnQkNsUVJ3al8yTnBEWVdsMUtnaXhPZDV5cTBIVUw4bFR2QjhvQXZCX0VEaC12WmRXYXA5T3pET3FFQ2FLS2lpWkZ5ZjhFcGc4RmVvZzdUb0tnQks4dmpoQzVr0gGcAUFVX3lxTE9UVTJRbFc1WFFnVHlWeXZsX3R4NXY5akJSVklnYUVycTlSMEFmSnN1bnZubmdTTUs2UTJBSklVZ3BfQU10QzlsRnNod2tEZHBRQTlYTmduUkloU05LVkUtV3JLMzZzc1NUcWlNOHZiZkdzMmVpWk14MGtTR2RnandzUU5VUTl4SFhha0xFWExMY1ROZzRDMU1ETW9aRA?oc=5",
-      "publishedAt": "Sat, 09 May 2026 21:00:00 GMT"
-    },
-    {
-      "title": "[증시전망] 코스피 무한질주 이어질까...미중 회담·반도체 쏠림 변수",
-      "source": "디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RZTl3a1lreTB2bkMwbGFoYWhPZ1FDeng1V0VoS2FxUE1YcjM2QTVfd1VuRDhnRWhzbVdNNHpVS29qSUpkbG41U3Y1cXBxMGRDZHJkSmtPQ2JxRkFWZko3SkR5MXdDWDN3MlpLLVN3SWs1Qlk?oc=5",
-      "publishedAt": "Sat, 09 May 2026 23:12:00 GMT"
-    },
-    {
-      "title": "코스피, 7000시대 넘어 세계 7위로…AI 반도체가 바꾼 韓 증시 지도",
-      "source": "서울일보",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pY3BpT2Z5NDlFV25DY1NlRzdxWmt6YTFjVDU1bF9EWXBOd1ZTdFRkSlJqT0I3dVYwMWJYWmFfTHhWbXpLT2NFRDJweTk1Z2doMVVPTGlHVEtGR2h1V3A5WC1LZXFiRU9CNDFz0gFvQVVfeXFMT3J3WXB5UFN2Q2U0cnl5V3RHQ0tCd2xWY2sxeGFpT3BhcWZyZmtZajdJaE5FaG1hYVppdExOQzFyajJiRmRnQ25qN0N4cjA4WkNkUF9XMzdlemdOM2xsX3lReTZfdkRieGRTbHVxNE9Z?oc=5",
-      "publishedAt": "Sun, 10 May 2026 00:34:34 GMT"
-    },
-    {
       "title": "韓 물가·금리 부담에 시험대 선 코스피 7500…반도체 랠리, 순환매로 번질까[주간증시]",
       "source": "에너지경제신문",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nM01xM1plOVpKbDhBSVZuMHkweUdkMHJvS3Bwa2pvTUpUYTBRaElQTFBmVWpFcUFBQmFjYXlYOUJpWElfRXRwR3FWMlU5Sk1zSVpuY0dGUGdVWnM?oc=5",
       "publishedAt": "Sat, 09 May 2026 23:22:33 GMT"
     },
     {
-      "title": "아시아, 글로벌 증시 강세론자들의 다음 성장 동력으로 부상",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DMHB5WjMweDBzNWFtT0U2S3R2ZnE4TTh5dUZMVy01VmtfMGo3b0lvZm5yaEpRNFdKOUlaWjEyc21xdUVGV2tUaEhjU0JTbnhRSGtUbE5OaG1yTDVXVTYwZmowQmJpcUg3aVdvYXdKYVU?oc=5",
-      "publishedAt": "Sun, 10 May 2026 00:53:00 GMT"
-    },
-    {
-      "title": "“위험자산 다시 달린다?”…미국·한국 증시 상승커브 의미는? 나스닥 코스닥 상승세",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SVFVEY01MMGU3YXRNTUE2NHFXRVIwcW5NTjloRVA3YzZ1RVNQY2E0ZmRqQ1IzYVpOazdaWE0tTDhBdDFWc2FUMlpMZF9JY25ybDhmWGZmU0g5QXpwZGdCTmVKREhQWjR0?oc=5",
-      "publishedAt": "Sat, 09 May 2026 15:30:00 GMT"
+      "title": "[주간증시전망] 코스피, 최고가 랠리 이어질까… 美 CPI·실적 발표 변수 - 조선비즈",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUpqZzhoUW1fWlNTOHpPV3F0NXpsM3dWLUo3OWRGY1c4RkdMdkNnQkNsUVJ3al8yTnBEWVdsMUtnaXhPZDV5cTBIVUw4bFR2QjhvQXZCX0VEaC12WmRXYXA5T3pET3FFQ2FLS2lpWkZ5ZjhFcGc4RmVvZzdUb0tnQks4dmpoQzVr0gGcAUFVX3lxTE9UVTJRbFc1WFFnVHlWeXZsX3R4NXY5akJSVklnYUVycTlSMEFmSnN1bnZubmdTTUs2UTJBSklVZ3BfQU10QzlsRnNod2tEZHBRQTlYTmduUkloU05LVkUtV3JLMzZzc1NUcWlNOHZiZkdzMmVpWk14MGtTR2RnandzUU5VUTl4SFhha0xFWExMY1ROZzRDMU1ETW9aRA?oc=5",
+      "publishedAt": "Sat, 09 May 2026 21:00:00 GMT"
     }
   ],
   "summary": {
@@ -4828,7 +4928,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.134,
+        "changePercent": 0.1273,
         "direction": "보합"
       }
     ]
