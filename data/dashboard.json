@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-16T07:30:45.255541+09:00",
-  "updatedLabel": "2026-05-16 07:30:45 KST",
+  "updatedAt": "2026-05-16T08:57:18.381142+09:00",
+  "updatedLabel": "2026-05-16 08:57:18 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2651,10 +2651,6 @@
         [
           1778878500000,
           1497.76001
-        ],
-        [
-          1778878795000,
-          1497.76001
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4685,10 +4681,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 79064.31,
+      "price": 79066.8,
       "previousClose": 81069.54,
-      "change": -2005.23,
-      "changePercent": -2.4735,
+      "change": -2002.74,
+      "changePercent": -2.4704,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5773,13 +5769,85 @@
           79038.859375
         ],
         [
-          1778884240000,
-          79064.3125
+          1778884200000,
+          79037.09375
+        ],
+        [
+          1778884500000,
+          79073.1875
+        ],
+        [
+          1778884800000,
+          79077.367188
+        ],
+        [
+          1778885100000,
+          79055.078125
+        ],
+        [
+          1778885400000,
+          79038.546875
+        ],
+        [
+          1778885700000,
+          79060.140625
+        ],
+        [
+          1778886000000,
+          79034.609375
+        ],
+        [
+          1778886300000,
+          79037.96875
+        ],
+        [
+          1778886600000,
+          79059.96875
+        ],
+        [
+          1778886900000,
+          79049.96875
+        ],
+        [
+          1778887200000,
+          79055.976562
+        ],
+        [
+          1778887500000,
+          79074.828125
+        ],
+        [
+          1778887800000,
+          79085.007812
+        ],
+        [
+          1778888100000,
+          79053.648438
+        ],
+        [
+          1778888400000,
+          79080.023438
+        ],
+        [
+          1778888700000,
+          79067.5625
+        ],
+        [
+          1778889000000,
+          79049.726562
+        ],
+        [
+          1778889300000,
+          79066.796875
+        ],
+        [
+          1778889433000,
+          79066.796875
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-16 07:30 KST",
-      "marketTimestamp": 1778884240
+      "marketTime": "2026-05-16 08:57 KST",
+      "marketTimestamp": 1778889433
     }
   ],
   "mainCharts": [
@@ -7078,6 +7146,12 @@
   ],
   "headlines": [
     {
+      "title": "[증시 대전환②] “잠자던 개미 돌아왔다”…동학개미 시즌2 벌써 시작",
+      "source": "뉴시안",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxQ1ZVZzd1UXZlZzYyeDRhT1NSaXN1ZlhFazhXR2c5cklrM1hZY1hBT2tITHlMMnVieVlyTlMtS1hpbzA5dE5xRzlVWWc3elJzUDJxdDRLWkF6S3JheU82WVgzTDY2RnJ0TVHSAW5BVV95cUxQSHF1bmdVcVJBZ2tZelJBRWlZeDE5Vjd2d0p6dzlXeXlUSFR6SFNTWF91R0x4cUlkMWtrTl9wN3VjRVRhSU84WUoxTnZFUGVVU2g2Ml9ydi1VVE41OEpQWHhrbXZGMFJKTDlYMHNVZw?oc=5",
+      "publishedAt": "Fri, 15 May 2026 22:26:44 GMT"
+    },
+    {
       "title": "달러-원, 美 주가지수 낙폭 축소에 상승분 일부 반납…1,497.50원 마감",
       "source": "연합인포맥스",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Oemo0RkNuZXNTVVIzQmthMThlTm16YUo3OVFndUhmTV9DZDJkTllUU1pIOFY2VVc3SlRsbWdZcDNFZGI0TkpVMkxWenQySDJRSzJPMWNFWFN4Ty12VFUtZzUwWmZFNU04bm1BWnVrdnYyUm5Q0gF0QVVfeXFMTk56ajRGQ25lc1NVUjNCa2ExOGVObXphSjc5UWd1SGZNX0NkMmROWVRTWkg4VjZVVzdKVGxtZ1lwM0VkYjROSlUyTFZ6dDJIMlFLMk8xY0VYU3hPLXZUVS1nNTBaZkU1TThubUFadWt2djJSblA?oc=5",
@@ -7090,10 +7164,16 @@
       "publishedAt": "Fri, 15 May 2026 06:59:36 GMT"
     },
     {
+      "title": "[지난밤 뉴욕에선] 고유가·금리 급등에 하락…나스닥 1.54%↓",
+      "source": "스트레이트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IRTNwQXdMX3Q0M3dHeFNkeGYtc3ZLV19XVkJKRVpCRm9yV0xsdVRIWk5vQWxPN1VTeENWMHBrSnF3SDFHSjVnamhFVi1mdTBnNjhjQXlySDZMa2w2YzlCdW9XSkk2TGhSeDNIWHUxRV9jQnfSAXdBVV95cUxQRUVjZDgxbDBIQVJCTmFVYjV0RFJkaFpxT0FnUGlXQmwxZmlEV1NmLWpBWEZ2QmJjbWVoaUZvc1htMEo5WnVzUVB3NE5aNEF1NHc4am5ydnBuYWJsY2lkcExadHRpTlBoRHVyZDYtbUZTbU42ZkhkSQ?oc=5",
+      "publishedAt": "Fri, 15 May 2026 22:35:53 GMT"
+    },
+    {
       "title": "외국인 7일간 31조 팔았다… 韓증시 복귀는 언제쯤",
       "source": "IT조선",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yOENtLVZDamR0Y0NESjJRQUV6aGRES2t2STdMMGlReDNQYXR4bW1BbmtlMWV2N3J5bENvQ01yNnF3Z211d2EybVFoX19zQTIyZDkwZmU1V0NNV2dreXBYeEdZRlFIZ05ydW1nT3VzelrSAXRBVV95cUxPZ005NzFraFBnMHNtNy1mckllb0RadWlHNGI2d1Y4SWdPaXUtanh0UXFreDdMNGVueWRsNEwwVThJWFh3QU9LMHZIaU9BM2N1UVhXbzNqOVhYdU90M1A0U21VTEVjNVhGRklfQlFrZy1CRkxOaw?oc=5",
-      "publishedAt": "Fri, 15 May 2026 21:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nTTk3MWtoUGcwc203LWZySWVvRFp1aUc0YjZ3VjhJZ09pdS1qeHRRcWt4N0w0ZW55ZGw0TDBVOElYWHdBT0swdkhpT0EzY3VRWFdvM2o5WFh1T3QzUDRTbVVMRWM1WEZGSV9CUWtnLUJGTE5r0gF0QVVfeXFMT2dNOTcxa2hQZzBzbTctZnJJZW9EWnVpRzRiNndWOElnT2l1LWp4dFFxa3g3TDRlbnlkbDRMMFU4SVhYd0FPSzB2SGlPQTNjdVFYV28zajlYWHVPdDNQNFNtVUxFYzVYRkZJX0JRa2ctQkZMTms?oc=5",
+      "publishedAt": "Fri, 15 May 2026 21:30:17 GMT"
     },
     {
       "title": "코스피 '꿈의 8000선' 뚫었다…한국 증시 사상 첫 신기원",
@@ -7102,28 +7182,16 @@
       "publishedAt": "Fri, 15 May 2026 00:41:17 GMT"
     },
     {
-      "title": "‘팔천피’에도 어려운 내수…실물경제 괴리된 증시",
-      "source": "ntoday.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4dWw5eTJWWlNtNW5LYUhRdDVmUjZRbVhqeXdCYU92RHBsR0ZRVWJFLVF0VTBINTNkaXBzaGxtRnRoeDdWMFU1VmphSjlPbV9hUUYzTHRaSHEzanhuaVVHR19senBwTUZwZW5JZDQtTdIBb0FVX3lxTFB4dWw5eTJWWlNtNW5LYUhRdDVmUjZRbVhqeXdCYU92RHBsR0ZRVWJFLVF0VTBINTNkaXBzaGxtRnRoeDdWMFU1VmphSjlPbV9hUUYzTHRaSHEzanhuaVVHR19senBwTUZwZW5JZDQtTQ?oc=5",
-      "publishedAt": "Fri, 15 May 2026 02:05:43 GMT"
+      "title": "한달만 또 1500원대, 원·달러 환율 어디로",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zV1dMRzd2N2l5YXFic1dITm41Z2lVZVB6QkZwSHoyT2ZmMzNfZEhqV1JZZUlNVXVLWGFhZmM0YU9YQ2w0R2dZQWdxTmxEUDV5dmZ0Rw?oc=5",
+      "publishedAt": "Fri, 15 May 2026 23:00:00 GMT"
     },
     {
-      "title": "亞 오후 장중...韓·日·홍콩증시 '뚝', 유럽 & 美증시 선물 '하락'",
-      "source": "초이스경제",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MZUg2LWxSZ0VGOFFRa1MyVDAtVEhrd0hHUTZRdXdCckM5dkhwSy1leENaZEVfOVZrWHRJdVJKX05xdjhBenhZTlVNVl9VNHFkdGc3NmIyR2xONmd6SVJBUXo5MjlqTFlqNEN0MzFSQdIBc0FVX3lxTE1MUkViWUlCQ2x0UkFBVFRHMkxSSTc1ZXR6cVB5a25mQXh5bkIxcllXT0lqS2dWY1RNandiT0V2MW56QTk5MVRGTmt4SmZ4Ui13OXU3aldLY3podk5VYjM3TnNySVdYdmNCSzZ4Q2V6dldVYVU?oc=5",
-      "publishedAt": "Fri, 15 May 2026 05:43:16 GMT"
-    },
-    {
-      "title": "한국 증시 고공행진 속...거세게 팔아치우는 외국인들 '엑소더스' [지금이뉴스]",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZSjRaeERWWHZZRnBkM2F6aS1JYU9JN0UzSVFVUWVJbDJRU21pdU1CaTlNMGY2WWFpQkVKZ2dVVWFCWGFCTmsxMGR4dEs4aWNRSzYyLUpHTHM3Wkt3d2c?oc=5",
-      "publishedAt": "Thu, 14 May 2026 23:44:00 GMT"
-    },
-    {
-      "title": "코스피 꿈의 8000피 달성...차익 실현 매물에 7500선 무너졌지만 K증시 신기원",
-      "source": "경북매일",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QZkpzM1JFYXFDZ1dqWWNYeXpwRmdNQjcyRHdPQVNUT053Tkg2QkJXbGp3THp0Vlp4ZjRkaEEtOHVLZDVhOXRTTDRJdnpiRW9DMWk0UVpGS3UwUQ?oc=5",
-      "publishedAt": "Fri, 15 May 2026 09:21:00 GMT"
+      "title": "[코스피 8,000] '전인미답' 韓증시 새 장…'급락' 변동성 주목(종합2보)",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11N0dUeHF6Zk1VbEI4TmRiNnRLY3MwNUhYbkUxOEhYMGhOdEFDRzhaRG5CZDRLT01Vb1BhcE1PMWlHeVFzeHRaTFNvWFE2ajdOUWRBRQ?oc=5",
+      "publishedAt": "Fri, 15 May 2026 07:37:55 GMT"
     }
   ],
   "summary": {
