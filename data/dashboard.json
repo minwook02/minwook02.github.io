@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-16T06:08:58.086110+09:00",
-  "updatedLabel": "2026-05-16 06:08:58 KST",
+  "updatedAt": "2026-05-16T07:30:45.255541+09:00",
+  "updatedLabel": "2026-05-16 07:30:45 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1296,8 +1296,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-16 06:08 KST",
-      "marketTimestamp": 1778879332
+      "marketTime": "2026-05-16 06:15 KST",
+      "marketTimestamp": 1778879759
     },
     {
       "id": "dow",
@@ -2650,7 +2650,7 @@
         ],
         [
           1778878500000,
-          1497.839966
+          1497.76001
         ],
         [
           1778878795000,
@@ -3007,10 +3007,10 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 101.14,
+      "price": 101.16,
       "previousClose": 96.92,
-      "change": 4.22,
-      "changePercent": 4.3541,
+      "change": 4.24,
+      "changePercent": 4.3747,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3828,16 +3828,16 @@
         ],
         [
           1778878500000,
-          101.150002
+          101.160004
         ],
         [
-          1778878735000,
-          101.139999
+          1778878799000,
+          101.160004
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-16 05:58 KST",
-      "marketTimestamp": 1778878735
+      "marketTime": "2026-05-16 05:59 KST",
+      "marketTimestamp": 1778878799
     },
     {
       "id": "gold",
@@ -3846,10 +3846,10 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 4544.8,
+      "price": 4543.6,
       "previousClose": 4685.3,
-      "change": -140.5,
-      "changePercent": -2.9987,
+      "change": -141.7,
+      "changePercent": -3.0244,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -4667,16 +4667,16 @@
         ],
         [
           1778878500000,
-          4544.0
+          4543.600098
         ],
         [
-          1778878730000,
-          4544.799805
+          1778878796000,
+          4543.600098
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-16 05:58 KST",
-      "marketTimestamp": 1778878730
+      "marketTime": "2026-05-16 05:59 KST",
+      "marketTimestamp": 1778878796
     },
     {
       "id": "bitcoin",
@@ -4685,10 +4685,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 79101.72,
+      "price": 79064.31,
       "previousClose": 81069.54,
-      "change": -1967.82,
-      "changePercent": -2.4273,
+      "change": -2005.23,
+      "changePercent": -2.4735,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5706,16 +5706,80 @@
         ],
         [
           1778879100000,
-          79093.148438
+          79129.992188
         ],
         [
-          1778879332000,
-          79101.71875
+          1778879400000,
+          79148.546875
+        ],
+        [
+          1778879700000,
+          79155.859375
+        ],
+        [
+          1778880000000,
+          79086.53125
+        ],
+        [
+          1778880300000,
+          79086.4375
+        ],
+        [
+          1778880600000,
+          79099.492188
+        ],
+        [
+          1778880900000,
+          79061.148438
+        ],
+        [
+          1778881200000,
+          79090.421875
+        ],
+        [
+          1778881500000,
+          79011.578125
+        ],
+        [
+          1778881800000,
+          78993.929688
+        ],
+        [
+          1778882100000,
+          78931.992188
+        ],
+        [
+          1778882400000,
+          79009.023438
+        ],
+        [
+          1778882700000,
+          79012.773438
+        ],
+        [
+          1778883000000,
+          79020.0
+        ],
+        [
+          1778883300000,
+          78999.640625
+        ],
+        [
+          1778883600000,
+          79035.523438
+        ],
+        [
+          1778883900000,
+          79038.859375
+        ],
+        [
+          1778884240000,
+          79064.3125
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-16 06:08 KST",
-      "marketTimestamp": 1778879332
+      "marketTime": "2026-05-16 07:30 KST",
+      "marketTimestamp": 1778884240
     }
   ],
   "mainCharts": [
@@ -7008,11 +7072,17 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-16 06:08 KST",
-      "marketTimestamp": 1778879332
+      "marketTime": "2026-05-16 06:15 KST",
+      "marketTimestamp": 1778879759
     }
   ],
   "headlines": [
+    {
+      "title": "달러-원, 美 주가지수 낙폭 축소에 상승분 일부 반납…1,497.50원 마감",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Oemo0RkNuZXNTVVIzQmthMThlTm16YUo3OVFndUhmTV9DZDJkTllUU1pIOFY2VVc3SlRsbWdZcDNFZGI0TkpVMkxWenQySDJRSzJPMWNFWFN4Ty12VFUtZzUwWmZFNU04bm1BWnVrdnYyUm5Q0gF0QVVfeXFMTk56ajRGQ25lc1NVUjNCa2ExOGVObXphSjc5UWd1SGZNX0NkMmROWVRTWkg4VjZVVzdKVGxtZ1lwM0VkYjROSlUyTFZ6dDJIMlFLMk8xY0VYU3hPLXZUVS1nNTBaZkU1TThubUFadWt2djJSblA?oc=5",
+      "publishedAt": "Fri, 15 May 2026 20:23:22 GMT"
+    },
     {
       "title": "성공투자 오후증시",
       "source": "한국경제TV",
@@ -7020,28 +7090,16 @@
       "publishedAt": "Fri, 15 May 2026 06:59:36 GMT"
     },
     {
-      "title": "달러-원, 美 주가지수 낙폭 축소에 상승분 일부 반납…1,497.50원 마감",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yWHdyOHcweFFRejByMVZ3TFZKREFYZkN5Zkw3SHdJajQ2NWtSRjZtZ09JRFhXYUJLN1pmbjdRNUJ4OWNwSzlGdlp0MHQzdW1BVlVnV2ttSmhFMmvSAWBBVV95cUxNbDF3VFlBSzdZa1poejRDVWZSaTV2STFqV3lzNzRjUWQzOWNmRk9GZGlmemVIRHJaMUEyOGtRNEtTNFJtcnpGdWQtRUgwb0NvQ3hycWczdlJoQm5hbXpHcl8?oc=5",
-      "publishedAt": "Fri, 15 May 2026 18:17:49 GMT"
+      "title": "외국인 7일간 31조 팔았다… 韓증시 복귀는 언제쯤",
+      "source": "IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yOENtLVZDamR0Y0NESjJRQUV6aGRES2t2STdMMGlReDNQYXR4bW1BbmtlMWV2N3J5bENvQ01yNnF3Z211d2EybVFoX19zQTIyZDkwZmU1V0NNV2dreXBYeEdZRlFIZ05ydW1nT3VzelrSAXRBVV95cUxPZ005NzFraFBnMHNtNy1mckllb0RadWlHNGI2d1Y4SWdPaXUtanh0UXFreDdMNGVueWRsNEwwVThJWFh3QU9LMHZIaU9BM2N1UVhXbzNqOVhYdU90M1A0U21VTEVjNVhGRklfQlFrZy1CRkxOaw?oc=5",
+      "publishedAt": "Fri, 15 May 2026 21:00:00 GMT"
     },
     {
       "title": "코스피 '꿈의 8000선' 뚫었다…한국 증시 사상 첫 신기원",
       "source": "mstoday.co.kr",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtc2VMWG9GYzFnUjI2OVhPMzRsd2ZRMllIUXpIREpGcHZjbVpTMFZJVkppX3R5WC1kNDFGcURhTzYxeHZXVFk5OXlrZjFlZ0NCTHZ4NHkyeVZhS012QTlkQXBILWJFcGttdEZ6UQ?oc=5",
       "publishedAt": "Fri, 15 May 2026 00:41:17 GMT"
-    },
-    {
-      "title": "[코스피 8,000] '전인미답' 韓증시 새 장…'급락' 변동성 주목(종합2보)",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11N0dUeHF6Zk1VbEI4TmRiNnRLY3MwNUhYbkUxOEhYMGhOdEFDRzhaRG5CZDRLT01Vb1BhcE1PMWlHeVFzeHRaTFNvWFE2ajdOUWRBRQ?oc=5",
-      "publishedAt": "Fri, 15 May 2026 07:37:55 GMT"
-    },
-    {
-      "title": "한국 증시 고공행진 속...거세게 팔아치우는 외국인들 '엑소더스' [지금이뉴스]",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZSjRaeERWWHZZRnBkM2F6aS1JYU9JN0UzSVFVUWVJbDJRU21pdU1CaTlNMGY2WWFpQkVKZ2dVVWFCWGFCTmsxMGR4dEs4aWNRSzYyLUpHTHM3Wkt3d2c?oc=5",
-      "publishedAt": "Thu, 14 May 2026 23:44:00 GMT"
     },
     {
       "title": "‘팔천피’에도 어려운 내수…실물경제 괴리된 증시",
@@ -7056,10 +7114,16 @@
       "publishedAt": "Fri, 15 May 2026 05:43:16 GMT"
     },
     {
-      "title": "[증시 레이더] 8천피 찍고 488P 급락⋯코스피 '패닉 롤러코스터'",
-      "source": "포커스온경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nTUw1NEwwWXpCbkVueDUzNEF6SnlsTHNaeGd5aE5SMWRCa0tQeGdKRGVnOGwzUncyMXg5ZDJFT2xkblFyemd4a0hYa3JQekVrV0taMnRHblpfc25wdkM3RQ?oc=5",
-      "publishedAt": "Fri, 15 May 2026 06:49:36 GMT"
+      "title": "한국 증시 고공행진 속...거세게 팔아치우는 외국인들 '엑소더스' [지금이뉴스]",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZSjRaeERWWHZZRnBkM2F6aS1JYU9JN0UzSVFVUWVJbDJRU21pdU1CaTlNMGY2WWFpQkVKZ2dVVWFCWGFCTmsxMGR4dEs4aWNRSzYyLUpHTHM3Wkt3d2c?oc=5",
+      "publishedAt": "Thu, 14 May 2026 23:44:00 GMT"
+    },
+    {
+      "title": "코스피 꿈의 8000피 달성...차익 실현 매물에 7500선 무너졌지만 K증시 신기원",
+      "source": "경북매일",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QZkpzM1JFYXFDZ1dqWWNYeXpwRmdNQjcyRHdPQVNUT053Tkg2QkJXbGp3THp0Vlp4ZjRkaEEtOHVLZDVhOXRTTDRJdnpiRW9DMWk0UVpGS3UwUQ?oc=5",
+      "publishedAt": "Fri, 15 May 2026 09:21:00 GMT"
     }
   ],
   "summary": {
@@ -7083,7 +7147,7 @@
     "leaders": [
       {
         "label": "WTI",
-        "changePercent": 4.3541,
+        "changePercent": 4.3747,
         "direction": "상승"
       },
       {
@@ -7110,7 +7174,7 @@
       },
       {
         "label": "Gold",
-        "changePercent": -2.9987,
+        "changePercent": -3.0244,
         "direction": "하락"
       }
     ]
