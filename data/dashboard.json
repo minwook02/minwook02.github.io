@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-16T17:24:03.251614+09:00",
-  "updatedLabel": "2026-05-16 17:24:03 KST",
+  "updatedAt": "2026-05-16T18:58:05.873049+09:00",
+  "updatedLabel": "2026-05-16 18:58:05 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4673,10 +4673,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 78364.29,
+      "price": 78038.01,
       "previousClose": 79063.56,
-      "change": -699.27,
-      "changePercent": -0.8844,
+      "change": -1025.55,
+      "changePercent": -1.2971,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5082,16 +5082,92 @@
         ],
         [
           1778919600000,
-          78363.039062
+          78370.09375
         ],
         [
-          1778919831000,
-          78364.289062
+          1778919900000,
+          78363.992188
+        ],
+        [
+          1778920200000,
+          78418.546875
+        ],
+        [
+          1778920500000,
+          78440.640625
+        ],
+        [
+          1778920800000,
+          78425.859375
+        ],
+        [
+          1778921100000,
+          78353.992188
+        ],
+        [
+          1778921400000,
+          78365.796875
+        ],
+        [
+          1778921700000,
+          78382.007812
+        ],
+        [
+          1778922000000,
+          78388.65625
+        ],
+        [
+          1778922300000,
+          78350.226562
+        ],
+        [
+          1778922600000,
+          78222.140625
+        ],
+        [
+          1778922900000,
+          77936.882812
+        ],
+        [
+          1778923200000,
+          78004.367188
+        ],
+        [
+          1778923500000,
+          78018.429688
+        ],
+        [
+          1778923800000,
+          78115.390625
+        ],
+        [
+          1778924100000,
+          78101.46875
+        ],
+        [
+          1778924400000,
+          78077.257812
+        ],
+        [
+          1778924700000,
+          78011.257812
+        ],
+        [
+          1778925000000,
+          78091.09375
+        ],
+        [
+          1778925300000,
+          78038.007812
+        ],
+        [
+          1778925483000,
+          78038.007812
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-16 17:23 KST",
-      "marketTimestamp": 1778919831
+      "marketTime": "2026-05-16 18:58 KST",
+      "marketTimestamp": 1778925483
     }
   ],
   "mainCharts": [
@@ -6402,16 +6478,16 @@
       "publishedAt": "Fri, 15 May 2026 22:26:44 GMT"
     },
     {
-      "title": "전쟁이 부른 유가 급등, 외국인 증시 이탈까지...전방위 환율 상승 압박",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSM2xNelJhUU54VlpnNGNtZTNRYWcweXIyTlBpN3doVHRJTzZxdExBRkFSWGx2aVRRd0x2bUl2MU4tRlg4U2FxemhBQWVTX19yMF9mTnZ6bXV5dVlVYW9Ddk1QVnBXRVU?oc=5",
-      "publishedAt": "Fri, 15 May 2026 17:23:00 GMT"
-    },
-    {
       "title": "美 금리 뛰고 미중 회담 기대 못 미쳤다…한국 증시 향방은",
       "source": "이코노미트리뷴",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjNVRGM2twUGlIRldkZTZvdmVzQ2FPYURQQjBYM3p0dlRDdVFGdE5WVGZJcGMxQ05Wal9mWnRKQmZXWk9COTBxdDR1LWc3aEZrdWYtczkzbzEzZ25ZbEN4d0VWRy0xRnZvNnN0YWNEbFoxal9jRmNv?oc=5",
       "publishedAt": "Sat, 16 May 2026 07:42:10 GMT"
+    },
+    {
+      "title": "전쟁이 부른 유가 급등, 외국인 증시 이탈까지...전방위 환율 상승 압박",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSM2xNelJhUU54VlpnNGNtZTNRYWcweXIyTlBpN3doVHRJTzZxdExBRkFSWGx2aVRRd0x2bUl2MU4tRlg4U2FxemhBQWVTX19yMF9mTnZ6bXV5dVlVYW9Ddk1QVnBXRVU?oc=5",
+      "publishedAt": "Fri, 15 May 2026 17:23:00 GMT"
     },
     {
       "title": "미 국채 금리 급등 30년물 5.12%…뉴욕증시 하락 반전",
@@ -6468,8 +6544,8 @@
         "direction": "상승"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": -0.8844,
+        "label": "DOW",
+        "changePercent": -1.0732,
         "direction": "하락"
       }
     ],
