@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-16T23:23:35.030174+09:00",
-  "updatedLabel": "2026-05-16 23:23:35 KST",
+  "updatedAt": "2026-05-17T00:35:09.215669+09:00",
+  "updatedLabel": "2026-05-17 00:35:09 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4673,10 +4673,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 77910.42,
+      "price": 78169.55,
       "previousClose": 79063.56,
-      "change": -1153.14,
-      "changePercent": -1.4585,
+      "change": -894.01,
+      "changePercent": -1.1307,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5370,16 +5370,72 @@
         ],
         [
           1778941200000,
-          77901.546875
+          77952.179688
         ],
         [
-          1778941410000,
-          77910.421875
+          1778941500000,
+          77940.023438
+        ],
+        [
+          1778941800000,
+          78058.0
+        ],
+        [
+          1778942100000,
+          78077.429688
+        ],
+        [
+          1778942400000,
+          78186.25
+        ],
+        [
+          1778942700000,
+          78143.992188
+        ],
+        [
+          1778943000000,
+          78084.070312
+        ],
+        [
+          1778943300000,
+          78091.578125
+        ],
+        [
+          1778943600000,
+          78168.007812
+        ],
+        [
+          1778943900000,
+          78089.757812
+        ],
+        [
+          1778944200000,
+          78089.023438
+        ],
+        [
+          1778944500000,
+          78094.757812
+        ],
+        [
+          1778944800000,
+          78109.992188
+        ],
+        [
+          1778945100000,
+          78080.671875
+        ],
+        [
+          1778945400000,
+          78169.546875
+        ],
+        [
+          1778945703000,
+          78169.546875
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-16 23:23 KST",
-      "marketTimestamp": 1778941410
+      "marketTime": "2026-05-17 00:35 KST",
+      "marketTimestamp": 1778945703
     }
   ],
   "mainCharts": [
@@ -6684,16 +6740,10 @@
       "publishedAt": "Sat, 16 May 2026 00:00:00 GMT"
     },
     {
-      "title": "금값 2.8% 급등·아시아 증시 줄하락…미, 이란 공격 영향",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14Vk1Hem0xNnJCREQ4aWlJcGd1X0dnQWNSNmRTZXd6S3A2OVN2UHN3N2ZkZWpfa0NzU01wWEJQN2pLWUtIVFRsUEpoSzZyZldaUFVQTElkcFB5aXBVQmxaX1NBZHNTS0JnS1duRjBzYXJxdw?oc=5",
-      "publishedAt": "Fri, 15 May 2026 17:23:00 GMT"
-    },
-    {
-      "title": "[증시 대전환②] “잠자던 개미 돌아왔다”…동학개미 시즌2 벌써 시작",
-      "source": "뉴시안",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxQ1ZVZzd1UXZlZzYyeDRhT1NSaXN1ZlhFazhXR2c5cklrM1hZY1hBT2tITHlMMnVieVlyTlMtS1hpbzA5dE5xRzlVWWc3elJzUDJxdDRLWkF6S3JheU82WVgzTDY2RnJ0TVHSAW5BVV95cUxQSHF1bmdVcVJBZ2tZelJBRWlZeDE5Vjd2d0p6dzlXeXlUSFR6SFNTWF91R0x4cUlkMWtrTl9wN3VjRVRhSU84WUoxTnZFUGVVU2g2Ml9ydi1VVE41OEpQWHhrbXZGMFJKTDlYMHNVZw?oc=5",
-      "publishedAt": "Fri, 15 May 2026 22:26:44 GMT"
+      "title": "뉴욕증시 한국 증시 주목 코스피 6% 급락·나스닥도 1% 넘게 하락…월요일 글로벌 증시 충격 이어질까",
+      "source": "CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsdGhHN0xXTXFZVlBwUXE1aWV6X1I0QzRxRmNSNm84cnk1SXZTUVNYRnRFMVloY2VhRnd1V0xJaFRXem44bHVDR3AyU3otTkwzOW5CS3Nob212cVQzNzVPX1V2bnJvLUh6?oc=5",
+      "publishedAt": "Sat, 16 May 2026 15:00:00 GMT"
     },
     {
       "title": "美 금리 뛰고 미중 회담 기대 못 미쳤다…한국 증시 향방은",
@@ -6702,10 +6752,16 @@
       "publishedAt": "Sat, 16 May 2026 07:42:10 GMT"
     },
     {
-      "title": "미 국채 금리 급등 30년물 5.12%…뉴욕증시 하락 반전",
-      "source": "부산일보",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zak5GUGFDQ3NodVhRWWhTVkFkT1hucmtkUi0zbVRJYXZGY0U2NjZ0UkU4RlVlOFFUQTVMVlVrZGR3aVpBOFUzVVVVdXNBVjdiblF5TjBVR1N6YVZVb0E3aTdQREhZME8yNFNKRjhvYURjOHFo?oc=5",
-      "publishedAt": "Sat, 16 May 2026 00:57:01 GMT"
+      "title": "[증시 대전환②] “잠자던 개미 돌아왔다”…동학개미 시즌2 벌써 시작",
+      "source": "뉴시안",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxQ1ZVZzd1UXZlZzYyeDRhT1NSaXN1ZlhFazhXR2c5cklrM1hZY1hBT2tITHlMMnVieVlyTlMtS1hpbzA5dE5xRzlVWWc3elJzUDJxdDRLWkF6S3JheU82WVgzTDY2RnJ0TVHSAW5BVV95cUxQSHF1bmdVcVJBZ2tZelJBRWlZeDE5Vjd2d0p6dzlXeXlUSFR6SFNTWF91R0x4cUlkMWtrTl9wN3VjRVRhSU84WUoxTnZFUGVVU2g2Ml9ydi1VVE41OEpQWHhrbXZGMFJKTDlYMHNVZw?oc=5",
+      "publishedAt": "Fri, 15 May 2026 22:26:44 GMT"
+    },
+    {
+      "title": "금값 2.8% 급등·아시아 증시 줄하락…미, 이란 공격 영향",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14Vk1Hem0xNnJCREQ4aWlJcGd1X0dnQWNSNmRTZXd6S3A2OVN2UHN3N2ZkZWpfa0NzU01wWEJQN2pLWUtIVFRsUEpoSzZyZldaUFVQTElkcFB5aXBVQmxaX1NBZHNTS0JnS1duRjBzYXJxdw?oc=5",
+      "publishedAt": "Fri, 15 May 2026 17:23:00 GMT"
     },
     {
       "title": "달러-원, 美 주가지수 낙폭 축소에 상승분 일부 반납…1,497.50원 마감",
@@ -6714,10 +6770,10 @@
       "publishedAt": "Fri, 15 May 2026 20:23:22 GMT"
     },
     {
-      "title": "[속보] 코스피, 8000도 뚫었다…역사적 ‘꿈의 8천피’ 시대 열리나 뉴욕증시 훈풍까지",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaRzlELUdsb1dLZkZTNUlwNVFBVzA1a21LZTZOOVVCamVCcEhFcGp1TS1nRGZnaHVwUERkc09ZWEllcTF3X29ldVFKeFVieW1hamE4OEVMOENaWkRjY1lQYU5zZk5QY01Y?oc=5",
-      "publishedAt": "Sat, 16 May 2026 08:31:14 GMT"
+      "title": "미 국채 금리 급등 30년물 5.12%…뉴욕증시 하락 반전",
+      "source": "부산일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zak5GUGFDQ3NodVhRWWhTVkFkT1hucmtkUi0zbVRJYXZGY0U2NjZ0UkU4RlVlOFFUQTVMVlVrZGR3aVpBOFUzVVVVdXNBVjdiblF5TjBVR1N6YVZVb0E3aTdQREhZME8yNFNKRjhvYURjOHFo?oc=5",
+      "publishedAt": "Sat, 16 May 2026 00:57:01 GMT"
     },
     {
       "title": "[지난밤 뉴욕에선] 고유가·금리 급등에 하락…나스닥 1.54%↓",
