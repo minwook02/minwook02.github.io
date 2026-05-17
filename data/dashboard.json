@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-17T20:17:27.919644+09:00",
-  "updatedLabel": "2026-05-17 20:17:27 KST",
+  "updatedAt": "2026-05-17T21:12:06.210244+09:00",
+  "updatedLabel": "2026-05-17 21:12:06 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3043,10 +3043,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 78304.67,
+      "price": 78418.54,
       "previousClose": 78116.03,
-      "change": 188.64,
-      "changePercent": 0.2415,
+      "change": 302.51,
+      "changePercent": 0.3873,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3592,16 +3592,60 @@
         ],
         [
           1779016500000,
-          78303.257812
+          78302.75
         ],
         [
-          1779016641000,
-          78304.671875
+          1779016800000,
+          78337.96875
+        ],
+        [
+          1779017100000,
+          78312.75
+        ],
+        [
+          1779017400000,
+          78363.046875
+        ],
+        [
+          1779017700000,
+          78328.039062
+        ],
+        [
+          1779018000000,
+          78372.617188
+        ],
+        [
+          1779018300000,
+          78367.46875
+        ],
+        [
+          1779018600000,
+          78354.5
+        ],
+        [
+          1779018900000,
+          78382.0
+        ],
+        [
+          1779019200000,
+          78354.507812
+        ],
+        [
+          1779019500000,
+          78368.492188
+        ],
+        [
+          1779019800000,
+          78418.539062
+        ],
+        [
+          1779019918000,
+          78418.539062
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-17 20:17 KST",
-      "marketTimestamp": 1779016641
+      "marketTime": "2026-05-17 21:11 KST",
+      "marketTimestamp": 1779019918
     }
   ],
   "mainCharts": [
@@ -4920,7 +4964,7 @@
     {
       "title": "미국증시로 돌아간 서학개미⋯보관액 300조 돌파",
       "source": "포커스온경제",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kMWM2a0R4N2o2bHVDcEpWVUczWFd2Z0hxWmZwOTlINE9feXNvT0tuZEdHd0ljTWR4blBQbkxqTFhvT2I2blJ6OW1MbTZ3RVF3OV9IdGRUaU5QSnJmMnc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44MmZWejdtTWJGV0h4bEFJMlhrSVNERTVBVjR6WElFTVZXdEdKZklHaVZJR0FsNTh1VXpvTkJCbWJwSEVKREgtTzdrTEZJMjFCM2xkemFwYV8wUl81MDA1Mg?oc=5",
       "publishedAt": "Sun, 17 May 2026 02:34:51 GMT"
     },
     {
@@ -4936,16 +4980,16 @@
       "publishedAt": "Sun, 17 May 2026 08:21:39 GMT"
     },
     {
-      "title": "美반도체주 4% 내릴때 코스피 0.6% 내려",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WZGVUSmtHenNsQ19OSGx0blZIUTVuOFJza196U1NfdzJkaVBMSHVPWFNCdVI2dEN2d3NhbUtRbWFYS1l6ZWhVTE9kMFFVNkdWX2c?oc=5",
-      "publishedAt": "Sun, 17 May 2026 08:36:22 GMT"
-    },
-    {
       "title": "한은, 곧 기준금리 인상? 한·미 금리 ‘역전폭’ 3년 만에 최소",
       "source": "한겨레",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhRi03WWR2ZlZEUEt4RmlyRFQ0ODBDV2VGbHFRXzhoTnpab3kwckNtMk5YelJ4ZVB6NHY5Q2d6UVdzZGVWc1BvMk1zRDBRUDl2c2NfMTJqaHNFSHVhQ0kxWTFxREVHVnc?oc=5",
       "publishedAt": "Sun, 17 May 2026 08:50:00 GMT"
+    },
+    {
+      "title": "美반도체주 4% 내릴때 코스피 0.6% 내려",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WZGVUSmtHenNsQ19OSGx0blZIUTVuOFJza196U1NfdzJkaVBMSHVPWFNCdVI2dEN2d3NhbUtRbWFYS1l6ZWhVTE9kMFFVNkdWX2c?oc=5",
+      "publishedAt": "Sun, 17 May 2026 08:36:22 GMT"
     }
   ],
   "summary": {
@@ -4973,13 +5017,13 @@
         "direction": "상승"
       },
       {
-        "label": "USD/KRW",
-        "changePercent": 0.3403,
+        "label": "Bitcoin",
+        "changePercent": 0.3873,
         "direction": "상승"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": 0.2415,
+        "label": "USD/KRW",
+        "changePercent": 0.3403,
         "direction": "상승"
       }
     ],
