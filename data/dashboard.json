@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-17T21:12:06.210244+09:00",
-  "updatedLabel": "2026-05-17 21:12:06 KST",
+  "updatedAt": "2026-05-17T23:05:37.766656+09:00",
+  "updatedLabel": "2026-05-17 23:05:37 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2651,15 +2651,11 @@
         [
           1778878500000,
           1497.76001
-        ],
-        [
-          1778885940000,
-          1497.76001
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-16 10:47 KST",
-      "marketTimestamp": 1778896047
+      "marketTime": "2026-05-17 22:24 KST",
+      "marketTimestamp": 1779024277
     },
     {
       "id": "us10y",
@@ -3043,12 +3039,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 78418.54,
+      "price": 78132.45,
       "previousClose": 78116.03,
-      "change": 302.51,
-      "changePercent": 0.3873,
-      "tone": "up",
-      "direction": "상승",
+      "change": 16.42,
+      "changePercent": 0.021,
+      "tone": "flat",
+      "direction": "보합",
       "series": [
         [
           1778976000000,
@@ -3636,16 +3632,104 @@
         ],
         [
           1779019800000,
-          78418.539062
+          78348.578125
         ],
         [
-          1779019918000,
-          78418.539062
+          1779020100000,
+          78325.0625
+        ],
+        [
+          1779020400000,
+          78388.140625
+        ],
+        [
+          1779020700000,
+          78395.226562
+        ],
+        [
+          1779021000000,
+          78422.8125
+        ],
+        [
+          1779021300000,
+          78425.273438
+        ],
+        [
+          1779021600000,
+          78445.46875
+        ],
+        [
+          1779021900000,
+          78363.046875
+        ],
+        [
+          1779022200000,
+          78354.5
+        ],
+        [
+          1779022500000,
+          78332.382812
+        ],
+        [
+          1779022800000,
+          78290.953125
+        ],
+        [
+          1779023100000,
+          78256.3125
+        ],
+        [
+          1779023400000,
+          78229.226562
+        ],
+        [
+          1779023700000,
+          78226.34375
+        ],
+        [
+          1779024000000,
+          78203.84375
+        ],
+        [
+          1779024300000,
+          78259.453125
+        ],
+        [
+          1779024600000,
+          78250.0
+        ],
+        [
+          1779024900000,
+          78271.421875
+        ],
+        [
+          1779025200000,
+          78230.359375
+        ],
+        [
+          1779025500000,
+          78240.882812
+        ],
+        [
+          1779025800000,
+          78182.140625
+        ],
+        [
+          1779026100000,
+          78175.09375
+        ],
+        [
+          1779026400000,
+          78131.03125
+        ],
+        [
+          1779026726000,
+          78132.453125
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-17 21:11 KST",
-      "marketTimestamp": 1779019918
+      "marketTime": "2026-05-17 23:05 KST",
+      "marketTimestamp": 1779026726
     }
   ],
   "mainCharts": [
@@ -4980,16 +5064,16 @@
       "publishedAt": "Sun, 17 May 2026 08:21:39 GMT"
     },
     {
-      "title": "한은, 곧 기준금리 인상? 한·미 금리 ‘역전폭’ 3년 만에 최소",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhRi03WWR2ZlZEUEt4RmlyRFQ0ODBDV2VGbHFRXzhoTnpab3kwckNtMk5YelJ4ZVB6NHY5Q2d6UVdzZGVWc1BvMk1zRDBRUDl2c2NfMTJqaHNFSHVhQ0kxWTFxREVHVnc?oc=5",
-      "publishedAt": "Sun, 17 May 2026 08:50:00 GMT"
-    },
-    {
       "title": "美반도체주 4% 내릴때 코스피 0.6% 내려",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WZGVUSmtHenNsQ19OSGx0blZIUTVuOFJza196U1NfdzJkaVBMSHVPWFNCdVI2dEN2d3NhbUtRbWFYS1l6ZWhVTE9kMFFVNkdWX2c?oc=5",
       "publishedAt": "Sun, 17 May 2026 08:36:22 GMT"
+    },
+    {
+      "title": "[이번주 증시] 주 초반 하락세 불가피할 듯...\"7000선에선 적극 매수\"",
+      "source": "오피니언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE16aHVXRmQzRVcyYVNWVm4xU0RxQm56ZDdZdTdwdDhIN05hMzlMdlkwbzQxeTRtRGRNRVBYSEhNUUZMelpoa1Faa2g1ZzVKTkhsU0hROS1WNktEc0t1dEJXTG8zZ0haRVZzVnp0b041bU5wZw?oc=5",
+      "publishedAt": "Sun, 17 May 2026 00:00:00 GMT"
     }
   ],
   "summary": {
@@ -5017,14 +5101,14 @@
         "direction": "상승"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": 0.3873,
-        "direction": "상승"
-      },
-      {
         "label": "USD/KRW",
         "changePercent": 0.3403,
         "direction": "상승"
+      },
+      {
+        "label": "Bitcoin",
+        "changePercent": 0.021,
+        "direction": "보합"
       }
     ],
     "laggards": [
