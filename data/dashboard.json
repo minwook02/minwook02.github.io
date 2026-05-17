@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-18T03:35:25.417162+09:00",
-  "updatedLabel": "2026-05-18 03:35:25 KST",
+  "updatedAt": "2026-05-18T05:05:56.716487+09:00",
+  "updatedLabel": "2026-05-18 05:05:56 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2654,8 +2654,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-17 22:24 KST",
-      "marketTimestamp": 1779024277
+      "marketTime": "2026-05-18 04:24 KST",
+      "marketTimestamp": 1779045892
     },
     {
       "id": "us10y",
@@ -3004,11 +3004,11 @@
       "kind": "commodity",
       "decimals": 2,
       "price": 101.02,
-      "previousClose": 96.92,
-      "change": 4.1,
-      "changePercent": 4.2303,
-      "tone": "up",
-      "direction": "상승",
+      "previousClose": 101.02,
+      "change": 0.0,
+      "changePercent": 0.0,
+      "tone": "flat",
+      "direction": "보합",
       "series": [],
       "marketState": "UNKNOWN",
       "marketTime": "2026-05-16 06:00 KST",
@@ -3022,11 +3022,11 @@
       "kind": "commodity",
       "decimals": 2,
       "price": 4561.9,
-      "previousClose": 4685.3,
-      "change": -123.4,
-      "changePercent": -2.6338,
-      "tone": "down",
-      "direction": "하락",
+      "previousClose": 4561.9,
+      "change": 0.0,
+      "changePercent": 0.0,
+      "tone": "flat",
+      "direction": "보합",
       "series": [],
       "marketState": "UNKNOWN",
       "marketTime": "2026-05-16 05:59 KST",
@@ -3039,12 +3039,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 78092.06,
+      "price": 78347.68,
       "previousClose": 78116.03,
-      "change": -23.97,
-      "changePercent": -0.0307,
-      "tone": "flat",
-      "direction": "보합",
+      "change": 231.65,
+      "changePercent": 0.2965,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1778976000000,
@@ -3939,13 +3939,85 @@
           78089.773438
         ],
         [
-          1779042918000,
-          78092.0625
+          1779042900000,
+          78112.632812
+        ],
+        [
+          1779043200000,
+          78092.140625
+        ],
+        [
+          1779043500000,
+          78138.648438
+        ],
+        [
+          1779043800000,
+          78169.0
+        ],
+        [
+          1779044100000,
+          78230.679688
+        ],
+        [
+          1779044400000,
+          78239.171875
+        ],
+        [
+          1779044700000,
+          78218.15625
+        ],
+        [
+          1779045000000,
+          78231.21875
+        ],
+        [
+          1779045300000,
+          78210.078125
+        ],
+        [
+          1779045600000,
+          78188.007812
+        ],
+        [
+          1779045900000,
+          78180.351562
+        ],
+        [
+          1779046200000,
+          78168.679688
+        ],
+        [
+          1779046500000,
+          78239.992188
+        ],
+        [
+          1779046800000,
+          78339.023438
+        ],
+        [
+          1779047100000,
+          78396.609375
+        ],
+        [
+          1779047400000,
+          78368.796875
+        ],
+        [
+          1779047700000,
+          78393.960938
+        ],
+        [
+          1779048000000,
+          78355.992188
+        ],
+        [
+          1779048340000,
+          78347.679688
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-18 03:35 KST",
-      "marketTimestamp": 1779042918
+      "marketTime": "2026-05-18 05:05 KST",
+      "marketTimestamp": 1779048340
     }
   ],
   "mainCharts": [
@@ -5256,6 +5328,12 @@
       "publishedAt": "Sat, 16 May 2026 21:02:00 GMT"
     },
     {
+      "title": "미중 ‘이란-대만’ 빅딜 가능성 ... 한국 증시 수혜 종목은?",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Qcy1nQkNwR1FUR3Q0eHdqQWZLZkhVMjJWTG84eDJCbkloY25Vc3FVQk5hUXlDSXREaVNnUHBvZllxcDhaWFpOeGk3UUN4dWdOeEE?oc=5",
+      "publishedAt": "Sun, 17 May 2026 19:00:00 GMT"
+    },
+    {
       "title": "환율·금리에 출렁인 코스피… 외인, 자산 재조정에 차익실현도",
       "source": "국민일보",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DVHlITnF3OTVPM0VLWjUzUXF6NUZJYWRUM0FtLVB5RWRoUjVVS3NSMGdVdHFCY25iaHMzdlVTZGI1RXNUT1VjVmhLS1JuTVlERDZnTEQ4YWZyc3NFSlZUaHpORm02Y3d1TVVDU9IBbEFVX3lxTE5DVHlITnF3OTVPM0VLWjUzUXF6NUZJYWRUM0FtLVB5RWRoUjVVS3NSMGdVdHFCY25iaHMzdlVTZGI1RXNUT1VjVmhLS1JuTVlERDZnTEQ4YWZyc3NFSlZUaHpORm02Y3d1TVVDUw?oc=5",
@@ -5284,12 +5362,6 @@
       "source": "진일보",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IZmthNk10eGc1aWg5V1MyVVJwZGZaaDllSW1VcXppamFpd0tnZ2xHRkpFQlhMRW0tMVh2S3paZi1lZGFzUWhMOWtTdUNIX1NpYmFNeDJic3hiaGFVV0xMbkVTMjR3Vk83OGZMbnFZQQ?oc=5",
       "publishedAt": "Sun, 17 May 2026 08:21:39 GMT"
-    },
-    {
-      "title": "美반도체주 4% 내릴때 코스피 0.6% 내려",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WZGVUSmtHenNsQ19OSGx0blZIUTVuOFJza196U1NfdzJkaVBMSHVPWFNCdVI2dEN2d3NhbUtRbWFYS1l6ZWhVTE9kMFFVNkdWX2c?oc=5",
-      "publishedAt": "Sun, 17 May 2026 08:36:22 GMT"
     }
   ],
   "summary": {
@@ -5312,18 +5384,18 @@
     ],
     "leaders": [
       {
-        "label": "WTI",
-        "changePercent": 4.2303,
-        "direction": "상승"
-      },
-      {
         "label": "USD/KRW",
         "changePercent": 0.3403,
         "direction": "상승"
       },
       {
         "label": "Bitcoin",
-        "changePercent": -0.0307,
+        "changePercent": 0.2965,
+        "direction": "상승"
+      },
+      {
+        "label": "WTI",
+        "changePercent": 0.0,
         "direction": "보합"
       }
     ],
@@ -5339,8 +5411,8 @@
         "direction": "하락"
       },
       {
-        "label": "Gold",
-        "changePercent": -2.6338,
+        "label": "NASDAQ",
+        "changePercent": -1.5395,
         "direction": "하락"
       }
     ]
