@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-24T06:27:03.684261+09:00",
-  "updatedLabel": "2026-05-24 06:27:03 KST",
+  "updatedAt": "2026-05-24T07:27:48.517104+09:00",
+  "updatedLabel": "2026-05-24 07:27:48 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4677,10 +4677,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 76795.35,
+      "price": 76515.45,
       "previousClose": 75449.63,
-      "change": 1345.72,
-      "changePercent": 1.7836,
+      "change": 1065.82,
+      "changePercent": 1.4126,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5714,16 +5714,64 @@
         ],
         [
           1779571500000,
-          76798.546875
+          76714.617188
         ],
         [
-          1779571620000,
-          76795.351562
+          1779571800000,
+          76732.9375
+        ],
+        [
+          1779572100000,
+          76621.210938
+        ],
+        [
+          1779572400000,
+          76597.828125
+        ],
+        [
+          1779572700000,
+          76513.460938
+        ],
+        [
+          1779573000000,
+          76643.03125
+        ],
+        [
+          1779573300000,
+          76707.992188
+        ],
+        [
+          1779573600000,
+          76779.390625
+        ],
+        [
+          1779573900000,
+          76635.992188
+        ],
+        [
+          1779574200000,
+          76556.140625
+        ],
+        [
+          1779574500000,
+          76599.976562
+        ],
+        [
+          1779574800000,
+          76475.992188
+        ],
+        [
+          1779575100000,
+          76483.992188
+        ],
+        [
+          1779575262000,
+          76515.453125
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-24 06:27 KST",
-      "marketTimestamp": 1779571620
+      "marketTime": "2026-05-24 07:27 KST",
+      "marketTimestamp": 1779575262
     }
   ],
   "mainCharts": [
@@ -7022,16 +7070,16 @@
   ],
   "headlines": [
     {
+      "title": "[미국발 고금리] 유가·환율까지 3高에 기업들 비명…양극화 심화 우려도",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PLXdHQUd2cHFDN0E5MzNhTjU1YTVfSVlUdjNxTnI2cGs0alJTblF4amJBVzNMWWIxRmdyUlFkQkxSRUlkUlpmVkplRFBlYi05Z1NwMXFYckE5RzDSAWBBVV95cUxQQlNyVlNDMnFUWDVmUjcxdEhJVzgwcF9qdkNaaXhYcXUwb0FZTzRfZHFrR0ZrQ05jMlpMM0o4WkN0bC1xVWlkM2ViNEdVZGt4b2ZfWEY2M1piRUFwMmlIaVg?oc=5",
+      "publishedAt": "Sat, 23 May 2026 21:01:05 GMT"
+    },
+    {
       "title": "‘부처님 오신날 ’ 연휴에도 서학개미 잡는다··· 증권사 해외주식 고객 유치 경쟁",
       "source": "그린포스트코리아",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41dkpQUHNxQVh6SjFWdi1rSXBiaWlhamhlNWFXZHVqMDQ2U0VFeUxIcC0xQTBrTnpWcVNHS2xGRDkxc1A2WURORFdGaUdfby1TZVRsOHZfakJaeEdITi04elpqMnAxcmkzaHJtWUJlTlA0RjhmWk9hYkFB0gF6QVVfeXFMTjV2SlBQc3FBWHpKMVZ2LWtJcGJpaWFqaGU1YVdkdWowNDZTRUV5TEhwLTFBMGtOelZxU0dLbEZEOTFzUDZZRE5EV0ZpR19vLVNlVGw4dl9qQlp4R0hOLTh6WmoycDFyaTNocm1ZQmVOUDRGOGZaT2FiQUE?oc=5",
       "publishedAt": "Sat, 23 May 2026 14:29:39 GMT"
-    },
-    {
-      "title": "[미국발 고금리] 유가·환율까지 3高에 기업들 비명…양극화 심화 우려도",
-      "source": "연합뉴스 한민족센터",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zNTRRMWtUeEswdExmMDNTc0x2MnFpR1ZJbGdZVDA0T3BqRklwc0FkMnVhWEl6M2gyaHh2b0NuYW1EX3ZLNWJqM1BTSXNQWEdVb0xyTGxRNUkxVjFpdmdtbFF2TWxoSkxuRzJaSTZTeTBmbXdy?oc=5",
-      "publishedAt": "Sat, 23 May 2026 21:01:05 GMT"
     },
     {
       "title": "한국·미국 증시 지수 약진…코스닥 급등세 속 엔비디아·양자컴퓨팅 기대감 확산",
@@ -7052,6 +7100,12 @@
       "publishedAt": "Sat, 23 May 2026 03:12:38 GMT"
     },
     {
+      "title": "코스피 8000선 재도전…변동성 속 실적 장세 기대감[주간증시전망]",
+      "source": "뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZLVBwaWNHcFhvbUhuV05JNF9HMHd2d0ljSFJuaHU5c29UekxCSWpsbUZSV3dsVy1HR1lhZWMwZmg3bDJIVTlwbm1VTDlSZkZKME5Qb2M3aWx1MjhDNkJIddIBeEFVX3lxTE5vZ0pxemJhcGdXQ2U4WXZBNVpMU04zMDc1RjlZbWlGMUlxN1c3RkVnbWZBM3hxUkcyUGNPUlI0eFVTVTZuX1QzODVtMWE1NERMSDVUanpsdm5Ibm5MZm0tbVBPQXNiNDJqcUVsS2pNV19UeXdsUDJ5WA?oc=5",
+      "publishedAt": "Sat, 23 May 2026 22:00:00 GMT"
+    },
+    {
       "title": "골드만삭스가 한국 증시를 찍은 이유…반도체 실적이 바꾼 코스피 전망",
       "source": "christiandaily.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04Tk1CY1p6OEc3VDhoaUNiNllxczhRNDJWcDFpdjJMOFMtV2V2Q2hlakRVTjdOMmIwYzc4eTZHbkFtaXJ5eXdKdlpONXZhS3d0anJVXzUyONIBXEFVX3lxTE9CSWVPNV9FclUzYW9Wc19pMlc0eE5FVjF0amhFSWdvRjVqV3hqOGxTOERBb0F5NzA1aGs3VkM2Wi1FQzZFMXNzdTM0aTB3X01NYUdBRmpxU21SYUlE?oc=5",
@@ -7062,12 +7116,6 @@
       "source": "thefairnews.co.kr",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpdng1MERQOVdmYXJfYmFWS2FWcUdhckFKODZkVXZQQlVOQ0UwbTBsZXZNYU5kODMzeVJZZ25jbHdGWjJFRXd5MjZOd01JalhZOW14aGFLSlpQU080aTNOcXRDbHFvdHRlSFd5MW1KZ2jSAXRBVV95cUxNLWt6TnRvb0x6bExDeTdSaFp1ZkNMU0xMY0NjaGJDZVo5bWpuZkZFNmtKMDlvMjhfa0Rld3pPUDNleWRXdERLeTlldzBOcFFDUktfdFJQMzVpeTR4Q0RQNGhvTDZLcURmUjM3d1g5OFpja0xCQQ?oc=5",
       "publishedAt": "Sat, 23 May 2026 15:00:00 GMT"
-    },
-    {
-      "title": "\"국내 증시, 하반기도 긍정적…기업 수익성·가계 자금 머니무브\"",
-      "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tdlp6c2RqTDFleHBrSTBjS2ZBQmx4ZEJVN0ZDcUtudEd5dUZud19wTnl3eVZ5MEZIMHlpaXFpZEJSd3lUbjJEd1ppY2xxb0IycFQwTHNraHhrV1VyYXA2MGdnRGFMSWxwTEZySkY1cTDSAXRBVV95cUxObG56R0M3QkpON0JLdS1aZGl2cW5sdm4tMTBST1FoaHg3YkZrcllQYUxNeXk4RUlDWUlqWnM0VVJ4NHJIdWV1YVZ5SjRFVm5nY2RWRWFwM1NKV0hUQ09FT2lHb2VWSlFsaXpmN0p5UTNTc1lONw?oc=5",
-      "publishedAt": "Sat, 23 May 2026 01:18:15 GMT"
     }
   ],
   "summary": {
@@ -7096,7 +7144,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 1.7836,
+        "changePercent": 1.4126,
         "direction": "상승"
       },
       {
