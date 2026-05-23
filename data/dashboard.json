@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-24T07:27:48.517104+09:00",
-  "updatedLabel": "2026-05-24 07:27:48 KST",
+  "updatedAt": "2026-05-24T08:33:20.859228+09:00",
+  "updatedLabel": "2026-05-24 08:33:20 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2655,6 +2655,10 @@
         [
           1779483300000,
           1520.530029
+        ],
+        [
+          1779490740000,
+          1520.530029
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4677,10 +4681,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 76515.45,
+      "price": 76640.3,
       "previousClose": 75449.63,
-      "change": 1065.82,
-      "changePercent": 1.4126,
+      "change": 1190.67,
+      "changePercent": 1.5781,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5762,16 +5766,68 @@
         ],
         [
           1779575100000,
-          76483.992188
+          76449.546875
         ],
         [
-          1779575262000,
-          76515.453125
+          1779575400000,
+          76449.992188
+        ],
+        [
+          1779575700000,
+          76350.046875
+        ],
+        [
+          1779576000000,
+          76455.070312
+        ],
+        [
+          1779576300000,
+          76482.039062
+        ],
+        [
+          1779576600000,
+          76483.890625
+        ],
+        [
+          1779576900000,
+          76479.992188
+        ],
+        [
+          1779577200000,
+          76494.273438
+        ],
+        [
+          1779577500000,
+          76624.859375
+        ],
+        [
+          1779577800000,
+          76571.453125
+        ],
+        [
+          1779578100000,
+          76626.1875
+        ],
+        [
+          1779578400000,
+          76519.0
+        ],
+        [
+          1779578700000,
+          76535.273438
+        ],
+        [
+          1779579000000,
+          76641.976562
+        ],
+        [
+          1779579195000,
+          76640.296875
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-24 07:27 KST",
-      "marketTimestamp": 1779575262
+      "marketTime": "2026-05-24 08:33 KST",
+      "marketTimestamp": 1779579195
     }
   ],
   "mainCharts": [
@@ -7070,10 +7126,10 @@
   ],
   "headlines": [
     {
-      "title": "[미국발 고금리] 유가·환율까지 3高에 기업들 비명…양극화 심화 우려도",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PLXdHQUd2cHFDN0E5MzNhTjU1YTVfSVlUdjNxTnI2cGs0alJTblF4amJBVzNMWWIxRmdyUlFkQkxSRUlkUlpmVkplRFBlYi05Z1NwMXFYckE5RzDSAWBBVV95cUxQQlNyVlNDMnFUWDVmUjcxdEhJVzgwcF9qdkNaaXhYcXUwb0FZTzRfZHFrR0ZrQ05jMlpMM0o4WkN0bC1xVWlkM2ViNEdVZGt4b2ZfWEY2M1piRUFwMmlIaVg?oc=5",
-      "publishedAt": "Sat, 23 May 2026 21:01:05 GMT"
+      "title": "[마켓인사이트] 급반등 성공한 코스피, '8천피' 재도전 나서나",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TRmZZdGJ3LW02NW1Ib1J3SERPQUZJQ0N0Zm1pRGlkZFZ6QUozMzlCUlR3cVlrdHlEY3RpcWRpSVFnWFVNTVU3TVd2cTdRVkI5VFE?oc=5",
+      "publishedAt": "Sat, 23 May 2026 22:00:17 GMT"
     },
     {
       "title": "‘부처님 오신날 ’ 연휴에도 서학개미 잡는다··· 증권사 해외주식 고객 유치 경쟁",
@@ -7094,16 +7150,16 @@
       "publishedAt": "Sat, 23 May 2026 15:00:00 GMT"
     },
     {
-      "title": "[5월 셋째 주 세계경제동향 브리핑] 코스피 7,800선 돌파…한미 증시 동반 강세",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jWlJhMVVXVkdMbFhTNGlwMjFQUHBEckdSSGFHbjYwUWswMUFOeXdwTjdJZjlaYlJQM25GLVhsdDF3WkxTMmZXWWRFaHdTV2s?oc=5",
-      "publishedAt": "Sat, 23 May 2026 03:12:38 GMT"
-    },
-    {
       "title": "코스피 8000선 재도전…변동성 속 실적 장세 기대감[주간증시전망]",
       "source": "뉴시스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZLVBwaWNHcFhvbUhuV05JNF9HMHd2d0ljSFJuaHU5c29UekxCSWpsbUZSV3dsVy1HR1lhZWMwZmg3bDJIVTlwbm1VTDlSZkZKME5Qb2M3aWx1MjhDNkJIddIBeEFVX3lxTE5vZ0pxemJhcGdXQ2U4WXZBNVpMU04zMDc1RjlZbWlGMUlxN1c3RkVnbWZBM3hxUkcyUGNPUlI0eFVTVTZuX1QzODVtMWE1NERMSDVUanpsdm5Ibm5MZm0tbVBPQXNiNDJqcUVsS2pNV19UeXdsUDJ5WA?oc=5",
       "publishedAt": "Sat, 23 May 2026 22:00:00 GMT"
+    },
+    {
+      "title": "[5월 셋째 주 세계경제동향 브리핑] 코스피 7,800선 돌파…한미 증시 동반 강세",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jWlJhMVVXVkdMbFhTNGlwMjFQUHBEckdSSGFHbjYwUWswMUFOeXdwTjdJZjlaYlJQM25GLVhsdDF3WkxTMmZXWWRFaHdTV2s?oc=5",
+      "publishedAt": "Sat, 23 May 2026 03:12:38 GMT"
     },
     {
       "title": "골드만삭스가 한국 증시를 찍은 이유…반도체 실적이 바꾼 코스피 전망",
@@ -7144,7 +7200,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 1.4126,
+        "changePercent": 1.5781,
         "direction": "상승"
       },
       {
