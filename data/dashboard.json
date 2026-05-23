@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-24T00:43:36.281772+09:00",
-  "updatedLabel": "2026-05-24 00:43:36 KST",
+  "updatedAt": "2026-05-24T02:05:33.823048+09:00",
+  "updatedLabel": "2026-05-24 02:05:33 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4677,10 +4677,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 75425.75,
+      "price": 75370.59,
       "previousClose": 75449.63,
-      "change": -23.88,
-      "changePercent": -0.0317,
+      "change": -79.04,
+      "changePercent": -0.1048,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -5438,16 +5438,80 @@
         ],
         [
           1779550800000,
+          75411.703125
+        ],
+        [
+          1779551100000,
+          75402.351562
+        ],
+        [
+          1779551400000,
           75410.0
         ],
         [
-          1779551003000,
-          75425.75
+          1779551700000,
+          75432.03125
+        ],
+        [
+          1779552000000,
+          75516.289062
+        ],
+        [
+          1779552300000,
+          75435.9375
+        ],
+        [
+          1779552600000,
+          75440.132812
+        ],
+        [
+          1779552900000,
+          75424.390625
+        ],
+        [
+          1779553200000,
+          75321.539062
+        ],
+        [
+          1779553500000,
+          75385.226562
+        ],
+        [
+          1779553800000,
+          75381.5
+        ],
+        [
+          1779554100000,
+          75454.289062
+        ],
+        [
+          1779554400000,
+          75408.96875
+        ],
+        [
+          1779554700000,
+          75405.101562
+        ],
+        [
+          1779555000000,
+          75356.0
+        ],
+        [
+          1779555300000,
+          75347.421875
+        ],
+        [
+          1779555600000,
+          75343.492188
+        ],
+        [
+          1779555928000,
+          75370.59375
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-24 00:43 KST",
-      "marketTimestamp": 1779551003
+      "marketTime": "2026-05-24 02:05 KST",
+      "marketTimestamp": 1779555928
     }
   ],
   "mainCharts": [
@@ -6776,10 +6840,10 @@
       "publishedAt": "Sat, 23 May 2026 01:00:00 GMT"
     },
     {
-      "title": "[사설] 한국 증시의 뜨거운 질주, 변동성을 더욱 경계해야 한다",
+      "title": "개인영향 커진 한국증시…\"삼전·닉스 투자 늘려라\"[주末머니]",
       "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsaE9vNHpxaXJlVHVESEtCU182MXB4SHJ0MEdCQmtSSV85YUJMWU5mMExTOWdXamE4NDMtQWszTmktQnlKNkJYX0FYbEFMYk9wQjc0?oc=5",
-      "publishedAt": "Sat, 23 May 2026 09:40:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oaFZjZS0wMWJJSkRQZXdLbll1Q1lRY3VKUGhMdWc0THRSb2F3R05hZE1kU3RCODZWcmh4dGxTTnhFYi1LZUkxZGVycnRXRHRyMHVZ?oc=5",
+      "publishedAt": "Sat, 23 May 2026 07:09:00 GMT"
     },
     {
       "title": "뉴욕증시, 25일(현지시간) 메모리얼데이로 휴장...다음 주 거래일, 4일로 줄어들어",
@@ -6837,7 +6901,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -0.0317,
+        "changePercent": -0.1048,
         "direction": "보합"
       },
       {
