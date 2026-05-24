@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-24T21:41:49.858478+09:00",
-  "updatedLabel": "2026-05-24 21:41:49 KST",
+  "updatedAt": "2026-05-24T23:26:02.300711+09:00",
+  "updatedLabel": "2026-05-24 23:26:02 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2655,15 +2655,11 @@
         [
           1779483300000,
           1520.530029
-        ],
-        [
-          1779490740000,
-          1520.530029
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-23 09:40 KST",
-      "marketTimestamp": 1779496819
+      "marketTime": "2026-05-24 21:56 KST",
+      "marketTimestamp": 1779627362
     },
     {
       "id": "us10y",
@@ -3047,12 +3043,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 76996.39,
+      "price": 76356.0,
       "previousClose": 76656.484,
-      "change": 339.906,
-      "changePercent": 0.4434,
-      "tone": "up",
-      "direction": "상승",
+      "change": -300.484,
+      "changePercent": -0.392,
+      "tone": "down",
+      "direction": "하락",
       "series": [
         [
           1779580800000,
@@ -3664,16 +3660,96 @@
         ],
         [
           1779626400000,
-          76988.789062
+          77026.59375
         ],
         [
-          1779626505000,
-          76996.390625
+          1779626700000,
+          77005.492188
+        ],
+        [
+          1779627000000,
+          76990.0
+        ],
+        [
+          1779627300000,
+          77013.640625
+        ],
+        [
+          1779627600000,
+          76999.890625
+        ],
+        [
+          1779627900000,
+          76989.179688
+        ],
+        [
+          1779628200000,
+          76950.5
+        ],
+        [
+          1779628500000,
+          77002.859375
+        ],
+        [
+          1779628800000,
+          76961.992188
+        ],
+        [
+          1779629100000,
+          76858.273438
+        ],
+        [
+          1779629400000,
+          76849.351562
+        ],
+        [
+          1779629700000,
+          76799.40625
+        ],
+        [
+          1779630000000,
+          76876.023438
+        ],
+        [
+          1779630300000,
+          76814.976562
+        ],
+        [
+          1779630600000,
+          76696.0
+        ],
+        [
+          1779630900000,
+          76721.21875
+        ],
+        [
+          1779631200000,
+          76648.007812
+        ],
+        [
+          1779631500000,
+          76655.671875
+        ],
+        [
+          1779631800000,
+          76423.53125
+        ],
+        [
+          1779632100000,
+          76196.070312
+        ],
+        [
+          1779632400000,
+          76400.929688
+        ],
+        [
+          1779632757000,
+          76356.0
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-24 21:41 KST",
-      "marketTimestamp": 1779626505
+      "marketTime": "2026-05-24 23:25 KST",
+      "marketTimestamp": 1779632757
     }
   ],
   "mainCharts": [
@@ -4973,9 +5049,9 @@
   "headlines": [
     {
       "title": "美 소비심리 바닥·증시는 최고…커지는 경제 괴리, 한국도 영향권",
-      "source": "중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DazdzVHdHOXlybzFQYWtRZEcwZXpBV05oMnlVQlZoMEtqc1JfUjNsRDdReXoxczBhbWs2TmozUS1oY21YWjh4c19jc3Y0bm1PZnhqb25R?oc=5",
-      "publishedAt": "Sun, 24 May 2026 09:03:44 GMT"
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBONGJnY1kyT2VjYm82NnY3aEtVbU9ZVVlxQ01VM2s1LVZYVEJ5UFN3R2hiSEV2ZDd6b1VXM3FadDQyZk1CeGc?oc=5",
+      "publishedAt": "Sun, 24 May 2026 09:05:00 GMT"
     },
     {
       "title": "외국인 한국증시 ETF 직접거래 가능해지나… 이르면 다음 달 입법예고",
@@ -4990,16 +5066,10 @@
       "publishedAt": "Sun, 24 May 2026 08:42:19 GMT"
     },
     {
-      "title": "[글로벌 경제지표] 美 1분기 GDP·4월 PCE 주목…한국은행 기준금리 결정",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BcW9ZRlBuWGdLQjhOMnpNU3VtZGMtZ0l2VFF0dWZ5UUVBRF9ON2pjTkdBZVo5ZmQ4WVFvczMxbkp0THliU19KNlh2ajcySzg?oc=5",
-      "publishedAt": "Sat, 23 May 2026 22:03:00 GMT"
-    },
-    {
-      "title": "[증시 주간 핫리뷰] 美 국채 변동성 이긴 국내 증시, 반도체·국민성장펀드 호재에 급반등",
-      "source": "the-biz.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wcldJZmNKbDg0d0Zsdi1YZ3dDbEpmS21BOUM3dVNuUktfcnNrNGtHVWFKeXhMVkpHSkdkOFJIMXBvanUzeFpmQ1ZYXzViM2hhdS1ETnNyeXRvZVp4TzkxMXlmM2ZGbHl5QXFhRQ?oc=5",
-      "publishedAt": "Sun, 24 May 2026 07:00:00 GMT"
+      "title": "[마켓인사이트] 급반등 성공한 코스피, '8천피' 재도전 나서나",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zeHlzbllVNXphcENqMnhyZFJaekN5UEtPOEl4MUtFaXZZVnBvS1BSS00zY1Rmb0Z1a2hQV2tTWWZSalByNmpIbzY0OEZ5VWlqX3FXMEwxV0xEZTDSAWBBVV95cUxNOVpnZHAydmhmT0V2bUNuWkNkdlFpSUJscWtFV0oyTXROMFhRQ0p2N2tiYmdGbU5kR2dtbl9RV1p4UGw0aWQ0YVRnckgwb3dfdXlZR09NX284Z3pYRkVfa3A?oc=5",
+      "publishedAt": "Sat, 23 May 2026 22:00:17 GMT"
     },
     {
       "title": "[주간증시전망] 코스피 8천 돌파 도전…중동 협상·금통위·반도체 변수",
@@ -5008,16 +5078,22 @@
       "publishedAt": "Sun, 24 May 2026 04:08:53 GMT"
     },
     {
-      "title": "[미국발 고금리] 유가·환율까지 3高에 기업들 비명…양극화 심화 우려도",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PLXdHQUd2cHFDN0E5MzNhTjU1YTVfSVlUdjNxTnI2cGs0alJTblF4amJBVzNMWWIxRmdyUlFkQkxSRUlkUlpmVkplRFBlYi05Z1NwMXFYckE5RzDSAWBBVV95cUxQQlNyVlNDMnFUWDVmUjcxdEhJVzgwcF9qdkNaaXhYcXUwb0FZTzRfZHFrR0ZrQ05jMlpMM0o4WkN0bC1xVWlkM2ViNEdVZGt4b2ZfWEY2M1piRUFwMmlIaVg?oc=5",
-      "publishedAt": "Sat, 23 May 2026 21:01:05 GMT"
+      "title": "[증시 주간 핫리뷰] 美 국채 변동성 이긴 국내 증시, 반도체·국민성장펀드 호재에 급반등",
+      "source": "the-biz.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wcldJZmNKbDg0d0Zsdi1YZ3dDbEpmS21BOUM3dVNuUktfcnNrNGtHVWFKeXhMVkpHSkdkOFJIMXBvanUzeFpmQ1ZYXzViM2hhdS1ETnNyeXRvZVp4TzkxMXlmM2ZGbHl5QXFhRQ?oc=5",
+      "publishedAt": "Sun, 24 May 2026 07:00:00 GMT"
     },
     {
       "title": "[N위크] 한은 기준금리 결정, '성장률 전망치는...증시 빅 이벤트 데이",
       "source": "조세금융신문",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0bnBTQ0JQaTA0M2p0OHZOWkNRTTE2Yy1EcTktcnBsYThhNkVYaUJOaUdTMmhwaGl1NGc1a2dqV1lrMG9NOFVxWFRRMlVPMEY5RmVqQWtkdUlPd3BxdFlPVTNVVQ?oc=5",
       "publishedAt": "Sun, 24 May 2026 10:17:21 GMT"
+    },
+    {
+      "title": "코스피 8000 돌파 '재도전'…삼전·닉스 2배 ETF 활약 '기대'",
+      "source": "뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IazBnbG9JM095RmhNR2JZbG10Z1dab2l2TG92dUg3YVR5LXl2djRXanh1QkF5WDZlTFd0MlJIZDNxNVVtdFJjQ3JzdnpHVE5xQ185bmxPNVAwWUw0ejMyQWpFb2E?oc=5",
+      "publishedAt": "Sat, 23 May 2026 23:10:00 GMT"
     }
   ],
   "summary": {
@@ -5062,13 +5138,13 @@
         "direction": "하락"
       },
       {
-        "label": "NASDAQ",
-        "changePercent": 0.1935,
-        "direction": "상승"
+        "label": "Bitcoin",
+        "changePercent": -0.392,
+        "direction": "하락"
       },
       {
-        "label": "WTI",
-        "changePercent": 0.2595,
+        "label": "NASDAQ",
+        "changePercent": 0.1935,
         "direction": "상승"
       }
     ]
