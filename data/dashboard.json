@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-25T05:09:17.539898+09:00",
-  "updatedLabel": "2026-05-25 05:09:17 KST",
+  "updatedAt": "2026-05-25T06:30:22.231308+09:00",
+  "updatedLabel": "2026-05-25 06:30:22 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1520.1,
+      "price": 1520.93,
       "previousClose": 1507.12,
-      "change": 12.98,
-      "changePercent": 0.8612,
+      "change": 13.81,
+      "changePercent": 0.9163,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -2658,8 +2658,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-25 04:32 KST",
-      "marketTimestamp": 1779651120
+      "marketTime": "2026-05-25 06:12 KST",
+      "marketTimestamp": 1779657167
     },
     {
       "id": "us10y",
@@ -3043,12 +3043,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 76634.24,
+      "price": 76433.39,
       "previousClose": 76656.484,
-      "change": -22.244,
-      "changePercent": -0.029,
-      "tone": "flat",
-      "direction": "보합",
+      "change": -223.094,
+      "changePercent": -0.291,
+      "tone": "down",
+      "direction": "하락",
       "series": [
         [
           1779580800000,
@@ -4016,16 +4016,80 @@
         ],
         [
           1779653100000,
-          76643.257812
+          76595.179688
         ],
         [
-          1779653351000,
-          76634.242188
+          1779653400000,
+          76595.65625
+        ],
+        [
+          1779653700000,
+          76582.789062
+        ],
+        [
+          1779654000000,
+          76561.21875
+        ],
+        [
+          1779654300000,
+          76579.289062
+        ],
+        [
+          1779654600000,
+          76564.007812
+        ],
+        [
+          1779654900000,
+          76571.109375
+        ],
+        [
+          1779655200000,
+          76588.0
+        ],
+        [
+          1779655500000,
+          76603.296875
+        ],
+        [
+          1779655800000,
+          76559.03125
+        ],
+        [
+          1779656100000,
+          76569.257812
+        ],
+        [
+          1779656400000,
+          76616.289062
+        ],
+        [
+          1779656700000,
+          76614.898438
+        ],
+        [
+          1779657000000,
+          76626.40625
+        ],
+        [
+          1779657300000,
+          76628.0
+        ],
+        [
+          1779657600000,
+          76604.570312
+        ],
+        [
+          1779657900000,
+          76426.359375
+        ],
+        [
+          1779658215000,
+          76433.390625
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-25 05:09 KST",
-      "marketTimestamp": 1779653351
+      "marketTime": "2026-05-25 06:30 KST",
+      "marketTimestamp": 1779658215
     }
   ],
   "mainCharts": [
@@ -5330,10 +5394,34 @@
       "publishedAt": "Sun, 24 May 2026 09:05:00 GMT"
     },
     {
+      "title": "[주간증시전망] ’8000피' 재등정 준비… 종목 레버리지 ETF 등장 - 조선비즈",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmRYMUpzODBSUDBpdmpDRG9aZTI4QU12aWQ3ZzdYV2ZnbGNpMFRVbG5IcVdscWxsVDlUeVpXVXZnVl84dU5tckg4a1BLQjdxMnk5OFpJRFM1eXpyTVhDaXprNDZvX050M01meFhUNE03dVBjc2ExOW10RTVJaGQ0VVlLT3YybUdM0gGcAUFVX3lxTE5mVWVhcTlaS0o5c0NXTEV4OFBjNXJiSEVuRXR0SUREZmxZT0NtTzhYMjZPVEJFdC1iLU9tOGo2ZG5jU1FtZzVKUFBZTVpEWkdvSHhnbzFwNG9BWUhjVllPSkdIeVBFM3MzVnpreDFMYXQ5SXNiVmxvdmpSNXpybzhKeGh1MjNGTk1nLVZ6WkZma0FsLTZVenZlcUJfTQ?oc=5",
+      "publishedAt": "Sun, 24 May 2026 21:00:00 GMT"
+    },
+    {
+      "title": "금주 단일종목 레버리지 출시…증시 변동성 속 당국 노심초사",
+      "source": "연합뉴스 한민족센터",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3Z1Vpci1obWM5Q3YzLU15WmhUSWZ6a0lpaGN4UFQxbW5BWmQtVnVJSFlkWS1ybHF4aURXMWRfWFNqS3dBM3lyMloxV2JIUUZ4c3BoUzRsRUZEM1ZwTVNYQVl3aVpVM3dfTGE0TXdFQ293bHBX?oc=5",
+      "publishedAt": "Sun, 24 May 2026 21:01:03 GMT"
+    },
+    {
+      "title": "[미리보는 증시재료] 금통위·PCE·레버리지 ETF…5월 마지막주 변동성 변수 산적",
+      "source": "뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2dXFFaDNpd2NjM0ZxMTVJa2VKWmFDVGx0MF9uNjcyeTdkOGlTcVJuMUJDTEw3T1pLNHg3RnEya3FYeUZrR3M3aDFhUHJTNXU5ZW1YR0w1bVlRSG4y?oc=5",
+      "publishedAt": "Sun, 24 May 2026 21:00:00 GMT"
+    },
+    {
       "title": "외국인 한국증시 ETF 직접거래 가능해지나… 이르면 다음 달 입법예고",
       "source": "국민일보",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HUG9RNlpScmJPM1NUOU9KVTZiRnBLdk8yREEySnlFR29WalpmcnF2QmFuWHpRaTBjVkZoVDRqYUlJTllyV0xrak9wQm5HaWQ1MDdyTEJjRU16ekhhcWExYndaTnh6RE3SAWxBVV95cUxNdzk3NXI5RGhnYzV2dFhuQlV6TTdQakpHb3NrNC16M0dGa1VYWmJNNlhQbkQ2MU5sYU5GeWJ6X3VZWW5WNDJZNXZoTFZlaUV1MHhzZnFMX2J6SHU0cWg1RXFZMnhvYXJuVFU3azU?oc=5",
       "publishedAt": "Sun, 24 May 2026 05:40:00 GMT"
+    },
+    {
+      "title": "반도체만 웃는 'K자 성장'…국채금리 급등에 실물경제 비상",
+      "source": "뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XNHpTeEZReHZnbXhHVEhSRjJkd2MydzROcVNNV0Z4UkQya05CTkFYU0dEdWN6QXV6QXNjSnNHN013VlpzcDFBSlNjUVVWTUdjM2VDRUFKb0hyam9ZSmJPddIBeEFVX3lxTE4xampaU2VRZHBGNC1DUk01WTFIRm5BR2t4Y2NZaEVaM2ZBakIteUxFZ1lac1VNT0ZpRTdZaFVoOE9ralFtbU5VZkVtRWRReEhmcUFvVGtEdnhueG9yaVhtakozUFc1d2t2alJENFlUTnBzdWVfd0tGcA?oc=5",
+      "publishedAt": "Sun, 24 May 2026 21:01:24 GMT"
     },
     {
       "title": "워시의 Fed, 금리인상 전환예고…리스크 선제 대비해야",
@@ -5346,30 +5434,6 @@
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zeHlzbllVNXphcENqMnhyZFJaekN5UEtPOEl4MUtFaXZZVnBvS1BSS00zY1Rmb0Z1a2hQV2tTWWZSalByNmpIbzY0OEZ5VWlqX3FXMEwxV0xEZTDSAWBBVV95cUxNOVpnZHAydmhmT0V2bUNuWkNkdlFpSUJscWtFV0oyTXROMFhRQ0p2N2tiYmdGbU5kR2dtbl9RV1p4UGw0aWQ0YVRnckgwb3dfdXlZR09NX284Z3pYRkVfa3A?oc=5",
       "publishedAt": "Sat, 23 May 2026 22:00:17 GMT"
-    },
-    {
-      "title": "[N위크] 한은 기준금리 결정, '성장률 전망치는...증시 빅 이벤트 데이",
-      "source": "조세금융신문",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0bnBTQ0JQaTA0M2p0OHZOWkNRTTE2Yy1EcTktcnBsYThhNkVYaUJOaUdTMmhwaGl1NGc1a2dqV1lrMG9NOFVxWFRRMlVPMEY5RmVqQWtkdUlPd3BxdFlPVTNVVQ?oc=5",
-      "publishedAt": "Sun, 24 May 2026 10:17:21 GMT"
-    },
-    {
-      "title": "[주간증시전망] 코스피 8천 돌파 도전…중동 협상·금통위·반도체 변수",
-      "source": "ebn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4cC1CVEVVR09FUHA2dGN2by11N3NUYVlxX1A5WWxyY3pqTjhzU01VMzlvNnFqN3VadTI1MFE4SXVRMGY0THotaWxuYjk1ZXNXMFMyTkNkY1YtTi1XTjhkMXhVaXZhM2x5?oc=5",
-      "publishedAt": "Sun, 24 May 2026 04:08:53 GMT"
-    },
-    {
-      "title": "[증시 주간 핫리뷰] 美 국채 변동성 이긴 국내 증시, 반도체·국민성장펀드 호재에 급반등",
-      "source": "the-biz.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wcldJZmNKbDg0d0Zsdi1YZ3dDbEpmS21BOUM3dVNuUktfcnNrNGtHVWFKeXhMVkpHSkdkOFJIMXBvanUzeFpmQ1ZYXzViM2hhdS1ETnNyeXRvZVp4TzkxMXlmM2ZGbHl5QXFhRQ?oc=5",
-      "publishedAt": "Sun, 24 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "코스피 8000 돌파 '재도전'…삼전·닉스 2배 ETF 활약 '기대'",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IazBnbG9JM095RmhNR2JZbG10Z1dab2l2TG92dUg3YVR5LXl2djRXanh1QkF5WDZlTFd0MlJIZDNxNVVtdFJjQ3JzdnpHVE5xQ185bmxPNVAwWUw0ejMyQWpFb2E?oc=5",
-      "publishedAt": "Sat, 23 May 2026 23:10:00 GMT"
     }
   ],
   "summary": {
@@ -5381,13 +5445,13 @@
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 상승 흐름입니다.",
       "해외는 S&P 500 +0.37%, NASDAQ +0.19%로 확인됩니다.",
-      "매크로 변수는 USD/KRW +0.86%, 미 10년물 -0.61%입니다."
+      "매크로 변수는 USD/KRW +0.92%, 미 10년물 -0.61%입니다."
     ],
     "checkpoints": [
       "KOSPI +0.41% 상승",
       "KOSDAQ +4.99% 상승",
       "미국 증시 상승 / 나스닥 +0.19%",
-      "원달러 +0.86% (+12.98)",
+      "원달러 +0.92% (+13.81)",
       "미 10년물 -0.028p (-0.61%)"
     ],
     "leaders": [
@@ -5398,7 +5462,7 @@
       },
       {
         "label": "USD/KRW",
-        "changePercent": 0.8612,
+        "changePercent": 0.9163,
         "direction": "상승"
       },
       {
@@ -5410,8 +5474,8 @@
     "laggards": [
       {
         "label": "Bitcoin",
-        "changePercent": -0.029,
-        "direction": "보합"
+        "changePercent": -0.291,
+        "direction": "하락"
       },
       {
         "label": "WTI",
