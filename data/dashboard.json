@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-25T02:08:49.506437+09:00",
-  "updatedLabel": "2026-05-25 02:08:49 KST",
+  "updatedAt": "2026-05-25T03:39:41.131212+09:00",
+  "updatedLabel": "2026-05-25 03:39:41 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -972,8 +972,8 @@
       "kind": "equity",
       "decimals": 2,
       "price": 26343.97,
-      "previousClose": 26293.098,
-      "change": 50.872,
+      "previousClose": 26293.1,
+      "change": 50.87,
       "changePercent": 0.1935,
       "tone": "up",
       "direction": "상승",
@@ -1307,8 +1307,8 @@
       "kind": "equity",
       "decimals": 2,
       "price": 50579.7,
-      "previousClose": 50285.66,
-      "change": 294.04,
+      "previousClose": 50285.7,
+      "change": 294.0,
       "changePercent": 0.5847,
       "tone": "up",
       "direction": "상승",
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1520.53,
+      "price": 1520.26,
       "previousClose": 1507.12,
-      "change": 13.41,
-      "changePercent": 0.8898,
+      "change": 13.14,
+      "changePercent": 0.8719,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -2658,8 +2658,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-24 21:56 KST",
-      "marketTimestamp": 1779627362
+      "marketTime": "2026-05-25 03:01 KST",
+      "marketTimestamp": 1779645663
     },
     {
       "id": "us10y",
@@ -3043,10 +3043,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 76607.34,
+      "price": 76600.48,
       "previousClose": 76656.484,
-      "change": -49.144,
-      "changePercent": -0.0641,
+      "change": -56.004,
+      "changePercent": -0.0731,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -3872,16 +3872,88 @@
         ],
         [
           1779642300000,
-          76598.023438
+          76612.59375
         ],
         [
-          1779642522000,
-          76607.34375
+          1779642600000,
+          76536.203125
+        ],
+        [
+          1779642900000,
+          76479.007812
+        ],
+        [
+          1779643200000,
+          76546.25
+        ],
+        [
+          1779643500000,
+          76522.609375
+        ],
+        [
+          1779643800000,
+          76524.632812
+        ],
+        [
+          1779644100000,
+          76620.046875
+        ],
+        [
+          1779644400000,
+          76600.867188
+        ],
+        [
+          1779644700000,
+          76639.5
+        ],
+        [
+          1779645000000,
+          76620.023438
+        ],
+        [
+          1779645300000,
+          76591.25
+        ],
+        [
+          1779645600000,
+          76569.070312
+        ],
+        [
+          1779645900000,
+          76589.046875
+        ],
+        [
+          1779646200000,
+          76632.023438
+        ],
+        [
+          1779646500000,
+          76657.773438
+        ],
+        [
+          1779646800000,
+          76627.039062
+        ],
+        [
+          1779647100000,
+          76584.0
+        ],
+        [
+          1779647400000,
+          76538.382812
+        ],
+        [
+          1779647700000,
+          76600.539062
+        ],
+        [
+          1779647977000,
+          76600.476562
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-25 02:08 KST",
-      "marketTimestamp": 1779642522
+      "marketTime": "2026-05-25 03:39 KST",
+      "marketTimestamp": 1779647977
     }
   ],
   "mainCharts": [
@@ -4850,8 +4922,8 @@
       "kind": "equity",
       "decimals": 2,
       "price": 26343.97,
-      "previousClose": 26293.098,
-      "change": 50.872,
+      "previousClose": 26293.1,
+      "change": 50.87,
       "changePercent": 0.1935,
       "tone": "up",
       "direction": "상승",
@@ -5192,16 +5264,16 @@
       "publishedAt": "Sun, 24 May 2026 05:40:00 GMT"
     },
     {
-      "title": "[마켓인사이트] 급반등 성공한 코스피, '8천피' 재도전 나서나",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zeHlzbllVNXphcENqMnhyZFJaekN5UEtPOEl4MUtFaXZZVnBvS1BSS00zY1Rmb0Z1a2hQV2tTWWZSalByNmpIbzY0OEZ5VWlqX3FXMEwxV0xEZTDSAWBBVV95cUxNOVpnZHAydmhmT0V2bUNuWkNkdlFpSUJscWtFV0oyTXROMFhRQ0p2N2tiYmdGbU5kR2dtbl9RV1p4UGw0aWQ0YVRnckgwb3dfdXlZR09NX284Z3pYRkVfa3A?oc=5",
-      "publishedAt": "Sat, 23 May 2026 22:00:17 GMT"
-    },
-    {
       "title": "워시의 Fed, 금리인상 전환예고…리스크 선제 대비해야",
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JVnpqQ1VrVm4yZlktbTNGVEFDRHpvUklFRVBBOVRqaW16YkdXT2tDMUFIajFHOV8wdjBHMFNxS2E2bXl3TlRjVjBrYjdsRDYtdldKTtIBVEFVX3lxTE1JVnpqQ1VrVm4yZlktbTNGVEFDRHpvUklFRVBBOVRqaW16YkdXT2tDMUFIajFHOV8wdjBHMFNxS2E2bXl3TlRjVjBrYjdsRDYtdldKTg?oc=5",
       "publishedAt": "Sun, 24 May 2026 08:42:19 GMT"
+    },
+    {
+      "title": "[마켓인사이트] 급반등 성공한 코스피, '8천피' 재도전 나서나",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zeHlzbllVNXphcENqMnhyZFJaekN5UEtPOEl4MUtFaXZZVnBvS1BSS00zY1Rmb0Z1a2hQV2tTWWZSalByNmpIbzY0OEZ5VWlqX3FXMEwxV0xEZTDSAWBBVV95cUxNOVpnZHAydmhmT0V2bUNuWkNkdlFpSUJscWtFV0oyTXROMFhRQ0p2N2tiYmdGbU5kR2dtbl9RV1p4UGw0aWQ0YVRnckgwb3dfdXlZR09NX284Z3pYRkVfa3A?oc=5",
+      "publishedAt": "Sat, 23 May 2026 22:00:17 GMT"
     },
     {
       "title": "[N위크] 한은 기준금리 결정, '성장률 전망치는...증시 빅 이벤트 데이",
@@ -5222,10 +5294,10 @@
       "publishedAt": "Sun, 24 May 2026 07:00:00 GMT"
     },
     {
-      "title": "코스피 8000 돌파 '재도전'…삼전·닉스 2배 ETF 활약 '기대'",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IazBnbG9JM095RmhNR2JZbG10Z1dab2l2TG92dUg3YVR5LXl2djRXanh1QkF5WDZlTFd0MlJIZDNxNVVtdFJjQ3JzdnpHVE5xQ185bmxPNVAwWUw0ejMyQWpFb2E?oc=5",
-      "publishedAt": "Sat, 23 May 2026 23:10:00 GMT"
+      "title": "고환율·고유가 이어 금리 압박까지…기업·가계 ‘3고 쇼크’ 비상",
+      "source": "서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iVnRpZE10UTBIaEIxSk5tNUI2ckdQV2JPcGpUdXBIdDRFSnFqODVMbDczS0YyTHdwMnBRcjRDNXhnZElwYXJwVDF3VjFkYkRaTEE?oc=5",
+      "publishedAt": "Sun, 24 May 2026 00:58:04 GMT"
     }
   ],
   "summary": {
@@ -5237,13 +5309,13 @@
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 상승 흐름입니다.",
       "해외는 S&P 500 +0.37%, NASDAQ +0.19%로 확인됩니다.",
-      "매크로 변수는 USD/KRW +0.89%, 미 10년물 -0.61%입니다."
+      "매크로 변수는 USD/KRW +0.87%, 미 10년물 -0.61%입니다."
     ],
     "checkpoints": [
       "KOSPI +0.41% 상승",
       "KOSDAQ +4.99% 상승",
       "미국 증시 상승 / 나스닥 +0.19%",
-      "원달러 +0.89% (+13.41)",
+      "원달러 +0.87% (+13.14)",
       "미 10년물 -0.028p (-0.61%)"
     ],
     "leaders": [
@@ -5254,7 +5326,7 @@
       },
       {
         "label": "USD/KRW",
-        "changePercent": 0.8898,
+        "changePercent": 0.8719,
         "direction": "상승"
       },
       {
@@ -5271,7 +5343,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -0.0641,
+        "changePercent": -0.0731,
         "direction": "보합"
       },
       {
