@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-30T16:42:31.577054+09:00",
-  "updatedLabel": "2026-05-30 16:42:31 KST",
+  "updatedAt": "2026-05-30T19:04:14.547919+09:00",
+  "updatedLabel": "2026-05-30 19:04:14 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3832,7 +3832,7 @@
         ],
         [
           1780088100000,
-          87.760002
+          87.360001
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4663,7 +4663,7 @@
         ],
         [
           1780088100000,
-          4569.899902
+          4593.0
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4677,12 +4677,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 73400.24,
+      "price": 73504.25,
       "previousClose": 73369.125,
-      "change": 31.115,
-      "changePercent": 0.0424,
-      "tone": "flat",
-      "direction": "보합",
+      "change": 135.125,
+      "changePercent": 0.1842,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1780099200000,
@@ -5054,16 +5054,128 @@
         ],
         [
           1780126800000,
-          73403.039062
+          73391.242188
         ],
         [
-          1780126946000,
-          73400.242188
+          1780127100000,
+          73439.257812
+        ],
+        [
+          1780127400000,
+          73442.03125
+        ],
+        [
+          1780127700000,
+          73450.023438
+        ],
+        [
+          1780128000000,
+          73452.007812
+        ],
+        [
+          1780128300000,
+          73454.0
+        ],
+        [
+          1780128600000,
+          73466.007812
+        ],
+        [
+          1780128900000,
+          73410.0625
+        ],
+        [
+          1780129200000,
+          73452.539062
+        ],
+        [
+          1780129500000,
+          73438.007812
+        ],
+        [
+          1780129800000,
+          73429.992188
+        ],
+        [
+          1780130100000,
+          73417.28125
+        ],
+        [
+          1780130400000,
+          73409.96875
+        ],
+        [
+          1780130700000,
+          73420.726562
+        ],
+        [
+          1780131000000,
+          73413.242188
+        ],
+        [
+          1780131300000,
+          73410.0625
+        ],
+        [
+          1780131600000,
+          73429.953125
+        ],
+        [
+          1780131900000,
+          73443.789062
+        ],
+        [
+          1780132200000,
+          73447.976562
+        ],
+        [
+          1780132500000,
+          73433.65625
+        ],
+        [
+          1780132800000,
+          73448.992188
+        ],
+        [
+          1780133100000,
+          73465.90625
+        ],
+        [
+          1780133400000,
+          73475.992188
+        ],
+        [
+          1780133700000,
+          73465.382812
+        ],
+        [
+          1780134000000,
+          73470.023438
+        ],
+        [
+          1780134300000,
+          73468.0
+        ],
+        [
+          1780134600000,
+          73509.546875
+        ],
+        [
+          1780134900000,
+          73512.007812
+        ],
+        [
+          1780135200000,
+          73504.257812
+        ],
+        [
+          1780135448000,
+          73504.25
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-30 16:42 KST",
-      "marketTimestamp": 1780126946
+      "marketTime": "2026-05-30 19:04 KST",
+      "marketTimestamp": 1780135448
     }
   ],
   "mainCharts": [
@@ -6374,6 +6486,18 @@
       "publishedAt": "Sat, 30 May 2026 04:40:20 GMT"
     },
     {
+      "title": "\"안 사자니 배 아프고, 들어가자니 무섭고\"…세계 5위 한국 증시 아직 싸다는 증권가",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1leWhxbzZVdWpsLWpPellya1ppLXBwNUdWdFY2NlJaQ2E2WUNjZ2MxV1FOckdxUEgwckR6NGNweDEwYUMxNGlHYTBDMlI1eVE?oc=5",
+      "publishedAt": "Fri, 29 May 2026 23:05:01 GMT"
+    },
+    {
+      "title": "[리뷰] 외국인은 왜 한국 주식을 팔고 있을까",
+      "source": "CEONEWS",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ra0xoYXRTR3ZMTlhYVUstUkx6dVJfT0FvMlFsSURwMS1CTzdYVTZUTG1OVUF5aXk0QThrUklsSnM4V2dha2pTbDJQS0U0cWFpVUwzT29CaWFvOEdYQXJz?oc=5",
+      "publishedAt": "Sat, 30 May 2026 07:51:00 GMT"
+    },
+    {
       "title": "[5월 넷째 주 세계경제동향 브리핑] 코스피 8,400선 돌파…한미 증시 동반 강세",
       "source": "기호일보",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JUnBiOElpRThZZlpQZl9pb0JLblowanV1UEdrWk5QQzcwZi0xZXdWeXd5T1dmblBoZ21XeEU5OV9XaW11aVVqYm5sYllUWG5DVlluaUo1SHJzZDZyTmxBaWYwMjdkLXJBUS1aZFJsMA?oc=5",
@@ -6396,18 +6520,6 @@
       "source": "초이스경제",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUMlhFTU85MDdtSlRkTXl1QUNoa1c5THpNRUxHUUpFaE4waGFLVWhOamFkckRqS2dNSlI0TjE5anJBVDNkQlJKX0doOFAxQ3FLOURxajJwMVZrdnhsTF9uU1k0UVkzZ25ZQUtWeHQ5UdIBc0FVX3lxTE1sMklEalBRbWxoYWVFZ2tRYk9Xa055NjhjakxNSXJxUXFLRlYySUdDWnR6bTcwZldCbnpVZnBOS1ItZGtxUnd4c2VOS2RtM3lSbkFySi12OTdZT1EzU1J2R0hDNnpQdUtueGpvNVJvRUZBc3M?oc=5",
       "publishedAt": "Fri, 29 May 2026 19:34:29 GMT"
-    },
-    {
-      "title": "[슬금슬금] 한은, 금리 '매파적 동결'에 시장은 왜 긴장...7월 금통위 '촉각'",
-      "source": "the-biz.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UN0FLY05DTDNhcXZhXzItWHFFM2VJQmd6Rm0yeVdlb0ZhSmI2cWMyYUQyMUNjZjBiUzJaaUdrYnpkTXF4N0lmTkZwRUhtYzlnWTRtcWtLUElBWDVqSkdhUng1cXhtMDdic2p2eg?oc=5",
-      "publishedAt": "Sat, 30 May 2026 01:00:00 GMT"
-    },
-    {
-      "title": "[5월 30일](미국 마감) 닷컴 버블과는 다르다? 숫자로 증명된 AI 랠리 확산과 한국 증시 생존 전략",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2NaeExrekI1Q3ZZSVM5S0tBdk95VDdveWpMUy11VHd5bF9JekNvTEdELUdHb0dwckMzM2s5OXZLU0pnZ0VleHQ4MXVJakZRR0puME5FVWxYaTdxRzFNWTkzdmZPaW05bzFnUEpEMTJhUVRYdGNaLURwMnI4WUJScVUteTFhX21DcFpNdE9ScDVhZw?oc=5",
-      "publishedAt": "Fri, 29 May 2026 23:08:00 GMT"
     }
   ],
   "summary": {
@@ -6458,8 +6570,8 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.0424,
-        "direction": "보합"
+        "changePercent": 0.1842,
+        "direction": "상승"
       }
     ]
   },
