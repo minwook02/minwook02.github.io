@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-01T05:14:22.841429+09:00",
-  "updatedLabel": "2026-06-01 05:14:22 KST",
+  "updatedAt": "2026-06-01T06:32:57.033796+09:00",
+  "updatedLabel": "2026-06-01 06:32:57 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1507.13,
+      "price": 1507.38,
       "previousClose": 1493.79,
-      "change": 13.34,
-      "changePercent": 0.893,
+      "change": 13.59,
+      "changePercent": 0.9098,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -2662,8 +2662,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-01 04:00 KST",
-      "marketTimestamp": 1780254001
+      "marketTime": "2026-06-01 06:17 KST",
+      "marketTimestamp": 1780262274
     },
     {
       "id": "us10y",
@@ -3047,10 +3047,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 73552.16,
+      "price": 73516.88,
       "previousClose": 73754.984,
-      "change": -202.824,
-      "changePercent": -0.275,
+      "change": -238.104,
+      "changePercent": -0.3228,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -4024,16 +4024,80 @@
         ],
         [
           1780258200000,
-          73538.1875
+          73580.632812
         ],
         [
-          1780258454000,
-          73552.15625
+          1780258500000,
+          73604.492188
+        ],
+        [
+          1780258800000,
+          73576.25
+        ],
+        [
+          1780259100000,
+          73570.992188
+        ],
+        [
+          1780259400000,
+          73560.992188
+        ],
+        [
+          1780259700000,
+          73567.71875
+        ],
+        [
+          1780260000000,
+          73586.890625
+        ],
+        [
+          1780260300000,
+          73572.851562
+        ],
+        [
+          1780260600000,
+          73628.976562
+        ],
+        [
+          1780260900000,
+          73620.15625
+        ],
+        [
+          1780261200000,
+          73638.0625
+        ],
+        [
+          1780261500000,
+          73606.976562
+        ],
+        [
+          1780261800000,
+          73566.140625
+        ],
+        [
+          1780262100000,
+          73565.007812
+        ],
+        [
+          1780262400000,
+          73556.296875
+        ],
+        [
+          1780262700000,
+          73538.578125
+        ],
+        [
+          1780263000000,
+          73517.171875
+        ],
+        [
+          1780263170000,
+          73516.882812
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-01 05:14 KST",
-      "marketTimestamp": 1780258454
+      "marketTime": "2026-06-01 06:32 KST",
+      "marketTimestamp": 1780263170
     }
   ],
   "mainCharts": [
@@ -5332,16 +5396,28 @@
   ],
   "headlines": [
     {
+      "title": "상법개정으로 시작한 K증시, 르네상스를 열다",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBEQy1yZWNOSllPMXZEM3Iwd3E4ZTh3b3FHZFlIaGRCN3VCcGlkdkFOeUpfZndPNGFFZzBBNmNFQnJEOXJVeUE?oc=5",
+      "publishedAt": "Sun, 31 May 2026 07:23:23 GMT"
+    },
+    {
+      "title": "[데스크칼럼] ‘만스피’라는 유령이 증시를 떠돌고 있다",
+      "source": "IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oYWFJRzFfV1MtbUh0UGVCVHFuUW9MME9uLVlNMnBUYlpDUzdtSWtRdXRHMlc4bUFCTFc4dnBxT0FoMDlXVnlHbVV1SlRiT3RCd19PWGZFUnZZOU50Wm0wVlI1WGtPU3JUMlp2LVdia0rSAXRBVV95cUxOZTJINnlfTjd2Vi1VTjlneDF3U3ZLamNzQzhiVEhTZ1A0aVBQeHVFNktKZEhVZzVMTXdtTXVyR3NxR3NWaW1sMmlNWFh6Y05XbHdqSTc3eGhzcWloalRUdGlSYjU1UFM1c3dORWJoRWwzLURUWQ?oc=5",
+      "publishedAt": "Sun, 31 May 2026 21:00:00 GMT"
+    },
+    {
+      "title": "6월 증시 뒤흔들 주요 일정은⋯스페이스X 상장ㆍ케빈 워시ㆍMSCI 편입까지",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCRXJDdFNUcWFHa3R3TzZrbEU5b3pYYWZKV0tKOHJpQjE0NHVsRWtXdHhybXg3ZXliVXhrdGg1eVVsa25TRkJXNjZSeTRiaFdaMEE1Sg?oc=5",
+      "publishedAt": "Sun, 31 May 2026 21:00:00 GMT"
+    },
+    {
       "title": "뉴욕·상하이 증시, 美증시 변수는 '종전MOU·비농업 고용'",
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oNWFmcHctd0pjWFVEaDN1ejZtay1yOEZ0dVhUeUlwWkhOOGJOVFR0cVhlQ0pLYnUyTFQ1WkJhZ0lkeXBfYm9RTUlRVFgtRExKUzNpTnVscmNud9IBVEFVX3lxTFBSc21pdHRkekZaczRfSXEyWlpaZkYzM2xPZkk3LWxVaFdwaWNZNUF1N2pPR3VXU1lDODJsd0NNeGR6emFfZms0cmNjS3FiTHhSdzBObg?oc=5",
       "publishedAt": "Sun, 31 May 2026 09:50:52 GMT"
-    },
-    {
-      "title": "[주간증시전망] 8000선 다지는 코스피… 엔비디아 컴퓨텍스와 6·3 지방선거 주목 - 조선비즈",
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZVEwWjNEZV9iWnJFTG5oV2JZcjZ3ZmVqekZsTDJxcU1lTGVUYW8wMDhYc0Zzcko4N2NZN0hiWHlORDYyNTFzTDdTQWxDSmpMd240V1IzVElhelJLZzh1Y0kwbWNISl9LU3FhREV3b1o5RHNJVEFvbzdmSHZKdEx3MmRsakZCNlpt0gGcAUFVX3lxTE5KRkpRTUoxU1B5aFJsM0oxNXJFSUdIRlpqQk5iNno3MDh4WHF0TTQ2RW50MDBOYVZoaUp6YldwUnpZZnphejgwRkZsa2tzbmUxaG53Wk5CWDNwbDZUbl9nLWd2R2pSdzEzUlptQVhKdE53b3lKMURNQ3ByVHVyejlmOU1tQlk2V3doUnZHOXEtTEZLN1NSSmdzdlNxZg?oc=5",
-      "publishedAt": "Sun, 31 May 2026 02:02:00 GMT"
     },
     {
       "title": "9주 연속 ‘활짝’ 세계 증시 vs ‘침통한’ 암호화폐",
@@ -5356,28 +5432,16 @@
       "publishedAt": "Sat, 30 May 2026 23:20:21 GMT"
     },
     {
-      "title": "상법개정으로 시작한 K증시, 르네상스를 열다",
-      "source": "아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tOFpXYWQyTlNaSTlwOGZITklNYlVnRTJ2MlpISlRrWEppSmJScUhiSFAyeUcxNlFHRVdpLUxleHRybUpWN19OT3pobTlCajFDTWxqc1dmdUlwQdIBWEFVX3lxTE51UFJJSzBzUnkwZEU0VWRSMkx6RjJpeXZwWkdqbW9Qdzc4NHNxSXNsN1RsOTItUGdOOVZIXzJWcW5aM01FOTRrcFlYRTBBU2M4TVNWZG5Ramk?oc=5",
-      "publishedAt": "Sun, 31 May 2026 07:23:15 GMT"
-    },
-    {
       "title": "[주간 증시 전망] '삼전·닉스' 질주에 '9000피' 눈앞…순환매 가능성 '주의'",
       "source": "뉴스웍스",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5waGFBblYtSUhaTndMUUJVUWEzdGdxTWt0aVBGMHhnM193bk9qRWRQckNWMHVwbW5qZTR1M2dRQXQydUsxZ0lzeTBnNlM0WWFYQko2My1LRFpOTHBlWnhaRjFrTUctX2kwUkNfMlUta29tcmvSAXNBVV95cUxOcGhhQW5WLUlIWk53TFFCVVFhM3RncU1rdGlQRjB4ZzNfd25PakVkUHJDVjB1cG1uamU0dTNnUUF0MnVLMWdJc3kwZzZTNFlhWEJKNjMtS0RaTkxwZVp4WkYxa01HLV9pMFJDXzJVLWtvbXJr?oc=5",
       "publishedAt": "Sun, 31 May 2026 05:06:40 GMT"
     },
     {
-      "title": "‘K-주식 직구’ 시대 본격화…30년 빗장 푼 한국 증시 ‘인프라 대전환’",
-      "source": "쿠키뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXVEdxcE1Tak9PWHRRRmZCUDJFNFlfOFR0U1UxY1Atb19yTmF5RXVlb2NQb2VYams2bmtpS3kxYzNZQVB3T0N1XzV2VlI4dHFxbEZnbTd3anhQLWx1cWNTRzAtdw?oc=5",
-      "publishedAt": "Sat, 30 May 2026 23:39:25 GMT"
-    },
-    {
-      "title": "韓증시 공포지수 치솟는다",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94RVFMYUtPNi1kbWk5czhhOVlJdDVKY3l4MVU3MURrY1VsNVI0WUlsb0hzckZyeS1PVFU2UnREV3FYbEI2TTVicktwTHZaMFFsbnc?oc=5",
-      "publishedAt": "Sun, 31 May 2026 08:06:12 GMT"
+      "title": "\"코스피 8000, 더 올라간다\" 美 BofA가 꽂힌 '제2 삼전닉스'",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGdjV1MG1CY2szTEVXYVBZWktubHZ2NXlSeFdYZTMwTWE5RnJpbE14WkdBWXV3cTkydExueHJiVFFPUlRZb0pGRERkaFExNUlEZl9z?oc=5",
+      "publishedAt": "Sun, 31 May 2026 20:01:00 GMT"
     }
   ],
   "summary": {
@@ -5389,13 +5453,13 @@
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 하락 흐름입니다.",
       "해외는 S&P 500 +0.22%, NASDAQ +0.20%로 확인됩니다.",
-      "매크로 변수는 USD/KRW +0.89%, 미 10년물 -0.04%입니다."
+      "매크로 변수는 USD/KRW +0.91%, 미 10년물 -0.04%입니다."
     ],
     "checkpoints": [
       "KOSPI +3.55% 상승",
       "KOSDAQ -2.68% 하락",
       "미국 증시 상승 / 나스닥 +0.20%",
-      "원달러 +0.89% (+13.34)",
+      "원달러 +0.91% (+13.59)",
       "미 10년물 -0.002p (-0.04%)"
     ],
     "leaders": [
@@ -5406,7 +5470,7 @@
       },
       {
         "label": "USD/KRW",
-        "changePercent": 0.893,
+        "changePercent": 0.9098,
         "direction": "상승"
       },
       {
@@ -5423,7 +5487,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -0.275,
+        "changePercent": -0.3228,
         "direction": "하락"
       },
       {
