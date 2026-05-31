@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-01T00:49:54.051304+09:00",
-  "updatedLabel": "2026-06-01 00:49:54 KST",
+  "updatedAt": "2026-06-01T02:12:18.283679+09:00",
+  "updatedLabel": "2026-06-01 02:12:18 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -972,9 +972,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 26972.62,
-      "previousClose": 26917.47,
-      "change": 55.15,
-      "changePercent": 0.2049,
+      "previousClose": 26917.5,
+      "change": 55.12,
+      "changePercent": 0.2048,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -1296,8 +1296,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-30 06:15 KST",
-      "marketTimestamp": 1780089359
+      "marketTime": "2026-05-30 06:16 KST",
+      "marketTimestamp": 1780089361
     },
     {
       "id": "dow",
@@ -1307,9 +1307,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 51032.46,
-      "previousClose": 50668.97,
-      "change": 363.49,
-      "changePercent": 0.7174,
+      "previousClose": 50669.0,
+      "change": 363.46,
+      "changePercent": 0.7173,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -2410,7 +2410,7 @@
         ],
         [
           1780069800000,
-          1503.869995
+          1503.800049
         ],
         [
           1780070100000,
@@ -3047,10 +3047,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 73534.13,
+      "price": 73400.74,
       "previousClose": 73754.984,
-      "change": -220.854,
-      "changePercent": -0.2994,
+      "change": -354.244,
+      "changePercent": -0.4803,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3812,16 +3812,84 @@
         ],
         [
           1780242300000,
-          73562.851562
+          73523.5
         ],
         [
-          1780242589000,
-          73534.132812
+          1780242600000,
+          73542.703125
+        ],
+        [
+          1780242900000,
+          73542.757812
+        ],
+        [
+          1780243200000,
+          73582.1875
+        ],
+        [
+          1780243500000,
+          73594.703125
+        ],
+        [
+          1780243800000,
+          73511.578125
+        ],
+        [
+          1780244100000,
+          73503.453125
+        ],
+        [
+          1780244400000,
+          73469.992188
+        ],
+        [
+          1780244700000,
+          73495.601562
+        ],
+        [
+          1780245000000,
+          73330.007812
+        ],
+        [
+          1780245300000,
+          73419.492188
+        ],
+        [
+          1780245600000,
+          73395.9375
+        ],
+        [
+          1780245900000,
+          73339.476562
+        ],
+        [
+          1780246200000,
+          73429.78125
+        ],
+        [
+          1780246500000,
+          73426.007812
+        ],
+        [
+          1780246800000,
+          73393.976562
+        ],
+        [
+          1780247100000,
+          73405.359375
+        ],
+        [
+          1780247400000,
+          73401.789062
+        ],
+        [
+          1780247534000,
+          73400.742188
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-01 00:49 KST",
-      "marketTimestamp": 1780242589
+      "marketTime": "2026-06-01 02:12 KST",
+      "marketTimestamp": 1780247534
     }
   ],
   "mainCharts": [
@@ -4790,9 +4858,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 26972.62,
-      "previousClose": 26917.47,
-      "change": 55.15,
-      "changePercent": 0.2049,
+      "previousClose": 26917.5,
+      "change": 55.12,
+      "changePercent": 0.2048,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5114,8 +5182,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-30 06:15 KST",
-      "marketTimestamp": 1780089359
+      "marketTime": "2026-05-30 06:16 KST",
+      "marketTimestamp": 1780089361
     }
   ],
   "headlines": [
@@ -5132,6 +5200,12 @@
       "publishedAt": "Sun, 31 May 2026 02:02:00 GMT"
     },
     {
+      "title": "9주 연속 ‘활짝’ 세계 증시 vs ‘침통한’ 암호화폐",
+      "source": "애플경제",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BTlFDNmZkblVKZm82SGN5UmtxcXM5NHNac19Za0tKc05Wa3gzaDJYdjNhT0x0Qy15QW9VVm1ON1JCMm1YWWNKTjRqSHVXUlBkVzV6WUlwdkpSQzVOOFRjOEdjeVpnVXNaV09MYzhKaE4?oc=5",
+      "publishedAt": "Sun, 31 May 2026 13:14:09 GMT"
+    },
+    {
       "title": "9000 향하는 코스피…종전 여부에 ‘주목’[주간증시]",
       "source": "에너지경제신문",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jbk1GTXZfUEhUakFpUXc5dC1jcXQzdHd5d2pXb1pBVW5kbzk3QXpZTjJCN0lUT1BRN3hoejJYcU54Z1Rrd29MOXgzMENGX1d0WVlxZUw0SjNVSWM?oc=5",
@@ -5144,28 +5218,22 @@
       "publishedAt": "Sat, 30 May 2026 23:39:25 GMT"
     },
     {
-      "title": "[주간 증시 전망] '삼전·닉스' 질주에 '9000피' 눈앞…순환매 가능성 '주의'",
-      "source": "뉴스웍스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5waGFBblYtSUhaTndMUUJVUWEzdGdxTWt0aVBGMHhnM193bk9qRWRQckNWMHVwbW5qZTR1M2dRQXQydUsxZ0lzeTBnNlM0WWFYQko2My1LRFpOTHBlWnhaRjFrTUctX2kwUkNfMlUta29tcmvSAXNBVV95cUxOcGhhQW5WLUlIWk53TFFCVVFhM3RncU1rdGlQRjB4ZzNfd25PakVkUHJDVjB1cG1uamU0dTNnUUF0MnVLMWdJc3kwZzZTNFlhWEJKNjMtS0RaTkxwZVp4WkYxa01HLV9pMFJDXzJVLWtvbXJr?oc=5",
-      "publishedAt": "Sun, 31 May 2026 05:06:40 GMT"
-    },
-    {
       "title": "상법개정으로 시작한 K증시, 르네상스를 열다",
       "source": "아주경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tOFpXYWQyTlNaSTlwOGZITklNYlVnRTJ2MlpISlRrWEppSmJScUhiSFAyeUcxNlFHRVdpLUxleHRybUpWN19OT3pobTlCajFDTWxqc1dmdUlwQdIBWEFVX3lxTE51UFJJSzBzUnkwZEU0VWRSMkx6RjJpeXZwWkdqbW9Qdzc4NHNxSXNsN1RsOTItUGdOOVZIXzJWcW5aM01FOTRrcFlYRTBBU2M4TVNWZG5Ramk?oc=5",
       "publishedAt": "Sun, 31 May 2026 07:23:15 GMT"
     },
     {
-      "title": "돈줄 조이는 전세계…단기 급등 K증시, 후폭풍 대비를[이태규의 워싱턴 인사이드]",
-      "source": "서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qVDY4Mm5zWFk1S3RwSVIzVjVNa2c3VUxYTWNISmVuYTB6MkZKU04tRVp2THo2bk81RFBPazJiTkxCN1g3emhjX1Bpb1h3cGxTSUHSAVNBVV95cUxOTzNmeTEwM21IUUl5R0w3QV9Sck96allfZlE2ckc5M1BzdldqYi0wdUVBcFVyUS1DamxmWmFmMVRMTGl0dU14UzMxVXJ3VUNkTWg1dw?oc=5",
-      "publishedAt": "Sun, 31 May 2026 08:57:26 GMT"
+      "title": "[주간 증시 전망] '삼전·닉스' 질주에 '9000피' 눈앞…순환매 가능성 '주의'",
+      "source": "뉴스웍스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5waGFBblYtSUhaTndMUUJVUWEzdGdxTWt0aVBGMHhnM193bk9qRWRQckNWMHVwbW5qZTR1M2dRQXQydUsxZ0lzeTBnNlM0WWFYQko2My1LRFpOTHBlWnhaRjFrTUctX2kwUkNfMlUta29tcmvSAXNBVV95cUxOcGhhQW5WLUlIWk53TFFCVVFhM3RncU1rdGlQRjB4ZzNfd25PakVkUHJDVjB1cG1uamU0dTNnUUF0MnVLMWdJc3kwZzZTNFlhWEJKNjMtS0RaTkxwZVp4WkYxa01HLV9pMFJDXzJVLWtvbXJr?oc=5",
+      "publishedAt": "Sun, 31 May 2026 05:06:40 GMT"
     },
     {
-      "title": "'9천피' 가능할까… 美 고용지표 등에 촉각 [주간 증시 전망]",
-      "source": "파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HNjY3UHktT1VlWUREcXh1dWpSaGxselFIem9nNHJzbTltMXBOSEVpLWNpbXF0US1qYklKR2ZtQ3MyQWYwQWlVbkdTY3hXXzF1WGJyeW9Sam5yd9IBXkFVX3lxTFA5QTdqQzk2bE9VV3pSeHhEMXBfak83UVVraFF2LUdEcGdyZkFxeHJzMjFEVWFpc2ZCT3M3Z0dweDNtWWRMTXVFalFrYzVtNkNlNmRtTHF4TzRNYWFrQXc?oc=5",
-      "publishedAt": "Sun, 31 May 2026 09:32:02 GMT"
+      "title": "[이번주 증시] 제한적 흐름 예상...순환매 확산 가능성",
+      "source": "오피니언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DZTc1X3ZTRF9iY3ZzdjBUYnlJQ1k2cG9XcTVrUTBVTk8tdldfT3ZBU2VBNHdkTWFERVZ4eXRSR2tGeFhraGZwei1oLUUwSmNIc0lYNnphRThsdXRqVUlpVTJELVpZbl9xNWlkXzc2MC10UQ?oc=5",
+      "publishedAt": "Sun, 31 May 2026 00:00:00 GMT"
     }
   ],
   "summary": {
@@ -5216,7 +5284,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -0.2994,
+        "changePercent": -0.4803,
         "direction": "하락"
       }
     ]
