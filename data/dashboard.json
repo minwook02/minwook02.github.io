@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-31T17:26:37.268532+09:00",
-  "updatedLabel": "2026-05-31 17:26:37 KST",
+  "updatedAt": "2026-05-31T19:31:55.655654+09:00",
+  "updatedLabel": "2026-05-31 19:31:55 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3047,10 +3047,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 73854.03,
+      "price": 73705.89,
       "previousClose": 73754.984,
-      "change": 99.046,
-      "changePercent": 0.1343,
+      "change": -49.094,
+      "changePercent": -0.0666,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -3460,16 +3460,116 @@
         ],
         [
           1780215900000,
-          73857.523438
+          73871.257812
         ],
         [
-          1780215990000,
-          73854.03125
+          1780216200000,
+          73807.953125
+        ],
+        [
+          1780216500000,
+          73773.570312
+        ],
+        [
+          1780216800000,
+          73775.03125
+        ],
+        [
+          1780217100000,
+          73754.953125
+        ],
+        [
+          1780217400000,
+          73793.367188
+        ],
+        [
+          1780217700000,
+          73835.140625
+        ],
+        [
+          1780218000000,
+          73768.5
+        ],
+        [
+          1780218300000,
+          73802.0
+        ],
+        [
+          1780218600000,
+          73807.4375
+        ],
+        [
+          1780218900000,
+          73856.007812
+        ],
+        [
+          1780219200000,
+          73838.65625
+        ],
+        [
+          1780219500000,
+          73849.546875
+        ],
+        [
+          1780219800000,
+          73849.101562
+        ],
+        [
+          1780220100000,
+          73858.460938
+        ],
+        [
+          1780220400000,
+          73848.09375
+        ],
+        [
+          1780220700000,
+          73885.773438
+        ],
+        [
+          1780221000000,
+          73789.960938
+        ],
+        [
+          1780221300000,
+          73733.382812
+        ],
+        [
+          1780221600000,
+          73739.757812
+        ],
+        [
+          1780221900000,
+          73749.171875
+        ],
+        [
+          1780222200000,
+          73740.0
+        ],
+        [
+          1780222500000,
+          73697.382812
+        ],
+        [
+          1780222800000,
+          73664.390625
+        ],
+        [
+          1780223100000,
+          73697.367188
+        ],
+        [
+          1780223400000,
+          73712.679688
+        ],
+        [
+          1780223508000,
+          73705.890625
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-05-31 17:26 KST",
-      "marketTimestamp": 1780215990
+      "marketTime": "2026-05-31 19:31 KST",
+      "marketTimestamp": 1780223508
     }
   ],
   "mainCharts": [
@@ -4768,10 +4868,16 @@
   ],
   "headlines": [
     {
-      "title": "\"삼전닉스 믿었다간 큰 코 다친다\"…역대급 빚투에 '경고' [노정동의 어쩌다 투자자]",
+      "title": "뉴욕·상하이 증시, 美증시 변수는 '종전MOU·비농업 고용'",
       "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXUHQtakgwN29tNGdoMVQtVHZ2TmFDZ180YVk4YzB3ZkZwX2RZT1BoQTRQUjBGS04xVHRDZHJGNTlDYXBqeFF6a2lRODI2Y21TcHVnRNIBVEFVX3lxTFBXUHQtakgwN29tNGdoMVQtVHZ2TmFDZ180YVk4YzB3ZkZwX2RZT1BoQTRQUjBGS04xVHRDZHJGNTlDYXBqeFF6a2lRODI2Y21TcHVnRA?oc=5",
-      "publishedAt": "Sun, 31 May 2026 05:21:11 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oNWFmcHctd0pjWFVEaDN1ejZtay1yOEZ0dVhUeUlwWkhOOGJOVFR0cVhlQ0pLYnUyTFQ1WkJhZ0lkeXBfYm9RTUlRVFgtRExKUzNpTnVscmNud9IBVEFVX3lxTFBSc21pdHRkekZaczRfSXEyWlpaZkYzM2xPZkk3LWxVaFdwaWNZNUF1N2pPR3VXU1lDODJsd0NNeGR6emFfZms0cmNjS3FiTHhSdzBObg?oc=5",
+      "publishedAt": "Sun, 31 May 2026 09:50:52 GMT"
+    },
+    {
+      "title": "[주간증시전망] 8000선 다지는 코스피… 엔비디아 컴퓨텍스와 6·3 지방선거 주목 - 조선비즈",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZVEwWjNEZV9iWnJFTG5oV2JZcjZ3ZmVqekZsTDJxcU1lTGVUYW8wMDhYc0Zzcko4N2NZN0hiWHlORDYyNTFzTDdTQWxDSmpMd240V1IzVElhelJLZzh1Y0kwbWNISl9LU3FhREV3b1o5RHNJVEFvbzdmSHZKdEx3MmRsakZCNlpt0gGcAUFVX3lxTE5KRkpRTUoxU1B5aFJsM0oxNXJFSUdIRlpqQk5iNno3MDh4WHF0TTQ2RW50MDBOYVZoaUp6YldwUnpZZnphejgwRkZsa2tzbmUxaG53Wk5CWDNwbDZUbl9nLWd2R2pSdzEzUlptQVhKdE53b3lKMURNQ3ByVHVyejlmOU1tQlk2V3doUnZHOXEtTEZLN1NSSmdzdlNxZg?oc=5",
+      "publishedAt": "Sun, 31 May 2026 02:02:00 GMT"
     },
     {
       "title": "[주간 증시 전망] '삼전·닉스' 질주에 '9000피' 눈앞…순환매 가능성 '주의'",
@@ -4780,22 +4886,10 @@
       "publishedAt": "Sun, 31 May 2026 05:06:40 GMT"
     },
     {
-      "title": "[주간증시전망] 8000선 다지는 코스피… 엔비디아 컴퓨텍스와 6·3 지방선거 주목 - 조선비즈",
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZVEwWjNEZV9iWnJFTG5oV2JZcjZ3ZmVqekZsTDJxcU1lTGVUYW8wMDhYc0Zzcko4N2NZN0hiWHlORDYyNTFzTDdTQWxDSmpMd240V1IzVElhelJLZzh1Y0kwbWNISl9LU3FhREV3b1o5RHNJVEFvbzdmSHZKdEx3MmRsakZCNlpt0gGcAUFVX3lxTE5KRkpRTUoxU1B5aFJsM0oxNXJFSUdIRlpqQk5iNno3MDh4WHF0TTQ2RW50MDBOYVZoaUp6YldwUnpZZnphejgwRkZsa2tzbmUxaG53Wk5CWDNwbDZUbl9nLWd2R2pSdzEzUlptQVhKdE53b3lKMURNQ3ByVHVyejlmOU1tQlk2V3doUnZHOXEtTEZLN1NSSmdzdlNxZg?oc=5",
-      "publishedAt": "Sat, 30 May 2026 21:02:22 GMT"
-    },
-    {
       "title": "상법개정으로 시작한 K증시, 르네상스를 열다",
       "source": "아주경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tOFpXYWQyTlNaSTlwOGZITklNYlVnRTJ2MlpISlRrWEppSmJScUhiSFAyeUcxNlFHRVdpLUxleHRybUpWN19OT3pobTlCajFDTWxqc1dmdUlwQdIBWEFVX3lxTE51UFJJSzBzUnkwZEU0VWRSMkx6RjJpeXZwWkdqbW9Qdzc4NHNxSXNsN1RsOTItUGdOOVZIXzJWcW5aM01FOTRrcFlYRTBBU2M4TVNWZG5Ramk?oc=5",
       "publishedAt": "Sun, 31 May 2026 07:23:15 GMT"
-    },
-    {
-      "title": "‘K-주식 직구’ 시대 본격화…30년 빗장 푼 한국 증시 ‘인프라 대전환’",
-      "source": "쿠키뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXVEdxcE1Tak9PWHRRRmZCUDJFNFlfOFR0U1UxY1Atb19yTmF5RXVlb2NQb2VYams2bmtpS3kxYzNZQVB3T0N1XzV2VlI4dHFxbEZnbTd3anhQLWx1cWNTRzAtdw?oc=5",
-      "publishedAt": "Sat, 30 May 2026 23:39:25 GMT"
     },
     {
       "title": "9000 향하는 코스피…종전 여부에 ‘주목’[주간증시]",
@@ -4814,6 +4908,12 @@
       "source": "the-biz.co.kr",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5ckd0bHNzekx4eWpZVk10dE11OWhtX0pOREdqVU50T2tMcHF0eHhpZ19PT2JWVGY3T2ptQlJ4enNkYms4bER5bmxFc0lLYzFoWFlyRjN4VEJuOE9oQWl1VWtEdFVIMEtwVVFvcw?oc=5",
       "publishedAt": "Sun, 31 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "서학개미, 두 달 연속 美 주식 팔았지만 보유액은 역대 최대",
+      "source": "ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iX1l1RGVXVHdENFpoLUFkSDVOX0RheC1YSDA4UHUxZEpSUXpsUktCUW1RaEFOdi1wRnF3ZHJvMk5YV3JBb1BJaU05LXZGV21oQ2hfMW02dzFnLVA5RS1fNWxNTThzTWts?oc=5",
+      "publishedAt": "Sun, 31 May 2026 01:05:00 GMT"
     }
   ],
   "summary": {
@@ -4864,7 +4964,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.1343,
+        "changePercent": -0.0666,
         "direction": "보합"
       }
     ]
