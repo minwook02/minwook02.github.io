@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-06T21:51:53.887183+09:00",
-  "updatedLabel": "2026-06-06 21:51:53 KST",
+  "updatedAt": "2026-06-06T23:45:18.637720+09:00",
+  "updatedLabel": "2026-06-06 23:45:18 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4693,12 +4693,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 60973.8,
+      "price": 60904.34,
       "previousClose": 61033.83,
-      "change": -60.03,
-      "changePercent": -0.0984,
-      "tone": "flat",
-      "direction": "보합",
+      "change": -129.49,
+      "changePercent": -0.2122,
+      "tone": "down",
+      "direction": "하락",
       "series": [
         [
           1780704000000,
@@ -5318,16 +5318,104 @@
         ],
         [
           1780750200000,
+          61082.511719
+        ],
+        [
+          1780750500000,
+          60988.519531
+        ],
+        [
+          1780750800000,
+          61053.648438
+        ],
+        [
+          1780751100000,
+          60990.558594
+        ],
+        [
+          1780751400000,
+          60974.058594
+        ],
+        [
+          1780751700000,
+          60894.269531
+        ],
+        [
+          1780752000000,
+          60898.988281
+        ],
+        [
+          1780752300000,
+          60846.371094
+        ],
+        [
+          1780752600000,
+          60750.128906
+        ],
+        [
+          1780752900000,
+          60782.011719
+        ],
+        [
+          1780753200000,
+          60867.011719
+        ],
+        [
+          1780753500000,
+          60778.050781
+        ],
+        [
+          1780753800000,
+          60753.261719
+        ],
+        [
+          1780754100000,
+          60771.449219
+        ],
+        [
+          1780754400000,
+          60921.269531
+        ],
+        [
+          1780754700000,
+          60862.058594
+        ],
+        [
+          1780755000000,
+          60880.160156
+        ],
+        [
+          1780755300000,
           60952.660156
         ],
         [
-          1780750311000,
-          60973.800781
+          1780755600000,
+          60878.269531
+        ],
+        [
+          1780755900000,
+          60852.019531
+        ],
+        [
+          1780756200000,
+          60910.390625
+        ],
+        [
+          1780756500000,
+          60925.21875
+        ],
+        [
+          1780756800000,
+          60915.730469
+        ],
+        [
+          1780757114000,
+          60904.339844
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-06 21:51 KST",
-      "marketTimestamp": 1780750311
+      "marketTime": "2026-06-06 23:45 KST",
+      "marketTimestamp": 1780757114
     }
   ],
   "mainCharts": [
@@ -6629,13 +6717,13 @@
       "title": "코스피 '검은 월요일' 온다…\"떨어지는 칼날 잡지마라\"",
       "source": "연합인포맥스",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wa29ZbFFpUkx2U2xWLXVKd2ppUWNIbmxqMXVOWVgtTjUwd2VSN3AwOFhLT29CUTd4QjhmQlIxLWx5MWgyaGtoeUptRUJBU3lSTDREQXYxakkxRUFUTGZZWmVnb1BlZ2hxRzItNG9RSjA?oc=5",
-      "publishedAt": "Sat, 06 Jun 2026 02:06:42 GMT"
+      "publishedAt": "Sat, 06 Jun 2026 02:06:34 GMT"
     },
     {
       "title": "미친 듯이 파는 외국인…증시·환율 '검은 금요일'",
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rc2VkUnY5d0ZZZVZMUW44emVIY1g3TDZocnlxdWJOS09KQmZfUUxfbjlQZGdscHlGR1JYWExfcVdJNVdUbmVSaGRPT2J2aHRmMmFuNkRYMmtqQdIBVEFVX3lxTFBEN3J2aXp2amxGcjFmblYyMUFMME0wdW9rZXpwMUkxTjF5UEluMmVEdmpWQl80aGN4UkpiQWRSd2I3ZHlGUmVfVFlhYmdjOWl3S243Ng?oc=5",
-      "publishedAt": "Sat, 06 Jun 2026 11:20:47 GMT"
+      "publishedAt": "Sat, 06 Jun 2026 13:32:40 GMT"
     },
     {
       "title": "달러-원, 美 반도체주 급락에 공포 전이…1,560원선도 뚫렸다",
@@ -6644,34 +6732,34 @@
       "publishedAt": "Fri, 05 Jun 2026 18:55:48 GMT"
     },
     {
+      "title": "예상 밖 '고용 훈풍'에 쇼크…환율 17년 만 최고치",
+      "source": "SBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WOENtQU81VHQxZmtlME1pTnEyQ05XQUk1U0NSNjJkdWxyNFhBWV9STjRIWFV2WlljcVZDZ0RONjFGanVxYU1veTl6LUlnM3lYY056bmFmRWdkcUtaWHVpYmM1bGZlZ3BuNmfSAWZBVV95cUxOLVV6UWpvRW5tSkxKemR5OWVSVzkyeHRIQmVVak92ZUlPbTVsWTNUM0pncGtwa2RkcnBhcDV0TldNeVRuaWFSVFlKYkZVZ05sdkctbTNXemJCY1U5a3NsRDczTzAzMVE?oc=5",
+      "publishedAt": "Sat, 06 Jun 2026 11:19:00 GMT"
+    },
+    {
+      "title": "미국증시 급락!! 다음주 국내증시 전망 및 투자 대응 방법",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLWo2MlNOVE1WNG01NEFqZEh1b0VWblhWZzg5WFFYc3phRC1ySk52U1Bsa24xRGJBeVE4RF9lNzBtdnZTc05Vb2F6Y2N0RElaUmVrbUNGb00yZ1drQW9iMWQ0OGNrZ1V2QVpqZmx5RU5jSTVsMmV3UVNuRExCbVlnS2NIVQ?oc=5",
+      "publishedAt": "Sat, 06 Jun 2026 07:50:00 GMT"
+    },
+    {
       "title": "[프리뷰] 환율 비상, 이러다 1,600원도 돌파하나",
       "source": "CEONEWS",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LcFRWcER6SzhDSTM4clVMMmJYbjNVZW5UQm1sWmFqSVVMSENzTU9NNEgwd2JNUFdUX0ZwWTV3X0tNa2xjMW9aRlZKTWhuRnpySktCeFRMYU9EeWhiUlZN?oc=5",
       "publishedAt": "Sat, 06 Jun 2026 05:06:00 GMT"
     },
     {
+      "title": "IMF 위환위기·금융위기·올해 6월5일…환율 3대 고점 모아보니 - 머니투데이",
+      "source": "머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PaVRVa3k3M0VVbWxfdUpfUi1CSHN4My1pTmFDZHFKUVo3dWJvTkxDUjVLVV9Eemg0UFhyMllCTF9hZHlfRUh1TEdnQzhNZVpudlhPVUxyd3pSMmJEWXRIUlVfN2hnTE9O0gFuQVVfeXFMTlFLaFowSFY3ODZkdFFKQ1dOSWlSdFFaZHN2S1lTU0xVVzhEblB4QWZmNlR0eUhjZXV4VkhLWWp2clB0ODdjTHl0X2E5VkVTeG1jS196Z0RVZU1KNEp0Zkh3X2dNN0VSZTYyVnEzT2c?oc=5",
+      "publishedAt": "Sat, 06 Jun 2026 00:36:11 GMT"
+    },
+    {
       "title": "美 반도체주 급락 공포 확산…환율 1560원대까지",
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KQXRKRWhCdHdUcVZrYmFQYzVlbHNhcDFLZkg3UGlEbWxUME1zbjRUVHBJWjFSaDhfcXpZYllqekd2c2ZjdmRZaWhObFQwVG8?oc=5",
       "publishedAt": "Sat, 06 Jun 2026 02:15:05 GMT"
-    },
-    {
-      "title": "“코스피 블랙먼데이 무섭다”…AI 관련주 투매, ‘간달프’도 재등장 [머니+]",
-      "source": "에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXWGVxN3ZEOXJaV3lpc0JhMzg5Sk9hZ1pHV0xtN1VnOXkzUG1XaExyY3IxSUMtTGVDZHBDbV8yN2RzZnkxczBqS2xqbVpjdTliQmNxQWtVR1NaalU?oc=5",
-      "publishedAt": "Sat, 06 Jun 2026 03:32:19 GMT"
-    },
-    {
-      "title": "한눈에 보는 오늘의 뉴스",
-      "source": "데일리바이트(DAILY BYTE)",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LSlZSN0Z1SjFXeTQ1X1duLVlieDFvTWpSTmtPVURZN1RseG5aN1RIQWdpX1NvMTlsZ2Q3dmNlZldJTThpOGlvRTFKVGY?oc=5",
-      "publishedAt": "Sat, 06 Jun 2026 08:15:53 GMT"
-    },
-    {
-      "title": "삼전 –6.40%, SK하닉 –9.92%… 미국발 충격에 반도체주 ‘출렁’ [주간 증시해설서]",
-      "source": "더스쿠프",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSTjVKTXgwLWZvdjM3UXdLc3FKc3NzUzZtdnowZ0JNZXNQMzJEUW1zX1JMbjFQR2x2VUNaN18tZjZGQklXcld4Tjlhd1NHMVMxaXBNQXBfQUxmOHlzTmEybXcteWJGVnY2TlM5anNR?oc=5",
-      "publishedAt": "Sat, 06 Jun 2026 01:03:46 GMT"
     }
   ],
   "summary": {
@@ -6700,8 +6788,8 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -0.0984,
-        "direction": "보합"
+        "changePercent": -0.2122,
+        "direction": "하락"
       },
       {
         "label": "DOW",
