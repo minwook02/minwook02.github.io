@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-07T22:05:18.264258+09:00",
-  "updatedLabel": "2026-06-07 22:05:18 KST",
+  "updatedAt": "2026-06-08T00:11:12.489327+09:00",
+  "updatedLabel": "2026-06-08 00:11:12 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2671,15 +2671,11 @@
         [
           1780696800000,
           1558.839966
-        ],
-        [
-          1780700340000,
-          1558.839966
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-06 08:32 KST",
-      "marketTimestamp": 1780702378
+      "marketTime": "2026-06-07 22:34 KST",
+      "marketTimestamp": 1780839295
     },
     {
       "id": "us10y",
@@ -3063,10 +3059,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 61755.98,
+      "price": 61755.34,
       "previousClose": 60864.24,
-      "change": 891.74,
-      "changePercent": 1.4651,
+      "change": 891.1,
+      "changePercent": 1.4641,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3699,13 +3695,117 @@
           61754.898438
         ],
         [
-          1780837505000,
-          61755.980469
+          1780837500000,
+          61713.980469
+        ],
+        [
+          1780837800000,
+          61744.0
+        ],
+        [
+          1780838100000,
+          61664.121094
+        ],
+        [
+          1780838400000,
+          61698.601562
+        ],
+        [
+          1780838700000,
+          61816.03125
+        ],
+        [
+          1780839000000,
+          61823.269531
+        ],
+        [
+          1780839300000,
+          61707.96875
+        ],
+        [
+          1780839600000,
+          61713.628906
+        ],
+        [
+          1780839900000,
+          61682.0
+        ],
+        [
+          1780840200000,
+          61698.558594
+        ],
+        [
+          1780840500000,
+          61676.648438
+        ],
+        [
+          1780840800000,
+          61729.851562
+        ],
+        [
+          1780841100000,
+          61740.039062
+        ],
+        [
+          1780841400000,
+          61761.171875
+        ],
+        [
+          1780841700000,
+          61899.898438
+        ],
+        [
+          1780842000000,
+          62015.53125
+        ],
+        [
+          1780842300000,
+          62053.289062
+        ],
+        [
+          1780842600000,
+          62210.011719
+        ],
+        [
+          1780842900000,
+          62117.96875
+        ],
+        [
+          1780843200000,
+          61964.160156
+        ],
+        [
+          1780843500000,
+          61774.960938
+        ],
+        [
+          1780843800000,
+          61851.78125
+        ],
+        [
+          1780844100000,
+          61880.070312
+        ],
+        [
+          1780844400000,
+          61718.429688
+        ],
+        [
+          1780844700000,
+          61773.648438
+        ],
+        [
+          1780845000000,
+          61758.039062
+        ],
+        [
+          1780845065000,
+          61755.339844
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-07 22:05 KST",
-      "marketTimestamp": 1780837505
+      "marketTime": "2026-06-08 00:11 KST",
+      "marketTimestamp": 1780845065
     }
   ],
   "mainCharts": [
@@ -5004,16 +5104,22 @@
   ],
   "headlines": [
     {
-      "title": "“5월까지 111조 유입... 증시 ‘머니 무브’ 한참 더 갑니다”",
+      "title": "블룸버그 \"글로벌 펀드들, 한국 증시 하락 방어 시작\"",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZmR5ZkM0d09DYldmUVctSHRUY2QxWUY3NnMxNTdRdWx3NU1BdF9MSHk0UjZINVA4bGlXTXpfSE5acGFjcVM1all0MkZxbGhWOHJWOFVaYTJJcDJ2aXc?oc=5",
+      "publishedAt": "Sun, 07 Jun 2026 12:55:00 GMT"
+    },
+    {
+      "title": "“물타기, 신규 ‘머니 무브’... 조정 받아도 불장 더 간다”",
       "source": "조선일보",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQnlBZmFOYVluYTF1eWVZcTBIZGFrVlN2b1BVT0tiQTdjR1VGR1pHX2UwTDU3Ymg3cXk4Y3l4VE5vRDcxakVGTVA0REVjbU9nRXBlWTIwLXdmOWQ3Nlg5bWM4YlhMY0hDMTBQNlpVcFpab3Y5elRBWGMydlB3STMtWDQ3MUdHQ3FnbzEzaA?oc=5",
-      "publishedAt": "Sun, 07 Jun 2026 09:09:00 GMT"
+      "publishedAt": "Sun, 07 Jun 2026 13:02:00 GMT"
     },
     {
       "title": "한국 증시 불안한 월요일…美반도체 지수 5일 하루에만 10% 급락",
-      "source": "중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GcHdxZjRZMUFKUUJwbGR0WFNlSEZWakdYaU55SXZvSjh0bVIwLW1pdnJJeXZrS3VfdWVCOVJjajBpSXVDSHAzNUUzX0k2UnIwSTNpbGpB?oc=5",
-      "publishedAt": "Sun, 07 Jun 2026 08:59:26 GMT"
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lUHJnUlp4UHpqTTZVa1gzdlF0cWhxdm92czFzU19uNmV0QzhVS3lWWHNGcEFVNlBVazM0c1lyekluS281WFY5dmYza1FjN0NjYVNYaQ?oc=5",
+      "publishedAt": "Sun, 07 Jun 2026 09:01:18 GMT"
     },
     {
       "title": "[도청도설] 블랙 먼데이",
@@ -5028,12 +5134,6 @@
       "publishedAt": "Sun, 07 Jun 2026 08:32:23 GMT"
     },
     {
-      "title": "[기획] 젠슨 황도 역부족 … 반도체주 급락에 떠는 韓증시",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40UXBvMzlGZVp6NWVhX29UN3p3SnV5VjdwdUZZWHp4ajhFTnFOOWxkbWsyRkJMUzJVMC1LUTFjT1FRbXJmTFY3M2Y0OFVPQ2c?oc=5",
-      "publishedAt": "Sun, 07 Jun 2026 10:26:50 GMT"
-    },
-    {
       "title": "국내 증시 본격 유턴?…서학개미 6월 첫주 美주식 1.2조 매도",
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4MXRYa0lBNVk2LW1QbTNtR2Rid3A4TVhGVWktc1R4Tlpzb1hydFh1YWtqdnNYeGlxU1Y5bWlsb1kwbFFoUU15X25HZ3Voem1kU29rZS1XV0d6TXNpMWQ4ctIBYEFVX3lxTFB4MXRYa0lBNVk2LW1QbTNtR2Rid3A4TVhGVWktc1R4Tlpzb1hydFh1YWtqdnNYeGlxU1Y5bWlsb1kwbFFoUU15X25HZ3Voem1kU29rZS1XV0d6TXNpMWQ4cg?oc=5",
@@ -5041,15 +5141,15 @@
     },
     {
       "title": "美금리공포에 반도체 차익실현 韓증시도 '유동성 부족' 먹구름",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qNnhCaVVUa2xvaUVEbmhwcUFIdlBrbDRNd1ZOcEVXSkRLUUF2bF85YlZEUDlVdHEzSl9iRWlvNmpXcF96WFJIZ0FuTWtBdk84bGt5MEtEV3lvUkJwcUJnOQ?oc=5",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15SUlqZVFWNkdQVlQwSmI0SDJBOVdpdlpOc19VVjQ3c2g2QmVFdXJoZ0ZXdDhqSlVXUW5WVmNHSDFGYzlyd2thMGlWWnJXclR0MXc?oc=5",
       "publishedAt": "Sun, 07 Jun 2026 09:00:17 GMT"
     },
     {
-      "title": "젠슨황 사흘 째 광폭행보...국내 증시는 검은 월요일?",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84T2N6d0pPVWZ1QzNvejVZaU9hVXVYaF9CMVhDWFQtLUtzOXpyemNORERTVmktenJyWGUtd2k2M1hqRW9GTjhuTTRMaG9pUW4wLWZVQ1JSRlJRX3JyYmc?oc=5",
-      "publishedAt": "Sun, 07 Jun 2026 09:29:00 GMT"
+      "title": "원달러 환율, 외환위기 이후 최고치… 국내 증시 외인 120조 순매도 때문",
+      "source": "부산일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoSXZ3RklacWxDOUNZazItdU0zeml1aTgtaTBUeXFhUEM2dkxRejJDR0xPX3VKNVdaRWFrR0FFMDVrVWFyWnV0OXFnS3JPY3dMME12VHl5cHgybHBIc1lJRGtLOUE5LUZwNUFzTnRleVAzRFl1?oc=5",
+      "publishedAt": "Sun, 07 Jun 2026 09:27:40 GMT"
     }
   ],
   "summary": {
@@ -5078,7 +5178,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 1.4651,
+        "changePercent": 1.4641,
         "direction": "상승"
       },
       {
