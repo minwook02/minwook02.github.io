@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-08T01:53:09.706155+09:00",
-  "updatedLabel": "2026-06-08 01:53:09 KST",
+  "updatedAt": "2026-06-08T03:07:47.883559+09:00",
+  "updatedLabel": "2026-06-08 03:07:47 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -972,9 +972,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 25709.432,
-      "previousClose": 26830.957,
-      "change": -1121.525,
-      "changePercent": -4.18,
+      "previousClose": 26831.0,
+      "change": -1121.568,
+      "changePercent": -4.1801,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -1307,9 +1307,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 50866.78,
-      "previousClose": 51561.93,
-      "change": -695.15,
-      "changePercent": -1.3482,
+      "previousClose": 51561.9,
+      "change": -695.12,
+      "changePercent": -1.3481,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1558.84,
+      "price": 1559.0,
       "previousClose": 1532.96,
-      "change": 25.88,
-      "changePercent": 1.6882,
+      "change": 26.04,
+      "changePercent": 1.6987,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -2674,8 +2674,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-07 22:34 KST",
-      "marketTimestamp": 1780839295
+      "marketTime": "2026-06-08 02:46 KST",
+      "marketTimestamp": 1780854362
     },
     {
       "id": "us10y",
@@ -3059,10 +3059,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 62174.96,
+      "price": 62178.17,
       "previousClose": 60864.24,
-      "change": 1310.72,
-      "changePercent": 2.1535,
+      "change": 1313.93,
+      "changePercent": 2.1588,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3876,16 +3876,76 @@
         ],
         [
           1780851000000,
-          62177.460938
+          62152.878906
         ],
         [
-          1780851187000,
-          62174.960938
+          1780851300000,
+          62054.058594
+        ],
+        [
+          1780851600000,
+          62210.019531
+        ],
+        [
+          1780851900000,
+          62235.96875
+        ],
+        [
+          1780852200000,
+          62257.148438
+        ],
+        [
+          1780852500000,
+          62258.828125
+        ],
+        [
+          1780852800000,
+          62243.980469
+        ],
+        [
+          1780853100000,
+          62215.988281
+        ],
+        [
+          1780853400000,
+          62232.449219
+        ],
+        [
+          1780853700000,
+          62230.660156
+        ],
+        [
+          1780854000000,
+          62243.519531
+        ],
+        [
+          1780854300000,
+          62195.371094
+        ],
+        [
+          1780854600000,
+          62142.820312
+        ],
+        [
+          1780854900000,
+          62130.480469
+        ],
+        [
+          1780855200000,
+          62146.648438
+        ],
+        [
+          1780855500000,
+          62150.570312
+        ],
+        [
+          1780855661000,
+          62178.171875
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-08 01:53 KST",
-      "marketTimestamp": 1780851187
+      "marketTime": "2026-06-08 03:07 KST",
+      "marketTimestamp": 1780855661
     }
   ],
   "mainCharts": [
@@ -4854,9 +4914,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 25709.432,
-      "previousClose": 26830.957,
-      "change": -1121.525,
-      "changePercent": -4.18,
+      "previousClose": 26831.0,
+      "change": -1121.568,
+      "changePercent": -4.1801,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5241,29 +5301,29 @@
     "overview": [
       "국내장은 KOSPI 하락, KOSDAQ 하락 흐름입니다.",
       "해외는 S&P 500 -2.64%, NASDAQ -4.18%로 확인됩니다.",
-      "매크로 변수는 USD/KRW +1.69%, 미 10년물 +1.32%입니다."
+      "매크로 변수는 USD/KRW +1.70%, 미 10년물 +1.32%입니다."
     ],
     "checkpoints": [
       "KOSPI -5.54% 하락",
       "KOSDAQ -4.50% 하락",
       "미국 증시 하락 / 나스닥 -4.18%",
-      "원달러 +1.69% (+25.88)",
+      "원달러 +1.70% (+26.04)",
       "미 10년물 +0.059p (+1.32%)"
     ],
     "leaders": [
       {
         "label": "Bitcoin",
-        "changePercent": 2.1535,
+        "changePercent": 2.1588,
         "direction": "상승"
       },
       {
         "label": "USD/KRW",
-        "changePercent": 1.6882,
+        "changePercent": 1.6987,
         "direction": "상승"
       },
       {
         "label": "DOW",
-        "changePercent": -1.3482,
+        "changePercent": -1.3481,
         "direction": "하락"
       }
     ],
@@ -5280,7 +5340,7 @@
       },
       {
         "label": "NASDAQ",
-        "changePercent": -4.18,
+        "changePercent": -4.1801,
         "direction": "하락"
       }
     ]
