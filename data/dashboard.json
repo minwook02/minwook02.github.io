@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-15T01:26:04.889541+09:00",
-  "updatedLabel": "2026-06-15 01:26:04 KST",
+  "updatedAt": "2026-06-15T02:59:06.119290+09:00",
+  "updatedLabel": "2026-06-15 02:59:06 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2662,8 +2662,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-13 06:27 KST",
-      "marketTimestamp": 1781299670
+      "marketTime": "2026-06-15 01:34 KST",
+      "marketTimestamp": 1781454873
     },
     {
       "id": "us10y",
@@ -3047,10 +3047,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 64155.54,
+      "price": 63702.89,
       "previousClose": 64412.65,
-      "change": -257.11,
-      "changePercent": -0.3992,
+      "change": -709.76,
+      "changePercent": -1.1019,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3843,13 +3843,89 @@
           64132.519531
         ],
         [
-          1781454359000,
-          64155.539062
+          1781454300000,
+          64105.820312
+        ],
+        [
+          1781454600000,
+          64142.03125
+        ],
+        [
+          1781454900000,
+          64126.128906
+        ],
+        [
+          1781455200000,
+          64122.011719
+        ],
+        [
+          1781455500000,
+          63969.140625
+        ],
+        [
+          1781455800000,
+          63924.019531
+        ],
+        [
+          1781456100000,
+          63908.808594
+        ],
+        [
+          1781456400000,
+          63969.710938
+        ],
+        [
+          1781456700000,
+          63900.640625
+        ],
+        [
+          1781457000000,
+          63922.691406
+        ],
+        [
+          1781457300000,
+          63918.730469
+        ],
+        [
+          1781457600000,
+          63890.019531
+        ],
+        [
+          1781457900000,
+          63861.679688
+        ],
+        [
+          1781458200000,
+          63906.039062
+        ],
+        [
+          1781458500000,
+          63748.0
+        ],
+        [
+          1781458800000,
+          63802.808594
+        ],
+        [
+          1781459100000,
+          63756.179688
+        ],
+        [
+          1781459400000,
+          63712.890625
+        ],
+        [
+          1781459700000,
+          63703.371094
+        ],
+        [
+          1781459941000,
+          63702.890625
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-15 01:25 KST",
-      "marketTimestamp": 1781454359
+      "marketTime": "2026-06-15 02:59 KST",
+      "marketTimestamp": 1781459941
     }
   ],
   "mainCharts": [
@@ -5166,12 +5242,6 @@
       "publishedAt": "Sun, 14 Jun 2026 10:21:00 GMT"
     },
     {
-      "title": "\"조정이 기회\" 반도체株 3배 ETF에 뭉칫돈",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oMjVNSEVWZVFfRnJkYUFHaEpXSGQ4cXZzMThVOUFrems0RlR1ZVhWZGxIa3lBOXpuYVh6N1BicjM4LUpoU1VaNGloNTAxV0dVR0E?oc=5",
-      "publishedAt": "Sun, 14 Jun 2026 08:37:13 GMT"
-    },
-    {
       "title": "한국 증시 랠리, MSCI 선진국 시장 편입 기대감 고조",
       "source": "Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LV1ZDcW8xUC1TQUliLWFNdmFQYWZZZ05abDlnOEtqYlVRSHF2Nm5MSUo3anh2OGpGSVBreHliTjlDOWpZM0J1RE1MR0JMc256UHVVNVVKV3RkZmxYdWJ3aENGWlRlYjNiY0taOEFJX2w?oc=5",
@@ -5194,13 +5264,19 @@
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JYUpodGxFLTFiZndSbDFJTmx5TnhEa3JhTlNURjlwdUFsOHd2UXViT2lzd1daczNRV3VJMjZHbEJQZFJmalowblVjb2NZS28?oc=5",
       "publishedAt": "Sun, 14 Jun 2026 02:01:36 GMT"
+    },
+    {
+      "title": "[글로벌이코노믹 사설] 공포와 탐욕의 롤러코스터 한국증시",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa0Nta0hvM1FkdVFTSEJLQVM2NU1VcThRNkRUb1hHMkptR2FzOWc0ckZGWWRYT1U2MWRneTVUVlpEREwyT2NKVnFubmszOWZoZjU4VVM2RlM4MG8tWnRzRW11LTRBb1NaNWdPYUVLSXVHTm41eU1VbUFSbzdjV0JYOWZ4dkM?oc=5",
+      "publishedAt": "Sun, 14 Jun 2026 07:20:32 GMT"
     }
   ],
   "summary": {
     "signal": {
-      "label": "Risk-On",
-      "tone": "up",
-      "message": "주식과 위험자산 강세가 우세합니다."
+      "label": "Mixed",
+      "tone": "flat",
+      "message": "국내외 자산이 같은 방향으로 움직이지 않는 혼조장입니다."
     },
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 상승 흐름입니다.",
@@ -5239,7 +5315,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -0.3992,
+        "changePercent": -1.1019,
         "direction": "하락"
       },
       {
