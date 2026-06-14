@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-14T15:47:27.003422+09:00",
-  "updatedLabel": "2026-06-14 15:47:27 KST",
+  "updatedAt": "2026-06-14T19:27:04.537280+09:00",
+  "updatedLabel": "2026-06-14 19:27:04 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3047,12 +3047,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 64240.22,
+      "price": 64562.04,
       "previousClose": 64412.65,
-      "change": -172.43,
-      "changePercent": -0.2677,
-      "tone": "down",
-      "direction": "하락",
+      "change": 149.39,
+      "changePercent": 0.2319,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1781395200000,
@@ -3383,13 +3383,189 @@
           64237.03125
         ],
         [
-          1781419644000,
-          64240.21875
+          1781419800000,
+          64240.730469
+        ],
+        [
+          1781420100000,
+          64258.238281
+        ],
+        [
+          1781420400000,
+          64256.160156
+        ],
+        [
+          1781420700000,
+          64205.128906
+        ],
+        [
+          1781421000000,
+          64205.140625
+        ],
+        [
+          1781421300000,
+          64280.378906
+        ],
+        [
+          1781421600000,
+          64334.339844
+        ],
+        [
+          1781421900000,
+          64323.96875
+        ],
+        [
+          1781422200000,
+          64301.191406
+        ],
+        [
+          1781422500000,
+          64282.449219
+        ],
+        [
+          1781422800000,
+          64272.230469
+        ],
+        [
+          1781423100000,
+          64382.941406
+        ],
+        [
+          1781423400000,
+          64380.171875
+        ],
+        [
+          1781423700000,
+          64396.519531
+        ],
+        [
+          1781424000000,
+          64358.238281
+        ],
+        [
+          1781424300000,
+          64420.601562
+        ],
+        [
+          1781424600000,
+          64413.28125
+        ],
+        [
+          1781424900000,
+          64469.890625
+        ],
+        [
+          1781425200000,
+          64466.800781
+        ],
+        [
+          1781425500000,
+          64459.828125
+        ],
+        [
+          1781425800000,
+          64436.46875
+        ],
+        [
+          1781426100000,
+          64436.851562
+        ],
+        [
+          1781426400000,
+          64426.601562
+        ],
+        [
+          1781426700000,
+          64419.988281
+        ],
+        [
+          1781427000000,
+          64438.0
+        ],
+        [
+          1781427300000,
+          64422.058594
+        ],
+        [
+          1781427600000,
+          64439.011719
+        ],
+        [
+          1781427900000,
+          64424.058594
+        ],
+        [
+          1781428200000,
+          64390.171875
+        ],
+        [
+          1781428500000,
+          64290.769531
+        ],
+        [
+          1781428800000,
+          64293.660156
+        ],
+        [
+          1781429100000,
+          64318.460938
+        ],
+        [
+          1781429400000,
+          64420.871094
+        ],
+        [
+          1781429700000,
+          64462.640625
+        ],
+        [
+          1781430000000,
+          64508.019531
+        ],
+        [
+          1781430300000,
+          64529.808594
+        ],
+        [
+          1781430600000,
+          64562.039062
+        ],
+        [
+          1781430900000,
+          64577.988281
+        ],
+        [
+          1781431200000,
+          64517.378906
+        ],
+        [
+          1781431500000,
+          64508.199219
+        ],
+        [
+          1781431800000,
+          64492.5
+        ],
+        [
+          1781432100000,
+          64521.988281
+        ],
+        [
+          1781432400000,
+          64591.828125
+        ],
+        [
+          1781432700000,
+          64581.691406
+        ],
+        [
+          1781432812000,
+          64562.039062
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-14 15:47 KST",
-      "marketTimestamp": 1781419644
+      "marketTime": "2026-06-14 19:26 KST",
+      "marketTimestamp": 1781432812
     }
   ],
   "mainCharts": [
@@ -4688,6 +4864,12 @@
   ],
   "headlines": [
     {
+      "title": "한경협, MSCI 본사 찾아 “한국 증시 선진시장 편입” 촉구",
+      "source": "디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWT3VZOTBMNUlzLU8wSk1QaWV2VWRMejY4QnVpQjNwSWpXd1pNZFdpV0xzclRXT3dBLThpT21qdlZrOEtvbXFZdXZ5emNwNkNuMm9fdUlvRG1uMkpudzdVQmVkVWU?oc=5",
+      "publishedAt": "Sun, 14 Jun 2026 07:47:42 GMT"
+    },
+    {
       "title": "[마켓인사이트] 이란전쟁 악재 끝나나…코스피 반등 지속 기대",
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03aFNGajdJSHVVS3ZRbkNGY1I2aDBnMGxIYkxwX0lyc3ByVnB2QVp4dGlSdndIOGdGSkpzLUxWUHltVGg2b0VpTGlqWnZ5VVZZVTc4enVhTG1sZUlPRTZtY9IBYEFVX3lxTE03aFNGajdJSHVVS3ZRbkNGY1I2aDBnMGxIYkxwX0lyc3ByVnB2QVp4dGlSdndIOGdGSkpzLUxWUHltVGg2b0VpTGlqWnZ5VVZZVTc4enVhTG1sZUlPRTZtYw?oc=5",
@@ -4706,34 +4888,28 @@
       "publishedAt": "Sun, 14 Jun 2026 02:04:50 GMT"
     },
     {
-      "title": "다시 기대하는 'K증시' MSCI 편입",
-      "source": "중소기업신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FdHhVQl9FeElBVTFHTWxKMUJiaUhPSFZOU19WX2w5bWhMZDNiRVBpa1lnaUlNeS1oc0ZfSXBKUk11Q3h0bEJQLXVBNXd1clI3TzNyajNwY0lLd1dDVUVlcnVGel9xaXNaY1lqZA?oc=5",
-      "publishedAt": "Sun, 14 Jun 2026 02:12:07 GMT"
-    },
-    {
-      "title": "한경협, MSCI 관찰대상국 편입 촉구…한국 증시의 선진시장 승격 당위성 설득",
-      "source": "대한경제",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OeFBQN3Y1SkVXWnRoLTRncEhCSUdXNnVWSDZjeE83VDlQVEtzUkhPeVp0X1BfS0dWMW5BZFdueHByNDhRblZ4U2VUUC1iSkFjTkJObFhUUUdETi1SY0tyWGFteWtlcTRNdlVHcENfTE5nUnRI?oc=5",
-      "publishedAt": "Sun, 14 Jun 2026 02:00:29 GMT"
-    },
-    {
       "title": "\"세계 6위 증시인데 34년째 신흥시장\", 한경협 MSCI 승격 건의",
       "source": "jabon.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5aGJyS2RqbC1DT1BqTXJIbGdUUklVa0NUY2tzVm9HaGliOE1NSEtGNzJpN09id0MzTDV1OWRMTHdMclJlQ1VoUzBLemZZcm9nQl9KUkY5YUtUOEpteVJQb3U0QlNJTEE?oc=5",
       "publishedAt": "Sun, 14 Jun 2026 04:00:00 GMT"
     },
     {
-      "title": "[이번주 증시] 종전 기대에 위험선호 회복…'워시의 입' 주목",
-      "source": "뉴시안",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YUmlrNmdaWVVtRmxOQU9TOXl6MGcwVmZOLUt6YXVoeXZDSDJ0OC1kbUIzdkhYUWxFMkc2TjNiNmNpdTlkUDFlenVqTV9iYXVrX0lvUjZHM0p6Ynh1NDlYNTA5NWdaVktub2fSAW5BVV95cUxNOEFKQ1Ytb1RTQThGLTJOSmJQUUZxVFhFdFlsbkNVbnV4QkEyMFgyX0YzM25ZSmZoSG05RjYyM2dsOU9tVnpzWm02c2VFSXhMSTNGV0RyMnE5YVllWnRvVThqZWYwRHJ1MGliV0g2Zw?oc=5",
-      "publishedAt": "Sun, 14 Jun 2026 04:13:27 GMT"
+      "title": "[글로벌이코노믹 사설] 공포와 탐욕의 롤러코스터 한국증시",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa0Nta0hvM1FkdVFTSEJLQVM2NU1VcThRNkRUb1hHMkptR2FzOWc0ckZGWWRYT1U2MWRneTVUVlpEREwyT2NKVnFubmszOWZoZjU4VVM2RlM4MG8tWnRzRW11LTRBb1NaNWdPYUVLSXVHTm41eU1VbUFSbzdjV0JYOWZ4dkM?oc=5",
+      "publishedAt": "Sun, 14 Jun 2026 07:20:32 GMT"
     },
     {
-      "title": "스페이스X 상장은 한국 증시에 단기적으로 부정적",
-      "source": "매일일보",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FTGRNNWxCSmFOLXZxNlEtYVRYX1dfRWQ0anlMTEJjRHBkeThTN2hZTkYyeUxtVnBUSWQ4amNnX1hsWHZlTnFSMWdKY3lkdEx0Sk9sSklmLXFFM21IaV9iVDczWDY?oc=5",
-      "publishedAt": "Sun, 14 Jun 2026 01:00:00 GMT"
+      "title": "다시 기대하는 'K증시' MSCI 편입",
+      "source": "중소기업신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBId1JqVVJsRlM0elkzanN3aGJsZm1KekFxa2tnSDYxYW96QjZ5cEFISGswX0NtRDFSczNGeUpBMmpaRkQ2NGZDbEs5RWExYTBCUHM3TnhtV1RqV21IT2RsRmdkRzBkczEzWlpYckR3?oc=5",
+      "publishedAt": "Sun, 14 Jun 2026 02:12:07 GMT"
+    },
+    {
+      "title": "\"K-증시, 선진시장으로\"…한경협, MSCI 관찰대상국 편입 촉구",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JYUpodGxFLTFiZndSbDFJTmx5TnhEa3JhTlNURjlwdUFsOHd2UXViT2lzd1daczNRV3VJMjZHbEJQZFJmalowblVjb2NZS28?oc=5",
+      "publishedAt": "Sun, 14 Jun 2026 02:01:36 GMT"
     }
   ],
   "summary": {
@@ -4778,14 +4954,14 @@
         "direction": "하락"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": -0.2677,
-        "direction": "하락"
-      },
-      {
         "label": "USD/KRW",
         "changePercent": 0.1267,
         "direction": "보합"
+      },
+      {
+        "label": "Bitcoin",
+        "changePercent": 0.2319,
+        "direction": "상승"
       }
     ]
   },
