@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-20T06:45:19.680567+09:00",
-  "updatedLabel": "2026-06-20 06:45:19 KST",
+  "updatedAt": "2026-06-20T08:02:02.305061+09:00",
+  "updatedLabel": "2026-06-20 08:02:02 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2663,15 +2663,11 @@
         [
           1781904300000,
           1529.890015
-        ],
-        [
-          1781904504000,
-          1529.890015
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-20 06:28 KST",
-      "marketTimestamp": 1781904504
+      "marketTime": "2026-06-20 07:48 KST",
+      "marketTimestamp": 1781909331
     },
     {
       "id": "us10y",
@@ -4944,10 +4940,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 63058.51,
+      "price": 63267.57,
       "previousClose": 62882.88,
-      "change": 175.63,
-      "changePercent": 0.2793,
+      "change": 384.69,
+      "changePercent": 0.6118,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5996,13 +5992,73 @@
           63030.949219
         ],
         [
-          1781905515000,
-          63058.511719
+          1781905500000,
+          63060.359375
+        ],
+        [
+          1781905800000,
+          63003.570312
+        ],
+        [
+          1781906100000,
+          63015.101562
+        ],
+        [
+          1781906400000,
+          63029.019531
+        ],
+        [
+          1781906700000,
+          63035.378906
+        ],
+        [
+          1781907000000,
+          63038.460938
+        ],
+        [
+          1781907300000,
+          63135.328125
+        ],
+        [
+          1781907600000,
+          63221.078125
+        ],
+        [
+          1781907900000,
+          63202.929688
+        ],
+        [
+          1781908200000,
+          63212.0
+        ],
+        [
+          1781908500000,
+          63214.0
+        ],
+        [
+          1781908800000,
+          63253.980469
+        ],
+        [
+          1781909100000,
+          63302.140625
+        ],
+        [
+          1781909400000,
+          63285.289062
+        ],
+        [
+          1781909700000,
+          63256.941406
+        ],
+        [
+          1781910049000,
+          63267.570312
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-20 06:45 KST",
-      "marketTimestamp": 1781905515
+      "marketTime": "2026-06-20 08:00 KST",
+      "marketTimestamp": 1781910049
     }
   ],
   "mainCharts": [
@@ -7299,56 +7355,7 @@
       "marketTimestamp": 1781817359
     }
   ],
-  "headlines": [
-    {
-      "title": "코리아넷뉴스 - 코스피, 사상 첫 9000 돌파···한국 증시 '새 역사'",
-      "source": "문화체육관광부 한국문화원",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNeFRXckNvVmxlVml0dUphMXIxLXNVaWNpaW5qY3JlVFdiZENBWkpzX1dUaFliT2xvTjRVU0dqYm1JTWJDLV9nbWF5V1B2UHVGd1B2TmMzWGdTVUNWbHpTZFk4WFBXanpuMnJYdktsdnIzOHlGWXpaUTVnV19MN0VMN2FvTWhwQjdkYkpUMzNIM1VmUW1FdlB3eUlfaVpPdU4zQnRMbWdqTUZ5Mk9lX2E1cEh3SzgyaTRsQW5Ka1RpNUhPV1BTOWNucjctdkFHWWc1TmwtMUtkSGFUNGVhcXB4OG5nZW16eGlUeWJGQTlTNXZZV0pBc0E?oc=5",
-      "publishedAt": "Fri, 19 Jun 2026 04:08:13 GMT"
-    },
-    {
-      "title": "한눈에 보는 오늘의 뉴스",
-      "source": "데일리바이트(DAILY BYTE)",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LSlZSN0Z1SjFXeTQ1X1duLVlieDFvTWpSTmtPVURZN1RseG5aN1RIQWdpX1NvMTlsZ2Q3dmNlZldJTThpOGlvRTFKVGY?oc=5",
-      "publishedAt": "Fri, 19 Jun 2026 08:57:44 GMT"
-    },
-    {
-      "title": "국내증시 장중 시총 첫 8천조·하이닉스 2천조 돌파 후 후퇴(종합2보)",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4eTB0dUZMNTJ3UXJVWWhWdE5VOEZVZ0hlWkIzTTRIcjNCQ0sxSEhKRjdFS3BVdF9LelVVeFgybVZSZ05Hb3BTUi1EdjluQkc4ZVE0a1gwTGQzSE41WkEzYtIBYEFVX3lxTFA4eTB0dUZMNTJ3UXJVWWhWdE5VOEZVZ0hlWkIzTTRIcjNCQ0sxSEhKRjdFS3BVdF9LelVVeFgybVZSZ05Hb3BTUi1EdjluQkc4ZVE0a1gwTGQzSE41WkEzYg?oc=5",
-      "publishedAt": "Fri, 19 Jun 2026 07:20:01 GMT"
-    },
-    {
-      "title": "코스피 9000시대 열렸는데…비트코인 부진에 증시로 '머니 무브' 가속",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUd0RaWDdvVnYyMTVtMzYxQUJvXzFLWE42cTEzQjktUG1SVks1TF83ZFJZY05EbzZ2RmFaSVlXZDh6U2hrTXh4MEZ3cVNqN3VlWjE3MA?oc=5",
-      "publishedAt": "Fri, 19 Jun 2026 15:02:50 GMT"
-    },
-    {
-      "title": "국내주식도 사고 해외주식도 사는 투자방식 굳어지나",
-      "source": "중기이코노미",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wX2xndjY5aE92WmVxRGVYbnI1dk9BSVZOdzR0WXJJdG5wVXp0LUpRNmk3MnNmQ0lnaERpbTVYMV9MSm94bHhRdUFQSTd2dzE5dmVEWXZQVXFiekRYb1BCNzJWTExXb3Z6c1E?oc=5",
-      "publishedAt": "Fri, 19 Jun 2026 05:18:18 GMT"
-    },
-    {
-      "title": "국내증시 장중 시총 첫 8000조… 하이닉스 2000조 돌파 뒤 후퇴",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aWXU5dTUyVHR6OTZMbTBiZlFFOXhJblRyNTBRSHZuMXRBX0VwVkM4d1A4QWZ1SVJWdGVpOWo1X1NiLTg3dnBaT0oxdzNCQkxlZWZqa1JmclNsSlpneTlaTFU0eHdOR25FSVRnUU8zSQ?oc=5",
-      "publishedAt": "Fri, 19 Jun 2026 07:40:41 GMT"
-    },
-    {
-      "title": "“한국 증시에 대한 해외 투자자들 관심, 이제 시작 단계” - 조선비즈",
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaEh1Vm5pUG1KMEtQMTJXaDE5eFNVVGlmdkd0YzU4NGpuZ2dlTVR1ZW1MWXB4SzRkUDhzRGhlMmZNX3V6SG14b1ZhYTI1Y0hpcVBtYi0yREczUVd4QnBzeWZIUXFvdThnUDl1V3lCMmJNT2RCczIweV9lMWVHMldUc1lNUE9IUlV20gGcAUFVX3lxTE9zVEotMlllTHROSnR2aXhGMkgtMkJxdms0OFdhazdPczRXc01KZFZWTXdpVUNQX0VZdVJ1NURlUDF6U0VxbTg5bjNPcFJ1QUUyQVFBeDBpYklTRUJEclpvLUd5ZWFuNVdwN1U3aTVyamZDYnZNbTFXVlBRTGJSTDlUQ0dZWGhKWVBGMDRlN0ZDU3owM0l1eTMweFVpQw?oc=5",
-      "publishedAt": "Fri, 19 Jun 2026 01:25:00 GMT"
-    },
-    {
-      "title": "[주간증시전망] 9000선 안착 시험대…MSCI·마이크론·PCE에 쏠린 눈",
-      "source": "아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSeHNPQUVKdjVRbGFaUW9oM3hzS0dTZG5lNjdLUFUycU5FdURud3F6VEdIZFVDVGpONkNldjBuNEhWNVhnN1VwSGVPa0plYktac3BxLXcwa28td9IBWEFVX3lxTE1GYWV3VXk4N2xGeVkwaldhQ3dHZEgyQzlxQTFOd1VfUFV0UHVGX3ZSenRGRVQxNERINm5wdGtSbXNLNndvUElydWl0M2NZQzYtY2VfTlNfM2M?oc=5",
-      "publishedAt": "Fri, 19 Jun 2026 21:00:00 GMT"
-    }
-  ],
+  "headlines": [],
   "summary": {
     "signal": {
       "label": "Mixed",
@@ -7402,5 +7409,7 @@
       }
     ]
   },
-  "errors": []
+  "errors": [
+    "뉴스: HTTP Error 503: Service Unavailable"
+  ]
 }
