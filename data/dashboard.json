@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-21T18:08:44.440902+09:00",
-  "updatedLabel": "2026-06-21 18:08:44 KST",
+  "updatedAt": "2026-06-21T20:59:36.332719+09:00",
+  "updatedLabel": "2026-06-21 20:59:36 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1307,9 +1307,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 51564.7,
-      "previousClose": 51492.55,
-      "change": 72.15,
-      "changePercent": 0.1401,
+      "previousClose": 51492.6,
+      "change": 72.1,
+      "changePercent": 0.14,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -2734,10 +2734,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 63900.89,
+      "price": 64076.02,
       "previousClose": 64240.906,
-      "change": -340.016,
-      "changePercent": -0.5293,
+      "change": -164.886,
+      "changePercent": -0.2567,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3179,16 +3179,152 @@
         ],
         [
           1782032700000,
-          63889.910156
+          63897.75
         ],
         [
-          1782032916000,
-          63900.890625
+          1782033000000,
+          63892.808594
+        ],
+        [
+          1782033300000,
+          63895.789062
+        ],
+        [
+          1782033600000,
+          63937.199219
+        ],
+        [
+          1782033900000,
+          63969.019531
+        ],
+        [
+          1782034200000,
+          64020.871094
+        ],
+        [
+          1782034500000,
+          64145.289062
+        ],
+        [
+          1782034800000,
+          64047.0
+        ],
+        [
+          1782035100000,
+          64055.988281
+        ],
+        [
+          1782035400000,
+          64110.839844
+        ],
+        [
+          1782035700000,
+          64126.0
+        ],
+        [
+          1782036000000,
+          64136.609375
+        ],
+        [
+          1782036300000,
+          64194.609375
+        ],
+        [
+          1782036600000,
+          64200.019531
+        ],
+        [
+          1782036900000,
+          64208.691406
+        ],
+        [
+          1782037200000,
+          64273.371094
+        ],
+        [
+          1782037500000,
+          64223.628906
+        ],
+        [
+          1782037800000,
+          64238.890625
+        ],
+        [
+          1782038100000,
+          64265.878906
+        ],
+        [
+          1782038400000,
+          64265.511719
+        ],
+        [
+          1782038700000,
+          64322.140625
+        ],
+        [
+          1782039000000,
+          64285.660156
+        ],
+        [
+          1782039300000,
+          64285.160156
+        ],
+        [
+          1782039600000,
+          64309.949219
+        ],
+        [
+          1782039900000,
+          64345.511719
+        ],
+        [
+          1782040200000,
+          64343.441406
+        ],
+        [
+          1782040500000,
+          64117.109375
+        ],
+        [
+          1782040800000,
+          64228.941406
+        ],
+        [
+          1782041100000,
+          64307.25
+        ],
+        [
+          1782041400000,
+          64184.410156
+        ],
+        [
+          1782041700000,
+          64188.449219
+        ],
+        [
+          1782042000000,
+          64204.929688
+        ],
+        [
+          1782042300000,
+          64203.960938
+        ],
+        [
+          1782042600000,
+          64075.039062
+        ],
+        [
+          1782042900000,
+          64054.789062
+        ],
+        [
+          1782043170000,
+          64076.019531
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-21 18:08 KST",
-      "marketTimestamp": 1782032916
+      "marketTime": "2026-06-21 20:59 KST",
+      "marketTimestamp": 1782043170
     }
   ],
   "mainCharts": [
@@ -4487,22 +4623,34 @@
   ],
   "headlines": [
     {
+      "title": "[자막뉴스] \"한국 증시 위험하다\" 전문가 경고...사상 최고 코스피의 불안한 민낯",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YZEVEV3FFam1GUWJWNFJ4VlZZeHgyWWlnN3RfbHJFRHhaWmhKUE9ZMm55MFBZeHRWeGg2dlBFQ0Jmc1h3X2NYTzgyZzBVaV9mR1RPcC1GYjk3X1FKSFE?oc=5",
+      "publishedAt": "Sun, 21 Jun 2026 10:33:00 GMT"
+    },
+    {
+      "title": "코스피 9000에도 국내 증시 8% ‘동전주’ 한국거래소, 투자자에 ‘상장폐지 주의보’",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82LVNQSXlNSjVieXkwQnlkQWN0VlhOZjN5X1pTSlUzYXU2SDIxZVF4NGV1TmIxWWJ5cXdDSXVvdW9QNlNsd0gyQU1fb2FCeHJJU01sb2tWVXVDUdIBX0FVX3lxTE50ejFpWXNXM19kYW9TLW5YUDFLaUNzTmVFYk1hdlhiQ1p4bzJJZ3IwdFRDdW1BZlFxNnNJYkNGa1BVY25obDlJWS1sZGU0RXJjLVNoYnh2bE1ONDVkUmpj?oc=5",
+      "publishedAt": "Sun, 21 Jun 2026 11:42:00 GMT"
+    },
+    {
       "title": "뉴욕·상하이 증시, 美·이란 후속 협상에 뉴욕증시 '촉각'",
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tTlZUQVNZRElraEZuaHJSZ2o0S3pZTHJlbl9ZU1JZelEtTVdzOG5yeEg4aW1oVEJnWEpWNEtoWDk2TDU5ZlVEeU9zU1AxaEstWDFFb2MxVFFHUdIBVEFVX3lxTE5lYmI5dVVGSjY1S0pacWhxZ3hTMTdiQWpyTDA2RHczS2VsQUdFc2tqOUpZWUo5RDJHbUwxNVVaQWhpaFR6eFpub2s5MGlBRnNyaDI1WA?oc=5",
       "publishedAt": "Sun, 21 Jun 2026 08:35:55 GMT"
     },
     {
-      "title": "코스피 9000인데 국내 증시 8%가 동전주…7월부터 상장폐지 대상 올라",
-      "source": "경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6cWlXeFVsVjZRdllMWC04YTlYa2xNLVV0dm1LdnBmZkdxYjdiUFBOTGVobzRCNDAycTdUY0hpUXJZR203X1hMcEIteWpWU1JITkYzZ1VMYXA1a1B6TkFR0gFfQVVfeXFMUHpxaVd4VWxWNlF2WUxYLThhOVhrbE0tVXR2bUt2cGZmR3FiN2JQUE5MZWhvNEI0MDJxN1RjSGlRcllHbTdfWExwQi15alZTUkhORjNnVUxhcDVrUHpOQVE?oc=5",
-      "publishedAt": "Sun, 21 Jun 2026 07:06:00 GMT"
-    },
-    {
       "title": "[마켓인사이트] 9,000선 넘어선 코스피, '1만피' 질주 이어갈까",
       "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pYzNMSmlILXhUUDBra3l4Qk1HYUlLcjBVTG1PSXlmUkdHRDktTzU4dTVid1FOM1k5UGhOTjBSeU94bThnOXI3ZHh3S3pnN0Z5VENyQTd2OFR2aEnSAWBBVV95cUxQb2dqWEVkelRfRk1qcHhJTElydzZzVVc3YmxWZlY2TE1FWlJwcFNZRUwxYlk0TWFwVWYzQXA1RFNzWjJDd0p3SnEyTVZsTnJkRWVfY3hudkVEQ244WUppcHo?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvZ2pYRWR6VF9GTWpweElMSXJ3NnNVVzdibFZmVjZMTUVaUnBwU1lFTDFiWTRNYXBVZjNBcDVEU3NaMkN3SndKcTJNVmxOcmRFZV9jeG52RURDbjhZSmlwetIBYEFVX3lxTFBvZ2pYRWR6VF9GTWpweElMSXJ3NnNVVzdibFZmVjZMTUVaUnBwU1lFTDFiWTRNYXBVZjNBcDVEU3NaMkN3SndKcTJNVmxOcmRFZV9jeG52RURDbjhZSmlweg?oc=5",
       "publishedAt": "Sat, 20 Jun 2026 22:01:12 GMT"
+    },
+    {
+      "title": "개인들 ETF로 분산투자… 증시 거래대금의 30% 차지",
+      "source": "파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lQ3hMcVpoSGVkY0NkaUlEeXYwTGtiRUNKTmZJa1BTZE5vYXVoZ1h2MjJVbUpyY013OExUS25pekJoNWFYNms5YkJ1N0twWS05WDJVSGN2YmIzdw?oc=5",
+      "publishedAt": "Sun, 21 Jun 2026 09:17:47 GMT"
     },
     {
       "title": "“1초만에 월급 벌기도 잃기도”…한국 증시 광풍 외신도 집중조명",
@@ -4511,28 +4659,16 @@
       "publishedAt": "Sat, 20 Jun 2026 22:57:00 GMT"
     },
     {
-      "title": "“미국보다 돈 2배나 많이 풀려… 원/달러 환율 내년 1700원 돌파 가능성”",
-      "source": "동아일보",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Cekl6T01PYS1kNHV3amdkVEU0QmNzS1ZhaXNNa2ZvLUxuVDlBdzI2bFFTS3owUF83S2h0dzNkNzRudjVMVGlRbUw0NXk5amFUek84eEgtNmY0QmpZbEgwWk5wR0lXbjJ0RDkzSC1uY2M0Vk5vRUHSAWZBVV95cUxPOUh5UXdzMVJrOHRERHI3YXZieFEzaVdkcmVWa2Zqc3kwZnQwUG9lVFBYNFBrZ0pYaUlIbVdYcUNOVllteDA4RDR5MEExcWFVOVlqTHVJQUVSem8ycmNCV01qSDZJVFE?oc=5",
-      "publishedAt": "Sat, 20 Jun 2026 23:08:00 GMT"
-    },
-    {
-      "title": "[주간증시전망] 실적장세 재개···반도체 쏠림에 신중론도",
-      "source": "서울파이낸스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yZmhQTjRvMnZVQ3JiNUN3NWUza1hBdl9BSGhFYzVBVVVxU1MwTjlpa0s4eEIwWi1XVkRaRVBWUGk2RTgwN0ZGREJsRmJjQjI0R2NoSjZFeXZXbGxtM05KX2lxYjdaUTd3YlE?oc=5",
-      "publishedAt": "Sun, 21 Jun 2026 09:00:00 GMT"
-    },
-    {
-      "title": "[이번주 증시] 美 마이크론 실적과 국내 반도체 흐름 주목",
-      "source": "오피니언뉴스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtVUU0YXVsRjh2bVoyR3AxY2FQd2hUU21hQk9Jc0lMZXZQWmpuSU5CUGxlUnlCVGJFVG5jajZMano5anZFbnBEWmJRbVRKQ0tISjZqeDVURGJyLUtjMmF2Q0R6ZWsxNGN2QnBJTjQ3cjg?oc=5",
-      "publishedAt": "Sun, 21 Jun 2026 01:00:00 GMT"
-    },
-    {
       "title": "국내 증시 8%는 ‘동전주’…시총 8조, 상장폐지 초읽기",
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04WDZSM0JmRFFBU2lSMUdPWEh3VVNNWlNyc2gtYXF1NFBwZmpFVm1jNHNRR21xdmFmSHplX1pCb00wVV95N2JDa29yS0JxdVE?oc=5",
       "publishedAt": "Sat, 20 Jun 2026 22:32:31 GMT"
+    },
+    {
+      "title": "한국이나 미국이나 금리 올린다는데, 코스피는 왜 계속 오를까 [주末머니]",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xdGV1Q2N0bU1XUnlNbGFpV3lJSWJyOVA5VHZmcDdrRG9WZkh0SWt5NTc2X2ZhQkFLN2ZzeVFyc3NXY0piZ2llZVJFYjdYZ2NlM25IRkN0M3ZoTGRXU3JrZnVvNDhqcFFNcUE?oc=5",
+      "publishedAt": "Sun, 21 Jun 2026 08:46:00 GMT"
     }
   ],
   "summary": {
