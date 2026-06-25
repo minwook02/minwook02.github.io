@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-26T05:06:25.263778+09:00",
-  "updatedLabel": "2026-06-26 05:06:25 KST",
+  "updatedAt": "2026-06-26T07:04:53.474482+09:00",
+  "updatedLabel": "2026-06-26 07:04:53 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -961,8 +961,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-26 05:06 KST",
-      "marketTimestamp": 1782417983
+      "marketTime": "2026-06-26 05:46 KST",
+      "marketTimestamp": 1782420381
     },
     {
       "id": "nasdaq",
@@ -1296,8 +1296,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-26 05:06 KST",
-      "marketTimestamp": 1782417980
+      "marketTime": "2026-06-26 06:15 KST",
+      "marketTimestamp": 1782422159
     },
     {
       "id": "dow",
@@ -1631,8 +1631,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-26 05:06 KST",
-      "marketTimestamp": 1782417983
+      "marketTime": "2026-06-26 05:46 KST",
+      "marketTimestamp": 1782420395
     },
     {
       "id": "usdkrw",
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1544.44,
+      "price": 1545.23,
       "previousClose": 1536.52,
-      "change": 7.92,
-      "changePercent": 0.5155,
+      "change": 8.71,
+      "changePercent": 0.5669,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -2618,16 +2618,108 @@
         ],
         [
           1782417900000,
+          1544.51001
+        ],
+        [
+          1782418200000,
+          1544.689941
+        ],
+        [
+          1782418500000,
+          1544.619995
+        ],
+        [
+          1782418800000,
+          1544.77002
+        ],
+        [
+          1782419100000,
+          1543.910034
+        ],
+        [
+          1782419400000,
+          1544.650024
+        ],
+        [
+          1782419700000,
+          1544.630005
+        ],
+        [
+          1782420000000,
+          1544.640015
+        ],
+        [
+          1782420300000,
+          1544.619995
+        ],
+        [
+          1782420600000,
+          1544.75
+        ],
+        [
+          1782420900000,
+          1544.530029
+        ],
+        [
+          1782421200000,
+          1545.300049
+        ],
+        [
+          1782421500000,
+          1545.140015
+        ],
+        [
+          1782421800000,
+          1544.849976
+        ],
+        [
+          1782422100000,
+          1544.709961
+        ],
+        [
+          1782422400000,
+          1544.589966
+        ],
+        [
+          1782422700000,
+          1544.699951
+        ],
+        [
+          1782423000000,
+          1544.579956
+        ],
+        [
+          1782423300000,
           1544.439941
         ],
         [
-          1782417984000,
-          1544.439941
+          1782423600000,
+          1544.48999
+        ],
+        [
+          1782423900000,
+          1544.51001
+        ],
+        [
+          1782424200000,
+          1544.5
+        ],
+        [
+          1782424500000,
+          1544.640015
+        ],
+        [
+          1782424800000,
+          1544.97998
+        ],
+        [
+          1782425089000,
+          1545.22998
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-26 05:06 KST",
-      "marketTimestamp": 1782417984
+      "marketTime": "2026-06-26 07:04 KST",
+      "marketTimestamp": 1782425089
     },
     {
       "id": "us10y",
@@ -2975,12 +3067,12 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 72.01,
-      "previousClose": 70.34,
-      "change": 1.67,
-      "changePercent": 2.3742,
-      "tone": "up",
-      "direction": "상승",
+      "price": 71.47,
+      "previousClose": 71.92,
+      "change": -0.45,
+      "changePercent": -0.6257,
+      "tone": "down",
+      "direction": "하락",
       "series": [
         [
           1782360000000,
@@ -3751,13 +3843,57 @@
           72.029999
         ],
         [
-          1782417383000,
-          72.010002
+          1782417600000,
+          71.989998
+        ],
+        [
+          1782417900000,
+          72.099998
+        ],
+        [
+          1782418200000,
+          72.050003
+        ],
+        [
+          1782418500000,
+          71.949997
+        ],
+        [
+          1782418800000,
+          71.900002
+        ],
+        [
+          1782419100000,
+          71.779999
+        ],
+        [
+          1782419400000,
+          71.739998
+        ],
+        [
+          1782419700000,
+          71.699997
+        ],
+        [
+          1782420000000,
+          71.639999
+        ],
+        [
+          1782420300000,
+          71.459999
+        ],
+        [
+          1782420600000,
+          71.43
+        ],
+        [
+          1782420900000,
+          71.470001
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-26 04:56 KST",
-      "marketTimestamp": 1782417383
+      "marketTime": "2026-06-26 05:59 KST",
+      "marketTimestamp": 1782421199
     },
     {
       "id": "gold",
@@ -3766,12 +3902,12 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 4037.5,
-      "previousClose": 4008.8,
-      "change": 28.7,
-      "changePercent": 0.7159,
-      "tone": "up",
-      "direction": "상승",
+      "price": 4041.6,
+      "previousClose": 4047.6,
+      "change": -6.0,
+      "changePercent": -0.1482,
+      "tone": "flat",
+      "direction": "보합",
       "series": [
         [
           1782360000000,
@@ -4542,13 +4678,57 @@
           4041.600098
         ],
         [
-          1782417380000,
-          4037.5
+          1782417600000,
+          4046.0
+        ],
+        [
+          1782417900000,
+          4043.199951
+        ],
+        [
+          1782418200000,
+          4042.899902
+        ],
+        [
+          1782418500000,
+          4043.600098
+        ],
+        [
+          1782418800000,
+          4045.399902
+        ],
+        [
+          1782419100000,
+          4045.600098
+        ],
+        [
+          1782419400000,
+          4042.100098
+        ],
+        [
+          1782419700000,
+          4040.899902
+        ],
+        [
+          1782420000000,
+          4041.399902
+        ],
+        [
+          1782420300000,
+          4039.5
+        ],
+        [
+          1782420600000,
+          4039.899902
+        ],
+        [
+          1782420900000,
+          4041.600098
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-26 04:56 KST",
-      "marketTimestamp": 1782417380
+      "marketTime": "2026-06-26 05:59 KST",
+      "marketTimestamp": 1782421199
     },
     {
       "id": "bitcoin",
@@ -4557,10 +4737,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 59613.16,
+      "price": 60040.2,
       "previousClose": 60983.434,
-      "change": -1370.274,
-      "changePercent": -2.247,
+      "change": -943.234,
+      "changePercent": -1.5467,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5530,16 +5710,108 @@
         ],
         [
           1782417900000,
-          59558.0
+          59513.941406
         ],
         [
-          1782417980000,
-          59613.160156
+          1782418200000,
+          59468.820312
+        ],
+        [
+          1782418500000,
+          59488.339844
+        ],
+        [
+          1782418800000,
+          59513.929688
+        ],
+        [
+          1782419100000,
+          59514.800781
+        ],
+        [
+          1782419400000,
+          59435.980469
+        ],
+        [
+          1782419700000,
+          59325.988281
+        ],
+        [
+          1782420000000,
+          59412.039062
+        ],
+        [
+          1782420300000,
+          59349.710938
+        ],
+        [
+          1782420600000,
+          59259.710938
+        ],
+        [
+          1782420900000,
+          59351.761719
+        ],
+        [
+          1782421200000,
+          59415.449219
+        ],
+        [
+          1782421500000,
+          59444.300781
+        ],
+        [
+          1782421800000,
+          59510.898438
+        ],
+        [
+          1782422100000,
+          59490.0
+        ],
+        [
+          1782422400000,
+          59534.621094
+        ],
+        [
+          1782422700000,
+          59610.078125
+        ],
+        [
+          1782423000000,
+          59836.011719
+        ],
+        [
+          1782423300000,
+          59818.621094
+        ],
+        [
+          1782423600000,
+          59855.648438
+        ],
+        [
+          1782423900000,
+          59814.410156
+        ],
+        [
+          1782424200000,
+          59954.589844
+        ],
+        [
+          1782424500000,
+          60128.898438
+        ],
+        [
+          1782424800000,
+          60039.898438
+        ],
+        [
+          1782425089000,
+          60040.199219
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-26 05:06 KST",
-      "marketTimestamp": 1782417980
+      "marketTime": "2026-06-26 07:04 KST",
+      "marketTimestamp": 1782425089
     }
   ],
   "mainCharts": [
@@ -6497,8 +6769,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-26 05:06 KST",
-      "marketTimestamp": 1782417983
+      "marketTime": "2026-06-26 05:46 KST",
+      "marketTimestamp": 1782420381
     },
     {
       "id": "nasdaq",
@@ -6832,8 +7104,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-26 05:06 KST",
-      "marketTimestamp": 1782417980
+      "marketTime": "2026-06-26 06:15 KST",
+      "marketTimestamp": 1782422159
     }
   ],
   "headlines": [
@@ -6844,16 +7116,34 @@
       "publishedAt": "Thu, 25 Jun 2026 13:28:45 GMT"
     },
     {
+      "title": "성공투자 오후증시",
+      "source": "한국경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR094TzhmUGthUk9CLWRmTU5SczhxS3lKRFV1Q3dGWVZHNFZUWjI4aDl6RDNaRmdKMGlBOHBVVGVjX2dTWUVUNm5TM0p0SThCS05IUDkxSENxU1k2bHltOVpGWWhxTlYyQ25vWTQyUGozWm1wUDJRcHhKalhmdEVRLXUtd0J2Qkg2Z1J1bTRaSjJYbHBMWC1EdmRfdnNOZVJwR3VJ?oc=5",
+      "publishedAt": "Thu, 25 Jun 2026 08:36:39 GMT"
+    },
+    {
+      "title": "마이크론 급등에도 뉴욕증시 혼조…AI 비용 우려 부각",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwVE02RDNPNHpVaTdWaUkwQXJQMkswT1FRZ3pGV3NSSVVFM0tSUndFbUNINFhSd1ZxemRzTzZXdWxVUmJEQkR2cjB2dDdZcVNBVjdDd0t4OWpIUdIBVEFVX3lxTE52UzhmQ1VyUVowdnNPR2tBMURtZHpJeEtWSjFsdDN1SHVQZndzZVhMNWJaWGVSYjg3ak9UX0Y5UmxBWVJMVko3djJfUnp0MU9rdTdrNw?oc=5",
+      "publishedAt": "Thu, 25 Jun 2026 21:34:49 GMT"
+    },
+    {
       "title": "증시 변동성 확대…'꼬리가 몸통 흔드는' 레버리지",
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IbDZHM2VHWnhpLUhDNnJtUHBZb3VmZy1iQTAwSU5YUzZ2SHZhU3kzaDg3Umt5bGNxakZpWGgyakVpdHdEOHAtck5CRWhLc2FzWWVWWng0Z0QxREJaZUJwZdIBYEFVX3lxTE5IbDZHM2VHWnhpLUhDNnJtUHBZb3VmZy1iQTAwSU5YUzZ2SHZhU3kzaDg3Umt5bGNxakZpWGgyakVpdHdEOHAtck5CRWhLc2FzWWVWWng0Z0QxREJaZUJwZQ?oc=5",
       "publishedAt": "Thu, 25 Jun 2026 04:14:41 GMT"
     },
     {
-      "title": "SK하이닉스처럼…日 키옥시아, 미국 증시상장 추진 [재팬스탁]",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04ZGE1eXNxcDc2UDNFQmdqMGZ5SDRudFgyYy1XSkxEOWtXVFFOU0Ywa0xHMl90WEFad2FULTdheUd3OHBfM0ZvckNwNDhMVlJURDEyT2RCQ0JjZ9IBVEFVX3lxTFB3dURRYU8tc3M2YjFoWFFBc05LSzBfLTNJWXI5eEk5cXBBaVBKbnNPU0M1ODg4aEQtREhKQnBjZFU1bTIzenJUaGI1bUx0c0RLdGtNXw?oc=5",
-      "publishedAt": "Thu, 25 Jun 2026 05:34:11 GMT"
+      "title": "장중, 마이크론 폭등에도 미국증시 '혼조'...왜?",
+      "source": "초이스경제",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40UDlFTG9DNjdzNHFTUlN3YW44a1RjQWs5UjZkR1hFSFkyR2tiR1V4Um5hbi1Xb09INjdVZWFidHlJeTNwamxEVE93bmd4ZmtqTm1KRDdPa3RTRm0zN0t6dG9rQzJZc3NtMHd2UlkzX0LSAXNBVV95cUxOQTJQOGotVHJyTmgwWFVvR1JJT2d0WElfWDVKdV9obWhiVnhpVlUwdFA3ZHdPeHAwXzg1cVV4M1dzN1NnNElzQjZIQ1VhWEpFWmduVWt2bG9VTkJZMHUwRGZzdEgxLTgteFdYWVRWR1dpLXQ4?oc=5",
+      "publishedAt": "Thu, 25 Jun 2026 17:22:12 GMT"
+    },
+    {
+      "title": "변동성지수 95로 연일 사상 최고치⋯JP모건 “한국 증시 ‘널뛰기 장세’ 고착화”",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1UTkzSnhHSmFla3NlcFdVYTRPNVlZcjl2WlNaWTNDYTdqUmxhTlozRE10LURfYmdzQXU2bVJ4aXlyQmY5TXEyeElXbHQzTUgwRllVMA?oc=5",
+      "publishedAt": "Thu, 25 Jun 2026 21:00:00 GMT"
     },
     {
       "title": "환율 상승세, 유가 내려도 멈추지 않는 이유는?",
@@ -6866,42 +7156,24 @@
       "source": "뉴스톱",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nMGFXUXBpWWpEWHRydlRnTjJEbWFVaXJLV1UwT29kRTZnSWNSVE42Mmt6bEdrTnNSU1BuaHl0Q2JJOUM5bG9hM2pFWFFoSjZDN3FTSU90b2RxY2thbml1YUk5elBMYi1zQUZHbDEwTQ?oc=5",
       "publishedAt": "Thu, 25 Jun 2026 08:38:30 GMT"
-    },
-    {
-      "title": "SK하닉 ADR ‘저평가’ 끝낼까… 목표가 430만원, 코스피 흔든다",
-      "source": "국민일보",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JNXJXTE9Tc2I3ZFFpbUlHbzZTRXJHeWVTeWxZSWhRYm9hZE5HSFItc19fYWl4WkZRVW5aV2RZblhrR2JsNWYxdUtOVXE4bmYwcDB0WVNFd1VUNkx3QWVaa2NkMFFPSEtaeTJYV9IBbEFVX3lxTE9JNXJXTE9Tc2I3ZFFpbUlHbzZTRXJHeWVTeWxZSWhRYm9hZE5HSFItc19fYWl4WkZRVW5aV2RZblhrR2JsNWYxdUtOVXE4bmYwcDB0WVNFd1VUNkx3QWVaa2NkMFFPSEtaeTJYVw?oc=5",
-      "publishedAt": "Thu, 25 Jun 2026 15:06:00 GMT"
-    },
-    {
-      "title": "美 투자 1조달러 돌파·외국인 주식 이탈…환율 안 떨어지는 이유 - 머니투데이",
-      "source": "머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhRDlNaDhXQTZvV1ROMWNjdWI2YmU2eFFfWGJweGI3SG9SVHpLVWJGQmlteThnMlQ1TTM2LXZscm1qY3VhQ09XekpVUU4wbFc2ZXFNUGlDZGxEcElCVmVwYlJ4aW1YSlZEcVhKWFBreG3SAXBBVV95cUxQYUQ5TWg4V0E2b1dUTjFjY3ViNmJlNnhRX1hicHhiN0hvUlR6S1ViRkJpbXk4ZzJUNU0zNi12bHJtamN1YUNPV3pKVVFOMGxXNmVxTVBpQ2RsRHBJQlZlcGJSeGltWEpWRHFYSlhQa3ht?oc=5",
-      "publishedAt": "Thu, 25 Jun 2026 07:54:08 GMT"
-    },
-    {
-      "title": "\"수익률이 너무 좋아서\"…ETF들, 무더기 증시 퇴출",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zOURSbjJPSkJuclJNcm1UUUJvNG5pX3BtYzJfcGJMMHAzOEtTaC16N2NjSEN1bHZfUFRLVTVhRjk4cWM0OUhsNE4tdTlSSVU?oc=5",
-      "publishedAt": "Thu, 25 Jun 2026 09:44:16 GMT"
     }
   ],
   "summary": {
     "signal": {
-      "label": "Risk-On",
-      "tone": "up",
-      "message": "주식과 위험자산 강세가 우세합니다."
+      "label": "Mixed",
+      "tone": "flat",
+      "message": "국내외 자산이 같은 방향으로 움직이지 않는 혼조장입니다."
     },
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 하락 흐름입니다.",
       "해외는 S&P 500 -0.01%, NASDAQ -0.46%로 확인됩니다.",
-      "매크로 변수는 USD/KRW +0.52%, 미 10년물 -0.23%입니다."
+      "매크로 변수는 USD/KRW +0.57%, 미 10년물 -0.23%입니다."
     ],
     "checkpoints": [
       "KOSPI +5.42% 상승",
       "KOSDAQ -0.42% 하락",
       "미국 증시 보합 / 나스닥 -0.46%",
-      "원달러 +0.52% (+7.92)",
+      "원달러 +0.57% (+8.71)",
       "미 10년물 -0.010p (-0.23%)"
     ],
     "leaders": [
@@ -6911,30 +7183,30 @@
         "direction": "상승"
       },
       {
-        "label": "WTI",
-        "changePercent": 2.3742,
+        "label": "USD/KRW",
+        "changePercent": 0.5669,
         "direction": "상승"
       },
       {
-        "label": "Gold",
-        "changePercent": 0.7159,
-        "direction": "상승"
+        "label": "DOW",
+        "changePercent": 0.1383,
+        "direction": "보합"
       }
     ],
     "laggards": [
       {
         "label": "Bitcoin",
-        "changePercent": -2.247,
+        "changePercent": -1.5467,
+        "direction": "하락"
+      },
+      {
+        "label": "WTI",
+        "changePercent": -0.6257,
         "direction": "하락"
       },
       {
         "label": "NASDAQ",
         "changePercent": -0.4633,
-        "direction": "하락"
-      },
-      {
-        "label": "KOSDAQ",
-        "changePercent": -0.4161,
         "direction": "하락"
       }
     ]
