@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-28T06:38:26.794068+09:00",
-  "updatedLabel": "2026-06-28 06:38:26 KST",
+  "updatedAt": "2026-06-28T08:07:40.747813+09:00",
+  "updatedLabel": "2026-06-28 08:07:40 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4681,10 +4681,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 60254.66,
+      "price": 60208.56,
       "previousClose": 60013.164,
-      "change": 241.496,
-      "changePercent": 0.4024,
+      "change": 195.396,
+      "changePercent": 0.3256,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5726,16 +5726,88 @@
         ],
         [
           1782596100000,
-          60249.289062
+          60214.679688
         ],
         [
-          1782596304000,
-          60254.660156
+          1782596400000,
+          60150.398438
+        ],
+        [
+          1782596700000,
+          60184.351562
+        ],
+        [
+          1782597000000,
+          60089.230469
+        ],
+        [
+          1782597300000,
+          60099.878906
+        ],
+        [
+          1782597600000,
+          60003.988281
+        ],
+        [
+          1782597900000,
+          60034.121094
+        ],
+        [
+          1782598200000,
+          60023.988281
+        ],
+        [
+          1782598500000,
+          59914.789062
+        ],
+        [
+          1782598800000,
+          59969.539062
+        ],
+        [
+          1782599100000,
+          60031.5
+        ],
+        [
+          1782599400000,
+          60089.441406
+        ],
+        [
+          1782599700000,
+          60129.0
+        ],
+        [
+          1782600000000,
+          60079.988281
+        ],
+        [
+          1782600300000,
+          60111.328125
+        ],
+        [
+          1782600600000,
+          60095.03125
+        ],
+        [
+          1782600900000,
+          60135.011719
+        ],
+        [
+          1782601200000,
+          60159.609375
+        ],
+        [
+          1782601500000,
+          60184.78125
+        ],
+        [
+          1782601655000,
+          60208.558594
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-28 06:38 KST",
-      "marketTimestamp": 1782596304
+      "marketTime": "2026-06-28 08:07 KST",
+      "marketTimestamp": 1782601655
     }
   ],
   "mainCharts": [
@@ -7034,10 +7106,22 @@
   ],
   "headlines": [
     {
+      "title": "이를 어쩌나…증시 변동성 '폭탄' 된 단일종목 레버리지",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TYWV4dGZ1N2Mwb0pZX1BPaW5IQmJ1MjE3WF9RanNBd1ZtZXdXR2ZVSUZCdC11ZzkzcEplSjJRbS1UbDdwYVVOT1ZNY1VmTF9QMUl1NlVUU0ZMaTjSAWBBVV95cUxQQ3F2dFFLS2pXZDAtdXhNWFRQUWFTZVlBZGtmTElzTlZ2d0R0TVV0TWIwRVpsWk1GWmZueXEyWWpjanlUYlpOSjZGZjM3clY3cHJVV29yTVJrUU9BWkJOb00?oc=5",
+      "publishedAt": "Sat, 27 Jun 2026 22:05:01 GMT"
+    },
+    {
       "title": "[비즈토크] 한국 증시 MSCI 지수 편입 '좌절'…남은 과제는 - 경제 | 기사",
       "source": "더팩트",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqZkZEaHdhNHo3Q2FHRGRRU1NnLUV1ZHM1V3VWWEd2MjdIcFM4VWoxVE1tMmJNQnVuM2FaOC1TVGpUQkZadWRqblV1Qmg3VUhqbmNDWXE1S2VXQQ?oc=5",
       "publishedAt": "Sat, 27 Jun 2026 15:03:01 GMT"
+    },
+    {
+      "title": "AI주 급락에 글로벌 증시 출렁…반도체주도 동반 약세",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaDdhMnVYRDVTQ3F1TzgyakdVdlBXamJFVnR3TUtFczUzQmwtOUFHZzlUdXE3aDNMT19oazRHWm1fajZxSmNhd0NzV185UVJvNGJyUk5sWTZXZlMybU1qMU83ZEYtWXpIRDFGMl95VlEzWHFkdXM2NzNyREJxVHV6VGJuY29DVXpG?oc=5",
+      "publishedAt": "Sat, 27 Jun 2026 17:00:00 GMT"
     },
     {
       "title": "한국 증시, 글로벌 랠리에서 가장 과열된 시장으로 꼽혀 — BCA",
@@ -7046,10 +7130,10 @@
       "publishedAt": "Sat, 27 Jun 2026 18:53:00 GMT"
     },
     {
-      "title": "AI주 급락에 글로벌 증시 출렁…반도체주도 동반 약세",
-      "source": "글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaDdhMnVYRDVTQ3F1TzgyakdVdlBXamJFVnR3TUtFczUzQmwtOUFHZzlUdXE3aDNMT19oazRHWm1fajZxSmNhd0NzV185UVJvNGJyUk5sWTZXZlMybU1qMU83ZEYtWXpIRDFGMl95VlEzWHFkdXM2NzNyREJxVHV6VGJuY29DVXpG?oc=5",
-      "publishedAt": "Sat, 27 Jun 2026 17:00:00 GMT"
+      "title": "K-증시 강세 변함없다...코스피 8400~9500 [주간 증시 전망]",
+      "source": "데일리안",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03UGlSRDBBMENBRWIxNGEzazVCVXNYR2NTTlpjcGpxaXh1Ml90Y1JMdVJtSVU1MWVwa1R0Zi1CRndrUWd3VUxkUFFIQVd0X1VmbFA1d1pR0gHwAUFVX3lxTE5jQlFnMzZDZDNPUzBNYlcwdlZoaDByZ3d0WG4weUZWMWRVdXBjeGdoemttbTlhV3Zuck5IbDBjYzZoeDhnWmlmNWpScDUyNW03U1FiYnNSaDhKWE5Ic3dXTk9VUWc1QV9KcEt3NEFFbFZWRWF0V1E1UTJDNV83RW5TdDNyYU51SlNnTXZMa0VvX3dkbUJYRVE3UTUxYjkxVXBIa0dwMm51TzJTS3I5Z29oMS1uZ0d6ZkNGLXo2QlBndnpQZGdvNkptcUtYVWNkV2tPN0ItaGYwRzFUQUducjlPNndMd0JEdTc2eTlra2xIMQ?oc=5",
+      "publishedAt": "Sat, 27 Jun 2026 22:00:00 GMT"
     },
     {
       "title": "코스피 급락의 나비 효과... 뉴욕·도쿄 주가도 흔들렸다",
@@ -7064,22 +7148,10 @@
       "publishedAt": "Sat, 27 Jun 2026 03:23:42 GMT"
     },
     {
-      "title": "한국증시는 노름판?…300만닉스 코앞서 개미들 '패닉' [분석+]",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hWVlxdlkybjFUbm1CdDlwNXJSeFhWOTVRTVltaExUR1pVREVLS2d3YThJeGoxSFdJdEtvLTNTcThjRnJROEhtci1DbUVUbTRjTEx4Mk9iU2pUUdIBVEFVX3lxTFBYNm5qeTUyY2VsYVJ2TnVVZ1VxTVBVQTRUM3gxc0VWalBVWlg2TGstWFYxZWxkZ2Q2bDlka0VWNUR6T2RFUlRsWlZNMTF4UFAyU2x1RA?oc=5",
-      "publishedAt": "Sat, 27 Jun 2026 00:21:16 GMT"
-    },
-    {
-      "title": "오늘 금시세(금값)는?…美 PCE 발표와 뉴욕증시 혼조세 속 '강세'",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EU24tRVhlRVhfOVhELVBCRlRtZGVxSGh0ZjdiNEpZNW5XWlFXUk1OaEVnNUo1Y2R2bmMwUC1UM0tFaWR2eExjc0wyXzJick05ZmpSb29BWFBES3ZvUWItVXJPQThIbEll?oc=5",
-      "publishedAt": "Sat, 27 Jun 2026 15:19:12 GMT"
-    },
-    {
-      "title": "'상장 직후 나스닥100' 스페이스X…국내 증시 파급력은?",
-      "source": "뉴스웍스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BTVJYQkxBZVhhalNGTkZDQmZETUxBcGFCRE5QRGVhSVRCdjJTZDRQZzg0cEN1OEZMQ2pqN2h4MWN2WjYyeG9tMEVzcHFzc2g3LTJweUtxajBWaU5oR1dMLW00Z3dqbEYxa29RRFdVa9IBc0FVX3lxTE9weGRnV2FqekZoSzFIOFRuOG9SRDFFMHVuT2dROU8tN2M5UnJlSmR6UHhSSUd3dFNCV2RUckRmZ1V1NTF3eENnZEhwWWhkX0J4eG5aREpOSzRYVFN1VzZyTm0zdThsdGhaSnFXRXRCc2dhM2M?oc=5",
-      "publishedAt": "Sat, 27 Jun 2026 05:53:31 GMT"
+      "title": "[마켓인사이트] 다시 고개 든 AI 수익성 논란…코스피 향방은?",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wTERSSF9YaGpEMEhBdUN3M3ZhaG50bnJXcGZsRVJSc3V0Skw4clgteU5UQnpMN1hWMDlld1UxTGpUSTdqTnZEMFFzbFkzRldneGtNQWdhT0R5VVnSAWBBVV95cUxQb0lNalFQaG5OZmQ0N1pkR1BzWmZEaG5hbWpROWY4TUd4UHVXZWtWYTgxak9nWC00RGc3b0U4VXZnelRzWndEVEJnQlFWb2VraU9CelE5ZzRlNGRNMUtzSWQ?oc=5",
+      "publishedAt": "Sat, 27 Jun 2026 22:00:12 GMT"
     }
   ],
   "summary": {
@@ -7108,7 +7180,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.4024,
+        "changePercent": 0.3256,
         "direction": "상승"
       },
       {
