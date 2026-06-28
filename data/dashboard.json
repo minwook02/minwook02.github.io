@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-29T00:23:01.246205+09:00",
-  "updatedLabel": "2026-06-29 00:23:01 KST",
+  "updatedAt": "2026-06-29T01:42:54.089184+09:00",
+  "updatedLabel": "2026-06-29 01:42:54 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3047,12 +3047,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 59959.87,
+      "price": 59623.32,
       "previousClose": 59939.523,
-      "change": 20.347,
-      "changePercent": 0.0339,
-      "tone": "flat",
-      "direction": "보합",
+      "change": -316.203,
+      "changePercent": -0.5275,
+      "tone": "down",
+      "direction": "하락",
       "series": [
         [
           1782604800000,
@@ -3792,16 +3792,80 @@
         ],
         [
           1782660000000,
-          59951.308594
+          59966.828125
         ],
         [
-          1782660176000,
-          59959.871094
+          1782660300000,
+          59952.410156
+        ],
+        [
+          1782660600000,
+          60000.039062
+        ],
+        [
+          1782660900000,
+          59837.75
+        ],
+        [
+          1782661200000,
+          59882.558594
+        ],
+        [
+          1782661500000,
+          59810.75
+        ],
+        [
+          1782661800000,
+          59772.03125
+        ],
+        [
+          1782662100000,
+          59802.488281
+        ],
+        [
+          1782662400000,
+          59826.058594
+        ],
+        [
+          1782662700000,
+          59741.320312
+        ],
+        [
+          1782663000000,
+          59743.449219
+        ],
+        [
+          1782663300000,
+          59774.050781
+        ],
+        [
+          1782663600000,
+          59705.539062
+        ],
+        [
+          1782663900000,
+          59666.96875
+        ],
+        [
+          1782664200000,
+          59566.421875
+        ],
+        [
+          1782664500000,
+          59632.0
+        ],
+        [
+          1782664800000,
+          59669.019531
+        ],
+        [
+          1782664970000,
+          59623.320312
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-29 00:22 KST",
-      "marketTimestamp": 1782660176
+      "marketTime": "2026-06-29 01:42 KST",
+      "marketTimestamp": 1782664970
     }
   ],
   "mainCharts": [
@@ -5106,6 +5170,12 @@
       "publishedAt": "Sun, 28 Jun 2026 13:01:56 GMT"
     },
     {
+      "title": "도박장 같은 국내 증시…변동성 키운 건 레버리지·테마상품 쏠림",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93NXUwX0oyZTl2WW5vX1JHdW1OZmtNVWRIblZNVGJQU2gyTV9IRmNDUjRGRFNYOUczVl90eFV4SHQ3WURhMEQyV05ub1VKZ1RJY2FWYQ?oc=5",
+      "publishedAt": "Sun, 28 Jun 2026 12:12:01 GMT"
+    },
+    {
       "title": "[글로벌이코노믹 사설] 한국·일본·대만이 글로벌 증시 주도",
       "source": "글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjc5emt5ZlZ3R21DX3ZOakVnSlpzQTVhZzhFSy1LOUhzV1pJaTBxVzBELVhCcVQwSzZXQTBnS3BsNkZDSjMxMS1NeFk1V3Q0NC1KNUVuVW84bFpVcFAwQUFUU0cyYzYzTE40M2dkaHhzR3A1a0hYVXI3QzdTc2NWMkxkdw?oc=5",
@@ -5116,12 +5186,6 @@
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wb3pGdHkzRHRIVWF6VWVCRkgtUVdMWWExUjFxaGdiRmh2VmtqTXIxMWpzZVZTTjg5NnA0b3ZRNlBmR0dJWFJXaTBPVG1ZYVZVUW5ybGd1WVpRd9IBVEFVX3lxTFB1OWxRcWU2RTI4dWRfdFEtdk1QLUFHVlZfd0V2QUFuWTRsYTB1YmM0TFRpWWxtRUtmWlNFYldFRVh3aFF4LU5GZ0VfbWc2UllSLTdoUw?oc=5",
       "publishedAt": "Sun, 28 Jun 2026 08:18:28 GMT"
-    },
-    {
-      "title": "레버리지·테마형 쏠림이 증시 변동성 키워 … ETF '왝더독' 현실로",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjczVaX2F3T1NtRHpXanptMEN1LTJleTl1c25ETmdZSVVCblZjbG5HLVFMYy1HUHgzOS1KcXJ6YjZubll0aWszZVVONlNibWdvSlE?oc=5",
-      "publishedAt": "Sun, 28 Jun 2026 08:22:36 GMT"
     },
     {
       "title": "엄습한 폭락장 공포, '국민주' 삼전·닉스 지금이라도 팔까?...하반기 증시 전망 [유은길의 뉴스쪼개기]",
@@ -5173,13 +5237,13 @@
         "direction": "상승"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": 0.0339,
+        "label": "S&P 500",
+        "changePercent": -0.0472,
         "direction": "보합"
       },
       {
-        "label": "S&P 500",
-        "changePercent": -0.0472,
+        "label": "DOW",
+        "changePercent": -0.0857,
         "direction": "보합"
       }
     ],
