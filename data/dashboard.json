@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-29T01:42:54.089184+09:00",
-  "updatedLabel": "2026-06-29 01:42:54 KST",
+  "updatedAt": "2026-06-29T03:07:32.215810+09:00",
+  "updatedLabel": "2026-06-29 03:07:32 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -972,8 +972,8 @@
       "kind": "equity",
       "decimals": 2,
       "price": 25297.617,
-      "previousClose": 25358.604,
-      "change": -60.987,
+      "previousClose": 25358.6,
+      "change": -60.983,
       "changePercent": -0.2405,
       "tone": "down",
       "direction": "하락",
@@ -1307,8 +1307,8 @@
       "kind": "equity",
       "decimals": 2,
       "price": 51876.11,
-      "previousClose": 51920.62,
-      "change": -44.51,
+      "previousClose": 51920.6,
+      "change": -44.49,
       "changePercent": -0.0857,
       "tone": "flat",
       "direction": "보합",
@@ -2662,8 +2662,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-28 22:53 KST",
-      "marketTimestamp": 1782654815
+      "marketTime": "2026-06-29 02:31 KST",
+      "marketTimestamp": 1782667902
     },
     {
       "id": "us10y",
@@ -3047,10 +3047,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 59623.32,
+      "price": 59574.02,
       "previousClose": 59939.523,
-      "change": -316.203,
-      "changePercent": -0.5275,
+      "change": -365.503,
+      "changePercent": -0.6098,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3856,16 +3856,84 @@
         ],
         [
           1782664800000,
-          59669.019531
+          59535.351562
         ],
         [
-          1782664970000,
-          59623.320312
+          1782665100000,
+          59611.570312
+        ],
+        [
+          1782665400000,
+          59593.070312
+        ],
+        [
+          1782665700000,
+          59600.011719
+        ],
+        [
+          1782666000000,
+          59594.0
+        ],
+        [
+          1782666300000,
+          59660.828125
+        ],
+        [
+          1782666600000,
+          59552.359375
+        ],
+        [
+          1782666900000,
+          59553.730469
+        ],
+        [
+          1782667200000,
+          59572.949219
+        ],
+        [
+          1782667500000,
+          59510.300781
+        ],
+        [
+          1782667800000,
+          59489.460938
+        ],
+        [
+          1782668100000,
+          59354.328125
+        ],
+        [
+          1782668400000,
+          59440.5
+        ],
+        [
+          1782668700000,
+          59434.390625
+        ],
+        [
+          1782669000000,
+          59496.75
+        ],
+        [
+          1782669300000,
+          59493.109375
+        ],
+        [
+          1782669600000,
+          59563.578125
+        ],
+        [
+          1782669900000,
+          59563.820312
+        ],
+        [
+          1782670045000,
+          59574.019531
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-29 01:42 KST",
-      "marketTimestamp": 1782664970
+      "marketTime": "2026-06-29 03:07 KST",
+      "marketTimestamp": 1782670045
     }
   ],
   "mainCharts": [
@@ -4834,8 +4902,8 @@
       "kind": "equity",
       "decimals": 2,
       "price": 25297.617,
-      "previousClose": 25358.604,
-      "change": -60.987,
+      "previousClose": 25358.6,
+      "change": -60.983,
       "changePercent": -0.2405,
       "tone": "down",
       "direction": "하락",
@@ -5170,12 +5238,6 @@
       "publishedAt": "Sun, 28 Jun 2026 13:01:56 GMT"
     },
     {
-      "title": "도박장 같은 국내 증시…변동성 키운 건 레버리지·테마상품 쏠림",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE93NXUwX0oyZTl2WW5vX1JHdW1OZmtNVWRIblZNVGJQU2gyTV9IRmNDUjRGRFNYOUczVl90eFV4SHQ3WURhMEQyV05ub1VKZ1RJY2FWYQ?oc=5",
-      "publishedAt": "Sun, 28 Jun 2026 12:12:01 GMT"
-    },
-    {
       "title": "[글로벌이코노믹 사설] 한국·일본·대만이 글로벌 증시 주도",
       "source": "글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjc5emt5ZlZ3R21DX3ZOakVnSlpzQTVhZzhFSy1LOUhzV1pJaTBxVzBELVhCcVQwSzZXQTBnS3BsNkZDSjMxMS1NeFk1V3Q0NC1KNUVuVW84bFpVcFAwQUFUU0cyYzYzTE40M2dkaHhzR3A1a0hYVXI3QzdTc2NWMkxkdw?oc=5",
@@ -5186,6 +5248,12 @@
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wb3pGdHkzRHRIVWF6VWVCRkgtUVdMWWExUjFxaGdiRmh2VmtqTXIxMWpzZVZTTjg5NnA0b3ZRNlBmR0dJWFJXaTBPVG1ZYVZVUW5ybGd1WVpRd9IBVEFVX3lxTFB1OWxRcWU2RTI4dWRfdFEtdk1QLUFHVlZfd0V2QUFuWTRsYTB1YmM0TFRpWWxtRUtmWlNFYldFRVh3aFF4LU5GZ0VfbWc2UllSLTdoUw?oc=5",
       "publishedAt": "Sun, 28 Jun 2026 08:18:28 GMT"
+    },
+    {
+      "title": "레버리지·테마형 쏠림이 증시 변동성 키워 … ETF '왝더독' 현실로",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjczVaX2F3T1NtRHpXanptMEN1LTJleTl1c25ETmdZSVVCblZjbG5HLVFMYy1HUHgzOS1KcXJ6YjZubll0aWszZVVONlNibWdvSlE?oc=5",
+      "publishedAt": "Sun, 28 Jun 2026 08:22:36 GMT"
     },
     {
       "title": "엄습한 폭락장 공포, '국민주' 삼전·닉스 지금이라도 팔까?...하반기 증시 전망 [유은길의 뉴스쪼개기]",
@@ -5202,8 +5270,8 @@
     {
       "title": "[주간 증시 전망] 과열 식힌 코스피…반도체 실적 기대 속 美 고용 '촉각'",
       "source": "뉴스웍스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBudW9IVkdiOHNFZ1JUc0hhZ2c2NTFKOWI1dHdUMFFLTjhDWFhwU1dJQXRmMklwb3V1XzlTalRiLThSSmZQN21OUFl0UDV0eGgxaGRidmNMejhkVnB1MVVxUG9teUpoZmotemUzbHZORjlLcVXSAXNBVV95cUxQbnVvSFZHYjhzRWdSVHNIYWdnNjUxSjliNXR3VDBRS044Q1hYcFNXSUF0ZjJJcG91dV85U2pUYi04UkpmUDdtTlBZdFA1dHhoMWhkYnZjTHo4ZFZwdTFVcVBvbXlKaGZqLXplM2x2TkY5S3FV?oc=5",
-      "publishedAt": "Sun, 28 Jun 2026 09:01:54 GMT"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnRW1GYUgwaFVTcEJmaFVWM3k5enR2b29xVHVxM0JKSWN4SEx0UGR3VnU2MVcweEdmVTg3ckZSRnBKVU90aG1sN25UbW95SDNjeFlkbXc4V1lXbHJ1Vk9jbElodHUxMTEyb082aWxWVdIBc0FVX3lxTFBudW9IVkdiOHNFZ1JUc0hhZ2c2NTFKOWI1dHdUMFFLTjhDWFhwU1dJQXRmMklwb3V1XzlTalRiLThSSmZQN21OUFl0UDV0eGgxaGRidmNMejhkVnB1MVVxUG9teUpoZmotemUzbHZORjlLcVU?oc=5",
+      "publishedAt": "Sun, 28 Jun 2026 09:00:00 GMT"
     },
     {
       "title": "코스닥 집어삼킨 'ETF 500조 시대' … 국내 증시 흔드는 괴물이 됐다",
