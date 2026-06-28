@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-28T15:23:17.465523+09:00",
-  "updatedLabel": "2026-06-28 15:23:17 KST",
+  "updatedAt": "2026-06-28T18:42:21.029241+09:00",
+  "updatedLabel": "2026-06-28 18:42:21 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3047,12 +3047,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 59839.26,
+      "price": 60285.06,
       "previousClose": 59939.523,
-      "change": -100.263,
-      "changePercent": -0.1673,
-      "tone": "down",
-      "direction": "하락",
+      "change": 345.537,
+      "changePercent": 0.5765,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1782604800000,
@@ -3360,16 +3360,176 @@
         ],
         [
           1782627600000,
-          59839.261719
+          59827.160156
         ],
         [
-          1782627783000,
-          59839.261719
+          1782627900000,
+          59838.28125
+        ],
+        [
+          1782628200000,
+          59878.878906
+        ],
+        [
+          1782628500000,
+          59870.960938
+        ],
+        [
+          1782628800000,
+          59875.03125
+        ],
+        [
+          1782629100000,
+          59910.0
+        ],
+        [
+          1782629400000,
+          59924.550781
+        ],
+        [
+          1782629700000,
+          59908.691406
+        ],
+        [
+          1782630000000,
+          60028.03125
+        ],
+        [
+          1782630300000,
+          60006.601562
+        ],
+        [
+          1782630600000,
+          60049.449219
+        ],
+        [
+          1782630900000,
+          60053.148438
+        ],
+        [
+          1782631200000,
+          60040.269531
+        ],
+        [
+          1782631500000,
+          60016.011719
+        ],
+        [
+          1782631800000,
+          60040.769531
+        ],
+        [
+          1782632100000,
+          60116.980469
+        ],
+        [
+          1782632400000,
+          60128.71875
+        ],
+        [
+          1782632700000,
+          60141.25
+        ],
+        [
+          1782633000000,
+          60116.960938
+        ],
+        [
+          1782633300000,
+          60132.0
+        ],
+        [
+          1782633600000,
+          60120.308594
+        ],
+        [
+          1782633900000,
+          60049.050781
+        ],
+        [
+          1782634200000,
+          60094.96875
+        ],
+        [
+          1782634500000,
+          60073.929688
+        ],
+        [
+          1782634800000,
+          60132.011719
+        ],
+        [
+          1782635100000,
+          60136.0
+        ],
+        [
+          1782635400000,
+          60144.089844
+        ],
+        [
+          1782635700000,
+          60389.089844
+        ],
+        [
+          1782636000000,
+          60361.570312
+        ],
+        [
+          1782636300000,
+          60338.101562
+        ],
+        [
+          1782636600000,
+          60297.980469
+        ],
+        [
+          1782636900000,
+          60278.949219
+        ],
+        [
+          1782637200000,
+          60233.308594
+        ],
+        [
+          1782637500000,
+          60318.730469
+        ],
+        [
+          1782637800000,
+          60288.109375
+        ],
+        [
+          1782638100000,
+          60272.800781
+        ],
+        [
+          1782638400000,
+          60263.628906
+        ],
+        [
+          1782638700000,
+          60232.910156
+        ],
+        [
+          1782639000000,
+          60275.878906
+        ],
+        [
+          1782639300000,
+          60261.949219
+        ],
+        [
+          1782639600000,
+          60271.148438
+        ],
+        [
+          1782639736000,
+          60285.058594
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-28 15:23 KST",
-      "marketTimestamp": 1782627783
+      "marketTime": "2026-06-28 18:42 KST",
+      "marketTimestamp": 1782639736
     }
   ],
   "mainCharts": [
@@ -4666,7 +4826,56 @@
       "marketTimestamp": 1782508559
     }
   ],
-  "headlines": [],
+  "headlines": [
+    {
+      "title": "[글로벌이코노믹 사설] 한국·일본·대만이 글로벌 증시 주도",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjc5emt5ZlZ3R21DX3ZOakVnSlpzQTVhZzhFSy1LOUhzV1pJaTBxVzBELVhCcVQwSzZXQTBnS3BsNkZDSjMxMS1NeFk1V3Q0NC1KNUVuVW84bFpVcFAwQUFUU0cyYzYzTE40M2dkaHhzR3A1a0hYVXI3QzdTc2NWMkxkdw?oc=5",
+      "publishedAt": "Sun, 28 Jun 2026 06:21:56 GMT"
+    },
+    {
+      "title": "뉴욕·상하이 증시, 美 6월 비농업 고용지표 관심",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wb3pGdHkzRHRIVWF6VWVCRkgtUVdMWWExUjFxaGdiRmh2VmtqTXIxMWpzZVZTTjg5NnA0b3ZRNlBmR0dJWFJXaTBPVG1ZYVZVUW5ybGd1WVpRd9IBVEFVX3lxTFB1OWxRcWU2RTI4dWRfdFEtdk1QLUFHVlZfd0V2QUFuWTRsYTB1YmM0TFRpWWxtRUtmWlNFYldFRVh3aFF4LU5GZ0VfbWc2UllSLTdoUw?oc=5",
+      "publishedAt": "Sun, 28 Jun 2026 08:18:28 GMT"
+    },
+    {
+      "title": "[마켓인사이트] 다시 고개 든 AI 수익성 논란…코스피 향방은?",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvSU1qUVBobk5mZDQ3WmRHUHNaZkRobmFtalE5ZjhNR3hQdVdla1ZhODFqT2dYLTREZzdvRThVdmd6VHNad0RUQmdCUVZvZWtpT0J6UTlnNGU0ZE0xS3NJZNIBYEFVX3lxTFBvSU1qUVBobk5mZDQ3WmRHUHNaZkRobmFtalE5ZjhNR3hQdVdla1ZhODFqT2dYLTREZzdvRThVdmd6VHNad0RUQmdCUVZvZWtpT0J6UTlnNGU0ZE0xS3NJZA?oc=5",
+      "publishedAt": "Sat, 27 Jun 2026 22:00:12 GMT"
+    },
+    {
+      "title": "'코스피 150배' 베팅에 1조 원 몰렸다…국내 증시 변동성 더 커지나",
+      "source": "한국일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pbl9kdTJLOXhEWVl5QWRWZnY0bVh3djJ2WmhyNVRwdVBWV29YalVwc0RGT0RsRHZXUzJQckRFTVZwUzg4SEpnZktwU0p1VXhBbHlTel90TEV1dmgtNGM0WWJ1QUQ1UHFKVXc3ZWdSSjdhRW_SAXNBVV95cUxOaW5fZHUySzl4RFlZeUFkVmZ2NG1Yd3YydlpocjVUcHVQVldvWGpVcHNERk9EbER2V1MyUHJERU1WcFM4OEhKZ2ZLcFNKdVV4QWx5U3pfdExFdXZoLTRjNFlidUFENVBxSlV3N2VnUko3YUVv?oc=5",
+      "publishedAt": "Sun, 28 Jun 2026 06:30:00 GMT"
+    },
+    {
+      "title": "[주간 증시 전망] 과열 식힌 코스피…반도체 실적 기대 속 美 고용 '촉각'",
+      "source": "뉴스웍스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnRW1GYUgwaFVTcEJmaFVWM3k5enR2b29xVHVxM0JKSWN4SEx0UGR3VnU2MVcweEdmVTg3ckZSRnBKVU90aG1sN25UbW95SDNjeFlkbXc4V1lXbHJ1Vk9jbElodHUxMTEyb082aWxWVdIBc0FVX3lxTFBudW9IVkdiOHNFZ1JUc0hhZ2c2NTFKOWI1dHdUMFFLTjhDWFhwU1dJQXRmMklwb3V1XzlTalRiLThSSmZQN21OUFl0UDV0eGgxaGRidmNMejhkVnB1MVVxUG9teUpoZmotemUzbHZORjlLcVU?oc=5",
+      "publishedAt": "Sun, 28 Jun 2026 09:00:00 GMT"
+    },
+    {
+      "title": "[이번주 증시] 변동성 장세 이어질까…중동정세·美고용 '촉각'",
+      "source": "뉴시안",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3V2l6Q05vM0tNQUhNVEVNUVRmWGtJa0l3T2xoWUlwVlZaMDE1SWlfLUlLVjZhLWxsVVc2dlRoYWNRSUh0Q0JWT0JRT1lLLWhPZWVpMDJ3VGhkZTBRN2I0Ukg1VEZMVmRtV0HSAW5BVV95cUxNY2p0b3I1TnI4MG5kNUdkSzhxZE81Qk83Tzh2VmlTWGlzd3pCTk5ua2xZczBlYzVHVmhZTzJ1eFVyME9GVk1BQ3BQbnkwS2dTbkJoU2NyekR1RTRma2tLdDE0T0ZaWVVkTVBqUVVYZw?oc=5",
+      "publishedAt": "Sun, 28 Jun 2026 08:31:42 GMT"
+    },
+    {
+      "title": "[주간증시전망] \"이번주 코스피 8400~9500선\"…반도체 랠리 재개 여부에 촉각",
+      "source": "ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53dHRKSUJ2ZnRyeFFXWmEyZ1pMQ1ZGU0ZJTy03YWl6bi1aWEhEaHEtdkRlRURydmtHMzB1b0lBd0Frd2xnMkdzMGl1aXoyTUZUcDNLSnB4TzBYam5MZml5YzhZekhiamdK?oc=5",
+      "publishedAt": "Sun, 28 Jun 2026 06:19:48 GMT"
+    },
+    {
+      "title": "7월 증시, 실적 기대 속 ‘변동성 장세’ 지속되나",
+      "source": "남도일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WUmlBYmp5R2ljZ09JV1huOGY5VEhVQkN1OEQxcG03c016dXJMcmxCWk80VXFhS25idWM1cHR3SlNNZm4zaFNpeHFKSF9GMThyN256NWpiMFF0OTNRa21vcVdsUDQ2bWp1QzdvY9IBcEFVX3lxTFBjQjdCY3E0cTNPZ3lUUEg1TTI3WUpCVVZYTlVZdEVlRW1pVzhwODI3U3hVX3BZYWFWMExMS1JfdHpkbWNwZ1VrdFNwa0lycWRYZ0llLU1wZW1rLXNVMVpXdU02SXl5OXYxUWNHTmpNZno?oc=5",
+      "publishedAt": "Sun, 28 Jun 2026 08:30:00 GMT"
+    }
+  ],
   "summary": {
     "signal": {
       "label": "Defensive",
@@ -4692,13 +4901,13 @@
         "direction": "상승"
       },
       {
-        "label": "S&P 500",
-        "changePercent": -0.0472,
-        "direction": "보합"
+        "label": "Bitcoin",
+        "changePercent": 0.5765,
+        "direction": "상승"
       },
       {
-        "label": "DOW",
-        "changePercent": -0.0857,
+        "label": "S&P 500",
+        "changePercent": -0.0472,
         "direction": "보합"
       }
     ],
@@ -4720,7 +4929,5 @@
       }
     ]
   },
-  "errors": [
-    "뉴스: HTTP Error 503: Service Unavailable"
-  ]
+  "errors": []
 }
