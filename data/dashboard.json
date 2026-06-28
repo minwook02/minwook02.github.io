@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-28T20:48:35.874222+09:00",
-  "updatedLabel": "2026-06-28 20:48:35 KST",
+  "updatedAt": "2026-06-28T22:57:50.164304+09:00",
+  "updatedLabel": "2026-06-28 22:57:50 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2662,8 +2662,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-27 06:06 KST",
-      "marketTimestamp": 1782507962
+      "marketTime": "2026-06-28 22:53 KST",
+      "marketTimestamp": 1782654815
     },
     {
       "id": "us10y",
@@ -3047,12 +3047,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 60191.98,
+      "price": 59979.65,
       "previousClose": 59939.523,
-      "change": 252.457,
-      "changePercent": 0.4212,
-      "tone": "up",
-      "direction": "상승",
+      "change": 40.127,
+      "changePercent": 0.0669,
+      "tone": "flat",
+      "direction": "보합",
       "series": [
         [
           1782604800000,
@@ -3620,16 +3620,120 @@
         ],
         [
           1782647100000,
-          60181.070312
+          60189.070312
         ],
         [
-          1782647311000,
-          60191.980469
+          1782647400000,
+          60272.808594
+        ],
+        [
+          1782647700000,
+          60251.96875
+        ],
+        [
+          1782648000000,
+          60260.230469
+        ],
+        [
+          1782648300000,
+          60245.28125
+        ],
+        [
+          1782648600000,
+          60214.929688
+        ],
+        [
+          1782648900000,
+          60113.679688
+        ],
+        [
+          1782649200000,
+          60157.429688
+        ],
+        [
+          1782649500000,
+          60245.269531
+        ],
+        [
+          1782649800000,
+          60260.550781
+        ],
+        [
+          1782650100000,
+          60150.53125
+        ],
+        [
+          1782650400000,
+          60153.488281
+        ],
+        [
+          1782650700000,
+          60180.558594
+        ],
+        [
+          1782651000000,
+          60181.019531
+        ],
+        [
+          1782651300000,
+          60205.820312
+        ],
+        [
+          1782651600000,
+          59969.878906
+        ],
+        [
+          1782651900000,
+          59928.929688
+        ],
+        [
+          1782652200000,
+          60031.078125
+        ],
+        [
+          1782652500000,
+          60009.671875
+        ],
+        [
+          1782652800000,
+          60067.789062
+        ],
+        [
+          1782653100000,
+          60034.808594
+        ],
+        [
+          1782653400000,
+          60068.039062
+        ],
+        [
+          1782653700000,
+          60021.910156
+        ],
+        [
+          1782654000000,
+          60034.148438
+        ],
+        [
+          1782654300000,
+          60012.28125
+        ],
+        [
+          1782654600000,
+          60007.558594
+        ],
+        [
+          1782654900000,
+          59988.230469
+        ],
+        [
+          1782655067000,
+          59979.648438
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-28 20:48 KST",
-      "marketTimestamp": 1782647311
+      "marketTime": "2026-06-28 22:57 KST",
+      "marketTimestamp": 1782655067
     }
   ],
   "mainCharts": [
@@ -4928,6 +5032,12 @@
   ],
   "headlines": [
     {
+      "title": "[박근종 칼럼] 꼬리가 몸통 흔드는 롤러코스터 한국 증시, 단일 종목 ‘ETF’ 당장 개선해야",
+      "source": "더쎈뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hMG94U0Y5SzZFaHBzMG04U2JITzhlUmc1anhONmV4T0NBVHhoN1FxOXducDBQOE10aVYySkstTXhqSkktZFl3WVZnMEJBN3E1Nzk0QUs3VE5qVHB4a1cwZmJWR0hUMmxy?oc=5",
+      "publishedAt": "Sun, 28 Jun 2026 13:01:56 GMT"
+    },
+    {
       "title": "[글로벌이코노믹 사설] 한국·일본·대만이 글로벌 증시 주도",
       "source": "글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjc5emt5ZlZ3R21DX3ZOakVnSlpzQTVhZzhFSy1LOUhzV1pJaTBxVzBELVhCcVQwSzZXQTBnS3BsNkZDSjMxMS1NeFk1V3Q0NC1KNUVuVW84bFpVcFAwQUFUU0cyYzYzTE40M2dkaHhzR3A1a0hYVXI3QzdTc2NWMkxkdw?oc=5",
@@ -4940,16 +5050,22 @@
       "publishedAt": "Sun, 28 Jun 2026 08:18:28 GMT"
     },
     {
-      "title": "[마켓인사이트] 다시 고개 든 AI 수익성 논란…코스피 향방은?",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvSU1qUVBobk5mZDQ3WmRHUHNaZkRobmFtalE5ZjhNR3hQdVdla1ZhODFqT2dYLTREZzdvRThVdmd6VHNad0RUQmdCUVZvZWtpT0J6UTlnNGU0ZE0xS3NJZNIBYEFVX3lxTFBvSU1qUVBobk5mZDQ3WmRHUHNaZkRobmFtalE5ZjhNR3hQdVdla1ZhODFqT2dYLTREZzdvRThVdmd6VHNad0RUQmdCUVZvZWtpT0J6UTlnNGU0ZE0xS3NJZA?oc=5",
-      "publishedAt": "Sat, 27 Jun 2026 22:00:12 GMT"
+      "title": "엄습한 폭락장 공포, '국민주' 삼전·닉스 지금이라도 팔까?...하반기 증시 전망 [유은길의 뉴스쪼개기]",
+      "source": "citytimes.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aSGVnRmtab1BFT0U5cGZpQTVsMnVheVFGWVh1dC1jaXlXR3VfNGxIR2pVc3daeXhLTXI3dG9yRE9YNHpJTHJDX29HNTZqZEx1ek9KUExyWm54dWxIVnV4c1l1ZWJzSTh1SFJrTEpGT2NCd9IBckFVX3lxTE9aSGVnRmtab1BFT0U5cGZpQTVsMnVheVFGWVh1dC1jaXlXR3VfNGxIR2pVc3daeXhLTXI3dG9yRE9YNHpJTHJDX29HNTZqZEx1ek9KUExyWm54dWxIVnV4c1l1ZWJzSTh1SFJrTEpGT2NCdw?oc=5",
+      "publishedAt": "Sun, 28 Jun 2026 11:53:35 GMT"
     },
     {
       "title": "레버리지·테마형 쏠림이 증시 변동성 키워 … ETF '왝더독' 현실로",
       "source": "매일경제",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjczVaX2F3T1NtRHpXanptMEN1LTJleTl1c25ETmdZSVVCblZjbG5HLVFMYy1HUHgzOS1KcXJ6YjZubll0aWszZVVONlNibWdvSlE?oc=5",
       "publishedAt": "Sun, 28 Jun 2026 08:22:36 GMT"
+    },
+    {
+      "title": "[마켓인사이트] 다시 고개 든 AI 수익성 논란…코스피 향방은?",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvSU1qUVBobk5mZDQ3WmRHUHNaZkRobmFtalE5ZjhNR3hQdVdla1ZhODFqT2dYLTREZzdvRThVdmd6VHNad0RUQmdCUVZvZWtpT0J6UTlnNGU0ZE0xS3NJZNIBYEFVX3lxTFBvSU1qUVBobk5mZDQ3WmRHUHNaZkRobmFtalE5ZjhNR3hQdVdla1ZhODFqT2dYLTREZzdvRThVdmd6VHNad0RUQmdCUVZvZWtpT0J6UTlnNGU0ZE0xS3NJZA?oc=5",
+      "publishedAt": "Sat, 27 Jun 2026 22:00:12 GMT"
     },
     {
       "title": "[주간 증시 전망] 과열 식힌 코스피…반도체 실적 기대 속 美 고용 '촉각'",
@@ -4962,18 +5078,6 @@
       "source": "한국일보",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pbl9kdTJLOXhEWVl5QWRWZnY0bVh3djJ2WmhyNVRwdVBWV29YalVwc0RGT0RsRHZXUzJQckRFTVZwUzg4SEpnZktwU0p1VXhBbHlTel90TEV1dmgtNGM0WWJ1QUQ1UHFKVXc3ZWdSSjdhRW_SAXNBVV95cUxOaW5fZHUySzl4RFlZeUFkVmZ2NG1Yd3YydlpocjVUcHVQVldvWGpVcHNERk9EbER2V1MyUHJERU1WcFM4OEhKZ2ZLcFNKdVV4QWx5U3pfdExFdXZoLTRjNFlidUFENVBxSlV3N2VnUko3YUVv?oc=5",
       "publishedAt": "Sun, 28 Jun 2026 06:30:00 GMT"
-    },
-    {
-      "title": "코스닥 집어삼킨 'ETF 500조 시대' … 국내 증시 흔드는 괴물이 됐다",
-      "source": "뉴데일리",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0YTJQeGZtSS0xZlVCVG9VcDdfczRqRGNIeFNDd2EtdWVtUXdTbDBYVEYxeTlza19YWGJNS2hHOHhOYjZhTDI5Q2dpUGJkSzNoOWRlZElPbHdfUXZ2STRVVU9WUjVfZGVuR18yUUR5Um8tbzBfLU9DakxMWdIBgAFBVV95cUxPdGxpMWpCRWVEUUZ0aDlkMGI2eDYwdjYzNW01LVN0ZnRIMVNRaXlrRjJHT3FndUVOZUo4c3lUNXR3VXdyTnVYN2RId3VVQVgwcTQ0YkYzbXBlMGlIVEJYYzlWTGJDbFZfMjlOTHIyUUFDY1NPS29CS0FCQUhpQTE3dw?oc=5",
-      "publishedAt": "Sun, 28 Jun 2026 01:04:41 GMT"
-    },
-    {
-      "title": "[이번주 증시] 변동성 장세 이어질까…중동정세·美고용 '촉각'",
-      "source": "뉴시안",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3V2l6Q05vM0tNQUhNVEVNUVRmWGtJa0l3T2xoWUlwVlZaMDE1SWlfLUlLVjZhLWxsVVc2dlRoYWNRSUh0Q0JWT0JRT1lLLWhPZWVpMDJ3VGhkZTBRN2I0Ukg1VEZMVmRtV0HSAW5BVV95cUxNY2p0b3I1TnI4MG5kNUdkSzhxZE81Qk83Tzh2VmlTWGlzd3pCTk5ua2xZczBlYzVHVmhZTzJ1eFVyME9GVk1BQ3BQbnkwS2dTbkJoU2NyekR1RTRma2tLdDE0T0ZaWVVkTVBqUVVYZw?oc=5",
-      "publishedAt": "Sun, 28 Jun 2026 08:31:42 GMT"
     }
   ],
   "summary": {
@@ -5002,8 +5106,8 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.4212,
-        "direction": "상승"
+        "changePercent": 0.0669,
+        "direction": "보합"
       },
       {
         "label": "S&P 500",
