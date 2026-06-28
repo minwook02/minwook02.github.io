@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-29T04:54:39.217279+09:00",
-  "updatedLabel": "2026-06-29 04:54:39 KST",
+  "updatedAt": "2026-06-29T06:07:11.538255+09:00",
+  "updatedLabel": "2026-06-29 06:07:11 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1535.0,
+      "price": 1535.04,
       "previousClose": 1544.48,
-      "change": -9.48,
-      "changePercent": -0.6138,
+      "change": -9.44,
+      "changePercent": -0.6112,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -2662,8 +2662,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-29 02:31 KST",
-      "marketTimestamp": 1782667902
+      "marketTime": "2026-06-29 06:01 KST",
+      "marketTimestamp": 1782680495
     },
     {
       "id": "us10y",
@@ -3047,10 +3047,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 59365.55,
+      "price": 59581.26,
       "previousClose": 59939.523,
-      "change": -573.973,
-      "changePercent": -0.9576,
+      "change": -358.263,
+      "changePercent": -0.5977,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -4008,16 +4008,76 @@
         ],
         [
           1782676200000,
-          59317.300781
+          59389.71875
         ],
         [
-          1782676474000,
-          59365.550781
+          1782676500000,
+          59391.269531
+        ],
+        [
+          1782676800000,
+          59428.261719
+        ],
+        [
+          1782677100000,
+          59447.988281
+        ],
+        [
+          1782677400000,
+          59562.761719
+        ],
+        [
+          1782677700000,
+          59586.0
+        ],
+        [
+          1782678000000,
+          59602.46875
+        ],
+        [
+          1782678300000,
+          59620.640625
+        ],
+        [
+          1782678600000,
+          59574.699219
+        ],
+        [
+          1782678900000,
+          59595.121094
+        ],
+        [
+          1782679200000,
+          59574.691406
+        ],
+        [
+          1782679500000,
+          59584.011719
+        ],
+        [
+          1782679800000,
+          59551.949219
+        ],
+        [
+          1782680100000,
+          59559.050781
+        ],
+        [
+          1782680400000,
+          59559.839844
+        ],
+        [
+          1782680700000,
+          59587.480469
+        ],
+        [
+          1782680828000,
+          59581.261719
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-06-29 04:54 KST",
-      "marketTimestamp": 1782676474
+      "marketTime": "2026-06-29 06:07 KST",
+      "marketTimestamp": 1782680828
     }
   ],
   "mainCharts": [
@@ -5322,16 +5382,16 @@
       "publishedAt": "Sun, 28 Jun 2026 13:01:56 GMT"
     },
     {
+      "title": "삼전·닉스만 허용한 게 패착?... 미국과 다른 단일종목 레버리지 ETF - 조선비즈",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3pveVl1bHJkM2lXWl9OcFJfU2VXS1JLN2VPaDNwbk1qYVE5ZG5Sc1d4WmV0RXhrWUo5N3lMajgtYmZEbUI0NnhLVWxSYkcwTndFVkRVdUUtZkJBRlkwTTBORGFiSVJ4WU8xY3hLNTdyVDd5Rl9URjFjcVFOWHNkeWN3aGxvZ25C0gGcAUFVX3lxTE9NWi0zemlPazhwMFRyQXFGdlJjVVB2WmJHellBY1Z5eWRFaWd4RTVYLTJOUjA1TFpRYks4N0cyQ3U0NF9JX2YxT1YzcDY5STR6Q0U1amhPUEhJQmhOMm50RVFIVGNmd0ttUEdkR3BxbDd2OXVReTN4dzEzZGZYUzRsb1FIQzhVSDFnSkJGLU8wY0dDNFNXVWFKMHFZZw?oc=5",
+      "publishedAt": "Sun, 28 Jun 2026 21:01:00 GMT"
+    },
+    {
       "title": "[글로벌이코노믹 사설] 한국·일본·대만이 글로벌 증시 주도",
       "source": "글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjc5emt5ZlZ3R21DX3ZOakVnSlpzQTVhZzhFSy1LOUhzV1pJaTBxVzBELVhCcVQwSzZXQTBnS3BsNkZDSjMxMS1NeFk1V3Q0NC1KNUVuVW84bFpVcFAwQUFUU0cyYzYzTE40M2dkaHhzR3A1a0hYVXI3QzdTc2NWMkxkdw?oc=5",
       "publishedAt": "Sun, 28 Jun 2026 06:21:56 GMT"
-    },
-    {
-      "title": "뉴욕·상하이 증시, 美 6월 비농업 고용지표 관심",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wb3pGdHkzRHRIVWF6VWVCRkgtUVdMWWExUjFxaGdiRmh2VmtqTXIxMWpzZVZTTjg5NnA0b3ZRNlBmR0dJWFJXaTBPVG1ZYVZVUW5ybGd1WVpRd9IBVEFVX3lxTFB1OWxRcWU2RTI4dWRfdFEtdk1QLUFHVlZfd0V2QUFuWTRsYTB1YmM0TFRpWWxtRUtmWlNFYldFRVh3aFF4LU5GZ0VfbWc2UllSLTdoUw?oc=5",
-      "publishedAt": "Sun, 28 Jun 2026 08:18:28 GMT"
     },
     {
       "title": "레버리지·테마형 쏠림이 증시 변동성 키워 … ETF '왝더독' 현실로",
@@ -5340,28 +5400,28 @@
       "publishedAt": "Sun, 28 Jun 2026 08:22:36 GMT"
     },
     {
-      "title": "엄습한 폭락장 공포, '국민주' 삼전·닉스 지금이라도 팔까?...하반기 증시 전망 [유은길의 뉴스쪼개기]",
-      "source": "citytimes.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aSGVnRmtab1BFT0U5cGZpQTVsMnVheVFGWVh1dC1jaXlXR3VfNGxIR2pVc3daeXhLTXI3dG9yRE9YNHpJTHJDX29HNTZqZEx1ek9KUExyWm54dWxIVnV4c1l1ZWJzSTh1SFJrTEpGT2NCd9IBckFVX3lxTE9aSGVnRmtab1BFT0U5cGZpQTVsMnVheVFGWVh1dC1jaXlXR3VfNGxIR2pVc3daeXhLTXI3dG9yRE9YNHpJTHJDX29HNTZqZEx1ek9KUExyWm54dWxIVnV4c1l1ZWJzSTh1SFJrTEpGT2NCdw?oc=5",
-      "publishedAt": "Sun, 28 Jun 2026 11:53:35 GMT"
+      "title": "뉴욕·상하이 증시, 美 6월 비농업 고용지표 관심",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wb3pGdHkzRHRIVWF6VWVCRkgtUVdMWWExUjFxaGdiRmh2VmtqTXIxMWpzZVZTTjg5NnA0b3ZRNlBmR0dJWFJXaTBPVG1ZYVZVUW5ybGd1WVpRd9IBVEFVX3lxTFB1OWxRcWU2RTI4dWRfdFEtdk1QLUFHVlZfd0V2QUFuWTRsYTB1YmM0TFRpWWxtRUtmWlNFYldFRVh3aFF4LU5GZ0VfbWc2UllSLTdoUw?oc=5",
+      "publishedAt": "Sun, 28 Jun 2026 08:18:28 GMT"
+    },
+    {
+      "title": "미·이란 무력 공방, 코스피 증시와 유가 전망",
+      "source": "2news.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CcmwwbktYUFcyLVlwc1A4VzI5TjdONko0ZWRpWmhfaUwwVUd3VVRFY1V3cTBxMDVkUEh0YWtaWGwyazAxR25pdVp0eVVadWp1VWw2YjM3MlJKdkVfZWotclI1UFk5WUhu?oc=5",
+      "publishedAt": "Sun, 28 Jun 2026 20:37:00 GMT"
+    },
+    {
+      "title": "하반기 코스피 상단 1만2000까지 열려…변수는 금리·반도체 업황ㆍ원화 안정 [하반기 증시 전망]",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qbjdERE4zYi16M2VOOWpkSGE4V191dGxKWEpfMXpsNllCbGNuNl9YZkdtaW14NVk5bUxoWkgwYy1Ec0tIb2JYOHJmLTRISWptTG5CRg?oc=5",
+      "publishedAt": "Sun, 28 Jun 2026 21:00:00 GMT"
     },
     {
       "title": "[마켓인사이트] 다시 고개 든 AI 수익성 논란…코스피 향방은?",
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvSU1qUVBobk5mZDQ3WmRHUHNaZkRobmFtalE5ZjhNR3hQdVdla1ZhODFqT2dYLTREZzdvRThVdmd6VHNad0RUQmdCUVZvZWtpT0J6UTlnNGU0ZE0xS3NJZNIBYEFVX3lxTFBvSU1qUVBobk5mZDQ3WmRHUHNaZkRobmFtalE5ZjhNR3hQdVdla1ZhODFqT2dYLTREZzdvRThVdmd6VHNad0RUQmdCUVZvZWtpT0J6UTlnNGU0ZE0xS3NJZA?oc=5",
       "publishedAt": "Sat, 27 Jun 2026 22:00:12 GMT"
-    },
-    {
-      "title": "[주간 증시 전망] 과열 식힌 코스피…반도체 실적 기대 속 美 고용 '촉각'",
-      "source": "뉴스웍스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnRW1GYUgwaFVTcEJmaFVWM3k5enR2b29xVHVxM0JKSWN4SEx0UGR3VnU2MVcweEdmVTg3ckZSRnBKVU90aG1sN25UbW95SDNjeFlkbXc4V1lXbHJ1Vk9jbElodHUxMTEyb082aWxWVdIBc0FVX3lxTFBudW9IVkdiOHNFZ1JUc0hhZ2c2NTFKOWI1dHdUMFFLTjhDWFhwU1dJQXRmMklwb3V1XzlTalRiLThSSmZQN21OUFl0UDV0eGgxaGRidmNMejhkVnB1MVVxUG9teUpoZmotemUzbHZORjlLcVU?oc=5",
-      "publishedAt": "Sun, 28 Jun 2026 09:00:00 GMT"
-    },
-    {
-      "title": "'코스피 150배' 베팅에 1조 원 몰렸다…국내 증시 변동성 더 커지나",
-      "source": "한국일보",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pbl9kdTJLOXhEWVl5QWRWZnY0bVh3djJ2WmhyNVRwdVBWV29YalVwc0RGT0RsRHZXUzJQckRFTVZwUzg4SEpnZktwU0p1VXhBbHlTel90TEV1dmgtNGM0WWJ1QUQ1UHFKVXc3ZWdSSjdhRW_SAXNBVV95cUxOaW5fZHUySzl4RFlZeUFkVmZ2NG1Yd3YydlpocjVUcHVQVldvWGpVcHNERk9EbER2V1MyUHJERU1WcFM4OEhKZ2ZLcFNKdVV4QWx5U3pfdExFdXZoLTRjNFlidUFENVBxSlV3N2VnUko3YUVv?oc=5",
-      "publishedAt": "Sun, 28 Jun 2026 06:30:00 GMT"
     }
   ],
   "summary": {
@@ -5379,7 +5439,7 @@
       "KOSPI -5.81% 하락",
       "KOSDAQ -4.10% 하락",
       "미국 증시 보합 / 나스닥 -0.24%",
-      "원달러 -0.61% (-9.48)",
+      "원달러 -0.61% (-9.44)",
       "미 10년물 -0.020p (-0.46%)"
     ],
     "leaders": [
@@ -5411,8 +5471,8 @@
         "direction": "하락"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": -0.9576,
+        "label": "USD/KRW",
+        "changePercent": -0.6112,
         "direction": "하락"
       }
     ]
