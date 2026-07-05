@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-06T00:16:22.084056+09:00",
-  "updatedLabel": "2026-07-06 00:16:22 KST",
+  "updatedAt": "2026-07-06T01:35:23.312698+09:00",
+  "updatedLabel": "2026-07-06 01:35:23 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3019,10 +3019,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 62765.6,
+      "price": 62592.72,
       "previousClose": 63087.742,
-      "change": -322.142,
-      "changePercent": -0.5106,
+      "change": -495.022,
+      "changePercent": -0.7847,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3760,16 +3760,76 @@
         ],
         [
           1783264500000,
-          62730.351562
+          62734.660156
         ],
         [
-          1783264579000,
-          62765.601562
+          1783264800000,
+          62702.46875
+        ],
+        [
+          1783265100000,
+          62723.0
+        ],
+        [
+          1783265400000,
+          62761.988281
+        ],
+        [
+          1783265700000,
+          62752.289062
+        ],
+        [
+          1783266000000,
+          62645.75
+        ],
+        [
+          1783266300000,
+          62674.839844
+        ],
+        [
+          1783266600000,
+          62691.210938
+        ],
+        [
+          1783266900000,
+          62686.171875
+        ],
+        [
+          1783267200000,
+          62679.628906
+        ],
+        [
+          1783267500000,
+          62644.121094
+        ],
+        [
+          1783267800000,
+          62635.339844
+        ],
+        [
+          1783268100000,
+          62656.941406
+        ],
+        [
+          1783268400000,
+          62667.808594
+        ],
+        [
+          1783268700000,
+          62570.191406
+        ],
+        [
+          1783269000000,
+          62590.371094
+        ],
+        [
+          1783269318000,
+          62592.71875
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-06 00:16 KST",
-      "marketTimestamp": 1783264579
+      "marketTime": "2026-07-06 01:35 KST",
+      "marketTimestamp": 1783269318
     }
   ],
   "mainCharts": [
@@ -5069,15 +5129,9 @@
   "headlines": [
     {
       "title": "“성장 자신 없으면 돈 쌓지말고 배당부터”…8천피에도 한국증시가 싼 이유 [여의도란도란]",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85d2trRllNMUp3LV9jTzJzUWNkLW1qN0V0MmNJUWxBcjAwZ0F2T3BkejRIYUI4WlVtZUdpaWQ5SzV5Rk5ZZGkxcnMtN3JOYWQyNUE?oc=5",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wa0ZpcWlwQkdleE9UVWREWWRyR3kzX0ZwSDMtZ01jQXZta0FUYWhuOWpSdkhKTzZNR2EyUm1JYUVOeVFuZnJqRmhKSVlERmVXVWc?oc=5",
       "publishedAt": "Sun, 05 Jul 2026 04:29:44 GMT"
-    },
-    {
-      "title": "증시 흔들리자 \"그래도 믿을건\"…삼전닉스 '150조' 잭팟 터질까 개미 '들썩'",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDWExHQ05heHFwd0pMMUpsTkVHck01dEVGLUUzQV80S1BVeUw5UG9aYUtLUU9mOWtQSkY0Y0tKWXVhRzNQVnRQUXk3alR2MkE?oc=5",
-      "publishedAt": "Sun, 05 Jul 2026 10:31:00 GMT"
     },
     {
       "title": "사상 최대 '약세 베팅' 나왔다…\"증시 폭락의 트리거\" 경고",
@@ -5086,10 +5140,22 @@
       "publishedAt": "Sun, 05 Jul 2026 08:55:51 GMT"
     },
     {
+      "title": "증시 흔들려도 증권사는 돈 번다…2분기 순이익 141% 급증 전망",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTcW5XaXlXQmRmNjJpZThpc2lKa3lhaHdEMFZqUTJyY2x5WmktNnl5djd3SzJqZWFnaEZodmRRSkI4REpKVkE2YVdERQ?oc=5",
+      "publishedAt": "Sun, 05 Jul 2026 03:52:33 GMT"
+    },
+    {
       "title": "MSCI 선진국지수 편입이 한국 증시에 중요한 이유",
       "source": "뉴스웨이",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YTDBndE1Yb3h0TDdtaE5EcW5YSXhZelljOXI0amI2Ulc1TW5PUnd4SE8wZGNzdTZHbHJ0TFVuNV9tY3IzOGgxSGU5MzJUVHUtTUNXMFkzQ0J0cTJob3BUQnpzdlhuQ0pnMWc?oc=5",
       "publishedAt": "Sat, 04 Jul 2026 22:01:00 GMT"
+    },
+    {
+      "title": "증시 흔들리자 ＂그래도 믿을건＂…삼전닉스 ＇150조＇ 잭팟 터질까 개미 ＇들썩＇",
+      "source": "한국경제TV",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sSk4wYU1XNTNzT1phd0xZNWpMenRPaTk1WVVnalk1ZUxSM1lEM2lMc0RQMHNKX3JVOXJOREhoV2hsWEVHTFhSTFdUdHoyeTU1QXpQTmt0Tl9LRTNXUlgyMUcxQUt4ZkY3MG9vUUdGNUtsM2o2V2I4?oc=5",
+      "publishedAt": "Sun, 05 Jul 2026 10:29:00 GMT"
     },
     {
       "title": "마통까지 끌어 증시로, 빚투 37조 위험수위",
@@ -5108,12 +5174,6 @@
       "source": "산경투데이",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95eF82UE91b0Ryb19ZTGdnR29vbFlMRmpfLUhodzJjbXdWc1BMRlBOY0lwazE3VWxXTHppOVMzYlFVUS1DUkdqbnVzcTB6YzUxRTVRbUthRGlVYVctcWZMOFdhU00xNkZzcmxLOGhiREPSAXRBVV95cUxPeUNmbk9lel8wdzJkUmJiYlZ0WmNqQzlBc3B4TUdLS3BtbHhrNzdUQzJFdW5lWTZOdjQ5a0VyTlF6aWdONzNWWFFSaTN6ZWJ1M19NeDRaVFlnXzBqd084ZVpWSHV1SmtJY3g3SXJuVDhmVnFFOA?oc=5",
       "publishedAt": "Sun, 05 Jul 2026 02:15:26 GMT"
-    },
-    {
-      "title": "＂코스피 불장이라는데 내 계좌는 왜＂…증시 ＇쏠림＇ 심해졌다",
-      "source": "한국경제TV",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wTzBzZ2p2SDZaUW9DaWpXSzEwSWxmU0dROFNZMjU1emJHTnlnWG5jd3ZhSld3S0hhbk5IQmo5WmRrc29pZWxpX1JlV1pFZ05oMzlOeEtKbkxGZTZOWjV0S1N2dDZlaVVsMG1xTEhyMW9kRFVkT2hR?oc=5",
-      "publishedAt": "Sun, 05 Jul 2026 02:35:00 GMT"
     }
   ],
   "summary": {
@@ -5158,13 +5218,13 @@
         "direction": "하락"
       },
       {
-        "label": "USD/KRW",
-        "changePercent": -0.5728,
+        "label": "Bitcoin",
+        "changePercent": -0.7847,
         "direction": "하락"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": -0.5106,
+        "label": "USD/KRW",
+        "changePercent": -0.5728,
         "direction": "하락"
       }
     ]
