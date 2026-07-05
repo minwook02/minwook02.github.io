@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-06T03:06:50.493345+09:00",
-  "updatedLabel": "2026-07-06 03:06:50 KST",
+  "updatedAt": "2026-07-06T04:51:49.184852+09:00",
+  "updatedLabel": "2026-07-06 04:51:49 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1529.16,
+      "price": 1528.99,
       "previousClose": 1537.97,
-      "change": -8.81,
-      "changePercent": -0.5728,
+      "change": -8.98,
+      "changePercent": -0.5839,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -2634,8 +2634,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-06 02:48 KST",
-      "marketTimestamp": 1783273697
+      "marketTime": "2026-07-06 04:50 KST",
+      "marketTimestamp": 1783281052
     },
     {
       "id": "us10y",
@@ -3019,10 +3019,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 62619.48,
+      "price": 62720.26,
       "previousClose": 63087.742,
-      "change": -468.262,
-      "changePercent": -0.7422,
+      "change": -367.482,
+      "changePercent": -0.5825,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3895,13 +3895,101 @@
           62587.671875
         ],
         [
-          1783274720000,
-          62619.480469
+          1783274700000,
+          62609.050781
+        ],
+        [
+          1783275000000,
+          62604.0
+        ],
+        [
+          1783275300000,
+          62631.558594
+        ],
+        [
+          1783275600000,
+          62633.988281
+        ],
+        [
+          1783275900000,
+          62629.929688
+        ],
+        [
+          1783276200000,
+          62669.988281
+        ],
+        [
+          1783276500000,
+          62704.871094
+        ],
+        [
+          1783276800000,
+          62709.960938
+        ],
+        [
+          1783277100000,
+          62730.351562
+        ],
+        [
+          1783277400000,
+          62779.75
+        ],
+        [
+          1783277700000,
+          62764.589844
+        ],
+        [
+          1783278000000,
+          62755.398438
+        ],
+        [
+          1783278300000,
+          62768.878906
+        ],
+        [
+          1783278600000,
+          62781.988281
+        ],
+        [
+          1783278900000,
+          62786.148438
+        ],
+        [
+          1783279200000,
+          62723.660156
+        ],
+        [
+          1783279500000,
+          62738.601562
+        ],
+        [
+          1783279800000,
+          62740.179688
+        ],
+        [
+          1783280100000,
+          62738.808594
+        ],
+        [
+          1783280400000,
+          62748.828125
+        ],
+        [
+          1783280700000,
+          62725.480469
+        ],
+        [
+          1783281000000,
+          62711.03125
+        ],
+        [
+          1783281104000,
+          62720.261719
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-06 03:05 KST",
-      "marketTimestamp": 1783274720
+      "marketTime": "2026-07-06 04:51 KST",
+      "marketTimestamp": 1783281104
     }
   ],
   "mainCharts": [
@@ -5200,6 +5288,12 @@
   ],
   "headlines": [
     {
+      "title": "韓·美 엇갈린 금리 시계… 원화엔 ‘약’ 가계엔 ‘독’",
+      "source": "국민일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tbkVrTEpsejJnT2lHYUF2NFFCZlNWWGJHbzBScGV0MndhNHczb1VwSGFrVUp5SGVuMl9Pa3pUUlgxVkE3a1kzOGVsdGt6a29BX1JKMzdqZk5TSDFmbHppU1NnOUx3cERITllXRNIBbEFVX3lxTE4tbkVrTEpsejJnT2lHYUF2NFFCZlNWWGJHbzBScGV0MndhNHczb1VwSGFrVUp5SGVuMl9Pa3pUUlgxVkE3a1kzOGVsdGt6a29BX1JKMzdqZk5TSDFmbHppU1NnOUx3cERITllXRA?oc=5",
+      "publishedAt": "Sun, 05 Jul 2026 17:04:00 GMT"
+    },
+    {
       "title": "“성장 자신 없으면 돈 쌓지말고 배당부터”…8천피에도 한국증시가 싼 이유 [여의도란도란]",
       "source": "매일경제",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wa0ZpcWlwQkdleE9UVWREWWRyR3kzX0ZwSDMtZ01jQXZta0FUYWhuOWpSdkhKTzZNR2EyUm1JYUVOeVFuZnJqRmhKSVlERmVXVWc?oc=5",
@@ -5230,22 +5324,16 @@
       "publishedAt": "Sun, 05 Jul 2026 09:06:19 GMT"
     },
     {
-      "title": "MSCI 선진국지수 편입이 한국 증시에 중요한 이유",
-      "source": "뉴스웨이",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YTDBndE1Yb3h0TDdtaE5EcW5YSXhZelljOXI0amI2Ulc1TW5PUnd4SE8wZGNzdTZHbHJ0TFVuNV9tY3IzOGgxSGU5MzJUVHUtTUNXMFkzQ0J0cTJob3BUQnpzdlhuQ0pnMWc?oc=5",
-      "publishedAt": "Sat, 04 Jul 2026 22:01:00 GMT"
-    },
-    {
-      "title": "증시 흔들리자 ＂그래도 믿을건＂…삼전닉스 ＇150조＇ 잭팟 터질까 개미 ＇들썩＇",
-      "source": "한국경제TV",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sSk4wYU1XNTNzT1phd0xZNWpMenRPaTk1WVVnalk1ZUxSM1lEM2lMc0RQMHNKX3JVOXJOREhoV2hsWEVHTFhSTFdUdHoyeTU1QXpQTmt0Tl9LRTNXUlgyMUcxQUt4ZkY3MG9vUUdGNUtsM2o2V2I4?oc=5",
-      "publishedAt": "Sun, 05 Jul 2026 10:29:00 GMT"
-    },
-    {
       "title": "마통까지 끌어 증시로, 빚투 37조 위험수위",
       "source": "자본시장뉴스",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUQm9hY1VobkhKWkMxWGpGTlBCa2RmbTJJaFNwRUtOMEJ1WFZoX3NzOVpWVnRtNGFpbWtqVUFHVDBORGxnd1V0cmxGTnZDQ1lVMEk4MjFwR29JZEFRS291NUNXUVNENlk?oc=5",
       "publishedAt": "Sun, 05 Jul 2026 07:30:00 GMT"
+    },
+    {
+      "title": "MSCI 선진국지수 편입이 한국 증시에 중요한 이유",
+      "source": "뉴스웨이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YTDBndE1Yb3h0TDdtaE5EcW5YSXhZelljOXI0amI2Ulc1TW5PUnd4SE8wZGNzdTZHbHJ0TFVuNV9tY3IzOGgxSGU5MzJUVHUtTUNXMFkzQ0J0cTJob3BUQnpzdlhuQ0pnMWc?oc=5",
+      "publishedAt": "Sat, 04 Jul 2026 22:01:00 GMT"
     }
   ],
   "summary": {
@@ -5257,13 +5345,13 @@
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 상승 흐름입니다.",
       "해외는 S&P 500 +0.00%, NASDAQ -0.80%로 확인됩니다.",
-      "매크로 변수는 USD/KRW -0.57%, 미 10년물 0.00%입니다."
+      "매크로 변수는 USD/KRW -0.58%, 미 10년물 0.00%입니다."
     ],
     "checkpoints": [
       "KOSPI +5.76% 상승",
       "KOSDAQ +0.20% 상승",
       "미국 증시 보합 / 나스닥 -0.80%",
-      "원달러 -0.57% (-8.81)",
+      "원달러 -0.58% (-8.98)",
       "미 10년물 0.000p (0.00%)"
     ],
     "leaders": [
@@ -5290,13 +5378,13 @@
         "direction": "하락"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": -0.7422,
+        "label": "USD/KRW",
+        "changePercent": -0.5839,
         "direction": "하락"
       },
       {
-        "label": "USD/KRW",
-        "changePercent": -0.5728,
+        "label": "Bitcoin",
+        "changePercent": -0.5825,
         "direction": "하락"
       }
     ]
