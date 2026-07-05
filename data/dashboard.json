@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-05T22:50:40.953753+09:00",
-  "updatedLabel": "2026-07-05 22:50:40 KST",
+  "updatedAt": "2026-07-06T00:16:22.084056+09:00",
+  "updatedLabel": "2026-07-06 00:16:22 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3019,10 +3019,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 62739.61,
+      "price": 62765.6,
       "previousClose": 63087.742,
-      "change": -348.132,
-      "changePercent": -0.5518,
+      "change": -322.142,
+      "changePercent": -0.5106,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3691,13 +3691,85 @@
           62752.589844
         ],
         [
-          1783259428000,
-          62739.609375
+          1783259400000,
+          62741.238281
+        ],
+        [
+          1783259700000,
+          62738.808594
+        ],
+        [
+          1783260000000,
+          62658.050781
+        ],
+        [
+          1783260300000,
+          62688.480469
+        ],
+        [
+          1783260600000,
+          62692.160156
+        ],
+        [
+          1783260900000,
+          62640.0
+        ],
+        [
+          1783261200000,
+          62639.179688
+        ],
+        [
+          1783261500000,
+          62654.96875
+        ],
+        [
+          1783261800000,
+          62615.101562
+        ],
+        [
+          1783262100000,
+          62709.660156
+        ],
+        [
+          1783262400000,
+          62689.269531
+        ],
+        [
+          1783262700000,
+          62671.019531
+        ],
+        [
+          1783263000000,
+          62676.488281
+        ],
+        [
+          1783263300000,
+          62758.871094
+        ],
+        [
+          1783263600000,
+          62853.941406
+        ],
+        [
+          1783263900000,
+          62821.980469
+        ],
+        [
+          1783264200000,
+          62755.898438
+        ],
+        [
+          1783264500000,
+          62730.351562
+        ],
+        [
+          1783264579000,
+          62765.601562
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-05 22:50 KST",
-      "marketTimestamp": 1783259428
+      "marketTime": "2026-07-06 00:16 KST",
+      "marketTimestamp": 1783264579
     }
   ],
   "mainCharts": [
@@ -5008,10 +5080,10 @@
       "publishedAt": "Sun, 05 Jul 2026 10:31:00 GMT"
     },
     {
-      "title": "뉴욕·상하이 증시, '매파' 워시의 첫 FOMC 의사록 주목",
+      "title": "사상 최대 '약세 베팅' 나왔다…\"증시 폭락의 트리거\" 경고",
       "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Lb0k0TThHSWdoSGJMZUIwZUt3SnpWMFRtZ3A1dWdzeVpIQ3g4Yy1ZUmFwbm5aaV91TzdYajFCQ1RFSERBR3FObHFBcnhJTTIwX0pRUNIBVEFVX3lxTE5Lb0k0TThHSWdoSGJMZUIwZUt3SnpWMFRtZ3A1dWdzeVpIQ3g4Yy1ZUmFwbm5aaV91TzdYajFCQ1RFSERBR3FObHFBcnhJTTIwX0pRUA?oc=5",
-      "publishedAt": "Sun, 05 Jul 2026 08:37:12 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mR2p1RFNNVTZaaGMtcUdZd3VIVFIzM2F1ZDdPRmMyNldGZ2lNLTBQUnNGUTVwRE5ya1l5eXJQa3M3VU5Xbmw2R1k3MmZiZ2VRdzM2ONIBVEFVX3lxTE9mR2p1RFNNVTZaaGMtcUdZd3VIVFIzM2F1ZDdPRmMyNldGZ2lNLTBQUnNGUTVwRE5ya1l5eXJQa3M3VU5Xbmw2R1k3MmZiZ2VRdzM2OA?oc=5",
+      "publishedAt": "Sun, 05 Jul 2026 08:55:51 GMT"
     },
     {
       "title": "MSCI 선진국지수 편입이 한국 증시에 중요한 이유",
@@ -5092,7 +5164,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -0.5518,
+        "changePercent": -0.5106,
         "direction": "하락"
       }
     ]
