@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-06T01:35:23.312698+09:00",
-  "updatedLabel": "2026-07-06 01:35:23 KST",
+  "updatedAt": "2026-07-06T03:06:50.493345+09:00",
+  "updatedLabel": "2026-07-06 03:06:50 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -972,9 +972,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 25832.672,
-      "previousClose": 26040.031,
-      "change": -207.359,
-      "changePercent": -0.7963,
+      "previousClose": 26040.0,
+      "change": -207.328,
+      "changePercent": -0.7962,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -1307,9 +1307,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 52900.07,
-      "previousClose": 52305.24,
-      "change": 594.83,
-      "changePercent": 1.1372,
+      "previousClose": 52305.2,
+      "change": 594.87,
+      "changePercent": 1.1373,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -2634,8 +2634,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-05 22:28 KST",
-      "marketTimestamp": 1783258096
+      "marketTime": "2026-07-06 02:48 KST",
+      "marketTimestamp": 1783273697
     },
     {
       "id": "us10y",
@@ -3019,10 +3019,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 62592.72,
+      "price": 62619.48,
       "previousClose": 63087.742,
-      "change": -495.022,
-      "changePercent": -0.7847,
+      "change": -468.262,
+      "changePercent": -0.7422,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3823,13 +3823,85 @@
           62590.371094
         ],
         [
-          1783269318000,
-          62592.71875
+          1783269300000,
+          62571.21875
+        ],
+        [
+          1783269600000,
+          62575.5
+        ],
+        [
+          1783269900000,
+          62576.371094
+        ],
+        [
+          1783270200000,
+          62574.371094
+        ],
+        [
+          1783270500000,
+          62571.0
+        ],
+        [
+          1783270800000,
+          62668.0
+        ],
+        [
+          1783271100000,
+          62671.480469
+        ],
+        [
+          1783271400000,
+          62670.589844
+        ],
+        [
+          1783271700000,
+          62646.199219
+        ],
+        [
+          1783272000000,
+          62736.328125
+        ],
+        [
+          1783272300000,
+          62632.21875
+        ],
+        [
+          1783272600000,
+          62631.609375
+        ],
+        [
+          1783272900000,
+          62633.980469
+        ],
+        [
+          1783273200000,
+          62548.320312
+        ],
+        [
+          1783273500000,
+          62593.011719
+        ],
+        [
+          1783273800000,
+          62559.199219
+        ],
+        [
+          1783274100000,
+          62571.398438
+        ],
+        [
+          1783274400000,
+          62587.671875
+        ],
+        [
+          1783274720000,
+          62619.480469
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-06 01:35 KST",
-      "marketTimestamp": 1783269318
+      "marketTime": "2026-07-06 03:05 KST",
+      "marketTimestamp": 1783274720
     }
   ],
   "mainCharts": [
@@ -4798,9 +4870,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 25832.672,
-      "previousClose": 26040.031,
-      "change": -207.359,
-      "changePercent": -0.7963,
+      "previousClose": 26040.0,
+      "change": -207.328,
+      "changePercent": -0.7962,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5134,6 +5206,12 @@
       "publishedAt": "Sun, 05 Jul 2026 04:29:44 GMT"
     },
     {
+      "title": "[오늘의 경제뉴스] SK하이닉스 나스닥 상장...국내 증시에 약일까 독일까",
+      "source": "뉴스버스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNem9NRTJIV3l1X0dfRkxxcmNIclBOYVRQSVpmRVAyTzZUMlAwaFRNNFNobl9NN2JuT1I2dGYyeU9vb0xJMW8xTU94WVN0QWRDQXRmWWpZQTdUSlh3dVItcVFldzNoM1hOWVE?oc=5",
+      "publishedAt": "Sun, 05 Jul 2026 17:32:03 GMT"
+    },
+    {
       "title": "사상 최대 '약세 베팅' 나왔다…\"증시 폭락의 트리거\" 경고",
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mR2p1RFNNVTZaaGMtcUdZd3VIVFIzM2F1ZDdPRmMyNldGZ2lNLTBQUnNGUTVwRE5ya1l5eXJQa3M3VU5Xbmw2R1k3MmZiZ2VRdzM2ONIBVEFVX3lxTE9mR2p1RFNNVTZaaGMtcUdZd3VIVFIzM2F1ZDdPRmMyNldGZ2lNLTBQUnNGUTVwRE5ya1l5eXJQa3M3VU5Xbmw2R1k3MmZiZ2VRdzM2OA?oc=5",
@@ -5144,6 +5222,12 @@
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTcW5XaXlXQmRmNjJpZThpc2lKa3lhaHdEMFZqUTJyY2x5WmktNnl5djd3SzJqZWFnaEZodmRRSkI4REpKVkE2YVdERQ?oc=5",
       "publishedAt": "Sun, 05 Jul 2026 03:52:33 GMT"
+    },
+    {
+      "title": "연준 손에 달린 환율… 외국인 증시자금도 변동성 좌우 [고환율 뉴노멀 시대 (상)]",
+      "source": "파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nQ2tHcC1NTGRQRmhjdEczZVQ2S1NheFhRTGRiYXR2RHlZN1pxU2tNZkpYaFktRzVCVm9uMGg1S1dUUVN3TkY0ZDhlNWxRNVJoTGgydE9MdzZnQQ?oc=5",
+      "publishedAt": "Sun, 05 Jul 2026 09:06:19 GMT"
     },
     {
       "title": "MSCI 선진국지수 편입이 한국 증시에 중요한 이유",
@@ -5162,18 +5246,6 @@
       "source": "자본시장뉴스",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUQm9hY1VobkhKWkMxWGpGTlBCa2RmbTJJaFNwRUtOMEJ1WFZoX3NzOVpWVnRtNGFpbWtqVUFHVDBORGxnd1V0cmxGTnZDQ1lVMEk4MjFwR29JZEFRS291NUNXUVNENlk?oc=5",
       "publishedAt": "Sun, 05 Jul 2026 07:30:00 GMT"
-    },
-    {
-      "title": "고용 식은 미국, 물가 뜨거운 한국…복잡해진 한은 셈법",
-      "source": "비즈워치",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0ZllOcnhUa3BMd3F5WGpSd1hZN2ZEUndwWWFoZjVfWE1tY2tIUUg2SFY1RkcteEFoMDN6NF9QMFJMUGg2aERXSFdjNVgwRHNYMFdIb01mZFRQdEdSX2k0ZW00ZkRKX01LdzVV?oc=5",
-      "publishedAt": "Sun, 05 Jul 2026 02:00:02 GMT"
-    },
-    {
-      "title": "마통까지 끌어 쓴 ‘빚투’ 과열…한은 “증시 변동성 키울 수 있다”",
-      "source": "산경투데이",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95eF82UE91b0Ryb19ZTGdnR29vbFlMRmpfLUhodzJjbXdWc1BMRlBOY0lwazE3VWxXTHppOVMzYlFVUS1DUkdqbnVzcTB6YzUxRTVRbUthRGlVYVctcWZMOFdhU00xNkZzcmxLOGhiREPSAXRBVV95cUxPeUNmbk9lel8wdzJkUmJiYlZ0WmNqQzlBc3B4TUdLS3BtbHhrNzdUQzJFdW5lWTZOdjQ5a0VyTlF6aWdONzNWWFFSaTN6ZWJ1M19NeDRaVFlnXzBqd084ZVpWSHV1SmtJY3g3SXJuVDhmVnFFOA?oc=5",
-      "publishedAt": "Sun, 05 Jul 2026 02:15:26 GMT"
     }
   ],
   "summary": {
@@ -5207,19 +5279,19 @@
       },
       {
         "label": "DOW",
-        "changePercent": 1.1372,
+        "changePercent": 1.1373,
         "direction": "상승"
       }
     ],
     "laggards": [
       {
         "label": "NASDAQ",
-        "changePercent": -0.7963,
+        "changePercent": -0.7962,
         "direction": "하락"
       },
       {
         "label": "Bitcoin",
-        "changePercent": -0.7847,
+        "changePercent": -0.7422,
         "direction": "하락"
       },
       {
