@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-11T07:09:01.844580+09:00",
-  "updatedLabel": "2026-07-11 07:09:01 KST",
+  "updatedAt": "2026-07-11T08:30:48.874003+09:00",
+  "updatedLabel": "2026-07-11 08:30:48 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2707,10 +2707,6 @@
         [
           1783717500000,
           1498.869995
-        ],
-        [
-          1783717598000,
-          1498.869995
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4741,10 +4737,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 63978.71,
+      "price": 64159.88,
       "previousClose": 63184.8,
-      "change": 793.91,
-      "changePercent": 1.2565,
+      "change": 975.08,
+      "changePercent": 1.5432,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5810,16 +5806,80 @@
         ],
         [
           1783721100000,
-          63974.441406
+          63990.550781
         ],
         [
-          1783721337000,
-          63978.710938
+          1783721400000,
+          63998.558594
+        ],
+        [
+          1783721700000,
+          64008.71875
+        ],
+        [
+          1783722000000,
+          64022.941406
+        ],
+        [
+          1783722300000,
+          64088.851562
+        ],
+        [
+          1783722600000,
+          64085.449219
+        ],
+        [
+          1783722900000,
+          64080.0
+        ],
+        [
+          1783723200000,
+          64083.988281
+        ],
+        [
+          1783723500000,
+          64078.101562
+        ],
+        [
+          1783723800000,
+          64108.828125
+        ],
+        [
+          1783724100000,
+          64068.699219
+        ],
+        [
+          1783724400000,
+          63990.96875
+        ],
+        [
+          1783724700000,
+          64009.96875
+        ],
+        [
+          1783725000000,
+          64078.5
+        ],
+        [
+          1783725300000,
+          64082.769531
+        ],
+        [
+          1783725600000,
+          64127.039062
+        ],
+        [
+          1783725900000,
+          64155.261719
+        ],
+        [
+          1783726242000,
+          64159.878906
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-11 07:08 KST",
-      "marketTimestamp": 1783721337
+      "marketTime": "2026-07-11 08:30 KST",
+      "marketTimestamp": 1783726242
     }
   ],
   "mainCharts": [
@@ -7124,10 +7184,16 @@
       "publishedAt": "Fri, 10 Jul 2026 21:25:00 GMT"
     },
     {
-      "title": "SK하이닉스, 미국 증시 초대형 상장…약 39조원 조달",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNZEl5VmVrQ3JuXzU2RjhZOXFEQVg5aTFkaFlldElUZmhPVG1KTk5wMkNOZFdxTnNONHp2V0JoYlZ0MFA5UnNsZ1k0OVpFQ0FWNFc2R2M1Q3hRRmg4OHJoRm130gFiQVVfeXFMUE1kSXlWZWtDcm5fNTZGOFk5cURBWDlpMWRoWWV0SVRmaE9UbUpOTnAyQ05kV3FOc040enZXQmhiVnQwUDlSc2xnWTQ5WkVDQVY0VzZHYzVDeFFGaDg4cmhGbXc?oc=5",
-      "publishedAt": "Fri, 10 Jul 2026 06:29:18 GMT"
+      "title": "미국 간 SK하이닉스, ADR 상장으로 'K디스카운트' 깬다 - 머니투데이",
+      "source": "머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jMkZfQ3Y0V01QZ1VfYnVWdFJ1WkFkZmtaMFZMVVBhSko0OE55Wk1BRnhQaUVIUF93Y0RrQk1ralJ5bWUzcTZvR2tUTDlHOXFscHVIRFZrNHZjd25xRFBxOFNuLXp6T1FuSjRBcNIBckFVX3lxTE50OGhISmQzMmsyS3pTZ3AtNkY0SlduWWhzbUo1N0JsbGFGVmJNYUwxMTJmY2ZUWUxPYkJxcGp0VXNCbW12UlVXT0R6X3BBS1NXcDlEN0YzN0tQU0daOEl3RlRrRjRLbm9fSkdjd3pYQWtCQQ?oc=5",
+      "publishedAt": "Fri, 10 Jul 2026 22:09:00 GMT"
+    },
+    {
+      "title": "나스닥 데뷔 SK하이닉스 13% 상승…뉴욕증시 소폭 상승 마감 [뉴욕증시 브리핑]",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZSmV0ZXR0ckcyMjdyRnl3aWRyRVVCdmhpbVl0UTdfeTZPaERVb01FMDE1c2V4eTNIVW1OZWQzUmIwUmU1MWZBaS1ZNkdXc1lwTmk5VUo2VEhyUdIBVEFVX3lxTE1pdy1zLXYyTGVOeENDMTZ1UUZBMnBHdld3MTNDcFNxeWlMNGlWanhPNWhMcElZQTJnVFdXWmE3SHNTa3JNSzVveUF6cTlOWTFOUU9oeQ?oc=5",
+      "publishedAt": "Fri, 10 Jul 2026 22:38:47 GMT"
     },
     {
       "title": "시장 혼돈 키우는 ‘정책실장의 입’",
@@ -7136,34 +7202,28 @@
       "publishedAt": "Fri, 10 Jul 2026 15:50:00 GMT"
     },
     {
+      "title": "SK하이닉스, 미국 증시 초대형 상장…약 39조원 조달",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNZEl5VmVrQ3JuXzU2RjhZOXFEQVg5aTFkaFlldElUZmhPVG1KTk5wMkNOZFdxTnNONHp2V0JoYlZ0MFA5UnNsZ1k0OVpFQ0FWNFc2R2M1Q3hRRmg4OHJoRm130gFiQVVfeXFMUE1kSXlWZWtDcm5fNTZGOFk5cURBWDlpMWRoWWV0SVRmaE9UbUpOTnAyQ05kV3FOc040enZXQmhiVnQwUDlSc2xnWTQ5WkVDQVY0VzZHYzVDeFFGaDg4cmhGbXc?oc=5",
+      "publishedAt": "Fri, 10 Jul 2026 06:29:18 GMT"
+    },
+    {
       "title": "\"투기적 개별종목 ETF 거래가 한국 증시 급등락 주범\"",
       "source": "세상을 바꾸는 시민언론 민들레",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NdDkwRHFxa3c5bWpGY0Q0UkxyWHZsQ1Bmb3pzcG9PNE1ac0thYVZFRjVhaTRSRG83bFFrdzBRRnRZdnFNQ1FSWFc4YTZxbm1YcUZvLW5GZVI2VXhYS3JMV1daWlRfck9IT01jYg?oc=5",
       "publishedAt": "Fri, 10 Jul 2026 13:50:00 GMT"
     },
     {
-      "title": "SK하이닉스, 나스닥 첫날 13% ↑...뉴욕 증시 소폭 상승 주도 [데일리국제금융]",
-      "source": "서울경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93Q0FtcGw3dFBCaHFfMHp1a2R5cTRweDF1alV6OFhmcVJ0YXRnTzhYRjN6TlppdWUyNE1fd3Y3MWRYVkd2ZmFDTU9aR0VHT1doS1HSAVNBVV95cUxOeVA0OUJNMUhONEtBRXdJdmNJWXEtV2Z1UWg0M0hpTDh3QlFjNmJpZzl3Q2ZFQTB2X2M2ZzByeHk1cWZmYmZGdlRoR1JTWHl2Vy0waw?oc=5",
-      "publishedAt": "Fri, 10 Jul 2026 21:47:03 GMT"
+      "title": "증시 활황에 늘어난 부자들…증권가, 모셔가기 전쟁 중",
+      "source": "서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UR1dYY2dUei1hWTRDMW1tTm5MU0ctZWdxMW9LbzFDdG1qd0lyY3FTcTRHaGdTcFhQM1kyejJPTk9VMl9qbVlvRXpINF93emtxc2VZNDRwSGczZ2U4dENWUTVCb3I?oc=5",
+      "publishedAt": "Fri, 10 Jul 2026 23:00:07 GMT"
     },
     {
-      "title": "SK하이닉스 \"미 증시 공모가 149달러\"...트럼프 행정부 \"미국 생산 확대\" 압박",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81NU5mRjYzTmVEN1NDN3N5Q2E1SUdXZ09EUklaT3F2bVE0ZlZTaWZfZkc3ZVRPUzNxSEhkVW1ZM2hVT1hsRlJPb2U5aEdja2h0VTVVTC1aQWo1M1ZYZnc?oc=5",
-      "publishedAt": "Fri, 10 Jul 2026 01:45:00 GMT"
-    },
-    {
-      "title": "증시 꺾이자 누그러지는 외국인 매도…환율 방향 가를 ‘숨은 변수’ 따져보니 [백석현의 환율 노트]",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NSy1NZFhhbEV5ZjVEdWlnRk91VUFTbWNJT1JOcjA2Y05SU05jQWYxREJTWXJFNEplaVVYWFFiaXVFWWhPSkdJbDA0NG5VenJiWHc?oc=5",
-      "publishedAt": "Fri, 10 Jul 2026 09:01:27 GMT"
-    },
-    {
-      "title": "[글로벌 증시 따라잡기] 시장이 오해하기를 바라는 케빈워시? 4분기는 금리 인하?",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5yRjByMVRKOUpYYWQyTlljU19yT09Pb3ZYc21pNl8xX0lhNVRwTDRzTVUtU09vbjR3Tk5yaGtpMlpoNlR4Q3c?oc=5",
-      "publishedAt": "Fri, 10 Jul 2026 05:22:25 GMT"
+      "title": "[퇴근길머니] '반도체 투심 회복' 코스피 상승…SK하이닉스, 美 증시 데뷔전",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xVjV1QUpMaFJFVGZwREoxQzV2bzNIckhVSWlpVUhuWVRNV2Y5Qm5HSDVRdU5FXzY0dE5DUkJUSHQxR3d3WEI2S2t6U2FGODl2ZENFUE5JeDh3OGJORk9XeNIBYEFVX3lxTE0xVjV1QUpMaFJFVGZwREoxQzV2bzNIckhVSWlpVUhuWVRNV2Y5Qm5HSDVRdU5FXzY0dE5DUkJUSHQxR3d3WEI2S2t6U2FGODl2ZENFUE5JeDh3OGJORk9XeA?oc=5",
+      "publishedAt": "Fri, 10 Jul 2026 08:25:17 GMT"
     }
   ],
   "summary": {
@@ -7197,7 +7257,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 1.2565,
+        "changePercent": 1.5432,
         "direction": "상승"
       }
     ],
