@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-12T06:54:40.181651+09:00",
-  "updatedLabel": "2026-07-12 06:54:40 KST",
+  "updatedAt": "2026-07-12T07:55:10.100968+09:00",
+  "updatedLabel": "2026-07-12 07:55:10 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4729,12 +4729,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 64300.6,
+      "price": 64119.36,
       "previousClose": 64125.902,
-      "change": 174.698,
-      "changePercent": 0.2724,
-      "tone": "up",
-      "direction": "상승",
+      "change": -6.542,
+      "changePercent": -0.0102,
+      "tone": "flat",
+      "direction": "보합",
       "series": [
         [
           1783728000000,
@@ -5786,16 +5786,64 @@
         ],
         [
           1783806600000,
-          64317.828125
+          64299.0
         ],
         [
-          1783806873000,
-          64300.601562
+          1783806900000,
+          64310.378906
+        ],
+        [
+          1783807200000,
+          64321.820312
+        ],
+        [
+          1783807500000,
+          64341.960938
+        ],
+        [
+          1783807800000,
+          64313.648438
+        ],
+        [
+          1783808100000,
+          64316.398438
+        ],
+        [
+          1783808400000,
+          64256.449219
+        ],
+        [
+          1783808700000,
+          64204.121094
+        ],
+        [
+          1783809000000,
+          64246.0
+        ],
+        [
+          1783809300000,
+          64180.480469
+        ],
+        [
+          1783809600000,
+          64167.46875
+        ],
+        [
+          1783809900000,
+          64114.949219
+        ],
+        [
+          1783810200000,
+          64119.359375
+        ],
+        [
+          1783810502000,
+          64119.359375
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-12 06:54 KST",
-      "marketTimestamp": 1783806873
+      "marketTime": "2026-07-12 07:55 KST",
+      "marketTimestamp": 1783810502
     }
   ],
   "mainCharts": [
@@ -7118,16 +7166,16 @@
       "publishedAt": "Sat, 11 Jul 2026 06:30:42 GMT"
     },
     {
+      "title": "“미국선 이미 252만원”…하이닉스, 13일 250만원 갈까",
+      "source": "세계일보",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JNFktakE5eGxXb1Q5eXFjR295blQxZG5QS3dVV1IxVVVnTzlXWTZ6WmdsVURTOVdXQ25fc3Q5WURpUWJFYnN4TXNDMHEtRHd3VjZrTGlNSnQ5aTZ2Q0V4RklraUhOb3JhdF9r0gFUQVVfeXFMT3EyUThBUEJnM3NGeEI3UTdSVGVQY0N5LVJ4dFZVeDVySENpODY1cndIdUFKak5ZZkZUY2FXMmhqOEYtSER1MW1UR1FFX2plVkJjNllr?oc=5",
+      "publishedAt": "Sat, 11 Jul 2026 21:41:23 GMT"
+    },
+    {
       "title": "해외 3배 ETF에 2.5조 베팅한 개미…국내 증시 ‘실탄’은 5개월 만에 최저",
       "source": "글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1oxb1BnbWJnUzdUYlhtbmFyZVBsZHZjYlpZOEtPcFlkUFRjNVdrQjhUMU92UDNwOVYxNXJPamtSYVFRQWQxUmYyZ01uLXVPNVBjRWZOOVJzNHlaSldEUzJrVmV2bjg4SFU5NVBvS0l5QjM4NllObXRtZ0l6Q0p4Q1JDSzZlelNsY3o0?oc=5",
       "publishedAt": "Sat, 11 Jul 2026 01:42:48 GMT"
-    },
-    {
-      "title": "[SK AI 반도체 시대] 왜 세계 최고의 기업들은 미국 증시를 선택하는가",
-      "source": "르몽드디플로마티크",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MbldqMlp3Q1RabGhZcG13N2hsaFpjZHNzYThXUFB2blYtU19lTWdkdTJkRENBaWwydmtPTG9TVUxtQjZrRXdRWm8teFNnMnZqNkNmU2xSZW05cFJVMElFQnlJeG90Wk53cVHSAW5BVV95cUxQcjlwbDh5WVgxY1dUdlk5ZTdPV3FSR1oyZWRzNEpoejh1bHg2OUt5akl6ZlVUZHRQaUt1MmJlMmNlRHYxQVdMMURuZ0JjdlBZRjVNc3B5T3pMOVBjcVNQRjAxV2pON0JRNmNuSUJ3QQ?oc=5",
-      "publishedAt": "Sat, 11 Jul 2026 01:49:23 GMT"
     },
     {
       "title": "다음주 한은 기준금리 결정… 경제성장전략도 발표",
@@ -7136,10 +7184,10 @@
       "publishedAt": "Sat, 11 Jul 2026 04:47:48 GMT"
     },
     {
-      "title": "SK하이닉스 나스닥 상장 첫날, 공모가보다 13% 상승",
-      "source": "한국일보",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42RGFkYU5NVEw4bk1sTGxocnllRFg2UEFmaWNfVVIzdWppc2IxSHFkR2xQbU9hbTB2VEpKc0c3MVJKbjlqRnpXQUtCUUc1dW1Vb09aM2JxMkNQczJzYkp4Yll6YmtvZXRZNVZBQWtn0gFzQVVfeXFMT3Z6dW5jQ3R3YmNZN0JqYzBvZ2JROVVLYnFkY1p5RzdjRnRPRXFzaXQ4VlFINDlJT0Fhc21rX0hVa3I5b2hqejRmNDY1azJaaXFIaTRabEE1VE9YOFlnbFBEU0YtZ0F0VzVfbXZsTnl3UEZYZw?oc=5",
-      "publishedAt": "Sat, 11 Jul 2026 01:31:00 GMT"
+      "title": "[SK AI 반도체 시대] 왜 세계 최고의 기업들은 미국 증시를 선택하는가",
+      "source": "르몽드디플로마티크",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MbldqMlp3Q1RabGhZcG13N2hsaFpjZHNzYThXUFB2blYtU19lTWdkdTJkRENBaWwydmtPTG9TVUxtQjZrRXdRWm8teFNnMnZqNkNmU2xSZW05cFJVMElFQnlJeG90Wk53cVHSAW5BVV95cUxQcjlwbDh5WVgxY1dUdlk5ZTdPV3FSR1oyZWRzNEpoejh1bHg2OUt5akl6ZlVUZHRQaUt1MmJlMmNlRHYxQVdMMURuZ0JjdlBZRjVNc3B5T3pMOVBjcVNQRjAxV2pON0JRNmNuSUJ3QQ?oc=5",
+      "publishedAt": "Sat, 11 Jul 2026 01:49:23 GMT"
     }
   ],
   "summary": {
