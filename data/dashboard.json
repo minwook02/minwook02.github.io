@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-11T12:12:35.054776+09:00",
-  "updatedLabel": "2026-07-11 12:12:35 KST",
+  "updatedAt": "2026-07-11T14:57:20.550264+09:00",
+  "updatedLabel": "2026-07-11 14:57:20 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1498.87,
+      "price": 1498.7,
       "previousClose": 1506.48,
-      "change": -7.61,
-      "changePercent": -0.5052,
+      "change": -7.78,
+      "changePercent": -0.5164,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -2710,8 +2710,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-11 06:06 KST",
-      "marketTimestamp": 1783717598
+      "marketTime": "2026-07-11 12:30 KST",
+      "marketTimestamp": 1783740643
     },
     {
       "id": "us10y",
@@ -3881,10 +3881,6 @@
         [
           1783716900000,
           71.510002
-        ],
-        [
-          1783717195000,
-          71.510002
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4720,10 +4716,6 @@
         [
           1783716900000,
           4128.899902
-        ],
-        [
-          1783717197000,
-          4128.899902
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4737,10 +4729,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 64128.21,
+      "price": 64113.8,
       "previousClose": 64125.902,
-      "change": 2.308,
-      "changePercent": 0.0036,
+      "change": -12.102,
+      "changePercent": -0.0189,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -4898,16 +4890,148 @@
         ],
         [
           1783739400000,
-          64128.640625
+          64142.058594
         ],
         [
-          1783739486000,
-          64128.210938
+          1783739700000,
+          64145.238281
+        ],
+        [
+          1783740000000,
+          64108.261719
+        ],
+        [
+          1783740300000,
+          64078.558594
+        ],
+        [
+          1783740600000,
+          64101.761719
+        ],
+        [
+          1783740900000,
+          64136.78125
+        ],
+        [
+          1783741200000,
+          64121.238281
+        ],
+        [
+          1783741500000,
+          64129.171875
+        ],
+        [
+          1783741800000,
+          64135.898438
+        ],
+        [
+          1783742100000,
+          64109.351562
+        ],
+        [
+          1783742400000,
+          64083.128906
+        ],
+        [
+          1783742700000,
+          64049.808594
+        ],
+        [
+          1783743000000,
+          64083.230469
+        ],
+        [
+          1783743300000,
+          64091.710938
+        ],
+        [
+          1783743600000,
+          64118.359375
+        ],
+        [
+          1783743900000,
+          64098.800781
+        ],
+        [
+          1783744200000,
+          64140.640625
+        ],
+        [
+          1783744500000,
+          64153.03125
+        ],
+        [
+          1783744800000,
+          64112.691406
+        ],
+        [
+          1783745100000,
+          64124.550781
+        ],
+        [
+          1783745400000,
+          64078.578125
+        ],
+        [
+          1783745700000,
+          64111.339844
+        ],
+        [
+          1783746000000,
+          64119.089844
+        ],
+        [
+          1783746300000,
+          64131.960938
+        ],
+        [
+          1783746600000,
+          64121.460938
+        ],
+        [
+          1783746900000,
+          64093.558594
+        ],
+        [
+          1783747200000,
+          64144.238281
+        ],
+        [
+          1783747500000,
+          64152.160156
+        ],
+        [
+          1783747800000,
+          64159.988281
+        ],
+        [
+          1783748100000,
+          64144.089844
+        ],
+        [
+          1783748400000,
+          64132.449219
+        ],
+        [
+          1783748700000,
+          64095.359375
+        ],
+        [
+          1783749000000,
+          64122.21875
+        ],
+        [
+          1783749300000,
+          64113.789062
+        ],
+        [
+          1783749365000,
+          64113.800781
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-11 12:11 KST",
-      "marketTimestamp": 1783739486
+      "marketTime": "2026-07-11 14:56 KST",
+      "marketTimestamp": 1783749365
     }
   ],
   "mainCharts": [
@@ -6212,16 +6336,22 @@
       "publishedAt": "Sat, 11 Jul 2026 01:42:48 GMT"
     },
     {
+      "title": "SK하이닉스 나스닥 상장 첫날, 공모가보다 13% 상승",
+      "source": "한국일보",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42RGFkYU5NVEw4bk1sTGxocnllRFg2UEFmaWNfVVIzdWppc2IxSHFkR2xQbU9hbTB2VEpKc0c3MVJKbjlqRnpXQUtCUUc1dW1Vb09aM2JxMkNQczJzYkp4Yll6YmtvZXRZNVZBQWtn0gFzQVVfeXFMT3Z6dW5jQ3R3YmNZN0JqYzBvZ2JROVVLYnFkY1p5RzdjRnRPRXFzaXQ4VlFINDlJT0Fhc21rX0hVa3I5b2hqejRmNDY1azJaaXFIaTRabEE1VE9YOFlnbFBEU0YtZ0F0VzVfbXZsTnl3UEZYZw?oc=5",
+      "publishedAt": "Sat, 11 Jul 2026 01:31:00 GMT"
+    },
+    {
+      "title": "증시 활황에 늘어난 부자들…증권가, 모셔가기 전쟁 중",
+      "source": "서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UR1dYY2dUei1hWTRDMW1tTm5MU0ctZWdxMW9LbzFDdG1qd0lyY3FTcTRHaGdTcFhQM1kyejJPTk9VMl9qbVlvRXpINF93emtxc2VZNDRwSGczZ2U4dENWUTVCb3I?oc=5",
+      "publishedAt": "Fri, 10 Jul 2026 23:00:07 GMT"
+    },
+    {
       "title": "연일 급등 급락 반복하는 증시에 언론 “오징어게임 됐다”",
       "source": "미디어오늘",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OSlJBUEV0UkNWRmhnSnBaNndLRWcyVFRvY001R3ZCVXBJUG8ycWhxOVdTZU80NzhkRWI3OEprT0pKYWN0cUtwTnhfNTBvcGtfTk5VMTgtc3B1VXFQcFNUYVVDQnlLSFc2VkhIX0J3Mm4?oc=5",
       "publishedAt": "Fri, 10 Jul 2026 21:25:00 GMT"
-    },
-    {
-      "title": "SK하이닉스 나스닥 상장 첫날, 공모가보다 13% 급등",
-      "source": "한국일보",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42RGFkYU5NVEw4bk1sTGxocnllRFg2UEFmaWNfVVIzdWppc2IxSHFkR2xQbU9hbTB2VEpKc0c3MVJKbjlqRnpXQUtCUUc1dW1Vb09aM2JxMkNQczJzYkp4Yll6YmtvZXRZNVZBQWtn0gFzQVVfeXFMT3Z6dW5jQ3R3YmNZN0JqYzBvZ2JROVVLYnFkY1p5RzdjRnRPRXFzaXQ4VlFINDlJT0Fhc21rX0hVa3I5b2hqejRmNDY1azJaaXFIaTRabEE1VE9YOFlnbFBEU0YtZ0F0VzVfbXZsTnl3UEZYZw?oc=5",
-      "publishedAt": "Sat, 11 Jul 2026 01:31:00 GMT"
     },
     {
       "title": "시장 혼돈 키우는 ‘정책실장 입’… 대출 막고 증시 불안 가져왔다",
@@ -6242,12 +6372,6 @@
       "publishedAt": "Fri, 10 Jul 2026 22:38:47 GMT"
     },
     {
-      "title": "증시 활황에 늘어난 부자들…증권가, 모셔가기 전쟁 중",
-      "source": "서울경제TV",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UR1dYY2dUei1hWTRDMW1tTm5MU0ctZWdxMW9LbzFDdG1qd0lyY3FTcTRHaGdTcFhQM1kyejJPTk9VMl9qbVlvRXpINF93emtxc2VZNDRwSGczZ2U4dENWUTVCb3I?oc=5",
-      "publishedAt": "Fri, 10 Jul 2026 23:00:07 GMT"
-    },
-    {
       "title": "\"투기적 개별종목 ETF 거래가 한국 증시 급등락 주범\"",
       "source": "세상을 바꾸는 시민언론 민들레",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NdDkwRHFxa3c5bWpGY0Q0UkxyWHZsQ1Bmb3pzcG9PNE1ac0thYVZFRjVhaTRSRG83bFFrdzBRRnRZdnFNQ1FSWFc4YTZxbm1YcUZvLW5GZVI2VXhYS3JMV1daWlRfck9IT01jYg?oc=5",
@@ -6263,13 +6387,13 @@
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 상승 흐름입니다.",
       "해외는 S&P 500 +0.42%, NASDAQ +0.29%로 확인됩니다.",
-      "매크로 변수는 USD/KRW -0.51%, 미 10년물 +0.66%입니다."
+      "매크로 변수는 USD/KRW -0.52%, 미 10년물 +0.66%입니다."
     ],
     "checkpoints": [
       "KOSPI +2.52% 상승",
       "KOSDAQ +5.47% 상승",
       "미국 증시 상승 / 나스닥 +0.29%",
-      "원달러 -0.51% (-7.61)",
+      "원달러 -0.52% (-7.78)",
       "미 10년물 +0.030p (+0.66%)"
     ],
     "leaders": [
@@ -6292,12 +6416,12 @@
     "laggards": [
       {
         "label": "USD/KRW",
-        "changePercent": -0.5052,
+        "changePercent": -0.5164,
         "direction": "하락"
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.0036,
+        "changePercent": -0.0189,
         "direction": "보합"
       },
       {
