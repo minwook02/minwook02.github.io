@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-12T04:44:35.729192+09:00",
-  "updatedLabel": "2026-07-12 04:44:35 KST",
+  "updatedAt": "2026-07-12T05:55:23.762865+09:00",
+  "updatedLabel": "2026-07-12 05:55:23 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4729,10 +4729,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 64224.52,
+      "price": 64345.61,
       "previousClose": 64125.902,
-      "change": 98.618,
-      "changePercent": 0.1538,
+      "change": 219.708,
+      "changePercent": 0.3426,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5682,16 +5682,72 @@
         ],
         [
           1783798800000,
-          64224.519531
+          64221.0
         ],
         [
-          1783799065000,
-          64224.519531
+          1783799100000,
+          64220.351562
+        ],
+        [
+          1783799400000,
+          64238.710938
+        ],
+        [
+          1783799700000,
+          64245.988281
+        ],
+        [
+          1783800000000,
+          64270.0
+        ],
+        [
+          1783800300000,
+          64279.921875
+        ],
+        [
+          1783800600000,
+          64279.640625
+        ],
+        [
+          1783800900000,
+          64306.761719
+        ],
+        [
+          1783801200000,
+          64294.171875
+        ],
+        [
+          1783801500000,
+          64311.339844
+        ],
+        [
+          1783801800000,
+          64303.988281
+        ],
+        [
+          1783802100000,
+          64322.429688
+        ],
+        [
+          1783802400000,
+          64368.339844
+        ],
+        [
+          1783802700000,
+          64347.910156
+        ],
+        [
+          1783803000000,
+          64338.058594
+        ],
+        [
+          1783803318000,
+          64345.609375
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-12 04:44 KST",
-      "marketTimestamp": 1783799065
+      "marketTime": "2026-07-12 05:55 KST",
+      "marketTimestamp": 1783803318
     }
   ],
   "mainCharts": [
@@ -7020,16 +7076,16 @@
       "publishedAt": "Sat, 11 Jul 2026 01:31:00 GMT"
     },
     {
-      "title": "증시 활황에 늘어난 부자들…증권가, 모셔가기 전쟁 중",
-      "source": "서울경제TV",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UR1dYY2dUei1hWTRDMW1tTm5MU0ctZWdxMW9LbzFDdG1qd0lyY3FTcTRHaGdTcFhQM1kyejJPTk9VMl9qbVlvRXpINF93emtxc2VZNDRwSGczZ2U4dENWUTVCb3I?oc=5",
-      "publishedAt": "Fri, 10 Jul 2026 23:00:07 GMT"
-    },
-    {
       "title": "[오늘의 경제] 코스피 조정장에서 봐야 할 것",
       "source": "브런치",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBOeTg0UGVjS3JQS2pEbnpTOHdWRWx5VlFETUQzQ3NpdVhPLXlNVjYyYjZoYkNxUzhqMC1LalI2Vmx5R1B4WFduN0RuN28?oc=5",
       "publishedAt": "Sat, 11 Jul 2026 17:03:50 GMT"
+    },
+    {
+      "title": "증시 활황에 늘어난 부자들…증권가, 모셔가기 전쟁 중",
+      "source": "서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UR1dYY2dUei1hWTRDMW1tTm5MU0ctZWdxMW9LbzFDdG1qd0lyY3FTcTRHaGdTcFhQM1kyejJPTk9VMl9qbVlvRXpINF93emtxc2VZNDRwSGczZ2U4dENWUTVCb3I?oc=5",
+      "publishedAt": "Fri, 10 Jul 2026 23:00:07 GMT"
     },
     {
       "title": "연일 급등 급락 반복하는 증시에 언론 “오징어게임 됐다”",
