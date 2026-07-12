@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-12T19:55:59.174169+09:00",
-  "updatedLabel": "2026-07-12 19:55:59 KST",
+  "updatedAt": "2026-07-12T21:03:10.492461+09:00",
+  "updatedLabel": "2026-07-12 21:03:10 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3095,12 +3095,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 63841.5,
+      "price": 63942.99,
       "previousClose": 63777.508,
-      "change": 63.992,
-      "changePercent": 0.1003,
-      "tone": "flat",
-      "direction": "보합",
+      "change": 165.482,
+      "changePercent": 0.2595,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1783814400000,
@@ -3627,13 +3627,69 @@
           63807.628906
         ],
         [
-          1783853757000,
-          63841.5
+          1783853700000,
+          63794.921875
+        ],
+        [
+          1783854000000,
+          63856.25
+        ],
+        [
+          1783854300000,
+          63860.148438
+        ],
+        [
+          1783854600000,
+          63797.988281
+        ],
+        [
+          1783854900000,
+          63849.050781
+        ],
+        [
+          1783855200000,
+          63830.140625
+        ],
+        [
+          1783855500000,
+          63854.699219
+        ],
+        [
+          1783855800000,
+          63938.390625
+        ],
+        [
+          1783856100000,
+          63951.160156
+        ],
+        [
+          1783856400000,
+          63953.761719
+        ],
+        [
+          1783856700000,
+          63974.0
+        ],
+        [
+          1783857000000,
+          63956.191406
+        ],
+        [
+          1783857300000,
+          63966.539062
+        ],
+        [
+          1783857600000,
+          63942.988281
+        ],
+        [
+          1783857785000,
+          63942.988281
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-12 19:55 KST",
-      "marketTimestamp": 1783853757
+      "marketTime": "2026-07-12 21:03 KST",
+      "marketTimestamp": 1783857785
     }
   ],
   "mainCharts": [
@@ -4956,10 +5012,10 @@
       "publishedAt": "Sat, 11 Jul 2026 21:05:02 GMT"
     },
     {
-      "title": "국민의힘 “김용범, ‘오징어 게임’ 증시 주범…李 대통령, 즉각 경질해야”",
-      "source": "중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsQ0Z4Yk02WER2ZnNPdUZWb1kteG5CdjhpRnB4U1B0amctMF9fajdMeEgxcnM2TmJxVE9lYnBYTm5IS1ROd3pyb3ZJbHZxYU9FMGQ5U0VB?oc=5",
-      "publishedAt": "Sun, 12 Jul 2026 06:42:07 GMT"
+      "title": "美서 16% 비싸진 SK하이닉스…ADR 격차에 국내 증시 변동성 확대되나",
+      "source": "브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qckJ3NlQzTlZuNDhOZkJ0eXpBLUh1YmU3V2ZkazZkeHlwSjhFcm9kNXU5NFdVOXpxLWpxRDl2eGFVbVZWd3FmOGxIZmh2dmZvcjlBeU1nMFRidw?oc=5",
+      "publishedAt": "Sun, 12 Jul 2026 10:51:00 GMT"
     },
     {
       "title": "[마켓인사이트] 하이닉스발 훈풍에 반도체 들썩…韓증시 안정 찾을까",
