@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-13T02:03:19.175272+09:00",
-  "updatedLabel": "2026-07-13 02:03:19 KST",
+  "updatedAt": "2026-07-13T03:27:51.895371+09:00",
+  "updatedLabel": "2026-07-13 03:27:51 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -972,8 +972,8 @@
       "kind": "equity",
       "decimals": 2,
       "price": 26281.607,
-      "previousClose": 26206.89,
-      "change": 74.717,
+      "previousClose": 26206.9,
+      "change": 74.707,
       "changePercent": 0.2851,
       "tone": "up",
       "direction": "상승",
@@ -1307,8 +1307,8 @@
       "kind": "equity",
       "decimals": 2,
       "price": 52637.01,
-      "previousClose": 52487.41,
-      "change": 149.6,
+      "previousClose": 52487.4,
+      "change": 149.61,
       "changePercent": 0.285,
       "tone": "up",
       "direction": "상승",
@@ -3095,10 +3095,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 64107.66,
+      "price": 63994.9,
       "previousClose": 63777.508,
-      "change": 330.152,
-      "changePercent": 0.5177,
+      "change": 217.392,
+      "changePercent": 0.3409,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3920,16 +3920,84 @@
         ],
         [
           1783875600000,
-          64107.671875
+          64115.199219
         ],
         [
-          1783875795000,
-          64107.660156
+          1783875900000,
+          64120.550781
+        ],
+        [
+          1783876200000,
+          64104.148438
+        ],
+        [
+          1783876500000,
+          64126.46875
+        ],
+        [
+          1783876800000,
+          64088.0
+        ],
+        [
+          1783877100000,
+          64087.550781
+        ],
+        [
+          1783877400000,
+          64108.441406
+        ],
+        [
+          1783877700000,
+          64124.140625
+        ],
+        [
+          1783878000000,
+          64115.828125
+        ],
+        [
+          1783878300000,
+          64105.078125
+        ],
+        [
+          1783878600000,
+          64017.339844
+        ],
+        [
+          1783878900000,
+          64034.910156
+        ],
+        [
+          1783879200000,
+          64040.550781
+        ],
+        [
+          1783879500000,
+          63985.988281
+        ],
+        [
+          1783879800000,
+          63996.800781
+        ],
+        [
+          1783880100000,
+          63985.980469
+        ],
+        [
+          1783880400000,
+          63991.890625
+        ],
+        [
+          1783880700000,
+          63996.988281
+        ],
+        [
+          1783880869000,
+          63994.898438
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-13 02:03 KST",
-      "marketTimestamp": 1783875795
+      "marketTime": "2026-07-13 03:27 KST",
+      "marketTimestamp": 1783880869
     }
   ],
   "mainCharts": [
@@ -4898,8 +4966,8 @@
       "kind": "equity",
       "decimals": 2,
       "price": 26281.607,
-      "previousClose": 26206.89,
-      "change": 74.717,
+      "previousClose": 26206.9,
+      "change": 74.707,
       "changePercent": 0.2851,
       "tone": "up",
       "direction": "상승",
@@ -5240,28 +5308,28 @@
       "publishedAt": "Sun, 12 Jul 2026 03:25:00 GMT"
     },
     {
-      "title": "환율·채권, 하이닉스 미국 상장發 달러유입 기대",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWWd5bUZNU09CbVNtLXdMdTAwMEhqaWR4MGlXNzZhd1JQNGpjVTlPeGMyNEc4Ym05TjhTTXB5MnVIX1J3YnExV2JNalY3cVZvZjdrY0xVeGpvUdIBVEFVX3lxTFBWU2ZYSDJiS2xYOWx0X1lMcURhSm1NdHVpcXVWb3ZEaEU5Njg3THViUDFDZk1rZEpPdDB3ZXUtOFVWZW5GY1dULTcybkpfQmNfanpnSA?oc=5",
-      "publishedAt": "Sun, 12 Jul 2026 08:22:20 GMT"
-    },
-    {
       "title": "SK하이닉스, 나스닥서 12.8% 상승… 40조원 조달 효과, 한국 증시·환율로 번질까",
       "source": "S저널",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81SXE0THg2WjgzeWw1QzZwVXN3T2RJZUYzUG9EdXZVaFF2eUlNc1E0VHp0MnNvNTJQRWtSdnRyNDBKUjZCb3ptU2N6ak5TUHJGV2FWQ0ZYTFF4YzREM1ZBbHhmcGQ0Z21qb0dmTTB3?oc=5",
       "publishedAt": "Sun, 12 Jul 2026 04:56:07 GMT"
     },
     {
-      "title": "SK하이닉스 나스닥 상장 흥행대박…국내 증시 온기로 이어질까",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DQTRmZmNJX3BTT1hyVkFJR0hUV3JDbVlGWFduQWFoZWVud2pRQUhVQXhjNzlrR2pFejFaaklNRDFtSXJZZkNNTnJSazRkQjg1OGxlTGk3MFVEWTDSAWBBVV95cUxPbHhUYjl2UEs0QS1lZEd1UURESEZzOWZad0JKRlNHX211SEtQVFhJT0RHNVZ5dXM0MmprRXZYR3l5MDVaa2IxdTAwU2h6LUVYSzNVTldJcjliY0ctOWlGeWU?oc=5",
-      "publishedAt": "Sat, 11 Jul 2026 21:05:02 GMT"
+      "title": "환율·채권, 하이닉스 미국 상장發 달러유입 기대",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWWd5bUZNU09CbVNtLXdMdTAwMEhqaWR4MGlXNzZhd1JQNGpjVTlPeGMyNEc4Ym05TjhTTXB5MnVIX1J3YnExV2JNalY3cVZvZjdrY0xVeGpvUdIBVEFVX3lxTFBWU2ZYSDJiS2xYOWx0X1lMcURhSm1NdHVpcXVWb3ZEaEU5Njg3THViUDFDZk1rZEpPdDB3ZXUtOFVWZW5GY1dULTcybkpfQmNfanpnSA?oc=5",
+      "publishedAt": "Sun, 12 Jul 2026 08:22:20 GMT"
     },
     {
       "title": "미국 하이닉스 주가, 한국보다 16% 높아…한국 주식 오를까",
       "source": "부산일보",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1blBmcFBCS19XWXp0aUhJeHVNSzdJRm1oU3BucDB4MDJ3YmlRSUo4NHk1OXliZU1xcE5DY2lCTEN3dUxEWDA5TlY0cElKeWZqVURlb2ktd1VHUnRtT0lSNjdvNjF6WkpqMHRvR2xZcjBhalZ5?oc=5",
       "publishedAt": "Sun, 12 Jul 2026 06:01:30 GMT"
+    },
+    {
+      "title": "SK하이닉스 나스닥 상장 흥행대박…국내 증시 온기로 이어질까",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DQTRmZmNJX3BTT1hyVkFJR0hUV3JDbVlGWFduQWFoZWVud2pRQUhVQXhjNzlrR2pFejFaaklNRDFtSXJZZkNNTnJSazRkQjg1OGxlTGk3MFVEWTDSAWBBVV95cUxPbHhUYjl2UEs0QS1lZEd1UURESEZzOWZad0JKRlNHX211SEtQVFhJT0RHNVZ5dXM0MmprRXZYR3l5MDVaa2IxdTAwU2h6LUVYSzNVTldJcjliY0ctOWlGeWU?oc=5",
+      "publishedAt": "Sat, 11 Jul 2026 21:05:02 GMT"
     },
     {
       "title": "반도체 피크아웃 우려 씻어… 코스피 투심 회복 관심",
@@ -5306,8 +5374,8 @@
         "direction": "상승"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": 0.5177,
+        "label": "S&P 500",
+        "changePercent": 0.4209,
         "direction": "상승"
       }
     ],
