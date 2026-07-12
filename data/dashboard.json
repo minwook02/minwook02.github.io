@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-13T05:57:27.418807+09:00",
-  "updatedLabel": "2026-07-13 05:57:27 KST",
+  "updatedAt": "2026-07-13T06:56:38.957017+09:00",
+  "updatedLabel": "2026-07-13 06:56:38 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1498.87,
+      "price": 1498.85,
       "previousClose": 1506.48,
-      "change": -7.61,
-      "changePercent": -0.5052,
+      "change": -7.63,
+      "changePercent": -0.5065,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -2710,8 +2710,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-12 22:42 KST",
-      "marketTimestamp": 1783863731
+      "marketTime": "2026-07-13 06:50 KST",
+      "marketTimestamp": 1783893057
     },
     {
       "id": "us10y",
@@ -3095,10 +3095,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 64165.91,
+      "price": 63889.3,
       "previousClose": 63777.508,
-      "change": 388.402,
-      "changePercent": 0.609,
+      "change": 111.792,
+      "changePercent": 0.1753,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -4108,16 +4108,64 @@
         ],
         [
           1783889700000,
-          64162.351562
+          64161.75
         ],
         [
-          1783889842000,
+          1783890000000,
+          64187.019531
+        ],
+        [
+          1783890300000,
           64165.910156
+        ],
+        [
+          1783890600000,
+          64167.050781
+        ],
+        [
+          1783890900000,
+          64116.601562
+        ],
+        [
+          1783891200000,
+          64073.191406
+        ],
+        [
+          1783891500000,
+          64062.0
+        ],
+        [
+          1783891800000,
+          64029.601562
+        ],
+        [
+          1783892100000,
+          64024.589844
+        ],
+        [
+          1783892400000,
+          64018.441406
+        ],
+        [
+          1783892700000,
+          63911.328125
+        ],
+        [
+          1783893000000,
+          63852.898438
+        ],
+        [
+          1783893300000,
+          63884.011719
+        ],
+        [
+          1783893394000,
+          63889.300781
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-13 05:57 KST",
-      "marketTimestamp": 1783889842
+      "marketTime": "2026-07-13 06:56 KST",
+      "marketTimestamp": 1783893394
     }
   ],
   "mainCharts": [
@@ -5428,6 +5476,12 @@
       "publishedAt": "Sun, 12 Jul 2026 17:08:47 GMT"
     },
     {
+      "title": "韓금리·美물가·반도체… 변동장 변수 폭탄 - 머니투데이",
+      "source": "머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6YllPN2MwZEhidkNzVXhyVUhwRlJDaDlubkRyc1I0WDFVRjBDMF9NQk10ZTh3VlFCdFdMaWRlbnBCN0Y2aXhKNVRHeVE4cklkOGIybUlLNlFURmF3eGZhQTVia2pJNGp6dWo4TXhB0gFuQVVfeXFMUHpiWU83YzBkSGJ2Q3NVeHJVSHBGUkNoOW5uRHJzUjRYMVVGMEMwX01CTXRlOHdWUUJ0V0xpZGVucEI3RjZpeEo1VEd5UThySWQ4YjJtSUs2UVRGYXd4ZmFBNWJrakk0anp1ajhNeEE?oc=5",
+      "publishedAt": "Sun, 12 Jul 2026 19:00:00 GMT"
+    },
+    {
       "title": "증시·환율 출렁이는데 여유로운 한은 … 금리 인상 유력해도 더 봐야 할 것은",
       "source": "매일경제",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00Ykx2cGFORnNsdWhkMW5jajlIMDA5cVNxaTBQdXJiUDZPY25ZQU43RzQ1cjZsQjVRSEhJYkhlRHVTMTRTTE53cUlVWkRvSjdpUHkxeA?oc=5",
@@ -5440,6 +5494,12 @@
       "publishedAt": "Sun, 12 Jul 2026 03:25:00 GMT"
     },
     {
+      "title": "[오늘의 경제뉴스] SK하이닉스 나스닥 흥행…‘통화스와프급’ 달러에 환율도 숨통",
+      "source": "뉴스버스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iTEpKNVd0Tmt2bjNhT19Ra3VONVJmYjhRRlJESnZrWFRZNkFWZUFnMXgzVUxTa21wNzZjNm5wWmprVjUwTW4zMmxzak9ydHNQTDJjOWtDR2NGVWs3Ry1wV1RpZi1JeEtwbUE?oc=5",
+      "publishedAt": "Sun, 12 Jul 2026 20:24:35 GMT"
+    },
+    {
       "title": "환율·채권, 하이닉스 미국 상장發 달러유입 기대",
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWWd5bUZNU09CbVNtLXdMdTAwMEhqaWR4MGlXNzZhd1JQNGpjVTlPeGMyNEc4Ym05TjhTTXB5MnVIX1J3YnExV2JNalY3cVZvZjdrY0xVeGpvUdIBVEFVX3lxTFBWU2ZYSDJiS2xYOWx0X1lMcURhSm1NdHVpcXVWb3ZEaEU5Njg3THViUDFDZk1rZEpPdDB3ZXUtOFVWZW5GY1dULTcybkpfQmNfanpnSA?oc=5",
@@ -5450,18 +5510,6 @@
       "source": "S저널",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81SXE0THg2WjgzeWw1QzZwVXN3T2RJZUYzUG9EdXZVaFF2eUlNc1E0VHp0MnNvNTJQRWtSdnRyNDBKUjZCb3ptU2N6ak5TUHJGV2FWQ0ZYTFF4YzREM1ZBbHhmcGQ0Z21qb0dmTTB3?oc=5",
       "publishedAt": "Sun, 12 Jul 2026 04:56:07 GMT"
-    },
-    {
-      "title": "미국 하이닉스 주가, 한국보다 16% 높아…한국 주식 오를까",
-      "source": "부산일보",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1blBmcFBCS19XWXp0aUhJeHVNSzdJRm1oU3BucDB4MDJ3YmlRSUo4NHk1OXliZU1xcE5DY2lCTEN3dUxEWDA5TlY0cElKeWZqVURlb2ktd1VHUnRtT0lSNjdvNjF6WkpqMHRvR2xZcjBhalZ5?oc=5",
-      "publishedAt": "Sun, 12 Jul 2026 06:01:30 GMT"
-    },
-    {
-      "title": "반도체 피크아웃 우려 씻어… 코스피 투심 회복 관심",
-      "source": "국민일보",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmTm5XejNyYkEzalZtMVpRdXFsNWF3WmJBLTVLY2FoRFdUMmFZMjZuLXJfc3FfYjhLc3Rscm9aRFRGandwQmhIVHgybkxBODRBTXdSWjBYeEdqbVJkR2U0RV9wa2NLNGNoRXI2bdIBbEFVX3lxTFBmTm5XejNyYkEzalZtMVpRdXFsNWF3WmJBLTVLY2FoRFdUMmFZMjZuLXJfc3FfYjhLc3Rscm9aRFRGandwQmhIVHgybkxBODRBTXdSWjBYeEdqbVJkR2U0RV9wa2NLNGNoRXI2bQ?oc=5",
-      "publishedAt": "Sun, 12 Jul 2026 10:25:00 GMT"
     }
   ],
   "summary": {
@@ -5479,7 +5527,7 @@
       "KOSPI +2.52% 상승",
       "KOSDAQ +5.47% 상승",
       "미국 증시 상승 / 나스닥 +0.29%",
-      "원달러 -0.51% (-7.61)",
+      "원달러 -0.51% (-7.63)",
       "미 10년물 +0.030p (+0.66%)"
     ],
     "leaders": [
@@ -5494,15 +5542,15 @@
         "direction": "상승"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": 0.609,
+        "label": "S&P 500",
+        "changePercent": 0.4209,
         "direction": "상승"
       }
     ],
     "laggards": [
       {
         "label": "USD/KRW",
-        "changePercent": -0.5052,
+        "changePercent": -0.5065,
         "direction": "하락"
       },
       {
