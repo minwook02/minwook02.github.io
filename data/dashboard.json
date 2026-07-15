@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-15T19:54:11.871281+09:00",
-  "updatedLabel": "2026-07-15 19:54:11 KST",
+  "updatedAt": "2026-07-15T21:18:38.965950+09:00",
+  "updatedLabel": "2026-07-15 21:18:38 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2403,10 +2403,10 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 80.01,
+      "price": 79.67,
       "previousClose": 79.34,
-      "change": 0.67,
-      "changePercent": 0.8445,
+      "change": 0.33,
+      "changePercent": 0.4159,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -2735,13 +2735,81 @@
           80.019997
         ],
         [
-          1784112249000,
-          80.010002
+          1784112300000,
+          80.050003
+        ],
+        [
+          1784112600000,
+          79.949997
+        ],
+        [
+          1784112900000,
+          79.870003
+        ],
+        [
+          1784113200000,
+          79.919998
+        ],
+        [
+          1784113500000,
+          79.959999
+        ],
+        [
+          1784113800000,
+          80.029999
+        ],
+        [
+          1784114100000,
+          79.860001
+        ],
+        [
+          1784114400000,
+          79.769997
+        ],
+        [
+          1784114700000,
+          79.739998
+        ],
+        [
+          1784115000000,
+          79.879997
+        ],
+        [
+          1784115300000,
+          79.779999
+        ],
+        [
+          1784115600000,
+          79.800003
+        ],
+        [
+          1784115900000,
+          79.720001
+        ],
+        [
+          1784116200000,
+          79.449997
+        ],
+        [
+          1784116500000,
+          79.559998
+        ],
+        [
+          1784116800000,
+          79.660004
+        ],
+        [
+          1784117100000,
+          79.650002
+        ],
+        [
+          1784117313000,
+          79.669998
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-15 19:44 KST",
-      "marketTimestamp": 1784112249
+      "marketTime": "2026-07-15 21:08 KST",
+      "marketTimestamp": 1784117313
     },
     {
       "id": "gold",
@@ -2750,10 +2818,10 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 4037.0,
+      "price": 4043.6,
       "previousClose": 4069.7,
-      "change": -32.7,
-      "changePercent": -0.8035,
+      "change": -26.1,
+      "changePercent": -0.6413,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3082,13 +3150,81 @@
           4037.199951
         ],
         [
-          1784112249000,
-          4037.0
+          1784112300000,
+          4034.800049
+        ],
+        [
+          1784112600000,
+          4034.899902
+        ],
+        [
+          1784112900000,
+          4034.300049
+        ],
+        [
+          1784113200000,
+          4035.300049
+        ],
+        [
+          1784113500000,
+          4037.399902
+        ],
+        [
+          1784113800000,
+          4036.199951
+        ],
+        [
+          1784114100000,
+          4035.300049
+        ],
+        [
+          1784114400000,
+          4036.300049
+        ],
+        [
+          1784114700000,
+          4036.800049
+        ],
+        [
+          1784115000000,
+          4039.100098
+        ],
+        [
+          1784115300000,
+          4041.5
+        ],
+        [
+          1784115600000,
+          4043.800049
+        ],
+        [
+          1784115900000,
+          4042.699951
+        ],
+        [
+          1784116200000,
+          4042.5
+        ],
+        [
+          1784116500000,
+          4044.5
+        ],
+        [
+          1784116800000,
+          4047.100098
+        ],
+        [
+          1784117100000,
+          4043.600098
+        ],
+        [
+          1784117312000,
+          4043.600098
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-15 19:44 KST",
-      "marketTimestamp": 1784112249
+      "marketTime": "2026-07-15 21:08 KST",
+      "marketTimestamp": 1784117312
     },
     {
       "id": "bitcoin",
@@ -3097,10 +3233,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 64603.11,
+      "price": 64657.57,
       "previousClose": 64974.754,
-      "change": -371.644,
-      "changePercent": -0.572,
+      "change": -317.184,
+      "changePercent": -0.4882,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3626,16 +3762,84 @@
         ],
         [
           1784112600000,
-          64612.171875
+          64611.960938
         ],
         [
-          1784112849000,
-          64603.109375
+          1784112900000,
+          64603.96875
+        ],
+        [
+          1784113200000,
+          64635.871094
+        ],
+        [
+          1784113500000,
+          64696.410156
+        ],
+        [
+          1784113800000,
+          64670.089844
+        ],
+        [
+          1784114100000,
+          64623.679688
+        ],
+        [
+          1784114400000,
+          64574.070312
+        ],
+        [
+          1784114700000,
+          64581.898438
+        ],
+        [
+          1784115000000,
+          64624.820312
+        ],
+        [
+          1784115300000,
+          64653.75
+        ],
+        [
+          1784115600000,
+          64639.179688
+        ],
+        [
+          1784115900000,
+          64639.839844
+        ],
+        [
+          1784116200000,
+          64668.0
+        ],
+        [
+          1784116500000,
+          64676.898438
+        ],
+        [
+          1784116800000,
+          64677.230469
+        ],
+        [
+          1784117100000,
+          64641.519531
+        ],
+        [
+          1784117400000,
+          64662.101562
+        ],
+        [
+          1784117700000,
+          64675.710938
+        ],
+        [
+          1784117914000,
+          64657.570312
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-15 19:54 KST",
-      "marketTimestamp": 1784112849
+      "marketTime": "2026-07-15 21:18 KST",
+      "marketTimestamp": 1784117914
     }
   ],
   "mainCharts": [
@@ -4934,16 +5138,16 @@
   ],
   "headlines": [
     {
-      "title": "'홀짝 증시' 언제까지…",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ULURaelNncXNMV0NhUGM4X3lXLUl3bGppa3gtMGpYOGJyakpnay1La2g4RG9lTXNGckFJTzVVQU1lbFJIQlRUU3Z4Z1MtOWVEWWc?oc=5",
-      "publishedAt": "Wed, 15 Jul 2026 08:48:44 GMT"
-    },
-    {
       "title": "한은, 금리 인상 임박에…한-미 장기 금리차 3년 만에 최소",
       "source": "한겨레",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Ud3cya1hDcDFfNkJaNUVmd2hRQjU5amZEX20xZmRHU2N4MVd2bnVpUDNuUlM4R1pIR3JlY2F3Rmg0WktTQU1xbFFmYlRvWVdyUV9RdVJQQnprTzRLc29GNHNoa2xPa3d6SUg4SXdYVjFOQQ?oc=5",
       "publishedAt": "Wed, 15 Jul 2026 09:50:00 GMT"
+    },
+    {
+      "title": "'홀짝 증시' 언제까지…",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ULURaelNncXNMV0NhUGM4X3lXLUl3bGppa3gtMGpYOGJyakpnay1La2g4RG9lTXNGckFJTzVVQU1lbFJIQlRUU3Z4Z1MtOWVEWWc?oc=5",
+      "publishedAt": "Wed, 15 Jul 2026 08:48:44 GMT"
     },
     {
       "title": "[사사건건] 증시 불안 키우는 단일종목 레버리지…대책은?",
@@ -4976,10 +5180,10 @@
       "publishedAt": "Tue, 14 Jul 2026 23:13:38 GMT"
     },
     {
-      "title": "美 물가 상승률 예상 밖 둔화…韓 산업·증시 영향은",
-      "source": "오피니언뉴스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xY1UzdHFpRzBFUXBab3lTU3JyMkM3NU5wRTJGSjNnYkgzaV93R0ZBLVRWeW9LR29HZFkwcjVLTGRJTTNpcEx2YXFrbHNUY1NySlNnV05VWnRXdThYQ0lWa01TSzNyekYzTlpqU2E0Tng?oc=5",
-      "publishedAt": "Wed, 15 Jul 2026 06:20:44 GMT"
+      "title": "레버리지 ETF 충격에 출렁인 증시…코스피 6.24% 반등에도 변동성 경계감 지속",
+      "source": "영남경제",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aWHFmWnFzT2ZfelhBWUxTTXlXc0J5SDBoUUJ5em9SOTBfUHBMY2lpRjJhUm1rQnBBQ1hfTk5wNWlnM2xPQjJVMWtJRmN3clFaR2d2NzJIdk5wdTVRcFlaTXA0X20wb0k?oc=5",
+      "publishedAt": "Wed, 15 Jul 2026 07:01:03 GMT"
     }
   ],
   "summary": {
@@ -5020,12 +5224,12 @@
     "laggards": [
       {
         "label": "Gold",
-        "changePercent": -0.8035,
+        "changePercent": -0.6413,
         "direction": "하락"
       },
       {
         "label": "Bitcoin",
-        "changePercent": -0.572,
+        "changePercent": -0.4882,
         "direction": "하락"
       },
       {
