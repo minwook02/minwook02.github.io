@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-19T04:10:47.194421+09:00",
-  "updatedLabel": "2026-07-19 04:10:47 KST",
+  "updatedAt": "2026-07-19T05:21:09.806038+09:00",
+  "updatedLabel": "2026-07-19 05:21:09 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4729,10 +4729,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 64483.46,
+      "price": 64645.69,
       "previousClose": 63888.2,
-      "change": 595.26,
-      "changePercent": 0.9317,
+      "change": 757.49,
+      "changePercent": 1.1856,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5657,13 +5657,73 @@
           64488.328125
         ],
         [
-          1784401844000,
-          64483.460938
+          1784401800000,
+          64499.671875
+        ],
+        [
+          1784402100000,
+          64526.539062
+        ],
+        [
+          1784402400000,
+          64472.738281
+        ],
+        [
+          1784402700000,
+          64445.578125
+        ],
+        [
+          1784403000000,
+          64460.839844
+        ],
+        [
+          1784403300000,
+          64484.640625
+        ],
+        [
+          1784403600000,
+          64482.230469
+        ],
+        [
+          1784403900000,
+          64500.0
+        ],
+        [
+          1784404200000,
+          64517.058594
+        ],
+        [
+          1784404500000,
+          64515.480469
+        ],
+        [
+          1784404800000,
+          64521.949219
+        ],
+        [
+          1784405100000,
+          64530.878906
+        ],
+        [
+          1784405400000,
+          64576.011719
+        ],
+        [
+          1784405700000,
+          64590.589844
+        ],
+        [
+          1784406000000,
+          64653.628906
+        ],
+        [
+          1784406063000,
+          64645.691406
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-19 04:10 KST",
-      "marketTimestamp": 1784401844
+      "marketTime": "2026-07-19 05:21 KST",
+      "marketTimestamp": 1784406063
     }
   ],
   "mainCharts": [
@@ -6992,6 +7052,12 @@
       "publishedAt": "Sat, 18 Jul 2026 06:48:39 GMT"
     },
     {
+      "title": "코스피는 올랐다는데, 왜 내 계좌는 가벼워질까?...\"한국 자본시장 민낯\"",
+      "source": "브레이크뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3WHJ1a1diT2Nsa0hBNWhrXzVhem9JSlhMMEdUc1RaeVNPWGVwcnN6MzFjb2NIeUlrbldGaV9DQlM0eFRDMTVaUw?oc=5",
+      "publishedAt": "Sat, 18 Jul 2026 03:35:00 GMT"
+    },
+    {
       "title": "레버리지 ETF에 언론 “멀쩡한 증시만 널뛰기 도박판 만들어”",
       "source": "미디어오늘",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvRHVLNVZ1VFlGNVZlcjdPYW41dVBjZ01aeWNEWVRLdzVoWHlmcDdFZU42dnFuR3A0eHl3dkFEN3lWSm85dGJLWXBmMzJpQmhmcFFNcGJJTTdmSzRDR2l1VGxqdEtHd09yNTVVblBwNWI?oc=5",
@@ -7002,12 +7068,6 @@
       "source": "녹색경제신문",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TNUFzUEhOUmFYQkpWWWd1Z25VX0RpdGZscHlWMFhQajdLUWRIS1pINDZ6OTBnbTRLV1FqSThwWFdab0kwTnZUSllaMWRIZ0dodUNYZWU3Y3QzNGN6OGg0cWU0UkF3azRO?oc=5",
       "publishedAt": "Sat, 18 Jul 2026 00:54:06 GMT"
-    },
-    {
-      "title": "제헌절 연휴, 쉬기 전에 이것만은··· 다음 주 코스피 흔들 변수 5가지",
-      "source": "그린포스트코리아",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0ySXRoZ2stRUlIazFZdmUyLTZEQkw2RXZaaDJvUlRtbnFubWExTF9ZT184bHNhekpTdTlsTnpJdXd1eFpHVGlkU0hYVHdQRE45eGxxaGtVQ0d2SFJDVnBOVEF1SG53NGJTaXZ0THJoVTZBMHJDaFJINzNR0gF6QVVfeXFMTTJJdGhnay1FSUhrMVl2ZTItNkRCTDZFdlpoMm9SVG1ucW5tYTFMX1lPXzhsc2F6SlN1OWxOekl1d3V4WkdUaWRTSFhUd1BETjl4bHFoa1VDR3ZIUkNWcE5UQXVIbnc0YlNpdnRMcmhVNkEwckNoUkg3M1E?oc=5",
-      "publishedAt": "Sat, 18 Jul 2026 01:07:10 GMT"
     }
   ],
   "summary": {
@@ -7036,7 +7096,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.9317,
+        "changePercent": 1.1856,
         "direction": "상승"
       },
       {
