@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-19T07:24:24.180707+09:00",
-  "updatedLabel": "2026-07-19 07:24:24 KST",
+  "updatedAt": "2026-07-19T08:27:57.668032+09:00",
+  "updatedLabel": "2026-07-19 08:27:57 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4729,10 +4729,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 64733.8,
+      "price": 64775.37,
       "previousClose": 63888.2,
-      "change": 845.6,
-      "changePercent": 1.3236,
+      "change": 887.17,
+      "changePercent": 1.3886,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5810,16 +5810,68 @@
         ],
         [
           1784413200000,
-          64738.699219
+          64715.191406
         ],
         [
-          1784413458000,
-          64733.800781
+          1784413500000,
+          64691.011719
+        ],
+        [
+          1784413800000,
+          64709.121094
+        ],
+        [
+          1784414100000,
+          64699.628906
+        ],
+        [
+          1784414400000,
+          64731.199219
+        ],
+        [
+          1784414700000,
+          64727.078125
+        ],
+        [
+          1784415000000,
+          64721.21875
+        ],
+        [
+          1784415300000,
+          64764.320312
+        ],
+        [
+          1784415600000,
+          64759.210938
+        ],
+        [
+          1784415900000,
+          64702.738281
+        ],
+        [
+          1784416200000,
+          64694.5
+        ],
+        [
+          1784416500000,
+          64767.988281
+        ],
+        [
+          1784416800000,
+          64756.128906
+        ],
+        [
+          1784417100000,
+          64790.328125
+        ],
+        [
+          1784417274000,
+          64775.371094
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-19 07:24 KST",
-      "marketTimestamp": 1784413458
+      "marketTime": "2026-07-19 08:27 KST",
+      "marketTimestamp": 1784417274
     }
   ],
   "mainCharts": [
@@ -7130,10 +7182,16 @@
       "publishedAt": "Sat, 18 Jul 2026 07:21:23 GMT"
     },
     {
-      "title": "증시 폭락할수록 웃었다…상위권 휩쓴 ETF",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9RZDJLV2VVQUI3Snd5RnVSYm52RVMybDZweXN4bEZuZkR3d191UTVOQzNqWmpodmIydG14YUtEMm96VTBZd1E?oc=5",
-      "publishedAt": "Sat, 18 Jul 2026 06:48:39 GMT"
+      "title": "[다음주 환율전망] 미 금리 인상 우려 불식 기조로 하향 안정 지속 전망…다음주 원·달러, 1470원대 저점 가능성",
+      "source": "굿모닝경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13RzMzZXBEZTNNRnpJb3o2d1c2ajdfV3lnSkNOZlMxRnZqbkhNeXhtM0pIRlNKdUdSMy1uMWI1ajRUaFpxbHBOaF9FZU1rT2Vtd1Q3Y0I2aVRCOEdpS25ab3FYMzhhNGViUHM5RQ?oc=5",
+      "publishedAt": "Sat, 18 Jul 2026 22:00:00 GMT"
+    },
+    {
+      "title": "[마켓인사이트] 제헌절 연휴 美반도체 하락지속…韓증시 짓누르나",
+      "source": "네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVZEVYa1ZaM25fRTNjY200b0thZU84NVk4bUx6R2poOHhWaFhtN0lfNFQ4NjNfNTdnQktTSWhkcnRKTm9qR0hCWEg2b3hDY3dNXy1F?oc=5",
+      "publishedAt": "Sat, 18 Jul 2026 21:01:00 GMT"
     },
     {
       "title": "삼전닉스 레버리지 ETF ‘뒤늦은 규제’ 먹힐까 [주간 증시해설서]",
@@ -7148,22 +7206,16 @@
       "publishedAt": "Sat, 18 Jul 2026 03:22:04 GMT"
     },
     {
-      "title": "[마켓인사이트] 제헌절 연휴 美반도체 하락지속…韓증시 짓누르나",
-      "source": "네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVZEVYa1ZaM25fRTNjY200b0thZU84NVk4bUx6R2poOHhWaFhtN0lfNFQ4NjNfNTdnQktTSWhkcnRKTm9qR0hCWEg2b3hDY3dNXy1F?oc=5",
-      "publishedAt": "Sat, 18 Jul 2026 21:01:00 GMT"
+      "title": "증시 폭락할수록 웃었다…상위권 휩쓴 ETF",
+      "source": "한국경제TV",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FU0JEUm8ySDNqN1dCTk5yRzFyS2s4WTRhNTdSREREWEpoWlg5VDhTcGJpX2kwLWFfamc2Uk90ZGQ4SjY5RzE5ZzN2bUxzUHpXMXZaRlhmV25KZVpTcEpZcV9PTGxpQlZFMnNPVGdjX3ZEaVlZNExn?oc=5",
+      "publishedAt": "Sat, 18 Jul 2026 06:46:00 GMT"
     },
     {
-      "title": "코스피는 올랐다는데, 왜 내 계좌는 가벼워질까?...\"한국 자본시장 민낯\"",
-      "source": "브레이크뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3WHJ1a1diT2Nsa0hBNWhrXzVhem9JSlhMMEdUc1RaeVNPWGVwcnN6MzFjb2NIeUlrbldGaV9DQlM0eFRDMTVaUw?oc=5",
-      "publishedAt": "Sat, 18 Jul 2026 03:35:00 GMT"
-    },
-    {
-      "title": "레버리지 ETF에 언론 “멀쩡한 증시만 널뛰기 도박판 만들어”",
-      "source": "미디어오늘",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvRHVLNVZ1VFlGNVZlcjdPYW41dVBjZ01aeWNEWVRLdzVoWHlmcDdFZU42dnFuR3A0eHl3dkFEN3lWSm85dGJLWXBmMzJpQmhmcFFNcGJJTTdmSzRDR2l1VGxqdEtHd09yNTVVblBwNWI?oc=5",
-      "publishedAt": "Sat, 18 Jul 2026 05:44:00 GMT"
+      "title": "7000선 붕괴된 코스피…반등 신호 나올까 [주간 증시 전망]",
+      "source": "데일리안",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84X0JGVk14Zm9GOW9FbUV2Rmk3R1BzQ0hib01fanYwRUx4RDgxRm9oQ0FobVlqcVpoNkNualRISnVIWGNBVERJYXUzOEZaV09WX2lJ?oc=5",
+      "publishedAt": "Sat, 18 Jul 2026 21:00:00 GMT"
     }
   ],
   "summary": {
@@ -7192,7 +7244,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 1.3236,
+        "changePercent": 1.3886,
         "direction": "상승"
       },
       {
