@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-19T01:27:50.045488+09:00",
-  "updatedLabel": "2026-07-19 01:27:50 KST",
+  "updatedAt": "2026-07-19T02:34:02.553178+09:00",
+  "updatedLabel": "2026-07-19 02:34:02 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3050,7 +3050,7 @@
       ],
       "marketState": "UNKNOWN",
       "marketTime": "2026-07-18 03:59 KST",
-      "marketTimestamp": 1784314794
+      "marketTimestamp": 1784314795
     },
     {
       "id": "wti",
@@ -4729,10 +4729,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 64090.87,
+      "price": 64284.94,
       "previousClose": 63888.2,
-      "change": 202.67,
-      "changePercent": 0.3172,
+      "change": 396.74,
+      "changePercent": 0.621,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5526,16 +5526,68 @@
         ],
         [
           1784391900000,
-          64089.609375
+          64104.5
         ],
         [
-          1784392065000,
-          64090.871094
+          1784392200000,
+          64102.910156
+        ],
+        [
+          1784392500000,
+          64087.199219
+        ],
+        [
+          1784392800000,
+          64097.621094
+        ],
+        [
+          1784393100000,
+          64124.898438
+        ],
+        [
+          1784393400000,
+          64250.511719
+        ],
+        [
+          1784393700000,
+          64259.019531
+        ],
+        [
+          1784394000000,
+          64245.390625
+        ],
+        [
+          1784394300000,
+          64235.460938
+        ],
+        [
+          1784394600000,
+          64277.320312
+        ],
+        [
+          1784394900000,
+          64319.988281
+        ],
+        [
+          1784395200000,
+          64254.261719
+        ],
+        [
+          1784395500000,
+          64254.910156
+        ],
+        [
+          1784395800000,
+          64274.871094
+        ],
+        [
+          1784396038000,
+          64284.941406
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-19 01:27 KST",
-      "marketTimestamp": 1784392065
+      "marketTime": "2026-07-19 02:33 KST",
+      "marketTimestamp": 1784396038
     }
   ],
   "mainCharts": [
@@ -6864,6 +6916,12 @@
       "publishedAt": "Sat, 18 Jul 2026 06:46:00 GMT"
     },
     {
+      "title": "[토요 월가브리핑] 美 반도체 ‘약세장’ 진입…월요일 삼전·하이닉스 가를 3가지 변수",
+      "source": "녹색경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TNUFzUEhOUmFYQkpWWWd1Z25VX0RpdGZscHlWMFhQajdLUWRIS1pINDZ6OTBnbTRLV1FqSThwWFdab0kwTnZUSllaMWRIZ0dodUNYZWU3Y3QzNGN6OGg0cWU0UkF3azRO?oc=5",
+      "publishedAt": "Sat, 18 Jul 2026 00:54:06 GMT"
+    },
+    {
       "title": "레버리지 ETF에 언론 “멀쩡한 증시만 널뛰기 도박판 만들어”",
       "source": "미디어오늘",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvRHVLNVZ1VFlGNVZlcjdPYW41dVBjZ01aeWNEWVRLdzVoWHlmcDdFZU42dnFuR3A0eHl3dkFEN3lWSm85dGJLWXBmMzJpQmhmcFFNcGJJTTdmSzRDR2l1VGxqdEtHd09yNTVVblBwNWI?oc=5",
@@ -6874,12 +6932,6 @@
       "source": "그린포스트코리아",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0ySXRoZ2stRUlIazFZdmUyLTZEQkw2RXZaaDJvUlRtbnFubWExTF9ZT184bHNhekpTdTlsTnpJdXd1eFpHVGlkU0hYVHdQRE45eGxxaGtVQ0d2SFJDVnBOVEF1SG53NGJTaXZ0THJoVTZBMHJDaFJINzNR0gF6QVVfeXFMTTJJdGhnay1FSUhrMVl2ZTItNkRCTDZFdlpoMm9SVG1ucW5tYTFMX1lPXzhsc2F6SlN1OWxOekl1d3V4WkdUaWRTSFhUd1BETjl4bHFoa1VDR3ZIUkNWcE5UQXVIbnc0YlNpdnRMcmhVNkEwckNoUkg3M1E?oc=5",
       "publishedAt": "Sat, 18 Jul 2026 01:07:10 GMT"
-    },
-    {
-      "title": "격동의 미국 증시···인플레이션 꺾이자 AI 랠리도 꺾였다",
-      "source": "Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQNmVwbjlOemxLVUFKelhWS1NFcjVpRk9FUzVMRnlpcXNtN0J3SFZHOGFyS3g2aDBpQzMwXzg0QnVBY3Q0NnhfVWE0N2QwZzc3VU9DcU9fRFRFRVduQTlrWDRRX1JIXy1IcktWcHE1NHhnZDZSQmRSeVZpM1Z3ZjE4Zjh2NGNpR0E2QlRBaFBObXd3YkZBTVpaaklSMUx2X1dhQndGMnRMcUdacDJWcjJxMkxCRWZ4WE51aHUtblZ0bEFkc1I4UXgzR3RySlg1Rl9saklpLUlYTXBmVkNubjcyUmdjY3haWVlqamY4RC1mOV9JZTl0WW9rSE0yeTQ4RXVxeUdIV3ctejBVb2VsSG1hLW9xZldWRi05WW1YODRPQnNWeW5ZSGpQaUdOOUZyNDlwaXlsZ3NMRnY3RkVjS04wRHNR?oc=5",
-      "publishedAt": "Sat, 18 Jul 2026 01:36:09 GMT"
     }
   ],
   "summary": {
