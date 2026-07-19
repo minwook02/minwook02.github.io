@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-19T16:28:27.087713+09:00",
-  "updatedLabel": "2026-07-19 16:28:27 KST",
+  "updatedAt": "2026-07-19T18:29:02.491871+09:00",
+  "updatedLabel": "2026-07-19 18:29:02 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3095,10 +3095,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 64675.99,
+      "price": 64535.8,
       "previousClose": 64794.25,
-      "change": -118.26,
-      "changePercent": -0.1825,
+      "change": -258.45,
+      "changePercent": -0.3989,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3460,16 +3460,112 @@
         ],
         [
           1784445900000,
-          64675.988281
+          64679.671875
         ],
         [
-          1784446100000,
-          64675.988281
+          1784446200000,
+          64665.511719
+        ],
+        [
+          1784446500000,
+          64697.78125
+        ],
+        [
+          1784446800000,
+          64724.96875
+        ],
+        [
+          1784447100000,
+          64677.359375
+        ],
+        [
+          1784447400000,
+          64670.609375
+        ],
+        [
+          1784447700000,
+          64678.0
+        ],
+        [
+          1784448000000,
+          64652.011719
+        ],
+        [
+          1784448300000,
+          64640.0
+        ],
+        [
+          1784448600000,
+          64653.921875
+        ],
+        [
+          1784448900000,
+          64618.011719
+        ],
+        [
+          1784449200000,
+          64592.421875
+        ],
+        [
+          1784449500000,
+          64617.570312
+        ],
+        [
+          1784449800000,
+          64613.449219
+        ],
+        [
+          1784450100000,
+          64613.449219
+        ],
+        [
+          1784450400000,
+          64609.761719
+        ],
+        [
+          1784450700000,
+          64660.761719
+        ],
+        [
+          1784451000000,
+          64653.910156
+        ],
+        [
+          1784451300000,
+          64668.449219
+        ],
+        [
+          1784451600000,
+          64670.539062
+        ],
+        [
+          1784451900000,
+          64631.839844
+        ],
+        [
+          1784452200000,
+          64608.078125
+        ],
+        [
+          1784452500000,
+          64536.800781
+        ],
+        [
+          1784452800000,
+          64522.109375
+        ],
+        [
+          1784453100000,
+          64535.800781
+        ],
+        [
+          1784453339000,
+          64535.800781
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-19 16:28 KST",
-      "marketTimestamp": 1784446100
+      "marketTime": "2026-07-19 18:28 KST",
+      "marketTimestamp": 1784453339
     }
   ],
   "mainCharts": [
@@ -4768,6 +4864,18 @@
   ],
   "headlines": [
     {
+      "title": "“코스피 급락했다고? 오늘 美증시 쉽지 않겠네”…전세계 투자자, 한국부터 본다",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fREtrMmJMbHJ4SnNnRWlxdE9KalBMaDNGZjNtTElTcTlCLW1xNy01ZFUyaEtmTTdhX2N5dzdkTVdMSEp3eFRnNUhVMlVlSXA2elE?oc=5",
+      "publishedAt": "Sun, 19 Jul 2026 05:06:01 GMT"
+    },
+    {
+      "title": "블룸버그 \"한국증시, AI 투자심리 선행 지표로 부상\"",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyUldaaGdqcjNINWdBUXkwMV9udEl5dWp2M1ZsZGNEQnBtS2lIbXIwa2xVTS1ZM1lmdUNieFg5X2oxTFpud1c5d1ZLcTg0RENSdFB2ZmlWM3FNZE0zc1E?oc=5",
+      "publishedAt": "Sun, 19 Jul 2026 05:03:00 GMT"
+    },
+    {
       "title": "“한국증시, 글로벌 증시 심리 좌우”…블룸버그, AI발 한국증시 영향 주목",
       "source": "KBS 뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kQ3psN2NTLUpkR0F0R3VLUzYyVTd2NlRfaFdJazRPY3FiUmhKcG5ndnJlSEt5NXdzWjVMUUs1N0Y1STJxelhJMDAtOFVSc1dsbWlZb2lKSV9uNjQ?oc=5",
@@ -4780,40 +4888,28 @@
       "publishedAt": "Sun, 19 Jul 2026 03:24:57 GMT"
     },
     {
-      "title": "블룸버그 \"한국증시, AI 투자심리 선행 지표로 부상\"",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyUldaaGdqcjNINWdBUXkwMV9udEl5dWp2M1ZsZGNEQnBtS2lIbXIwa2xVTS1ZM1lmdUNieFg5X2oxTFpud1c5d1ZLcTg0RENSdFB2ZmlWM3FNZE0zc1E?oc=5",
-      "publishedAt": "Sun, 19 Jul 2026 05:03:00 GMT"
+      "title": "“오늘 한국 증시 어땠지?”…글로벌 큰손들, 매일 아침 코스피부터 확인하는 이유가",
+      "source": "서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oTThJcUxDVDBQajYwOWNkOWNReXhEb1laQ2RBYTdvWDktT0RwWVdUMl9XWWVwT3Y4V3MyMGZPbmhyOEJtbkthelJUaEZfblAxLVHSAVNBVV95cUxQdjR5eklXSVJwSGhVN2dDX0N2TWltUUh6SHhTODdvdkRycVJPLVBVQlRFN1YxTldQZ0VEQnNEY0VJLUJjQ3NNb1c0T1hwQ2FBUUR1VQ?oc=5",
+      "publishedAt": "Sun, 19 Jul 2026 06:44:32 GMT"
     },
     {
-      "title": "“한국 증시, 글로벌 증시 심리 좌우....AI 투자심리 선행지표 부상”",
+      "title": "‘돈나무’ 캐시 우드 이어 ‘암살자’ 파미 콰디르도 꽂힌 韓 증시",
       "source": "중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaZnowRlp4OThxUnJ3S1pWZ0lPWXVFUHBJX2gyUWJGYTBwb09GT1gzSzRiVEZRNXA0ZEJ5U0RraXAtTkxnNkpJRG5CWlNhSjVxRWJrMTln?oc=5",
-      "publishedAt": "Sun, 19 Jul 2026 05:26:46 GMT"
-    },
-    {
-      "title": "다시 흔들린 증시…코스피 7000선 반납",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ob09TeVJTM1NEdFd2eG5IclVXQXVqcVJidGZ5dWkxczNUMEEyekF5QlVYa29MNGhRamZsbjlLamU4ZFduaUVzM0R4RzY5VUk?oc=5",
-      "publishedAt": "Sun, 19 Jul 2026 06:30:02 GMT"
-    },
-    {
-      "title": "“코스피 급락했다고? 오늘 美증시 쉽지 않겠네”…전세계 투자자, 한국부터 본다",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BYWItS3gzLWZKLUVTU2trbVlWajZVRGN5Y0xIZEJjbXJJZVo0ZDdjVjJlUGJ3b0lySGRPeEFFeDR2b3RTcU1Ec25lRlQ5a0pSbVE?oc=5",
-      "publishedAt": "Sun, 19 Jul 2026 05:06:01 GMT"
-    },
-    {
-      "title": "한국 증시, 글로벌 AI 심리 가늠하는 주요 지표로 부상",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJUnFTQ0R3dzlJakxYdDVoRmVTUzJHRFNCbFRfaFhneDVqT1N1TGdpbnFUcUlnU0tObjVoUV9vOWQ3djVFZHdkNnRDZjU4clZkUmxSWThRU010MU1vcXc5SndHUU1vN29SSHhwaWo2WU4?oc=5",
-      "publishedAt": "Sun, 19 Jul 2026 01:57:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54ZE5CczRvQ0x6MlBwOVpUeXpkN3Izemk0WkllYzdwTng2UUt3VnA2VHRrVWZvaGZsUkVRclVkeXdyM3htdHRBcXlRVF9Kdm9DaF9IZkR3?oc=5",
+      "publishedAt": "Sun, 19 Jul 2026 06:54:59 GMT"
     },
     {
       "title": "블룸버그 “韓 증시, 글로벌 투자심리 가늠하는 선행지표로 부상” - 조선비즈",
       "source": "Chosunbiz",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeEJGOVNRckt2SUJsUlpwU29YWTliVnh3eGFLTEEtZ2F4aDJOZmhvUlF3S0ZvVXBwVFNwRkFnYkY4ZU1PZDZDNmhVV2lVWG50YndKcVdOODRXVG40dktMVWVYNUxqMmo3OVVneDdvSXVLZjE1aDFOU2Nna3N5cmxPTlk2UXR3cnVVRUVlZk1JUDM3eEZHMm1hckd0VU01QdIBsgFBVV95cUxPSGpZTVpHUUI5a1RYRXlwQjE5enc1dGlZX0RUcTdSa0k1NGdIb29KVHMwVXFrTnllTFlIODRXb1FKZGVWZmpOYk94NEhubmw5T1NqSFpyc2QyTkNzcGUtUXR0VHFjYzJPYnpRYmpNMWo2VUZqRUJvcEhmZlFSS012djFqS2FoTWhvQ0NneXAxYmM5V243RVJLUXp3c3BqRFFGYWJwZVJES0JUYmtEcFZfaGlB?oc=5",
       "publishedAt": "Sun, 19 Jul 2026 04:27:00 GMT"
+    },
+    {
+      "title": "블룸버그 “변방이었던 韓 증시, 글로벌 주식시장 좌우해”",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JOGExcFFhVEthd29VYXVwa1pXRmlYZlc4V3Yzd1VXUVFra2l6U1MyQ1hSMVh3WVVrbzVSdHRBajlOMDZCclFER0k3VU4yejA?oc=5",
+      "publishedAt": "Sun, 19 Jul 2026 05:15:37 GMT"
     }
   ],
   "summary": {
