@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-19T18:29:02.491871+09:00",
-  "updatedLabel": "2026-07-19 18:29:02 KST",
+  "updatedAt": "2026-07-19T19:55:48.315623+09:00",
+  "updatedLabel": "2026-07-19 19:55:48 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3095,10 +3095,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 64535.8,
+      "price": 64550.88,
       "previousClose": 64794.25,
-      "change": -258.45,
-      "changePercent": -0.3989,
+      "change": -243.37,
+      "changePercent": -0.3756,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3556,16 +3556,84 @@
         ],
         [
           1784453100000,
-          64535.800781
+          64539.671875
         ],
         [
-          1784453339000,
-          64535.800781
+          1784453400000,
+          64535.910156
+        ],
+        [
+          1784453700000,
+          64469.921875
+        ],
+        [
+          1784454000000,
+          64475.019531
+        ],
+        [
+          1784454300000,
+          64498.078125
+        ],
+        [
+          1784454600000,
+          64478.019531
+        ],
+        [
+          1784454900000,
+          64470.320312
+        ],
+        [
+          1784455200000,
+          64517.910156
+        ],
+        [
+          1784455500000,
+          64491.808594
+        ],
+        [
+          1784455800000,
+          64526.308594
+        ],
+        [
+          1784456100000,
+          64549.988281
+        ],
+        [
+          1784456400000,
+          64554.019531
+        ],
+        [
+          1784456700000,
+          64580.191406
+        ],
+        [
+          1784457000000,
+          64584.539062
+        ],
+        [
+          1784457300000,
+          64595.109375
+        ],
+        [
+          1784457600000,
+          64624.0
+        ],
+        [
+          1784457900000,
+          64595.039062
+        ],
+        [
+          1784458200000,
+          64545.589844
+        ],
+        [
+          1784458535000,
+          64550.878906
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-19 18:28 KST",
-      "marketTimestamp": 1784453339
+      "marketTime": "2026-07-19 19:55 KST",
+      "marketTimestamp": 1784458535
     }
   ],
   "mainCharts": [
@@ -4864,6 +4932,12 @@
   ],
   "headlines": [
     {
+      "title": "월가 \"한국 증시부터 본다\"…코스피, 글로벌투자 '바로미터' - 머니투데이",
+      "source": "머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zb1hJamhnemN1WWlxdGlZV1dYS3FMNTk2VDdGNzkyRnVPMkwwZlJJT2VxejRxTTd2SzRPQzZMSEx6aGdoSWVxamF2U1R4a01NdGQzU193VlFLeF9rWUFWb3E5cmdlSGw00gFuQVVfeXFMTjNSWnZHVUF3bzQwRi1FaTA1MGNfZXlxa053R2VuMWRHdzZRbXZUTEtmZG52bHhOQmYzbUdhU1d5QU9BN2hpZjBMaXF1d1pLNFFzcTkzUXdpVlM4ZlNaVTJ4eG0tMDVJTU0tTnJrSnc?oc=5",
+      "publishedAt": "Sun, 19 Jul 2026 08:04:45 GMT"
+    },
+    {
       "title": "“코스피 급락했다고? 오늘 美증시 쉽지 않겠네”…전세계 투자자, 한국부터 본다",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fREtrMmJMbHJ4SnNnRWlxdE9KalBMaDNGZjNtTElTcTlCLW1xNy01ZFUyaEtmTTdhX2N5dzdkTVdMSEp3eFRnNUhVMlVlSXA2elE?oc=5",
@@ -4882,34 +4956,28 @@
       "publishedAt": "Sun, 19 Jul 2026 04:39:00 GMT"
     },
     {
+      "title": "‘월가 암살자’도 꽂혔다, 새벽 2시 눈 떠 한국 증시 보는 이유",
+      "source": "중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54ZE5CczRvQ0x6MlBwOVpUeXpkN3Izemk0WkllYzdwTng2UUt3VnA2VHRrVWZvaGZsUkVRclVkeXdyM3htdHRBcXlRVF9Kdm9DaF9IZkR3?oc=5",
+      "publishedAt": "Sun, 19 Jul 2026 06:54:59 GMT"
+    },
+    {
       "title": "\"한국증시, 글로벌 증시 심리 좌우\"…블룸버그, AI발 상전벽해 주목",
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ULTAwRXNPVm9BLTU2X2dLd3lFQWhZX0ZGSFZ1d1prSDFqcFV3RXJqbmJnQnRlRnRKMDFRLWdScmduUTdvaDl5d3ktZGRRdzJ5dEE2LTRxOWNaekHSAWBBVV95cUxOQWhldnpHT3c3SG9RV1ltYjUwR09oM1JkLVFaRC04OVRGekcxNnBBZG54ampzcEQxZ25ObUxJV3gxcWZPOEZldG1kd1liMFh4eTYxR3ItekhXX0dETzFyUTc?oc=5",
       "publishedAt": "Sun, 19 Jul 2026 03:24:57 GMT"
     },
     {
+      "title": "해외 투자은행들도 “삼전닉스 레버리지, 증시 변동성 초래 요인”",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pUmhLajJYajRHYlRUSGpyaHJ4cXU0OW4zYnJuR2pVT0ZUX3VNQU5oMWNseXVscERoMW5oTW54OUQ4czlZWGVVOENma1FrUEJVVW8wQVNMSUVSMjl3eWZOQlZPSXUyS1E?oc=5",
+      "publishedAt": "Sun, 19 Jul 2026 09:03:03 GMT"
+    },
+    {
       "title": "“오늘 한국 증시 어땠지?”…글로벌 큰손들, 매일 아침 코스피부터 확인하는 이유가",
       "source": "서울경제",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oTThJcUxDVDBQajYwOWNkOWNReXhEb1laQ2RBYTdvWDktT0RwWVdUMl9XWWVwT3Y4V3MyMGZPbmhyOEJtbkthelJUaEZfblAxLVHSAVNBVV95cUxQdjR5eklXSVJwSGhVN2dDX0N2TWltUUh6SHhTODdvdkRycVJPLVBVQlRFN1YxTldQZ0VEQnNEY0VJLUJjQ3NNb1c0T1hwQ2FBUUR1VQ?oc=5",
       "publishedAt": "Sun, 19 Jul 2026 06:44:32 GMT"
-    },
-    {
-      "title": "‘돈나무’ 캐시 우드 이어 ‘암살자’ 파미 콰디르도 꽂힌 韓 증시",
-      "source": "중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54ZE5CczRvQ0x6MlBwOVpUeXpkN3Izemk0WkllYzdwTng2UUt3VnA2VHRrVWZvaGZsUkVRclVkeXdyM3htdHRBcXlRVF9Kdm9DaF9IZkR3?oc=5",
-      "publishedAt": "Sun, 19 Jul 2026 06:54:59 GMT"
-    },
-    {
-      "title": "블룸버그 “韓 증시, 글로벌 투자심리 가늠하는 선행지표로 부상” - 조선비즈",
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeEJGOVNRckt2SUJsUlpwU29YWTliVnh3eGFLTEEtZ2F4aDJOZmhvUlF3S0ZvVXBwVFNwRkFnYkY4ZU1PZDZDNmhVV2lVWG50YndKcVdOODRXVG40dktMVWVYNUxqMmo3OVVneDdvSXVLZjE1aDFOU2Nna3N5cmxPTlk2UXR3cnVVRUVlZk1JUDM3eEZHMm1hckd0VU01QdIBsgFBVV95cUxPSGpZTVpHUUI5a1RYRXlwQjE5enc1dGlZX0RUcTdSa0k1NGdIb29KVHMwVXFrTnllTFlIODRXb1FKZGVWZmpOYk94NEhubmw5T1NqSFpyc2QyTkNzcGUtUXR0VHFjYzJPYnpRYmpNMWo2VUZqRUJvcEhmZlFSS012djFqS2FoTWhvQ0NneXAxYmM5V243RVJLUXp3c3BqRFFGYWJwZVJES0JUYmtEcFZfaGlB?oc=5",
-      "publishedAt": "Sun, 19 Jul 2026 04:27:00 GMT"
-    },
-    {
-      "title": "블룸버그 “변방이었던 韓 증시, 글로벌 주식시장 좌우해”",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JOGExcFFhVEthd29VYXVwa1pXRmlYZlc4V3Yzd1VXUVFra2l6U1MyQ1hSMVh3WVVrbzVSdHRBajlOMDZCclFER0k3VU4yejA?oc=5",
-      "publishedAt": "Sun, 19 Jul 2026 05:15:37 GMT"
     }
   ],
   "summary": {
