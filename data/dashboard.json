@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-22T05:01:08.837812+09:00",
-  "updatedLabel": "2026-07-22 05:01:08 KST",
+  "updatedAt": "2026-07-22T06:40:09.100486+09:00",
+  "updatedLabel": "2026-07-22 06:40:09 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -961,8 +961,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-22 05:01 KST",
-      "marketTimestamp": 1784664065
+      "marketTime": "2026-07-22 05:39 KST",
+      "marketTimestamp": 1784666399
     },
     {
       "id": "nasdaq",
@@ -1296,8 +1296,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-22 05:01 KST",
-      "marketTimestamp": 1784664064
+      "marketTime": "2026-07-22 06:15 KST",
+      "marketTimestamp": 1784668559
     },
     {
       "id": "dow",
@@ -1306,10 +1306,10 @@
       "group": "해외 지수",
       "kind": "equity",
       "decimals": 2,
-      "price": 52223.93,
+      "price": 52224.64,
       "previousClose": 51839.26,
-      "change": 384.67,
-      "changePercent": 0.742,
+      "change": 385.38,
+      "changePercent": 0.7434,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -1627,12 +1627,12 @@
         ],
         [
           1784664000000,
-          52223.929688
+          52224.640625
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-22 05:01 KST",
-      "marketTimestamp": 1784664067
+      "marketTime": "2026-07-22 05:43 KST",
+      "marketTimestamp": 1784666617
     },
     {
       "id": "usdkrw",
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1480.97,
+      "price": 1479.67,
       "previousClose": 1475.41,
-      "change": 5.56,
-      "changePercent": 0.3768,
+      "change": 4.26,
+      "changePercent": 0.2887,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -2661,13 +2661,89 @@
           1480.969971
         ],
         [
-          1784664061000,
-          1480.969971
+          1784664300000,
+          1481.01001
+        ],
+        [
+          1784664600000,
+          1480.949951
+        ],
+        [
+          1784664900000,
+          1481.400024
+        ],
+        [
+          1784665200000,
+          1481.189941
+        ],
+        [
+          1784665500000,
+          1481.160034
+        ],
+        [
+          1784665800000,
+          1481.880005
+        ],
+        [
+          1784666100000,
+          1482.030029
+        ],
+        [
+          1784666400000,
+          1481.530029
+        ],
+        [
+          1784666700000,
+          1481.930054
+        ],
+        [
+          1784667000000,
+          1481.52002
+        ],
+        [
+          1784667300000,
+          1480.780029
+        ],
+        [
+          1784667600000,
+          1480.380005
+        ],
+        [
+          1784667900000,
+          1480.380005
+        ],
+        [
+          1784668200000,
+          1480.130005
+        ],
+        [
+          1784668500000,
+          1480.069946
+        ],
+        [
+          1784668800000,
+          1480.099976
+        ],
+        [
+          1784669100000,
+          1480.089966
+        ],
+        [
+          1784669400000,
+          1480.099976
+        ],
+        [
+          1784669700000,
+          1479.97998
+        ],
+        [
+          1784669939000,
+          1479.670044
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-22 05:01 KST",
-      "marketTimestamp": 1784664061
+      "marketTime": "2026-07-22 06:38 KST",
+      "marketTimestamp": 1784669939
     },
     {
       "id": "us10y",
@@ -3015,10 +3091,10 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 84.67,
+      "price": 84.54,
       "previousClose": 82.48,
-      "change": 2.19,
-      "changePercent": 2.6552,
+      "change": 2.06,
+      "changePercent": 2.4976,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3787,13 +3863,65 @@
           84.68
         ],
         [
-          1784663466000,
+          1784663700000,
           84.669998
+        ],
+        [
+          1784664000000,
+          84.580002
+        ],
+        [
+          1784664300000,
+          84.57
+        ],
+        [
+          1784664600000,
+          84.510002
+        ],
+        [
+          1784664900000,
+          84.489998
+        ],
+        [
+          1784665200000,
+          84.540001
+        ],
+        [
+          1784665500000,
+          84.510002
+        ],
+        [
+          1784665800000,
+          84.419998
+        ],
+        [
+          1784666100000,
+          84.410004
+        ],
+        [
+          1784666400000,
+          84.379997
+        ],
+        [
+          1784666700000,
+          84.440002
+        ],
+        [
+          1784667000000,
+          84.510002
+        ],
+        [
+          1784667300000,
+          84.540001
+        ],
+        [
+          1784667596000,
+          84.540001
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-22 04:51 KST",
-      "marketTimestamp": 1784663466
+      "marketTime": "2026-07-22 05:59 KST",
+      "marketTimestamp": 1784667596
     },
     {
       "id": "gold",
@@ -3802,10 +3930,10 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 4088.9,
+      "price": 4082.2,
       "previousClose": 4015.9,
-      "change": 73.0,
-      "changePercent": 1.8178,
+      "change": 66.3,
+      "changePercent": 1.6509,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -4574,13 +4702,65 @@
           4088.399902
         ],
         [
-          1784663465000,
-          4088.899902
+          1784663700000,
+          4088.600098
+        ],
+        [
+          1784664000000,
+          4088.800049
+        ],
+        [
+          1784664300000,
+          4089.600098
+        ],
+        [
+          1784664600000,
+          4088.800049
+        ],
+        [
+          1784664900000,
+          4088.399902
+        ],
+        [
+          1784665200000,
+          4087.300049
+        ],
+        [
+          1784665500000,
+          4086.899902
+        ],
+        [
+          1784665800000,
+          4087.5
+        ],
+        [
+          1784666100000,
+          4086.199951
+        ],
+        [
+          1784666400000,
+          4085.399902
+        ],
+        [
+          1784666700000,
+          4082.600098
+        ],
+        [
+          1784667000000,
+          4082.199951
+        ],
+        [
+          1784667300000,
+          4082.199951
+        ],
+        [
+          1784667596000,
+          4082.199951
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-22 04:51 KST",
-      "marketTimestamp": 1784663465
+      "marketTime": "2026-07-22 05:59 KST",
+      "marketTimestamp": 1784667596
     },
     {
       "id": "bitcoin",
@@ -4589,10 +4769,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 66330.02,
+      "price": 66293.14,
       "previousClose": 65214.098,
-      "change": 1115.922,
-      "changePercent": 1.7112,
+      "change": 1079.042,
+      "changePercent": 1.6546,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5558,16 +5738,92 @@
         ],
         [
           1784664000000,
-          66324.023438
+          66400.03125
         ],
         [
-          1784664063000,
-          66330.023438
+          1784664300000,
+          66405.242188
+        ],
+        [
+          1784664600000,
+          66391.671875
+        ],
+        [
+          1784664900000,
+          66362.023438
+        ],
+        [
+          1784665200000,
+          66340.9375
+        ],
+        [
+          1784665500000,
+          66359.242188
+        ],
+        [
+          1784665800000,
+          66413.507812
+        ],
+        [
+          1784666100000,
+          66416.210938
+        ],
+        [
+          1784666400000,
+          66422.0625
+        ],
+        [
+          1784666700000,
+          66403.460938
+        ],
+        [
+          1784667000000,
+          66383.351562
+        ],
+        [
+          1784667300000,
+          66370.007812
+        ],
+        [
+          1784667600000,
+          66298.007812
+        ],
+        [
+          1784667900000,
+          66334.289062
+        ],
+        [
+          1784668200000,
+          66365.992188
+        ],
+        [
+          1784668500000,
+          66312.007812
+        ],
+        [
+          1784668800000,
+          66323.601562
+        ],
+        [
+          1784669100000,
+          66286.140625
+        ],
+        [
+          1784669400000,
+          66274.0
+        ],
+        [
+          1784669700000,
+          66299.828125
+        ],
+        [
+          1784670001000,
+          66293.140625
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-22 05:01 KST",
-      "marketTimestamp": 1784664063
+      "marketTime": "2026-07-22 06:40 KST",
+      "marketTimestamp": 1784670001
     }
   ],
   "mainCharts": [
@@ -6525,8 +6781,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-22 05:01 KST",
-      "marketTimestamp": 1784664065
+      "marketTime": "2026-07-22 05:39 KST",
+      "marketTimestamp": 1784666399
     },
     {
       "id": "nasdaq",
@@ -6860,22 +7116,22 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-22 05:01 KST",
-      "marketTimestamp": 1784664064
+      "marketTime": "2026-07-22 06:15 KST",
+      "marketTimestamp": 1784668559
     }
   ],
   "headlines": [
-    {
-      "title": "\"한국 증시에 역대급 베팅\" 블랙록 ETF에 4조 몰려…“AI에 강한 투자 심리”",
-      "source": "전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OYi1JbjV4TTRJOVp6Z3RVRGNEZzFFNVp1cFliN0lTUV9sTEFZNktoWjBHQ1h4alB4bHY1ZWhjV1QyN3JuaWNiSUhDZWtSZw?oc=5",
-      "publishedAt": "Tue, 21 Jul 2026 08:18:03 GMT"
-    },
     {
       "title": "JP모건 \"한국 증시 급락은 각종 레버리지 ETF 탓...적정 수준까지 75% 청산 완료\"",
       "source": "조선일보",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS3JwUGxMdEdpd3lUSGZENHhZN1FmTl9URDYzS0drOWdHMUFyZU40dVlfSnFUS2licXJqV2JPTmNJOWZuWjV0R1IzdF9OM05CdFhzbXplUVk4QUp5aDNuQUtKUzg0UTVsU1hqRnVHbmFoUzhVb09wdk1ZamEtV0U2WA?oc=5",
       "publishedAt": "Tue, 21 Jul 2026 08:11:00 GMT"
+    },
+    {
+      "title": "\"한국 증시에 역대급 베팅\" 블랙록 ETF에 4조 몰려…“AI에 강한 투자 심리”",
+      "source": "전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OYi1JbjV4TTRJOVp6Z3RVRGNEZzFFNVp1cFliN0lTUV9sTEFZNktoWjBHQ1h4alB4bHY1ZWhjV1QyN3JuaWNiSUhDZWtSZw?oc=5",
+      "publishedAt": "Tue, 21 Jul 2026 08:18:03 GMT"
     },
     {
       "title": "상수? 여전한 변수?…격화된 중동정세, 국내증시 추가악재 주목",
@@ -6890,6 +7146,12 @@
       "publishedAt": "Tue, 21 Jul 2026 08:06:36 GMT"
     },
     {
+      "title": "코스피 흔들리자 다시 美로…서학개미 순매수 5개월 최대 [코주부]",
+      "source": "서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0VjMtU0xYQVRQRVlHVW5DZVNQZWI1aFExa2o0bkZIYlM5R0U4ZVV0WjlDdGRhR1AxUnZBMGRoNVhIUnhxRVhMWmx3RlJ6WDNJdVHSAVNBVV95cUxQUW1qTzc4M3NTNVpEejJUS0VqRl9JOEVsbnV5VWxTUEpYa2hCLWRTamNrTjNwOU4yVmZxd2R6dnZsNUZvaFBBQ2t1SnhDZFU0Qi1GNA?oc=5",
+      "publishedAt": "Tue, 21 Jul 2026 21:15:00 GMT"
+    },
+    {
       "title": "JP모건, 한국 증시 '비중 확대' 의견 유지…씨티는 1년 만에 '중립' 하향",
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JMHh1U2hqV3pIekZfM2twWGVhc1RVVHMycXoyaktDQTNUQ2JZYXlVR1cwSWdXUkMwZnQwZEhleWhBVTRGM0p6OEN1a1NnSGh5NENTMg?oc=5",
@@ -6902,16 +7164,10 @@
       "publishedAt": "Tue, 21 Jul 2026 06:38:01 GMT"
     },
     {
-      "title": "美증시, 반도체 주도 기술주 상승…나스닥 1%↑",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xUjRfeDZCdXJhSmpla1E0Y1Q0OWZlYkJabURPMEhXcGlRdXYwd1R4VDJaZFA1U0hmN0R6Vk44NjR3Z1lYcWVDQ3FCUGVqQkZHUzhONVZiQlNOQQ?oc=5",
-      "publishedAt": "Tue, 21 Jul 2026 14:24:12 GMT"
-    },
-    {
-      "title": "해외 투자은행들도 “삼전닉스 레버리지, 증시 변동성 초래 요인”",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pUmhLajJYajRHYlRUSGpyaHJ4cXU0OW4zYnJuR2pVT0ZUX3VNQU5oMWNseXVscERoMW5oTW54OUQ4czlZWGVVOENma1FrUEJVVW8wQVNMSUVSMjl3eWZOQlZPSXUyS1E?oc=5",
-      "publishedAt": "Tue, 21 Jul 2026 06:59:58 GMT"
+      "title": "환율 1470원대로 내려가자 다시 '미장'…SK하이닉스 ADR 8000억 쓸어담은 서학개미",
+      "source": "ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0T1ZtWnVXX3VrbWNSXy1uWjJCSlYwMVFLUEhSZ0IxWnB3Y1g2OUVDaHVsQkNya1c3dDVQYl9yd0EwY05tcEFQbUhlWlVBRzBqQmxzQlNYSWd6R0RQc0h4eWhRelUzTnNo?oc=5",
+      "publishedAt": "Tue, 21 Jul 2026 21:24:23 GMT"
     }
   ],
   "summary": {
@@ -6923,13 +7179,13 @@
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 하락 흐름입니다.",
       "해외는 S&P 500 +0.89%, NASDAQ +1.29%로 확인됩니다.",
-      "매크로 변수는 USD/KRW +0.38%, 미 10년물 +0.65%입니다."
+      "매크로 변수는 USD/KRW +0.29%, 미 10년물 +0.65%입니다."
     ],
     "checkpoints": [
       "KOSPI +3.56% 상승",
       "KOSDAQ -4.86% 하락",
       "미국 증시 상승 / 나스닥 +1.29%",
-      "원달러 +0.38% (+5.56)",
+      "원달러 +0.29% (+4.26)",
       "미 10년물 +0.030p (+0.65%)"
     ],
     "leaders": [
@@ -6940,12 +7196,12 @@
       },
       {
         "label": "WTI",
-        "changePercent": 2.6552,
+        "changePercent": 2.4976,
         "direction": "상승"
       },
       {
-        "label": "Gold",
-        "changePercent": 1.8178,
+        "label": "Bitcoin",
+        "changePercent": 1.6546,
         "direction": "상승"
       }
     ],
@@ -6957,12 +7213,12 @@
       },
       {
         "label": "USD/KRW",
-        "changePercent": 0.3768,
+        "changePercent": 0.2887,
         "direction": "상승"
       },
       {
         "label": "DOW",
-        "changePercent": 0.742,
+        "changePercent": 0.7434,
         "direction": "상승"
       }
     ]
