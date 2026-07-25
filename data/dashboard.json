@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-26T04:46:24.559954+09:00",
-  "updatedLabel": "2026-07-26 04:46:24 KST",
+  "updatedAt": "2026-07-26T05:57:06.296260+09:00",
+  "updatedLabel": "2026-07-26 05:57:06 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4653,10 +4653,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 64330.01,
+      "price": 64276.82,
       "previousClose": 64091.96,
-      "change": 238.05,
-      "changePercent": 0.3714,
+      "change": 184.86,
+      "changePercent": 0.2884,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5610,16 +5610,72 @@
         ],
         [
           1785008700000,
-          64329.25
+          64341.121094
         ],
         [
-          1785008777000,
-          64330.011719
+          1785009000000,
+          64365.21875
+        ],
+        [
+          1785009300000,
+          64328.710938
+        ],
+        [
+          1785009600000,
+          64303.03125
+        ],
+        [
+          1785009900000,
+          64278.371094
+        ],
+        [
+          1785010200000,
+          64311.128906
+        ],
+        [
+          1785010500000,
+          64320.941406
+        ],
+        [
+          1785010800000,
+          64298.210938
+        ],
+        [
+          1785011100000,
+          64306.621094
+        ],
+        [
+          1785011400000,
+          64273.078125
+        ],
+        [
+          1785011700000,
+          64267.421875
+        ],
+        [
+          1785012000000,
+          64255.988281
+        ],
+        [
+          1785012300000,
+          64274.070312
+        ],
+        [
+          1785012600000,
+          64269.988281
+        ],
+        [
+          1785012900000,
+          64276.820312
+        ],
+        [
+          1785013016000,
+          64276.820312
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-26 04:46 KST",
-      "marketTimestamp": 1785008777
+      "marketTime": "2026-07-26 05:56 KST",
+      "marketTimestamp": 1785013016
     }
   ],
   "mainCharts": [
@@ -6954,16 +7010,16 @@
       "publishedAt": "Sat, 25 Jul 2026 11:00:05 GMT"
     },
     {
+      "title": "이코노미스트 \"한국 증시는 카지노\"…레버리지 규제에도 '도박판' 끝나지 않는다",
+      "source": "ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14S2FYbm50R3NPalVwQnBIVExDR0R6cTZMRHBmR2V6bDNCN3BQUl9QS3lqWnZpODlGUENjUUVacVR4cWFJX21FczRmcUY1WGNMeHd1WUs0aEREMEt5bm9DN052dEd5aU1J?oc=5",
+      "publishedAt": "Sat, 25 Jul 2026 07:50:19 GMT"
+    },
+    {
       "title": "국내증시 출렁에 국장 이탈?…서학개미 이달 순매수 4배 늘었다",
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EclpyNFp5RFpVNEtZUEFodDhHVnl0dGczczNxYm9qVW9QdDhPalNoNkpuN254dnFpNUFWMVNqYklWZ2habzdfZmZlSkJiR2M?oc=5",
       "publishedAt": "Sat, 25 Jul 2026 00:48:01 GMT"
-    },
-    {
-      "title": "“국장 못 믿겠다” 해외로 쏠린 개미…이달 순매수 4배 폭증",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iVU1IWTVmb2lZVDltdGtBV2puWW4xclZTX2pYY05UNU43ajN2UjQtNWZxaGhrWkw4QmpONFhvZlJMLWpqZTFhZkZpSDBKVlVRU3c?oc=5",
-      "publishedAt": "Sat, 25 Jul 2026 01:55:50 GMT"
     }
   ],
   "summary": {
@@ -6997,7 +7053,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.3714,
+        "changePercent": 0.2884,
         "direction": "상승"
       }
     ],
