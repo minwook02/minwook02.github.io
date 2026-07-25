@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-25T12:12:14.237871+09:00",
-  "updatedLabel": "2026-07-25 12:12:14 KST",
+  "updatedAt": "2026-07-25T15:01:45.191250+09:00",
+  "updatedLabel": "2026-07-25 15:01:45 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1459.42,
+      "price": 1462.1,
       "previousClose": 1474.13,
-      "change": -14.71,
-      "changePercent": -0.9979,
+      "change": -12.03,
+      "changePercent": -0.8161,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -2638,8 +2638,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-25 06:36 KST",
-      "marketTimestamp": 1784928972
+      "marketTime": "2026-07-25 12:30 KST",
+      "marketTimestamp": 1784950231
     },
     {
       "id": "us10y",
@@ -2987,10 +2987,10 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 90.47,
+      "price": 89.31,
       "previousClose": 92.19,
-      "change": -1.72,
-      "changePercent": -1.8657,
+      "change": -2.88,
+      "changePercent": -3.124,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3809,10 +3809,6 @@
         [
           1784926500000,
           90.470001
-        ],
-        [
-          1784926799000,
-          90.470001
         ]
       ],
       "marketState": "UNKNOWN",
@@ -3826,12 +3822,12 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 4055.7,
+      "price": 4070.8,
       "previousClose": 4050.2,
-      "change": 5.5,
-      "changePercent": 0.1358,
-      "tone": "flat",
-      "direction": "보합",
+      "change": 20.6,
+      "changePercent": 0.5086,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1784865600000,
@@ -4326,10 +4322,6 @@
           4061.699951
         ],
         [
-          1784902500000,
-          4060.899902
-        ],
-        [
           1784902800000,
           4067.399902
         ],
@@ -4648,10 +4640,6 @@
         [
           1784926500000,
           4055.699951
-        ],
-        [
-          1784926799000,
-          4055.699951
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4665,12 +4653,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 63996.53,
+      "price": 63955.48,
       "previousClose": 64091.96,
-      "change": -95.43,
-      "changePercent": -0.1489,
-      "tone": "flat",
-      "direction": "보합",
+      "change": -136.48,
+      "changePercent": -0.2129,
+      "tone": "down",
+      "direction": "하락",
       "series": [
         [
           1784937600000,
@@ -4682,7 +4670,7 @@
         ],
         [
           1784938200000,
-          64079.238281
+          64079.25
         ],
         [
           1784938500000,
@@ -4690,11 +4678,11 @@
         ],
         [
           1784938800000,
-          64099.738281
+          64099.730469
         ],
         [
           1784939100000,
-          64094.699219
+          64094.710938
         ],
         [
           1784939400000,
@@ -4706,7 +4694,7 @@
         ],
         [
           1784940000000,
-          64039.988281
+          64040.0
         ],
         [
           1784940300000,
@@ -4714,11 +4702,11 @@
         ],
         [
           1784940600000,
-          64027.339844
+          64027.351562
         ],
         [
           1784940900000,
-          64009.011719
+          64009.0
         ],
         [
           1784941200000,
@@ -4730,7 +4718,7 @@
         ],
         [
           1784941800000,
-          63958.878906
+          63958.890625
         ],
         [
           1784942100000,
@@ -4750,11 +4738,11 @@
         ],
         [
           1784943300000,
-          64012.011719
+          64012.019531
         ],
         [
           1784943600000,
-          64066.070312
+          64066.078125
         ],
         [
           1784943900000,
@@ -4762,23 +4750,23 @@
         ],
         [
           1784944200000,
-          64032.339844
+          64032.351562
         ],
         [
           1784944500000,
-          64005.011719
+          64006.488281
         ],
         [
           1784944800000,
-          64023.371094
+          64022.769531
         ],
         [
           1784945100000,
-          64025.980469
+          64039.28125
         ],
         [
           1784945400000,
-          64014.988281
+          64005.5
         ],
         [
           1784945700000,
@@ -4790,7 +4778,7 @@
         ],
         [
           1784946300000,
-          63997.230469
+          63997.238281
         ],
         [
           1784946600000,
@@ -4802,11 +4790,11 @@
         ],
         [
           1784947200000,
-          63984.0
+          63983.96875
         ],
         [
           1784947500000,
-          63974.980469
+          63972.359375
         ],
         [
           1784947800000,
@@ -4818,24 +4806,160 @@
         ],
         [
           1784948400000,
-          63993.859375
+          63992.648438
         ],
         [
           1784948700000,
-          63982.230469
+          63982.238281
         ],
         [
           1784949000000,
-          63989.058594
+          63978.0
         ],
         [
-          1784949127000,
-          63996.53125
+          1784949300000,
+          64015.210938
+        ],
+        [
+          1784949600000,
+          64007.980469
+        ],
+        [
+          1784949900000,
+          64013.96875
+        ],
+        [
+          1784950200000,
+          64039.128906
+        ],
+        [
+          1784950500000,
+          64020.761719
+        ],
+        [
+          1784950800000,
+          64035.261719
+        ],
+        [
+          1784951100000,
+          64005.941406
+        ],
+        [
+          1784951400000,
+          64009.128906
+        ],
+        [
+          1784951700000,
+          64021.421875
+        ],
+        [
+          1784952000000,
+          64049.871094
+        ],
+        [
+          1784952300000,
+          64062.621094
+        ],
+        [
+          1784952600000,
+          64063.960938
+        ],
+        [
+          1784952900000,
+          64051.890625
+        ],
+        [
+          1784953200000,
+          64044.640625
+        ],
+        [
+          1784953500000,
+          64045.980469
+        ],
+        [
+          1784953800000,
+          64029.160156
+        ],
+        [
+          1784954100000,
+          64073.980469
+        ],
+        [
+          1784954400000,
+          64121.101562
+        ],
+        [
+          1784954700000,
+          64126.140625
+        ],
+        [
+          1784955000000,
+          64094.421875
+        ],
+        [
+          1784955300000,
+          64117.191406
+        ],
+        [
+          1784955600000,
+          64110.769531
+        ],
+        [
+          1784955900000,
+          64114.289062
+        ],
+        [
+          1784956200000,
+          64087.960938
+        ],
+        [
+          1784956500000,
+          64084.269531
+        ],
+        [
+          1784956800000,
+          64095.019531
+        ],
+        [
+          1784957100000,
+          64083.300781
+        ],
+        [
+          1784957400000,
+          64044.628906
+        ],
+        [
+          1784957700000,
+          63968.0
+        ],
+        [
+          1784958000000,
+          63977.738281
+        ],
+        [
+          1784958300000,
+          63970.480469
+        ],
+        [
+          1784958600000,
+          63954.738281
+        ],
+        [
+          1784958900000,
+          63956.570312
+        ],
+        [
+          1784959200000,
+          63955.488281
+        ],
+        [
+          1784959299000,
+          63955.480469
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-25 12:12 KST",
-      "marketTimestamp": 1784949127
+      "marketTime": "2026-07-25 15:01 KST",
+      "marketTimestamp": 1784959299
     }
   ],
   "mainCharts": [
@@ -6146,10 +6270,22 @@
       "publishedAt": "Sat, 25 Jul 2026 02:04:42 GMT"
     },
     {
-      "title": "“개미는 충동적 도박꾼”…英 이코노미스트의 한국 증시 경고",
-      "source": "국민일보",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tNmhseUViR3FydUZneVRTTU9iSXVhMWVSZk00eWk4T0k5aHZFcmZ4bENJckpvcURUcDdaYko0STc0ZEVhLWZDdFlfczRhRG5QTWduWG95YkRlRS1RdzVCZzhLQXhGMEhiQlUzbtIBbEFVX3lxTE1tNmhseUViR3FydUZneVRTTU9iSXVhMWVSZk00eWk4T0k5aHZFcmZ4bENJckpvcURUcDdaYko0STc0ZEVhLWZDdFlfczRhRG5QTWduWG95YkRlRS1RdzVCZzhLQXhGMEhiQlUzbg?oc=5",
-      "publishedAt": "Sat, 25 Jul 2026 01:11:00 GMT"
+      "title": "“국장 못 믿겠다” 해외로 쏠린 개미…이달 순매수 4배 폭증",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iVU1IWTVmb2lZVDltdGtBV2puWW4xclZTX2pYY05UNU43ajN2UjQtNWZxaGhrWkw4QmpONFhvZlJMLWpqZTFhZkZpSDBKVlVRU3c?oc=5",
+      "publishedAt": "Sat, 25 Jul 2026 01:55:50 GMT"
+    },
+    {
+      "title": "한국 투자자들, 미국 증시로 자금 이동…ETF 투자 급증",
+      "source": "공감신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12cEg4QTRkb0tEMzhfZUNLeWxyN0xIVVNaNkFLQ1dreGY0WkJOSm1Yb1dFVkZMM0RrTk5ZSk52MzNSX1JaWHk4LVVlUjlfMEd2NHVGS3p2ZmpXaC1NVDg1SU05bVBUbkM2?oc=5",
+      "publishedAt": "Sat, 25 Jul 2026 03:11:14 GMT"
+    },
+    {
+      "title": "외국인은 코스피, 개미는 월가…국경은 달라도 종착지는 반도체",
+      "source": "에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rTFRralhINTZCRUY1R0JlcU9CdXVTUF9qY1VocjA0andOODc0cTJHZmtBcV8zVVJIVnpPVnlHSkJOX3RFYTQ2UTZyNlhnbVRoUF9sOUZQamdaWk5iUDFCUm12aw?oc=5",
+      "publishedAt": "Sat, 25 Jul 2026 06:00:00 GMT"
     },
     {
       "title": "한국증시 10거래일 연속 사이드카…레버리지 보완책 31일부터 시행",
@@ -6158,28 +6294,16 @@
       "publishedAt": "Fri, 24 Jul 2026 16:48:19 GMT"
     },
     {
-      "title": "中매체 “레버리지 기반 한국증시 축제 막내려”",
-      "source": "문화일보",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1paDdpYVE1djNhY2tfM1RXdG9Yek5oZmVCM2oyNHhNTXc0NHV0V2M5QmhiU0wyQndBdDJ0NWc0andhLTNtN1dBV1F3Zk9GWF9y?oc=5",
-      "publishedAt": "Fri, 24 Jul 2026 11:04:07 GMT"
-    },
-    {
-      "title": "외신 \"카지노 된 한국 증시\"…레버리지 규제 앞당긴다",
-      "source": "JTBC",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MQ3lfekZJNU05QmdYdENrZmpjZVZrRmhwTl93U1l3UnJaTDRmdEdDdlY3LVctdUZTRjlFMV9oT0ZoQ0RTaVl1TW5CYjlxaktYaVRDbA?oc=5",
-      "publishedAt": "Fri, 24 Jul 2026 10:37:00 GMT"
+      "title": "예탁금 줄고 서학개미 순매수 4배 급증…국내 증시 이탈 가속화",
+      "source": "BBS불교방송",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1taEk0ZDFBZl9CaEhOR2U0NEhTTlpCdU9kaXZ5SE9HZ2ZxbDJ1QUhiOTEwbmhNQ1VtY1B3VjZMeFJWZmYySlBkWnFFNFhZQzFDMFJqNnZKd3pBMXZlRGNtWi1WQWNZNkZWVi1R?oc=5",
+      "publishedAt": "Sat, 25 Jul 2026 01:09:06 GMT"
     },
     {
       "title": "국장 흔들리자 다시 미장으로… 서학개미 순매수 한 달 새 4배",
       "source": "경북매일",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NYUlwZmVfM1YxWEpGQ3d6MnZ1Y21iODd0TE5SbjlKajZRT25VUnJ0RTFYcW1FcDZwVC10LXRHYkRWZmppUkFDV2FCckJaQjdjSHRWMUpUWXpoUQ?oc=5",
       "publishedAt": "Sat, 25 Jul 2026 00:37:00 GMT"
-    },
-    {
-      "title": "“삼전닉스 비중 줄여라”…갈아타는 월가, ‘엑시트 코리아’ 본격화? [머니+]",
-      "source": "에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxRElPZW5yczZmUHp2bUctQnY5V0ZZeW5EanZQU21pVzVKWHhKa29TQkFKQTg2SV9tYmxfYmdYamIyMXhxaW95NFJCdEJ4cFNzUjUzNGNFWGhWdl84R3RlMFpn?oc=5",
-      "publishedAt": "Sat, 25 Jul 2026 03:09:20 GMT"
     }
   ],
   "summary": {
@@ -6191,25 +6315,25 @@
     "overview": [
       "국내장은 KOSPI 하락, KOSDAQ 하락 흐름입니다.",
       "해외는 S&P 500 +0.05%, NASDAQ -0.64%로 확인됩니다.",
-      "매크로 변수는 USD/KRW -1.00%, 미 10년물 -0.51%입니다."
+      "매크로 변수는 USD/KRW -0.82%, 미 10년물 -0.51%입니다."
     ],
     "checkpoints": [
       "KOSPI -5.72% 하락",
       "KOSDAQ -5.32% 하락",
       "미국 증시 보합 / 나스닥 -0.64%",
-      "원달러 -1.00% (-14.71)",
+      "원달러 -0.82% (-12.03)",
       "미 10년물 -0.024p (-0.51%)"
     ],
     "leaders": [
       {
-        "label": "DOW",
-        "changePercent": 0.4556,
+        "label": "Gold",
+        "changePercent": 0.5086,
         "direction": "상승"
       },
       {
-        "label": "Gold",
-        "changePercent": 0.1358,
-        "direction": "보합"
+        "label": "DOW",
+        "changePercent": 0.4556,
+        "direction": "상승"
       },
       {
         "label": "S&P 500",
@@ -6230,7 +6354,7 @@
       },
       {
         "label": "WTI",
-        "changePercent": -1.8657,
+        "changePercent": -3.124,
         "direction": "하락"
       }
     ]
