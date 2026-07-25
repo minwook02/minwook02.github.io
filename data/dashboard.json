@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-26T03:27:23.868425+09:00",
-  "updatedLabel": "2026-07-26 03:27:23 KST",
+  "updatedAt": "2026-07-26T04:46:24.559954+09:00",
+  "updatedLabel": "2026-07-26 04:46:24 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4653,10 +4653,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 64317.19,
+      "price": 64330.01,
       "previousClose": 64091.96,
-      "change": 225.23,
-      "changePercent": 0.3514,
+      "change": 238.05,
+      "changePercent": 0.3714,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5546,16 +5546,80 @@
         ],
         [
           1785003900000,
-          64309.988281
+          64357.988281
         ],
         [
-          1785004028000,
-          64317.191406
+          1785004200000,
+          64368.28125
+        ],
+        [
+          1785004500000,
+          64333.539062
+        ],
+        [
+          1785004800000,
+          64338.738281
+        ],
+        [
+          1785005100000,
+          64357.300781
+        ],
+        [
+          1785005400000,
+          64331.050781
+        ],
+        [
+          1785005700000,
+          64353.78125
+        ],
+        [
+          1785006000000,
+          64377.460938
+        ],
+        [
+          1785006300000,
+          64363.609375
+        ],
+        [
+          1785006600000,
+          64374.921875
+        ],
+        [
+          1785006900000,
+          64354.21875
+        ],
+        [
+          1785007200000,
+          64357.828125
+        ],
+        [
+          1785007500000,
+          64346.710938
+        ],
+        [
+          1785007800000,
+          64355.808594
+        ],
+        [
+          1785008100000,
+          64335.960938
+        ],
+        [
+          1785008400000,
+          64323.578125
+        ],
+        [
+          1785008700000,
+          64329.25
+        ],
+        [
+          1785008777000,
+          64330.011719
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-26 03:27 KST",
-      "marketTimestamp": 1785004028
+      "marketTime": "2026-07-26 04:46 KST",
+      "marketTimestamp": 1785008777
     }
   ],
   "mainCharts": [
@@ -6872,16 +6936,16 @@
       "publishedAt": "Sat, 25 Jul 2026 02:04:42 GMT"
     },
     {
-      "title": "서학개미 이달 미국주식 순매수 4배 증가…국내 예탁금은 감소",
-      "source": "서울경제TV",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzSkphXzhaNlNaV19qU045X0ZrV2p1XzlyenZRWWxVTzZKRXJjamliU1BQZ190SmZXMF9CMmdKUFo0WV9faHRfYmlmY0lEMVFMOHdsaEx6VUpsYldxalljXzVSV3A?oc=5",
-      "publishedAt": "Sat, 25 Jul 2026 02:53:24 GMT"
-    },
-    {
       "title": "외국인은 코스피, 개미는 월가…국경은 달라도 종착지는 반도체",
       "source": "에너지경제신문",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nc3FjVWlSWWx6eF9WTmZEd3JRTndyMTY5b0ZCTkhvZXkxcV81ajJOVlFMSXR3cTdwLU1YNlVhMDYwOGhLUkZ0ZTBtd3pWSFJiR2plUlNjV3BRaEg2Vnc?oc=5",
       "publishedAt": "Sat, 25 Jul 2026 06:00:00 GMT"
+    },
+    {
+      "title": "서학개미 이달 미국주식 순매수 4배 증가…국내 예탁금은 감소",
+      "source": "서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzSkphXzhaNlNaV19qU045X0ZrV2p1XzlyenZRWWxVTzZKRXJjamliU1BQZ190SmZXMF9CMmdKUFo0WV9faHRfYmlmY0lEMVFMOHdsaEx6VUpsYldxalljXzVSV3A?oc=5",
+      "publishedAt": "Sat, 25 Jul 2026 02:53:24 GMT"
     },
     {
       "title": "국내 증시 조정에 미국 주식으로…서학개미 순매수 4배 늘었다",
@@ -6933,7 +6997,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.3514,
+        "changePercent": 0.3714,
         "direction": "상승"
       }
     ],
