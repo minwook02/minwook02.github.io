@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-26T17:57:10.774021+09:00",
-  "updatedLabel": "2026-07-26 17:57:10 KST",
+  "updatedAt": "2026-07-26T19:48:18.520692+09:00",
+  "updatedLabel": "2026-07-26 19:48:18 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3023,10 +3023,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 64429.28,
+      "price": 64470.33,
       "previousClose": 64310.72,
-      "change": 118.56,
-      "changePercent": 0.1844,
+      "change": 159.61,
+      "changePercent": 0.2482,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3460,16 +3460,104 @@
         ],
         [
           1785056100000,
-          64429.289062
+          64423.011719
         ],
         [
-          1785056222000,
-          64429.28125
+          1785056400000,
+          64451.890625
+        ],
+        [
+          1785056700000,
+          64438.789062
+        ],
+        [
+          1785057000000,
+          64437.0
+        ],
+        [
+          1785057300000,
+          64478.589844
+        ],
+        [
+          1785057600000,
+          64486.371094
+        ],
+        [
+          1785057900000,
+          64477.738281
+        ],
+        [
+          1785058200000,
+          64462.441406
+        ],
+        [
+          1785058500000,
+          64480.628906
+        ],
+        [
+          1785058800000,
+          64482.421875
+        ],
+        [
+          1785059100000,
+          64492.828125
+        ],
+        [
+          1785059400000,
+          64480.0
+        ],
+        [
+          1785059700000,
+          64481.640625
+        ],
+        [
+          1785060000000,
+          64448.558594
+        ],
+        [
+          1785060300000,
+          64450.011719
+        ],
+        [
+          1785060600000,
+          64451.960938
+        ],
+        [
+          1785060900000,
+          64441.988281
+        ],
+        [
+          1785061200000,
+          64468.75
+        ],
+        [
+          1785061500000,
+          64456.171875
+        ],
+        [
+          1785061800000,
+          64471.808594
+        ],
+        [
+          1785062100000,
+          64487.980469
+        ],
+        [
+          1785062400000,
+          64480.210938
+        ],
+        [
+          1785062700000,
+          64482.699219
+        ],
+        [
+          1785062893000,
+          64470.328125
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-07-26 17:57 KST",
-      "marketTimestamp": 1785056222
+      "marketTime": "2026-07-26 19:48 KST",
+      "marketTimestamp": 1785062893
     }
   ],
   "mainCharts": [
@@ -4768,10 +4856,34 @@
   ],
   "headlines": [
     {
+      "title": "[이번주 증시] 'AI 랠리' 이어질까…코스피 향방 가를 '슈퍼위크'",
+      "source": "뉴시안",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wRmhaX3ZkNkhjSGVCSEVlbGxXNXlkS2pJc09fRTNKWEN5TzIyNFB1bnVWX1NVOHc4bkhWSEYxWS1GUDFOSkVvNVJXZHZjRUN3TzRtbjlxN0ZUMDB1a25YMjZMazhoSmZhZWfSAW5BVV95cUxNNHdnUzZEd0tZOVU1UDQxZzk1Yjc5NDF4eWRMbnFYSExGd3RoR0tSdkNjMElieVF6NUZDVWtwZmdoT0FSbDUxbGRSVmY0cGx3dUF2MUVmQUhiSVFBT1h4NHhnelpWWnU0bzRXbDhkQQ?oc=5",
+      "publishedAt": "Sun, 26 Jul 2026 09:18:43 GMT"
+    },
+    {
+      "title": "'레버리지 규제' 본격시행 앞둔 국내증시, 변동성 완화될까",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uenlaYlpHeUgxR2pFTG1zbG4tNGMwc25kSlZHTmVhVUJzel9HZnlOME1TQUc3Y1ZFMDV6enlnckpERnQwWHljeDduNUp5ckZSU3QwSWtPQUp6VWPSAWBBVV95cUxQM3p5UHJWbjBaZDBUOUpleDhpNTJzemxkNXlOUk44aVBuOTFCRFNOYVpnUWVYZ2JkbjN0SHpJUGMwX3g0RkJ6ZlJ0ZDR0YVZWeXR0NGpJWi1HbENfVGtRVFM?oc=5",
+      "publishedAt": "Sat, 25 Jul 2026 21:20:01 GMT"
+    },
+    {
       "title": "국장 급락하자 미장으로… 서학개미 순매수 4배 늘었다",
       "source": "조선일보",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWHZMSlFxTkFCa2Y5WnBrWUM1NWNRVHlVNGRMQS1acEtTYzRENzBKbmJRUUFweE9sWjQ2Z3hPaEVadS1LWUdaSXozdjdXZjgzeU5fU2RJSGRaclIwMGJvV3FISTZvNVZBTDhGLUFFZFdFbWZ1YWFPc1g1dVVrMGZQbXFzUkRmNnJhZGo4?oc=5",
       "publishedAt": "Sun, 26 Jul 2026 00:25:06 GMT"
+    },
+    {
+      "title": "이번주 증시 국내외 주요 기업 실적 발표 주목",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE05SXpVZEtKU01FemZpNWZHS1VRY2NTTEswT09fT2JjZFhlbFJoMGFMZzRCdlVNbVhkeHdmUThUam4tc3Zoa0E?oc=5",
+      "publishedAt": "Sun, 26 Jul 2026 04:51:11 GMT"
+    },
+    {
+      "title": "다시 직면한 고유가-고금리 위험",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xdC1GNjVmZk5aZ0x6RlhGREVoT3ZoWGpnR093NEZwdXFPMWZ5aHpGMGdZTnVCQmQ2RGYzRkY5TVIwWksxaWU1VDdJM2t3d19pQmxQTHJvV1BsZlppbk50YWtMbjhqbEk?oc=5",
+      "publishedAt": "Sun, 26 Jul 2026 08:27:00 GMT"
     },
     {
       "title": "한국증시, 주간 하락 '중동 리스크에 투심 축소'...이번주 외국인 순매수세 지속•원화 강세로 반등할까? [이완수의 한국금융시장 핫이슈]",
@@ -4790,30 +4902,6 @@
       "source": "Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oRGhNR3hUX29qS2xSeUpzNFNsZklNRXpaNmtKU2VOTGJvWVVVR2FiYXRkZEhzSlA1UGlYTGNOVkQwd255UTA5T3Bpcy1RZlE2ZVBZdTZwblV3QUwtMlBUal8xWmtpR3l2VmIxdUktbUE?oc=5",
       "publishedAt": "Sat, 25 Jul 2026 16:50:00 GMT"
-    },
-    {
-      "title": "\"하루도 안 빼고 사이드카\"…롤러코스터 증시에 일주일 내내 경보음",
-      "source": "뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04OVBNbWx3cDZrd1U1WVNJcUgzOUk0LVgyRHZpWE9DMjBHeW5yMFVoRVdTVzBBcEdfRGNNOGZQa244cWJ1NUpYVV82YmRlNkE2dUxqLXFELUVQQ0pnNHgwdNIBeEFVX3lxTFA4Q0U2UVpieThSZVFvT0dQbHBIZ0FqNzNzWnFQZ3FKZ3U5RHNjdWdWc2ZZQXZod0gwQ1BIc2dsXzNyRkZpR3NWcS1SelIyRHM2Q0hMYndRbzdRUFpMeHQ3VTBRTlVGRzRJOEFGNTJEMWVUUzkzeWVLMg?oc=5",
-      "publishedAt": "Sun, 26 Jul 2026 07:46:41 GMT"
-    },
-    {
-      "title": "[이슈&논란] \"한국 주식 = 카지노\" 오명 벗을까…韓 증시, 사상 최악 변동성에 규제 초강수",
-      "source": "뉴스스페이스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xUkNLelBpZDB0MERsT1ZSVEYxLUtlbVVjTEpCcjNfRW5qX1pJTUVXNlhObXItZXJkbVNRR1BFMzlRUVZodlRGQ3JGeFl6ZG0xWGxFaXRBdTRjQzg?oc=5",
-      "publishedAt": "Sun, 26 Jul 2026 03:20:46 GMT"
-    },
-    {
-      "title": "[마켓인사이트] 반등 시도하다 또 출렁…코스피 변동성 이어지나",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ldThEMU51b2tJSGVNTVR0MEdTc0l3UnRhLXMwaXJsbkh3eHJWSjBjTUg5Uk1DQzA3UWxLUEN5TEthWmNOd19Wb1FhRURvTi1tZGhQN2dpeWlTaknSAWBBVV95cUxOVkdfNmtxZzIzREw3TmVVcUR1LWhMT0tRaE1iZFZNY1R4U2dOVHNlRWVXRTBtN2FobWhLSVpOM0hSLVNuZkxHRE52ZHItTEJvaU1aQVVtSERVdTU1am0tMGw?oc=5",
-      "publishedAt": "Sat, 25 Jul 2026 21:00:37 GMT"
-    },
-    {
-      "title": "[김창권의 팩트폭격] 증시는 사라지고 도박판만 남았다",
-      "source": "인천매거진",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00X1NRNlptc0gzRzlqOU9YRHFGQ3hhOG00NDE4TmJRdXBwNTNpMXI5RUJpaDIwVXdsNUdNUGdXb0VIeXJ4dmpBcFMtVEVaNGpaUWQ4d3ZXT25PZE9OTkdXR0ZvOVlNZ1ptUnNOUkNR0gFuQVVfeXFMTTRfU1E2Wm1zSDNHOWo5T1hEcUZDeGE4bTQ0MThOYlF1cHA1M2kxcjlFQmloMjBVd2w1R01QZ1dvRUh5cnh2akFwUy1URVo0alpRZDh3dldPbk9kT05OR1dHRm85WU1nWm1Sc05SQ1E?oc=5",
-      "publishedAt": "Sun, 26 Jul 2026 03:50:46 GMT"
     }
   ],
   "summary": {
@@ -4847,7 +4935,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.1844,
+        "changePercent": 0.2482,
         "direction": "상승"
       }
     ],
