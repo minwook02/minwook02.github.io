@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-02T06:26:41.287591+09:00",
-  "updatedLabel": "2026-08-02 06:26:41 KST",
+  "updatedAt": "2026-08-02T07:29:08.370415+09:00",
+  "updatedLabel": "2026-08-02 07:29:08 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4353,12 +4353,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 62695.2,
+      "price": 62785.75,
       "previousClose": 62823.297,
-      "change": -128.097,
-      "changePercent": -0.2039,
-      "tone": "down",
-      "direction": "하락",
+      "change": -37.547,
+      "changePercent": -0.0598,
+      "tone": "flat",
+      "direction": "보합",
       "series": [
         [
           1785542400000,
@@ -5390,16 +5390,64 @@
         ],
         [
           1785619500000,
-          62696.789062
+          62741.300781
         ],
         [
-          1785619596000,
-          62695.199219
+          1785619800000,
+          62794.210938
+        ],
+        [
+          1785620100000,
+          62731.851562
+        ],
+        [
+          1785620400000,
+          62740.351562
+        ],
+        [
+          1785620700000,
+          62758.628906
+        ],
+        [
+          1785621000000,
+          62742.148438
+        ],
+        [
+          1785621300000,
+          62761.359375
+        ],
+        [
+          1785621600000,
+          62773.121094
+        ],
+        [
+          1785621900000,
+          62783.761719
+        ],
+        [
+          1785622200000,
+          62800.488281
+        ],
+        [
+          1785622500000,
+          62787.441406
+        ],
+        [
+          1785622800000,
+          62772.128906
+        ],
+        [
+          1785623100000,
+          62780.371094
+        ],
+        [
+          1785623344000,
+          62785.75
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-02 06:26 KST",
-      "marketTimestamp": 1785619596
+      "marketTime": "2026-08-02 07:29 KST",
+      "marketTimestamp": 1785623344
     }
   ],
   "mainCharts": [
@@ -6698,16 +6746,22 @@
   ],
   "headlines": [
     {
+      "title": "[마켓인사이트] 역대급 '폭락→폭등' 韓증시, 상승흐름 이어갈까",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qd1hBZHlGT2p3dHo4MWxUb0VkNXlyS2M1Tm9aaXM1RUJfaEdVT0pILTN4dTdHLURIYmpHVHpoeEFHRUx6NWozdkxVUXNPRXIzaXhaalh6aUg5YmvSAWBBVV95cUxOMlJuYjdHWHJHbHY2T1NUQjBZakNrZFJzTE9kT0hqUElDUUJjVk1sd1Vicm5WUFZOSGtnUDdHQTViX19DWDNsVndlUUVpU0ROTXR3c0twM2RZYUNmZDNKOUY?oc=5",
+      "publishedAt": "Sat, 01 Aug 2026 21:00:12 GMT"
+    },
+    {
       "title": "반도체 호황이 부른 금리 인상… 시험대 오른 AI 투자 붐 - 조선비즈",
       "source": "Chosunbiz",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUWRQZFpfS2F3dTBiT0hUN1JTV1JCZkV0Z0hwdW9Xd0FRZDlYOGZkQXlxeEpRVWpYVFZ5eXhxWlRTeUtkWW5ZSTJwX0hTemxHT0JkTVJrVkQ3YXdjQ0xfNm9aSGs4TF9yaUxfTk54dmFzRXVCR1pfTVNRbHUtYnhyYXBjcHM3Z9IBmgFBVV95cUxOWl9xWUNPM2NnUDdCdFZMWmJwQkFGc3RmNDdnLUhKZFM1aEJwLXJRVTFLMWhSSTFXb0l4X0J3VlZMdFZKVk9DTTJwMTF6UDZfYjVDOGlvUEFDTlhZd3UwcF94WVZaZFhSNE1iUEROUTZOdENnQ1RrVDNhMEdjYzJDVEtRaVdyNG43ME5tZ3FIbmlheDJRazBZTERR?oc=5",
       "publishedAt": "Sat, 01 Aug 2026 21:00:00 GMT"
     },
     {
-      "title": "[마켓인사이트] 역대급 '폭락→폭등' 韓증시, 상승흐름 이어갈까",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qd1hBZHlGT2p3dHo4MWxUb0VkNXlyS2M1Tm9aaXM1RUJfaEdVT0pILTN4dTdHLURIYmpHVHpoeEFHRUx6NWozdkxVUXNPRXIzaXhaalh6aUg5YmvSAWBBVV95cUxOMlJuYjdHWHJHbHY2T1NUQjBZakNrZFJzTE9kT0hqUElDUUJjVk1sd1Vicm5WUFZOSGtnUDdHQTViX19DWDNsVndlUUVpU0ROTXR3c0twM2RZYUNmZDNKOUY?oc=5",
-      "publishedAt": "Sat, 01 Aug 2026 21:00:12 GMT"
+      "title": "“하루짜리 반등은 아니겠지?” 8월 증시의 불안",
+      "source": "munhwa.com",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0aC1DOXJSYUw2ek4zTXZuV3VicmwxUEQ1eXUxYV9CVGFHM2pabnB5Uk9pLUtFTGg3WHVWMHlRLWpoVXJVYjNmQ2l6d3ZmT1lu?oc=5",
+      "publishedAt": "Sat, 01 Aug 2026 13:11:33 GMT"
     },
     {
       "title": "왜 세계는 한국 증시를 ‘비트코인보다 위험한 시장’으로 볼까 [블룸버그 뷰]│Global Money Club",
@@ -6716,10 +6770,10 @@
       "publishedAt": "Sat, 01 Aug 2026 01:41:15 GMT"
     },
     {
-      "title": "“하루짜리 반등은 아니겠지?” 8월 증시의 불안",
-      "source": "문화일보",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0aC1DOXJSYUw2ek4zTXZuV3VicmwxUEQ1eXUxYV9CVGFHM2pabnB5Uk9pLUtFTGg3WHVWMHlRLWpoVXJVYjNmQ2l6d3ZmT1lu?oc=5",
-      "publishedAt": "Sat, 01 Aug 2026 13:11:33 GMT"
+      "title": "바닥 찍고 튀어오른 코스피, 이번엔 7000선 재탈환?[주간증시전망]",
+      "source": "뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92YTVXUnpTWG9TVjFSSEZuZWprYXpzbmlCWlNFd3M5dFpmNnlvYktObjZKNE9kRXJJUkMyUW12WkwxWVpZM20wUTFBRFJJWktFV1F3QVhveTNtb1BXUzhoS9IBeEFVX3lxTE5zMXZaSk1PUHQ3TlozSk9xNlNaeW9CcnBiTkF2S0lVQ3BhWXB0NF8yUjZZcHFITmlkS21CWG1VSFB4Y3dma2k1SzBua2RQRUk3UlNWa2QwRzU3eTBlNXlOdW52aS1DSTdmUXRYQ0Zzc0JqaUdfZ3htTg?oc=5",
+      "publishedAt": "Sat, 01 Aug 2026 22:00:00 GMT"
     },
     {
       "title": "반도체 편중에 취약해진 국내 증시, 8월에는 '극강의 변동성' 잦아들까",
@@ -6738,12 +6792,6 @@
       "source": "기호일보",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lRTV5cEZPNVFTU2tYUFk1T1R1WTB0RDgxQ2RvNGRLdjZvdjJDekZTSDZTWG9VSzloNk9TRDk0bzl2MU5tNHlUWFYwOGxMd0tENVlRWWh2c1RBSTl4ejE5TlJIS21jSzEtLURiVWxiOA?oc=5",
       "publishedAt": "Sat, 01 Aug 2026 03:53:42 GMT"
-    },
-    {
-      "title": "美 ‘상호관세’ 제동…“국내 증시, 관세보다 실적 중요”",
-      "source": "쿠키뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44OHVxaGswN0c3YXkyWlh0TTFnNUFGSVkxQWhRb2ZWZHJpbFBBbmZ6UWlkZ2RkZHBLVnJlUWlyZGItVTdrbEdRNllUQTYtN21iZU9RZktfNkFzSDViTUtLY25mOA?oc=5",
-      "publishedAt": "Sat, 01 Aug 2026 14:01:25 GMT"
     }
   ],
   "summary": {
@@ -6789,8 +6837,8 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -0.2039,
-        "direction": "하락"
+        "changePercent": -0.0598,
+        "direction": "보합"
       },
       {
         "label": "DOW",
