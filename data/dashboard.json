@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-02T01:03:34.085023+09:00",
-  "updatedLabel": "2026-08-02 01:03:34 KST",
+  "updatedAt": "2026-08-02T02:32:01.830697+09:00",
+  "updatedLabel": "2026-08-02 02:32:01 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2335,7 +2335,7 @@
       ],
       "marketState": "UNKNOWN",
       "marketTime": "2026-08-01 12:30 KST",
-      "marketTimestamp": 1785555035
+      "marketTimestamp": 1785555052
     },
     {
       "id": "us10y",
@@ -4353,10 +4353,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 62902.39,
+      "price": 62731.87,
       "previousClose": 62823.297,
-      "change": 79.093,
-      "changePercent": 0.1259,
+      "change": -91.427,
+      "changePercent": -0.1455,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -5130,16 +5130,88 @@
         ],
         [
           1785600000000,
-          62892.21875
+          62919.210938
         ],
         [
-          1785600209000,
-          62902.390625
+          1785600300000,
+          62893.230469
+        ],
+        [
+          1785600600000,
+          62882.011719
+        ],
+        [
+          1785600900000,
+          62872.261719
+        ],
+        [
+          1785601200000,
+          62875.578125
+        ],
+        [
+          1785601500000,
+          62885.839844
+        ],
+        [
+          1785601800000,
+          62898.78125
+        ],
+        [
+          1785602100000,
+          62931.191406
+        ],
+        [
+          1785602400000,
+          62905.839844
+        ],
+        [
+          1785602700000,
+          62890.070312
+        ],
+        [
+          1785603000000,
+          62867.148438
+        ],
+        [
+          1785603300000,
+          62879.148438
+        ],
+        [
+          1785603600000,
+          62916.550781
+        ],
+        [
+          1785603900000,
+          62919.410156
+        ],
+        [
+          1785604200000,
+          62835.988281
+        ],
+        [
+          1785604500000,
+          62820.53125
+        ],
+        [
+          1785604800000,
+          62828.039062
+        ],
+        [
+          1785605100000,
+          62779.480469
+        ],
+        [
+          1785605400000,
+          62750.921875
+        ],
+        [
+          1785605513000,
+          62731.871094
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-02 01:03 KST",
-      "marketTimestamp": 1785600209
+      "marketTime": "2026-08-02 02:31 KST",
+      "marketTimestamp": 1785605513
     }
   ],
   "mainCharts": [
@@ -6439,13 +6511,13 @@
   "headlines": [
     {
       "title": "“하루짜리 반등은 아니겠지?” 8월 증시의 불안",
-      "source": "문화일보",
+      "source": "munhwa.com",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0aC1DOXJSYUw2ek4zTXZuV3VicmwxUEQ1eXUxYV9CVGFHM2pabnB5Uk9pLUtFTGg3WHVWMHlRLWpoVXJVYjNmQ2l6d3ZmT1lu?oc=5",
       "publishedAt": "Sat, 01 Aug 2026 13:11:33 GMT"
     },
     {
       "title": "왜 세계는 한국 증시를 ‘비트코인보다 위험한 시장’으로 볼까 [블룸버그 뷰]│Global Money Club",
-      "source": "joongang.co.kr",
+      "source": "중앙일보",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ySGFhQk9IOUpHbnhjQVRQUzFWbHktNUF4SmQ1VHF2ODBIdzZiSmI3TmdOZ1JiWjJuMTdSeVkyYTQydy1wYm9ILUdjLUR5QlBldm1zTTNzVWRSSzg?oc=5",
       "publishedAt": "Sat, 01 Aug 2026 01:41:15 GMT"
     },
@@ -6463,7 +6535,7 @@
     },
     {
       "title": "[2026년 7월 월간 주요 경제지표 변화] 7월 코스피 22% 급락…美 금리 상승에 국내 증시 직격탄",
-      "source": "기호일보",
+      "source": "kihoilbo.co.kr",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lRTV5cEZPNVFTU2tYUFk1T1R1WTB0RDgxQ2RvNGRLdjZvdjJDekZTSDZTWG9VSzloNk9TRDk0bzl2MU5tNHlUWFYwOGxMd0tENVlRWWh2c1RBSTl4ejE5TlJIS21jSzEtLURiVWxiOA?oc=5",
       "publishedAt": "Sat, 01 Aug 2026 03:53:42 GMT"
     },
@@ -6481,7 +6553,7 @@
     },
     {
       "title": "24시간 거래되는 SK하이닉스 주식, 국내 증시 영향은 [주末머니]",
-      "source": "아시아경제",
+      "source": "asiae.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zRk40TG0xUEM0X05CM3JPZTVMdi1oSkJ3emdTUm9kU3BEOW1FLU1Va0RiSVZvbFJ0WjZJcEpMRG9fbElhc2YzLXpSR3B6YXRLbHJYVTBNNUVESUlWc2JtcQ?oc=5",
       "publishedAt": "Sat, 01 Aug 2026 02:30:00 GMT"
     }
@@ -6529,7 +6601,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.1259,
+        "changePercent": -0.1455,
         "direction": "보합"
       },
       {
