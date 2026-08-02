@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-02T17:55:19.270822+09:00",
-  "updatedLabel": "2026-08-02 17:55:19 KST",
+  "updatedAt": "2026-08-02T19:43:48.106094+09:00",
+  "updatedLabel": "2026-08-02 19:43:48 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2719,10 +2719,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 63155.41,
+      "price": 63135.01,
       "previousClose": 62762.418,
-      "change": 392.992,
-      "changePercent": 0.6262,
+      "change": 372.592,
+      "changePercent": 0.5937,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3155,13 +3155,101 @@
           63152.050781
         ],
         [
-          1785660914000,
-          63155.410156
+          1785660900000,
+          63130.039062
+        ],
+        [
+          1785661200000,
+          63038.011719
+        ],
+        [
+          1785661500000,
+          63171.488281
+        ],
+        [
+          1785661800000,
+          63198.140625
+        ],
+        [
+          1785662100000,
+          63194.691406
+        ],
+        [
+          1785662400000,
+          63217.988281
+        ],
+        [
+          1785662700000,
+          63168.730469
+        ],
+        [
+          1785663000000,
+          63243.011719
+        ],
+        [
+          1785663300000,
+          63208.539062
+        ],
+        [
+          1785663600000,
+          63200.890625
+        ],
+        [
+          1785663900000,
+          63193.25
+        ],
+        [
+          1785664200000,
+          63209.851562
+        ],
+        [
+          1785664500000,
+          63205.210938
+        ],
+        [
+          1785664800000,
+          63173.101562
+        ],
+        [
+          1785665100000,
+          63173.261719
+        ],
+        [
+          1785665400000,
+          63138.199219
+        ],
+        [
+          1785665700000,
+          63206.589844
+        ],
+        [
+          1785666000000,
+          63084.511719
+        ],
+        [
+          1785666300000,
+          63073.859375
+        ],
+        [
+          1785666600000,
+          63123.929688
+        ],
+        [
+          1785666900000,
+          63137.761719
+        ],
+        [
+          1785667200000,
+          63135.011719
+        ],
+        [
+          1785667422000,
+          63135.011719
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-02 17:55 KST",
-      "marketTimestamp": 1785660914
+      "marketTime": "2026-08-02 19:43 KST",
+      "marketTimestamp": 1785667422
     }
   ],
   "mainCharts": [
@@ -4460,16 +4548,34 @@
   ],
   "headlines": [
     {
+      "title": "7월 국내 증시 종목 70%가 파란불",
+      "source": "주간경향",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9STmZ4X0FwU1hfbnJGeE9XOVhxZV9zSDVUSHZHZWdJQmFONXJjSzBhX3RvOUxCMHZLY1p3N01xSHlWZjVONWQyM0xpbU5wZ1prRFV2czlPemdmcUdrcmc?oc=5",
+      "publishedAt": "Sun, 02 Aug 2026 09:39:00 GMT"
+    },
+    {
+      "title": "“개인·외국인·기관 모두 단타”…신뢰 갉아먹는 ‘투전판 코스피’",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55LVhaeDlZNUU2UlFtdjI4WEhRZUpFcE5ySnFKY0hzNTh3ZlQtYVZYYVBaTGh6Vy1XYVE1RTVsZ1dFaHlYd1ZOeHA0bEJKTTBuQndkU0hjUXc5UFc1NGtWcWd4YmlSNmpzbEUycmRDMEFVdw?oc=5",
+      "publishedAt": "Sun, 02 Aug 2026 09:46:00 GMT"
+    },
+    {
+      "title": "레버리지 무너졌다…韓증시 흔든 24세 ‘AI 투자천재’의 몰락",
+      "source": "중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFMm5MMWJISEVLcUZ6ZkY2bkZGdDNwbVNmdGlKZTcwSHVGb1ZzUkxVQlRrRlpoZTlDX2p6b3dKZjFLVXhidDduN2JwT0VtUFhrM0RyYXZ3?oc=5",
+      "publishedAt": "Sun, 02 Aug 2026 06:02:53 GMT"
+    },
+    {
       "title": "“국장 피해 미장 갔다가 50조 날렸다”…서학개미 덮친 ‘3배 ETF’ 참사",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtLTlSMEtNVUhya1hjYkdUYmJLQTl3STJ2Vkw5cnZ5VzEtaFhrWDN5SThmYXJ2aHNCc3VtVUlJODd1YWlVa0ZUcURiMUQxOThWaUE?oc=5",
       "publishedAt": "Sun, 02 Aug 2026 08:10:51 GMT"
     },
     {
-      "title": "“주식시장이 강원랜드냐”…증시 과열에 국정조사 꺼낸 정점식",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qMUpZVl9zUmszNzQzdDV5X0NLNFFGNE5pVDZzVlpRZHNMZkF6b2VacThYSTdnTDdMN2RweUZ3ZV9iWjRQUXZmRngwdGduQ2s?oc=5",
-      "publishedAt": "Sun, 02 Aug 2026 04:25:36 GMT"
+      "title": "美증시로 돌아간 서학개미…두 달 새 50조원 날렸다",
+      "source": "아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xb2RKd1N1NHpFTFJETTZJeHM4bVlFTTVrTlNmMVRxVXFraC1SYTc0dTlBZFZWdS10M3A5VWVLM3lqd2tEUzUyV0xhRWJ1YlM5TzhYajc0aVXSAVhBVV95cUxPMW9kSndTdTR6RUxSRE02SXhzOG1ZRU01a05TZjFUcVVxa2gtUmE3NHU5QWRWVnUtdDNwOVVlSzN5andrRFM1MldMYUVidWJTOU84WGo3NGlV?oc=5",
+      "publishedAt": "Sun, 02 Aug 2026 07:09:24 GMT"
     },
     {
       "title": "미국 증시로 돌아간 서학개미…두 달 새 평가손실 50조원 육박",
@@ -4478,34 +4584,16 @@
       "publishedAt": "Sun, 02 Aug 2026 05:39:00 GMT"
     },
     {
-      "title": "“삼전·닉스 매도하기엔 아직 일러…한국 증시, 저평가 심해”",
-      "source": "문화일보",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oNTFNbHpnWXVKNkgtc2luSndlZmRfRWo1cWpnaE1OeGtQd0REclJub1RWNVlIaXlRYjdRZy1DcExZT3lJUHZEZU0tMUxYdXcw?oc=5",
-      "publishedAt": "Sun, 02 Aug 2026 04:44:32 GMT"
-    },
-    {
       "title": "[마켓인사이트] 역대급 '폭락→폭등' 韓증시, 상승흐름 이어갈까",
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qd1hBZHlGT2p3dHo4MWxUb0VkNXlyS2M1Tm9aaXM1RUJfaEdVT0pILTN4dTdHLURIYmpHVHpoeEFHRUx6NWozdkxVUXNPRXIzaXhaalh6aUg5YmvSAWBBVV95cUxOMlJuYjdHWHJHbHY2T1NUQjBZakNrZFJzTE9kT0hqUElDUUJjVk1sd1Vicm5WUFZOSGtnUDdHQTViX19DWDNsVndlUUVpU0ROTXR3c0twM2RZYUNmZDNKOUY?oc=5",
       "publishedAt": "Sat, 01 Aug 2026 21:00:12 GMT"
     },
     {
-      "title": "외신 '한국 증시 거품' 경고 … 블룸버그 \"신뢰 회복, 주가 반등보다 오래 걸릴 것\"",
-      "source": "뉴데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVDRVZlhTRmN4bjdzNHZyd0FRck1PcjQxaXRnTWxvZ3hSUnZhWnEtQUFWUFZBN0RlRDU3WWQ2ZWNoTy1jcUwyVTVyTVBMMy1JelBlcWpDRkpsWVVobTlHZ1RuSTJFc0tBWmNaZWxueW1MY2FqT1ExNDFSRm91Z2I1eNIBgAFBVV95cUxOVDRVZlhTRmN4bjdzNHZyd0FRck1PcjQxaXRnTWxvZ3hSUnZhWnEtQUFWUFZBN0RlRDU3WWQ2ZWNoTy1jcUwyVTVyTVBMMy1JelBlcWpDRkpsWVVobTlHZ1RuSTJFc0tBWmNaZWxueW1MY2FqT1ExNDFSRm91Z2I1eA?oc=5",
-      "publishedAt": "Sun, 02 Aug 2026 07:59:35 GMT"
-    },
-    {
-      "title": "반도체 쇼크에 美증시로 피신했지만…서학개미 평가액 50조 감소 - 조선비즈",
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeFJYbFZKTWNnS3NTYjFvRVdBT0xnM19VZ1ozVVVDdmhWODYwTHgyTWpWcVB6cXcySHVCdDdnYjZCTWowSU1jNTB4Q3Z3bXFjSkQzMlFFTDN3NmFKdmlUd0tNbU13N2xva1ZFWTREeEU0UkE0VXRCRlhickd2Vk8zcE9sVUdlcFJm0gGcAUFVX3lxTE9IdmlWQlpkb0pMd0lVNDlzNHVtbTJrMnFaYWE1NjZLUGpSdzYyb3RiN05TdVhaTGdtRktQRmhQOFozQVdVczVHS2NHdEREdHlhYnlhX2xqWDhWWXY0dHBxS3dEdmxqcFRVQ19XQVFFeUptN1Q1SzJNMHhtSWFSR1hReEx3UVY1blRaeC1sUXpKc0VUVENCUG9GeEJXeA?oc=5",
-      "publishedAt": "Sun, 02 Aug 2026 01:29:00 GMT"
-    },
-    {
-      "title": "서학개미, 美 증시로 다시 눈 돌렸지만…두 달간 50조 손실",
-      "source": "더팩트",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5cG1tSjJuWkxyeld5dVdEdVppT0k4bXkyTEpoR2laNFdJWFd0dGhLem1ob1NCLUFFVVQ5STJqZWMtTXlHMUhDZ0oyMVVoZVJGRllaMdIBVEFVX3lxTFB5cG1tSjJuWkxyeld5dVdEdVppT0k4bXkyTEpoR2laNFdJWFd0dGhLem1ob1NCLUFFVVQ5STJqZWMtTXlHMUhDZ0oyMVVoZVJGRllaMQ?oc=5",
-      "publishedAt": "Sun, 02 Aug 2026 05:09:00 GMT"
+      "title": "“삼전·닉스 매도하기엔 아직 일러…한국 증시, 저평가 심해”",
+      "source": "문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oNTFNbHpnWXVKNkgtc2luSndlZmRfRWo1cWpnaE1OeGtQd0REclJub1RWNVlIaXlRYjdRZy1DcExZT3lJUHZEZU0tMUxYdXcw?oc=5",
+      "publishedAt": "Sun, 02 Aug 2026 04:44:32 GMT"
     }
   ],
   "summary": {
@@ -4556,7 +4644,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.6262,
+        "changePercent": 0.5937,
         "direction": "상승"
       }
     ]
