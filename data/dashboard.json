@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-03T05:11:50.770148+09:00",
-  "updatedLabel": "2026-08-03 05:11:50 KST",
+  "updatedAt": "2026-08-03T06:26:11.257240+09:00",
+  "updatedLabel": "2026-08-03 06:26:11 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2719,10 +2719,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 63345.12,
+      "price": 63440.99,
       "previousClose": 62762.418,
-      "change": 582.702,
-      "changePercent": 0.9284,
+      "change": 678.572,
+      "changePercent": 1.0812,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3696,16 +3696,76 @@
         ],
         [
           1785701400000,
-          63359.46875
+          63389.011719
         ],
         [
-          1785701506000,
-          63345.121094
+          1785701700000,
+          63398.949219
+        ],
+        [
+          1785702000000,
+          63348.03125
+        ],
+        [
+          1785702300000,
+          63338.28125
+        ],
+        [
+          1785702600000,
+          63376.21875
+        ],
+        [
+          1785702900000,
+          63346.929688
+        ],
+        [
+          1785703200000,
+          63359.460938
+        ],
+        [
+          1785703500000,
+          63412.441406
+        ],
+        [
+          1785703800000,
+          63396.800781
+        ],
+        [
+          1785704100000,
+          63423.328125
+        ],
+        [
+          1785704400000,
+          63497.980469
+        ],
+        [
+          1785704700000,
+          63456.578125
+        ],
+        [
+          1785705000000,
+          63450.800781
+        ],
+        [
+          1785705300000,
+          63441.050781
+        ],
+        [
+          1785705600000,
+          63456.96875
+        ],
+        [
+          1785705900000,
+          63440.988281
+        ],
+        [
+          1785705960000,
+          63440.988281
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-03 05:11 KST",
-      "marketTimestamp": 1785701506
+      "marketTime": "2026-08-03 06:26 KST",
+      "marketTimestamp": 1785705960
     }
   ],
   "mainCharts": [
@@ -5004,22 +5064,16 @@
   ],
   "headlines": [
     {
-      "title": "7월 국내 증시 종목 70%가 ‘마이너스 수익률’",
-      "source": "주간경향",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9STmZ4X0FwU1hfbnJGeE9XOVhxZV9zSDVUSHZHZWdJQmFONXJjSzBhX3RvOUxCMHZLY1p3N01xSHlWZjVONWQyM0xpbU5wZ1prRFV2czlPemdmcUdrcmc?oc=5",
-      "publishedAt": "Sun, 02 Aug 2026 09:39:00 GMT"
-    },
-    {
       "title": "한국 증시 8월엔 반등할까…7월 말일 사상 최대 상승",
       "source": "베이비타임즈",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9id2dZZGs3MjYyR0xUWV9kRFBhUURNY19uWlZMSWE0MHVnNDYxczdTYTNST3NSVWZ0ZF9lV19yWkVReUdXUXBjVzhvc2hPM3NtRTZmZVpCMzR4aC1YRjBjNDdwYXZfb2luRUwtUw?oc=5",
       "publishedAt": "Sun, 02 Aug 2026 15:18:33 GMT"
     },
     {
-      "title": "“젠슨 황, 되레 거품 키운다”…韓증시 ‘투기 실험장’ 비꼰 외신",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yc1VYb3h2RGN2bDR1NGlLcWRadFprN2NxWEJRYTJMbldZZ2Z1MllxbGw0TXZJbmJfNEtjbnVLT3hqcF9yUkR2ajVWNUc4cXM?oc=5",
-      "publishedAt": "Sun, 02 Aug 2026 07:08:09 GMT"
+      "title": "7월 국내 증시 종목 70%가 ‘마이너스 수익률’",
+      "source": "주간경향",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9STmZ4X0FwU1hfbnJGeE9XOVhxZV9zSDVUSHZHZWdJQmFONXJjSzBhX3RvOUxCMHZLY1p3N01xSHlWZjVONWQyM0xpbU5wZ1prRFV2czlPemdmcUdrcmc?oc=5",
+      "publishedAt": "Sun, 02 Aug 2026 09:39:00 GMT"
     },
     {
       "title": "한국, 美·日과 발맞추듯 외환 개입… ‘환율 1300원대’ 전망 나와",
@@ -5044,6 +5098,12 @@
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yTVdhZEFVSVFrNC1Ianpqc2tRdkdrUXV0UUFqeG9TejhnVG5xSlVzNnFrRXJxcFFlSjJwRWJKRHVpVEZIYlI3dGZwdGxNZGtUQXg1OFhmR1JtUQ?oc=5",
       "publishedAt": "Sun, 02 Aug 2026 12:51:17 GMT"
+    },
+    {
+      "title": "“젠슨 황, 되레 거품 키운다”…韓증시 ‘투기 실험장’ 비꼰 외신",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1MZzFMamtXS2tISzBMUWhrRW03OFBvRTJRSGl4ZUd0UGZoN2JaSFYtTVJpSzdJQ2NwUGwyU3NKWHVmdmw4X2c?oc=5",
+      "publishedAt": "Sun, 02 Aug 2026 07:08:09 GMT"
     },
     {
       "title": "레버리지 무너졌다…韓증시 흔든 24세 ‘AI 투자천재’의 몰락",
@@ -5082,8 +5142,8 @@
         "direction": "상승"
       },
       {
-        "label": "USD/KRW",
-        "changePercent": 1.0736,
+        "label": "Bitcoin",
+        "changePercent": 1.0812,
         "direction": "상승"
       }
     ],
