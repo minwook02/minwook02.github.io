@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-03T06:26:11.257240+09:00",
-  "updatedLabel": "2026-08-03 06:26:11 KST",
+  "updatedAt": "2026-08-03T07:29:12.911947+09:00",
+  "updatedLabel": "2026-08-03 07:29:12 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2683,16 +2683,29 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 84.67,
+      "price": 80.61,
       "previousClose": 84.67,
-      "change": 0.0,
-      "changePercent": 0.0,
-      "tone": "flat",
-      "direction": "보합",
-      "series": [],
+      "change": -4.06,
+      "changePercent": -4.7951,
+      "tone": "down",
+      "direction": "하락",
+      "series": [
+        [
+          1785708600000,
+          79.879997
+        ],
+        [
+          1785708900000,
+          80.800003
+        ],
+        [
+          1785709151000,
+          80.610001
+        ]
+      ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-01 05:59 KST",
-      "marketTimestamp": 1785531599
+      "marketTime": "2026-08-03 07:19 KST",
+      "marketTimestamp": 1785709151
     },
     {
       "id": "gold",
@@ -2701,16 +2714,29 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 4107.0,
+      "price": 4125.9,
       "previousClose": 4107.0,
-      "change": 0.0,
-      "changePercent": 0.0,
-      "tone": "flat",
-      "direction": "보합",
-      "series": [],
+      "change": 18.9,
+      "changePercent": 0.4602,
+      "tone": "up",
+      "direction": "상승",
+      "series": [
+        [
+          1785708600000,
+          4133.299805
+        ],
+        [
+          1785708900000,
+          4125.299805
+        ],
+        [
+          1785709148000,
+          4125.899902
+        ]
+      ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-01 05:59 KST",
-      "marketTimestamp": 1785531594
+      "marketTime": "2026-08-03 07:19 KST",
+      "marketTimestamp": 1785709148
     },
     {
       "id": "bitcoin",
@@ -2719,10 +2745,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 63440.99,
+      "price": 63513.39,
       "previousClose": 62762.418,
-      "change": 678.572,
-      "changePercent": 1.0812,
+      "change": 750.972,
+      "changePercent": 1.1965,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3756,16 +3782,64 @@
         ],
         [
           1785705900000,
-          63440.988281
+          63472.488281
         ],
         [
-          1785705960000,
-          63440.988281
+          1785706200000,
+          63460.378906
+        ],
+        [
+          1785706500000,
+          63441.5
+        ],
+        [
+          1785706800000,
+          63625.511719
+        ],
+        [
+          1785707100000,
+          63614.609375
+        ],
+        [
+          1785707400000,
+          63531.660156
+        ],
+        [
+          1785707700000,
+          63503.808594
+        ],
+        [
+          1785708000000,
+          63623.980469
+        ],
+        [
+          1785708300000,
+          63635.230469
+        ],
+        [
+          1785708600000,
+          63622.808594
+        ],
+        [
+          1785708900000,
+          63611.269531
+        ],
+        [
+          1785709200000,
+          63591.839844
+        ],
+        [
+          1785709500000,
+          63518.078125
+        ],
+        [
+          1785709747000,
+          63513.390625
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-03 06:26 KST",
-      "marketTimestamp": 1785705960
+      "marketTime": "2026-08-03 07:29 KST",
+      "marketTimestamp": 1785709747
     }
   ],
   "mainCharts": [
@@ -5070,6 +5144,12 @@
       "publishedAt": "Sun, 02 Aug 2026 15:18:33 GMT"
     },
     {
+      "title": "흔들리는 K증시, 연일 터지는 비상장치…사이드카, 서킷브레이커 뭐길래?",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBac0p2Uno5cG5rUHF3OTBSRnZUVTdiOGlJQ0k1S1o5bFF4bzRyancwN0F1QWNza3dLZUdjTE1ybDBIdGgzTGYxbUVEeDRmR1FFRlE?oc=5",
+      "publishedAt": "Sun, 02 Aug 2026 20:00:00 GMT"
+    },
+    {
       "title": "7월 국내 증시 종목 70%가 ‘마이너스 수익률’",
       "source": "주간경향",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9STmZ4X0FwU1hfbnJGeE9XOVhxZV9zSDVUSHZHZWdJQmFONXJjSzBhX3RvOUxCMHZLY1p3N01xSHlWZjVONWQyM0xpbU5wZ1prRFV2czlPemdmcUdrcmc?oc=5",
@@ -5077,15 +5157,9 @@
     },
     {
       "title": "한국, 美·日과 발맞추듯 외환 개입… ‘환율 1300원대’ 전망 나와",
-      "source": "조선일보",
+      "source": "chosun.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObjZrSHdGeExCbk40ZzRiS2gtLTh2NEtkS1A1bGJDQUdTdXpFV3piOWpocnA1UkQtUUZoT1J6M0NCd3VpaHI2T0FuWEFmNlpoWU5IYUpOanVWOE84NDlYcXlYZ0xvSFBEMzhVazhhODZ5UzlRUGMwMjhTWXlPMDlCVkxaei1Kd3JZODdn?oc=5",
       "publishedAt": "Sun, 02 Aug 2026 15:51:00 GMT"
-    },
-    {
-      "title": "흔들리는 K증시, 연일 터지는 비상장치…사이드카, 서킷브레이커 뭐길래?",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBac0p2Uno5cG5rUHF3OTBSRnZUVTdiOGlJQ0k1S1o5bFF4bzRyancwN0F1QWNza3dLZUdjTE1ybDBIdGgzTGYxbUVEeDRmR1FFRlE?oc=5",
-      "publishedAt": "Sun, 02 Aug 2026 20:00:00 GMT"
     },
     {
       "title": "한 달 새 서킷 4회·사이드카 15회…신뢰 갉아먹는 ‘투전판 증시’",
@@ -5094,20 +5168,20 @@
       "publishedAt": "Sun, 02 Aug 2026 10:58:00 GMT"
     },
     {
+      "title": "“젠슨 황, 되레 거품 키운다”…韓증시 ‘투기 실험장’ 비꼰 외신",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yc1VYb3h2RGN2bDR1NGlLcWRadFprN2NxWEJRYTJMbldZZ2Z1MllxbGw0TXZJbmJfNEtjbnVLT3hqcF9yUkR2ajVWNUc4cXM?oc=5",
+      "publishedAt": "Sun, 02 Aug 2026 07:08:09 GMT"
+    },
+    {
       "title": "李 대통령, 귀국 즉시 출근…부동산·증시 비공개 회의 소집",
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yTVdhZEFVSVFrNC1Ianpqc2tRdkdrUXV0UUFqeG9TejhnVG5xSlVzNnFrRXJxcFFlSjJwRWJKRHVpVEZIYlI3dGZwdGxNZGtUQXg1OFhmR1JtUQ?oc=5",
       "publishedAt": "Sun, 02 Aug 2026 12:51:17 GMT"
     },
     {
-      "title": "“젠슨 황, 되레 거품 키운다”…韓증시 ‘투기 실험장’ 비꼰 외신",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1MZzFMamtXS2tISzBMUWhrRW03OFBvRTJRSGl4ZUd0UGZoN2JaSFYtTVJpSzdJQ2NwUGwyU3NKWHVmdmw4X2c?oc=5",
-      "publishedAt": "Sun, 02 Aug 2026 07:08:09 GMT"
-    },
-    {
       "title": "레버리지 무너졌다…韓증시 흔든 24세 ‘AI 투자천재’의 몰락",
-      "source": "중앙일보",
+      "source": "joongang.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFMm5MMWJISEVLcUZ6ZkY2bkZGdDNwbVNmdGlKZTcwSHVGb1ZzUkxVQlRrRlpoZTlDX2p6b3dKZjFLVXhidDduN2JwT0VtUFhrM0RyYXZ3?oc=5",
       "publishedAt": "Sun, 02 Aug 2026 06:02:53 GMT"
     }
@@ -5143,20 +5217,20 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 1.0812,
+        "changePercent": 1.1965,
         "direction": "상승"
       }
     ],
     "laggards": [
       {
         "label": "WTI",
-        "changePercent": 0.0,
-        "direction": "보합"
+        "changePercent": -4.7951,
+        "direction": "하락"
       },
       {
         "label": "Gold",
-        "changePercent": 0.0,
-        "direction": "보합"
+        "changePercent": 0.4602,
+        "direction": "상승"
       },
       {
         "label": "DOW",
