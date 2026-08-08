@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-08T22:49:46.738994+09:00",
-  "updatedLabel": "2026-08-08 22:49:46 KST",
+  "updatedAt": "2026-08-08T23:35:02.904987+09:00",
+  "updatedLabel": "2026-08-08 23:35:02 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4733,12 +4733,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 64973.01,
+      "price": 65119.17,
       "previousClose": 64884.16,
-      "change": 88.85,
-      "changePercent": 0.1369,
-      "tone": "flat",
-      "direction": "보합",
+      "change": 235.01,
+      "changePercent": 0.3622,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1786147200000,
@@ -5402,16 +5402,52 @@
         ],
         [
           1786196700000,
-          64962.539062
+          64973.039062
         ],
         [
-          1786196981000,
-          64973.011719
+          1786197000000,
+          64972.808594
+        ],
+        [
+          1786197300000,
+          64973.609375
+        ],
+        [
+          1786197600000,
+          64975.679688
+        ],
+        [
+          1786197900000,
+          64989.898438
+        ],
+        [
+          1786198200000,
+          65019.359375
+        ],
+        [
+          1786198500000,
+          65012.910156
+        ],
+        [
+          1786198800000,
+          65076.878906
+        ],
+        [
+          1786199100000,
+          65087.601562
+        ],
+        [
+          1786199400000,
+          65124.0
+        ],
+        [
+          1786199696000,
+          65119.171875
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-08 22:49 KST",
-      "marketTimestamp": 1786196981
+      "marketTime": "2026-08-08 23:34 KST",
+      "marketTimestamp": 1786199696
     }
   ],
   "mainCharts": [
@@ -6723,7 +6759,7 @@
     },
     {
       "title": "피치 \"증시 약세, 금융권 직접 충격 적지만 부동산에 영향\"",
-      "source": "대전일보",
+      "source": "daejonilbo.com",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1abF90bEJSeDVxSnhfRXN3TTdTSWNwNmhnVE5kbkFIVVBoa3ZjSkVtV0w1QTZFWENvbW13aWpxMjUtR2hqYzROQzNpSEJzT1BPRk1ZNkRtVHZrRmJyOXA2MEUyeElPcFg5RlMwR282VQ?oc=5",
       "publishedAt": "Sat, 08 Aug 2026 13:15:47 GMT"
     },
@@ -6752,10 +6788,10 @@
       "publishedAt": "Sat, 08 Aug 2026 04:03:06 GMT"
     },
     {
-      "title": "종목장세 속 쇼트커버링 기대할 만한 종목 9선 [한경우의 케이스스터디]",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MYUs4RmV5U01SMW9ZeTJhSk83OW1fZ3FzQUV2RERCd3lobm5JZjdEdDdRY3RGT2M3cHhQa05EdWN1VE42SEEwWF9IS05QZXRH?oc=5",
-      "publishedAt": "Sat, 08 Aug 2026 08:06:55 GMT"
+      "title": "국내 증시 급락에 국장 복귀 계좌 RIA, 순유출 전환…도입 후 처음",
+      "source": "세계일보",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GMXl1QkdIMnU0d2NuMm1QeHQ0SHl2bzh0Z2IxelJDTjlUQmZJTWFaUlhiNTljb2V2XzUxQ2tvWGhSS1B1NV9kMHhpcGwxN1ZCbnlveXNnZ3MtalJBTnBLTHpCWmtrdXdlTVJv0gFUQVVfeXFMTVB5WF96MkE2cTh2NFFXTHFkejhDb3hpN29zbTVYTEQwRTE3SE9neXdJbUVHUWN3SnpURGpzcVhnRExOOU9ic1RUcDJYd3J3cjdIQWty?oc=5",
+      "publishedAt": "Sat, 08 Aug 2026 13:30:00 GMT"
     }
   ],
   "summary": {
