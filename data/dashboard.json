@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-08T14:01:15.789744+09:00",
-  "updatedLabel": "2026-08-08 14:01:15 KST",
+  "updatedAt": "2026-08-08T15:06:47.961830+09:00",
+  "updatedLabel": "2026-08-08 15:06:47 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4733,10 +4733,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 64966.09,
+      "price": 64939.72,
       "previousClose": 64884.16,
-      "change": 81.93,
-      "changePercent": 0.1263,
+      "change": 55.56,
+      "changePercent": 0.0856,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -4982,16 +4982,68 @@
         ],
         [
           1786165200000,
-          64966.089844
+          64975.308594
         ],
         [
-          1786165270000,
-          64966.089844
+          1786165500000,
+          64956.421875
+        ],
+        [
+          1786165800000,
+          64951.140625
+        ],
+        [
+          1786166100000,
+          64966.859375
+        ],
+        [
+          1786166400000,
+          64986.238281
+        ],
+        [
+          1786166700000,
+          64982.628906
+        ],
+        [
+          1786167000000,
+          64980.871094
+        ],
+        [
+          1786167300000,
+          64982.148438
+        ],
+        [
+          1786167600000,
+          64974.320312
+        ],
+        [
+          1786167900000,
+          64959.808594
+        ],
+        [
+          1786168200000,
+          64939.730469
+        ],
+        [
+          1786168500000,
+          64961.0
+        ],
+        [
+          1786168800000,
+          64947.46875
+        ],
+        [
+          1786169100000,
+          64947.460938
+        ],
+        [
+          1786169204000,
+          64939.71875
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-08 14:01 KST",
-      "marketTimestamp": 1786165270
+      "marketTime": "2026-08-08 15:06 KST",
+      "marketTimestamp": 1786169204
     }
   ],
   "mainCharts": [
@@ -6308,6 +6360,12 @@
       "publishedAt": "Sat, 08 Aug 2026 04:03:06 GMT"
     },
     {
+      "title": "다음주 증시, 美 CPI · PPI 등 물가지표 살펴야",
+      "source": "초이스경제",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKam5tTmlFbktrOFZVTklvWUJJZzRQWTgwMTdXQkl4RmhPQU5PcDlMZlJMVUJYdTFUTElKeG9IUkF3aDNJeEFod1VDdkdHUHVPbTV2bUsyMWdDRzBkVm5QVV9YN2RoVURVYmxkM2dVSdIBc0FVX3lxTE1aa05FaUx0NC1VNG41OHJPbXlJa1BDbFFqQ3ZBcTZPMzlUeE51bWx4aGNGeGYxZW1JS1pyeFdZdFNqdm56TUVROGhQMDFHQmhGUDUtZUltT25wZFJPZGtfSXBKR2k5d2g0SGtaU3lwSDVZeE0?oc=5",
+      "publishedAt": "Fri, 07 Aug 2026 23:44:49 GMT"
+    },
+    {
       "title": "한 달 만에 22% 폭락한 코스피…\"지금이라도 팔까 버틸까\"",
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zNExZVmJJWGNDdzh3aE9PcUpiN1dBOTg3N1hsbjQwVnA4TFRGY1V4QjNPT293VzNzQkRETlhHa1RlWTRPc2pGY1F4VXhiRjgtR2RxdWEyejZNZw?oc=5",
@@ -6327,15 +6385,9 @@
     },
     {
       "title": "美 고용보고서 국내외 증시 분수령 될까…주요 내용은?",
-      "source": "미디어펜",
+      "source": "mediapen.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02WDVPSUdFM1VjODFZTDJiUndza1MwQ2llV0R5VV9DWGduMEt0b2Z6U0htUHN3alJKYUhVcWZhVEpHcUtSNVI5RW5fVXFSVFJFVnRFc3MxX2fSAVhBVV95cUxNNlg1T0lHRTNVYzgxWUwyYlJ3c2tTMENpZVdEeVVfQ1hnbjBLdG9melNIbVBzd2pSSmFIVXFmYVRKR3FLUjVSOUVuX1VxUlRSRVZ0RXNzMV9n?oc=5",
       "publishedAt": "Sat, 08 Aug 2026 01:10:35 GMT"
-    },
-    {
-      "title": "[주간증시전망] 코스피, 급락 후 반등세 이어갈까…美 CPI·외국인 수급 촉각",
-      "source": "아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5SWl6Q05tYVBBR1R5MW1DRG9iOG5GTDFMRkNWZGpqNlJBRC1XV24waU5TTktWRno2U2RVVlpOZll0U0lfaHNGQ2J2cXNOdHFIN1A1T016ZjFBZ9IBWEFVX3lxTE5xenN6WllHV09BajBaaTNzTGhkR1dhbGhYVkZNUmlzOGYtQmxWSUhSOHlObTlGQ2lHX0pTZmpPeXpTRDVaWTBGd2VUemo0NzdhSzRNdGlZdjI?oc=5",
-      "publishedAt": "Fri, 07 Aug 2026 21:00:00 GMT"
     }
   ],
   "summary": {
