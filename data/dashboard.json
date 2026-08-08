@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-09T04:33:00.822738+09:00",
-  "updatedLabel": "2026-08-09 04:33:00 KST",
+  "updatedAt": "2026-08-09T05:34:38.365566+09:00",
+  "updatedLabel": "2026-08-09 05:34:38 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4733,12 +4733,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 64970.48,
+      "price": 65036.91,
       "previousClose": 64884.16,
-      "change": 86.32,
-      "changePercent": 0.133,
-      "tone": "flat",
-      "direction": "보합",
+      "change": 152.75,
+      "changePercent": 0.2354,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1786147200000,
@@ -5678,16 +5678,64 @@
         ],
         [
           1786217400000,
-          64966.769531
+          64985.160156
         ],
         [
-          1786217576000,
-          64970.480469
+          1786217700000,
+          64995.699219
+        ],
+        [
+          1786218000000,
+          64996.359375
+        ],
+        [
+          1786218300000,
+          65011.558594
+        ],
+        [
+          1786218600000,
+          65032.878906
+        ],
+        [
+          1786218900000,
+          65025.410156
+        ],
+        [
+          1786219200000,
+          65031.390625
+        ],
+        [
+          1786219500000,
+          65027.371094
+        ],
+        [
+          1786219800000,
+          65033.921875
+        ],
+        [
+          1786220100000,
+          65025.179688
+        ],
+        [
+          1786220400000,
+          65011.589844
+        ],
+        [
+          1786220700000,
+          65016.011719
+        ],
+        [
+          1786221000000,
+          65036.921875
+        ],
+        [
+          1786221270000,
+          65036.910156
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-09 04:32 KST",
-      "marketTimestamp": 1786217576
+      "marketTime": "2026-08-09 05:34 KST",
+      "marketTimestamp": 1786221270
     }
   ],
   "mainCharts": [
@@ -6986,16 +7034,16 @@
   ],
   "headlines": [
     {
-      "title": "“역시 미국이 답”…코스피 폭락에 서학개미 ‘대탈출’ [머니+]",
-      "source": "에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sdnF3NUVMRzJ6MnlFNThLMG54eno2OUFfeHZaaFZfVjJIVjBhZ2RLNmd3UFZ3RkdzVjhTUGlEeUxQTThpNmpOSnczY0xpWGJPV3FRQmlpSTZDSnc?oc=5",
-      "publishedAt": "Sat, 08 Aug 2026 02:20:04 GMT"
-    },
-    {
       "title": "‘정부의 서학개미 증시복귀 작전 실패?’…로이터 “코스피 신뢰 빠르게 악화”",
       "source": "문화일보",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2U0pzUkNuekFNeUZGNEhYbWRfUm5QVzNoYWFrOGZHMTl3SXdFbzVMdWpVTm0wQ3U2dVR3WG1sMTgzZE1SWFI0NFg2T05nT3o5?oc=5",
       "publishedAt": "Sat, 08 Aug 2026 09:22:36 GMT"
+    },
+    {
+      "title": "“역시 미국이 답”…코스피 폭락에 서학개미 ‘대탈출’ [머니+]",
+      "source": "에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sdnF3NUVMRzJ6MnlFNThLMG54eno2OUFfeHZaaFZfVjJIVjBhZ2RLNmd3UFZ3RkdzVjhTUGlEeUxQTThpNmpOSnczY0xpWGJPV3FRQmlpSTZDSnc?oc=5",
+      "publishedAt": "Sat, 08 Aug 2026 02:20:04 GMT"
     },
     {
       "title": "S&P500, 자사주 매입 재개로 증시 수급 개선 전망",
@@ -7008,6 +7056,12 @@
       "source": "대전일보",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1abF90bEJSeDVxSnhfRXN3TTdTSWNwNmhnVE5kbkFIVVBoa3ZjSkVtV0w1QTZFWENvbW13aWpxMjUtR2hqYzROQzNpSEJzT1BPRk1ZNkRtVHZrRmJyOXA2MEUyeElPcFg5RlMwR282VQ?oc=5",
       "publishedAt": "Sat, 08 Aug 2026 13:15:47 GMT"
+    },
+    {
+      "title": "국내 증시 급락에 국장 복귀 계좌 RIA, 순유출 전환…도입 후 처음",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmUnVNUVY2ZlB0Q002VGdqRHdBWmxZMHFkX1VrMnJ3Y1AyMDZaQlFXQjF3bHNYbUZPTFA2SmlWMnN0dTVyT005OTk0NURaRGktQ1NkeQ?oc=5",
+      "publishedAt": "Sat, 08 Aug 2026 13:32:39 GMT"
     },
     {
       "title": "韓 개미들, 삼전닉스 떠나 美 증시 사들였더니…월가 “위험자산 줄여야 할 때” 경고",
@@ -7026,12 +7080,6 @@
       "source": "뉴시스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qS3NJanMtQzhZVlhkQ1p6Yzdpa2Q0RTNWX1otcVNNbHVlVFJzcXdqcmJwR2czSkhmdU5iaVItMWFHQm15blNYMHRsSzhLLTZES091Rmp5WTA4VFhlR2E3MdIBeEFVX3lxTE1mdEhSeWVUZHEwNGp4MU0wOGtaNWt4R1FnbjNCR2VLRXFhS3QzNk5TTUg4YmM3T0JQM2QyMUI0cGNXTF9rNWczclVYOUtISU9ISE1WbWRYSDhmNlFLazdLV2g3NTNuakhaczdDYTBRejFCaE9CNjVzaw?oc=5",
       "publishedAt": "Sat, 08 Aug 2026 06:04:57 GMT"
-    },
-    {
-      "title": "피치 “韓 증시 약세, 금융권보다 부동산에 더 큰 충격”",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBrLWpyVFoyWWtUYmJuSzN0a0t5OFowQnZ4WTh5cUVuYWctU3R1UlA4Qm44dEJ0WmViTlBMNjg3VXA0NXlkeGc?oc=5",
-      "publishedAt": "Sat, 08 Aug 2026 04:03:06 GMT"
     }
   ],
   "summary": {
