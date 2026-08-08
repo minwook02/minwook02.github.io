@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-08T15:06:47.961830+09:00",
-  "updatedLabel": "2026-08-08 15:06:47 KST",
+  "updatedAt": "2026-08-08T16:29:56.557771+09:00",
+  "updatedLabel": "2026-08-08 16:29:56 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4733,20 +4733,20 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 64939.72,
+      "price": 64965.58,
       "previousClose": 64884.16,
-      "change": 55.56,
-      "changePercent": 0.0856,
+      "change": 81.42,
+      "changePercent": 0.1255,
       "tone": "flat",
       "direction": "보합",
       "series": [
         [
           1786147200000,
-          64890.109375
+          64890.101562
         ],
         [
           1786147500000,
-          64872.351562
+          64872.359375
         ],
         [
           1786147800000,
@@ -4774,19 +4774,19 @@
         ],
         [
           1786149600000,
-          64872.070312
+          64872.078125
         ],
         [
           1786149900000,
-          64874.011719
+          64874.328125
         ],
         [
           1786150200000,
-          64878.878906
+          64878.871094
         ],
         [
           1786150500000,
-          64878.21875
+          64888.160156
         ],
         [
           1786150800000,
@@ -4794,19 +4794,19 @@
         ],
         [
           1786151100000,
-          64884.949219
+          64885.238281
         ],
         [
           1786151400000,
-          64921.25
+          64921.261719
         ],
         [
           1786151700000,
-          64901.089844
+          64901.101562
         ],
         [
           1786152000000,
-          64885.261719
+          64885.289062
         ],
         [
           1786152300000,
@@ -4826,7 +4826,7 @@
         ],
         [
           1786153500000,
-          64884.46875
+          64884.460938
         ],
         [
           1786153800000,
@@ -4854,7 +4854,7 @@
         ],
         [
           1786155600000,
-          64867.679688
+          64867.550781
         ],
         [
           1786155900000,
@@ -4866,7 +4866,7 @@
         ],
         [
           1786156500000,
-          64881.738281
+          64881.730469
         ],
         [
           1786156800000,
@@ -4886,7 +4886,7 @@
         ],
         [
           1786158000000,
-          64891.289062
+          64892.601562
         ],
         [
           1786158300000,
@@ -4894,7 +4894,7 @@
         ],
         [
           1786158600000,
-          64891.890625
+          64892.871094
         ],
         [
           1786158900000,
@@ -4902,7 +4902,7 @@
         ],
         [
           1786159200000,
-          64968.460938
+          64974.101562
         ],
         [
           1786159500000,
@@ -4914,11 +4914,11 @@
         ],
         [
           1786160100000,
-          64975.378906
+          64974.101562
         ],
         [
           1786160400000,
-          64978.050781
+          64978.058594
         ],
         [
           1786160700000,
@@ -4934,7 +4934,7 @@
         ],
         [
           1786161600000,
-          64993.488281
+          64997.109375
         ],
         [
           1786161900000,
@@ -4954,7 +4954,7 @@
         ],
         [
           1786163100000,
-          64959.878906
+          64959.890625
         ],
         [
           1786163400000,
@@ -4962,7 +4962,7 @@
         ],
         [
           1786163700000,
-          65000.71875
+          65000.710938
         ],
         [
           1786164000000,
@@ -4974,23 +4974,23 @@
         ],
         [
           1786164600000,
-          64975.378906
+          64975.390625
         ],
         [
           1786164900000,
-          64974.21875
+          64974.140625
         ],
         [
           1786165200000,
-          64975.308594
+          64975.320312
         ],
         [
           1786165500000,
-          64956.421875
+          64956.410156
         ],
         [
           1786165800000,
-          64951.140625
+          64951.128906
         ],
         [
           1786166100000,
@@ -5034,16 +5034,80 @@
         ],
         [
           1786169100000,
-          64947.460938
+          64946.410156
         ],
         [
-          1786169204000,
-          64939.71875
+          1786169400000,
+          64939.191406
+        ],
+        [
+          1786169700000,
+          64935.011719
+        ],
+        [
+          1786170000000,
+          64943.589844
+        ],
+        [
+          1786170300000,
+          64936.300781
+        ],
+        [
+          1786170600000,
+          64931.910156
+        ],
+        [
+          1786170900000,
+          64934.328125
+        ],
+        [
+          1786171200000,
+          64955.980469
+        ],
+        [
+          1786171500000,
+          64973.050781
+        ],
+        [
+          1786171800000,
+          64968.738281
+        ],
+        [
+          1786172100000,
+          64968.730469
+        ],
+        [
+          1786172400000,
+          64966.269531
+        ],
+        [
+          1786172700000,
+          64968.761719
+        ],
+        [
+          1786173000000,
+          64955.160156
+        ],
+        [
+          1786173300000,
+          64955.160156
+        ],
+        [
+          1786173600000,
+          64966.871094
+        ],
+        [
+          1786173900000,
+          64966.851562
+        ],
+        [
+          1786174190000,
+          64965.578125
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-08 15:06 KST",
-      "marketTimestamp": 1786169204
+      "marketTime": "2026-08-08 16:29 KST",
+      "marketTimestamp": 1786174190
     }
   ],
   "mainCharts": [
@@ -6354,6 +6418,12 @@
       "publishedAt": "Sat, 08 Aug 2026 02:40:00 GMT"
     },
     {
+      "title": "\"국장 대신 미장\" 몰려간 개미들…美 금융가 \"위험자산 줄여야“",
+      "source": "뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qS3NJanMtQzhZVlhkQ1p6Yzdpa2Q0RTNWX1otcVNNbHVlVFJzcXdqcmJwR2czSkhmdU5iaVItMWFHQm15blNYMHRsSzhLLTZES091Rmp5WTA4VFhlR2E3MdIBeEFVX3lxTE1mdEhSeWVUZHEwNGp4MU0wOGtaNWt4R1FnbjNCR2VLRXFhS3QzNk5TTUg4YmM3T0JQM2QyMUI0cGNXTF9rNWczclVYOUtISU9ISE1WbWRYSDhmNlFLazdLV2g3NTNuakhaczdDYTBRejFCaE9CNjVzaw?oc=5",
+      "publishedAt": "Sat, 08 Aug 2026 06:04:57 GMT"
+    },
+    {
       "title": "피치 “韓 증시 약세, 금융권보다 부동산에 더 큰 충격”",
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IN2xwSnJiSWhUNjlGWXNmd0NKQ0dPLWx6YnFuU3NmVHhIUGdMaGdPSlpmbElvWGFEelBUeUJNY1ktSnhFTFdkUjd0OTlZS1E?oc=5",
@@ -6361,9 +6431,15 @@
     },
     {
       "title": "다음주 증시, 美 CPI · PPI 등 물가지표 살펴야",
-      "source": "초이스경제",
+      "source": "choicenews.co.kr",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKam5tTmlFbktrOFZVTklvWUJJZzRQWTgwMTdXQkl4RmhPQU5PcDlMZlJMVUJYdTFUTElKeG9IUkF3aDNJeEFod1VDdkdHUHVPbTV2bUsyMWdDRzBkVm5QVV9YN2RoVURVYmxkM2dVSdIBc0FVX3lxTE1aa05FaUx0NC1VNG41OHJPbXlJa1BDbFFqQ3ZBcTZPMzlUeE51bWx4aGNGeGYxZW1JS1pyeFdZdFNqdm56TUVROGhQMDFHQmhGUDUtZUltT25wZFJPZGtfSXBKR2k5d2g0SGtaU3lwSDVZeE0?oc=5",
       "publishedAt": "Fri, 07 Aug 2026 23:44:49 GMT"
+    },
+    {
+      "title": "피치 “韓 증시 약세, 금융권보다 부동산에 더 큰 충격”",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYV3lrS1BwbWgwTXlrWEFxZDF5ZU8wMmVVLTJzeU5aRDlRQ21JQUJ1Z3N5cWNLbVJWQkJOcjFteG4xUGt5TWtndzBpRkN2ZTEzUFN5Sw?oc=5",
+      "publishedAt": "Fri, 07 Aug 2026 13:33:34 GMT"
     },
     {
       "title": "한 달 만에 22% 폭락한 코스피…\"지금이라도 팔까 버틸까\"",
@@ -6376,18 +6452,6 @@
       "source": "Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2VEdWYlk0alNHS3VSVUVpZGp5WW5VbHdNYXJ2bEJYZ3pzTmFETFhrZ0VXSm12WXZET2FCeGk0RlI4Nm9BZTJTSERnQWM5STdXLVVIUDI5ODhiU3RPaDNQaV85MjhrZ1ZnVGhZZ3JNWXpxeUZTTVhjXw?oc=5",
       "publishedAt": "Sat, 08 Aug 2026 04:07:25 GMT"
-    },
-    {
-      "title": "한국금융지주, 2분기 순익 1조원 육박…증시 호황에 실적 폭발",
-      "source": "핀포인트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90OG1sNVpEN1N4eGF3bGVhM2Z6ZzRxX0JCaUZCZ2UyUVk1Qk5NRkJ5VlZBNExZX3FvVHJmVFh5ZkZGOXQwNWdqUTFnX3RVQWVyVm02bzNob1U0eFptMEZPX0U3UFVBdFBiNlpROGkzcTlYUFJSV2800gF3QVVfeXFMT3Q4bWw1WkQ3U3h4YXdsZWEzZnpnNHFfQkJpRkJnZTJRWTVCTk1GQnlWVkE0TFlfcW9UcmZUWHlmRkY5dDA1Z2pRMWdfdFVBZXJWbTZvM2hvVTR4Wm0wRk9fRTdQVUF0UGI2WlE4aTNxOVhQUlJXbzQ?oc=5",
-      "publishedAt": "Sat, 08 Aug 2026 02:36:17 GMT"
-    },
-    {
-      "title": "美 고용보고서 국내외 증시 분수령 될까…주요 내용은?",
-      "source": "mediapen.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02WDVPSUdFM1VjODFZTDJiUndza1MwQ2llV0R5VV9DWGduMEt0b2Z6U0htUHN3alJKYUhVcWZhVEpHcUtSNVI5RW5fVXFSVFJFVnRFc3MxX2fSAVhBVV95cUxNNlg1T0lHRTNVYzgxWUwyYlJ3c2tTMENpZVdEeVVfQ1hnbjBLdG9melNIbVBzd2pSSmFIVXFmYVRKR3FLUjVSOUVuX1VxUlRSRVZ0RXNzMV9n?oc=5",
-      "publishedAt": "Sat, 08 Aug 2026 01:10:35 GMT"
     }
   ],
   "summary": {
