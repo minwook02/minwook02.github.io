@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-10T01:39:45.103929+09:00",
-  "updatedLabel": "2026-08-10 01:39:45 KST",
+  "updatedAt": "2026-08-10T02:34:34.952290+09:00",
+  "updatedLabel": "2026-08-10 02:34:34 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -972,9 +972,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 26690.615,
-      "previousClose": 26348.352,
-      "change": 342.263,
-      "changePercent": 1.299,
+      "previousClose": 26348.4,
+      "change": 342.215,
+      "changePercent": 1.2988,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3099,10 +3099,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 65194.13,
+      "price": 65176.91,
       "previousClose": 64908.484,
-      "change": 285.646,
-      "changePercent": 0.4401,
+      "change": 268.426,
+      "changePercent": 0.4135,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3904,16 +3904,60 @@
         ],
         [
           1786293300000,
-          65206.5
+          65194.140625
         ],
         [
-          1786293572000,
-          65194.128906
+          1786293600000,
+          65206.570312
+        ],
+        [
+          1786293900000,
+          65185.339844
+        ],
+        [
+          1786294200000,
+          65192.421875
+        ],
+        [
+          1786294500000,
+          65181.96875
+        ],
+        [
+          1786294800000,
+          65180.269531
+        ],
+        [
+          1786295100000,
+          65170.859375
+        ],
+        [
+          1786295400000,
+          65179.160156
+        ],
+        [
+          1786295700000,
+          65180.269531
+        ],
+        [
+          1786296000000,
+          65185.5
+        ],
+        [
+          1786296300000,
+          65185.480469
+        ],
+        [
+          1786296600000,
+          65178.101562
+        ],
+        [
+          1786296870000,
+          65176.910156
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-10 01:39 KST",
-      "marketTimestamp": 1786293572
+      "marketTime": "2026-08-10 02:34 KST",
+      "marketTimestamp": 1786296870
     }
   ],
   "mainCharts": [
@@ -4882,9 +4926,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 26690.615,
-      "previousClose": 26348.352,
-      "change": 342.263,
-      "changePercent": 1.299,
+      "previousClose": 26348.4,
+      "change": 342.215,
+      "changePercent": 1.2988,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5219,21 +5263,21 @@
     },
     {
       "title": "국장 ‘대혼란’ 이제 끝?…“증시 급변동 일단락 가능성” [지금뉴스]",
-      "source": "KBS 뉴스",
+      "source": "news.kbs.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XbHJvYmk1VXRVZEpfaTVlc1FScm10bk1ueHZueHQzRTVMQWlyaDZTYVBEWFFjSldIV1AxUlRybDl3NG5hUERlQ290Q1RGcHRZcUpabUkyTzhvaGRXWVRucGJuUU5Fdw?oc=5",
       "publishedAt": "Sun, 09 Aug 2026 06:39:00 GMT"
-    },
-    {
-      "title": "[김진호의 금융포커스] `투자 부적합` 자초한 증시",
-      "source": "부산일보",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wdHFrMGt1czFjQWR3dnFLQmhEaHRFYU9BeE9uSWJwemhmN3JsQ01fekIzSk40Mk9nSkp6MnhtYVFtWTJOT1RHLVZQTTB5UTB0Q18tZFdsejJYWm9VWTYzOE85ZWd3UzFmdWF3bjgyM3JVZXNZ?oc=5",
-      "publishedAt": "Sun, 09 Aug 2026 09:05:08 GMT"
     },
     {
       "title": "\"한국 증시 변동성, 2개월래 최저…레버리지 청산으로 진정\"",
       "source": "뉴스1",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wWXY0LUhQQkFaaGJ3dGhZa1k3R0I5UzhoSUp3Vm1sTEtuU01BbTJnSUo3cG9QdEd0Z2toSmRJVDVSaTFZbUsyM3hhYTZLcGtacmRaYThKdmM?oc=5",
       "publishedAt": "Sun, 09 Aug 2026 08:03:20 GMT"
+    },
+    {
+      "title": "[김진호의 금융포커스] `투자 부적합` 자초한 증시",
+      "source": "부산일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wdHFrMGt1czFjQWR3dnFLQmhEaHRFYU9BeE9uSWJwemhmN3JsQ01fekIzSk40Mk9nSkp6MnhtYVFtWTJOT1RHLVZQTTB5UTB0Q18tZFdsejJYWm9VWTYzOE85ZWd3UzFmdWF3bjgyM3JVZXNZ?oc=5",
+      "publishedAt": "Sun, 09 Aug 2026 09:05:08 GMT"
     },
     {
       "title": "레버리지 거품 빠진 韓증시…블룸버그 “극단적 변동성 끝날 수도”",
@@ -5255,7 +5299,7 @@
     },
     {
       "title": "돌아온 원화·엔화 동반 강세 시대…한국 증시에 다시 기회 올까 [김학균의 시장읽기]",
-      "source": "시사저널",
+      "source": "sisajournal.com",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jQlk4dGNmUnpHX0I5NktEN3o0LWVIUDZuMWlYeXppSGIzOGpTdmk3U1hBWEN4TTlYY2pvVGlfQlMwd3pPZENoY0hQbzNGVWR4VjJBbkYzSS15Q2V2NnBCTkFaMUFYRnlFOW1fVzAwMW82TmvSAXNBVV95cUxPY0JZOHRjZlJ6R19COTZLRDd6NC1lSFA2bjFpWHl6aUhiMzhqU3ZpN1NYQVhDeE05WGNqb1RpX0JTMHd6T2RDaGNIUG8zRlVkeFYyQW5GM0kteUNldjZwQk5BWjFBWEZ5RTltX1cwMDFvNk5r?oc=5",
       "publishedAt": "Sun, 09 Aug 2026 05:09:12 GMT"
     }
@@ -5286,7 +5330,7 @@
       },
       {
         "label": "NASDAQ",
-        "changePercent": 1.299,
+        "changePercent": 1.2988,
         "direction": "상승"
       },
       {
