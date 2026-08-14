@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-15T07:27:12.362676+09:00",
-  "updatedLabel": "2026-08-15 07:27:12 KST",
+  "updatedAt": "2026-08-15T07:52:12.456819+09:00",
+  "updatedLabel": "2026-08-15 07:52:12 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4733,10 +4733,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 62749.45,
+      "price": 62818.62,
       "previousClose": 63418.16,
-      "change": -668.71,
-      "changePercent": -1.0544,
+      "change": -599.54,
+      "changePercent": -0.9454,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5818,16 +5818,36 @@
         ],
         [
           1786746300000,
-          62749.441406
+          62746.628906
         ],
         [
-          1786746429000,
-          62749.449219
+          1786746600000,
+          62799.988281
+        ],
+        [
+          1786746900000,
+          62810.261719
+        ],
+        [
+          1786747200000,
+          62818.0
+        ],
+        [
+          1786747500000,
+          62818.199219
+        ],
+        [
+          1786747800000,
+          62818.621094
+        ],
+        [
+          1786747927000,
+          62818.621094
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-15 07:27 KST",
-      "marketTimestamp": 1786746429
+      "marketTime": "2026-08-15 07:52 KST",
+      "marketTimestamp": 1786747927
     }
   ],
   "mainCharts": [
@@ -7122,6 +7142,12 @@
   ],
   "headlines": [
     {
+      "title": "출발증시 2부",
+      "source": "한국경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlplTVloRldUenZucjZzYXpfcEtrYVhwNGhQOU0ySmMyUXlOR2dPdk9ISS1ydEZ6UTJteU1XbTFHTnVtajVyZm53QVRpaXRzMDlOMHpOUFZrSTgxdlN0OUZjNG5MdGEtR1FVa2VfRDRmY3lQYmhPckQ3QVc0NUVEWmNSQXc2cS1lMy1oRndxWFdhUE1HVWIwd0ptaWRqRThfTWo4?oc=5",
+      "publishedAt": "Fri, 14 Aug 2026 14:30:21 GMT"
+    },
+    {
       "title": "글로벌 자금 이동 속 한국 증시 소외의 종착점은… 8월 반등 착시 경계론 나와",
       "source": "글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZl8yckhOdGp0TjRrWFMzQW5CY3B2ZjBhbGI0OWRwbGYzNjhQVkxLV0ZvZVQ4ZVVKaDJGaGprWVZSbUN1MV9aZmt4YmRyRDBwMDhPWldNNDdTdjZ2bW1GeVUtQVptVEJFT1NucXExbnJFLUlIQ0oxY083eldpWjhKbDBhMjBKZVRB?oc=5",
@@ -7138,12 +7164,6 @@
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GaEk4YlREaG1vempmYXZjNm0yUVUyeE83cFRveDNqWjFmT25IdUI4OGIxTW5hRGp0NlBkWGFSNUdKSmhDY0lheGY0WklNVHc?oc=5",
       "publishedAt": "Fri, 14 Aug 2026 05:54:51 GMT"
-    },
-    {
-      "title": "뉴욕증시, 소비 둔화 우려에 숨고르기…S&P500 0.2%↓",
-      "source": "wowtv.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCVmZuWDFvdThmYU8xaDZzTWpuZ3B1LUQ1bzI0ZmpTMU8weGdlOENvTlNDbC1RMTI0SlhrenRUa0t1YnlBNVR3SW9XNjM1Mllia2VtNmJvcXkwWEtNQ2dBUmswV3llX1pwWmcwWEdCNUc2OEZUOXU2bXNlN2g?oc=5",
-      "publishedAt": "Fri, 14 Aug 2026 20:22:00 GMT"
     },
     {
       "title": "[마켓톡스]미국증시서 반도체·한국증시로 거품 이동-시티그룹",
@@ -7165,7 +7185,7 @@
     },
     {
       "title": "이번주 내내 오른 코스피, '칠천피' 근접 마감…코스닥도 상승",
-      "source": "한국경제",
+      "source": "hankyung.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MNkdGUWlPNmloQTZRV05ueWtBVlV4RjJ3eDYzLTdUQUVSWllJR01ra0VtTUdBLThoZW80d1FnWnA4cGlNbS1rbUtqTVNSeUh3VGRvbEpvQWVMUQ?oc=5",
       "publishedAt": "Fri, 14 Aug 2026 06:38:30 GMT"
     }
@@ -7208,7 +7228,7 @@
     "laggards": [
       {
         "label": "Bitcoin",
-        "changePercent": -1.0544,
+        "changePercent": -0.9454,
         "direction": "하락"
       },
       {
