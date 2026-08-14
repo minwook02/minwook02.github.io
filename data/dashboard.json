@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-15T07:52:12.456819+09:00",
-  "updatedLabel": "2026-08-15 07:52:12 KST",
+  "updatedAt": "2026-08-15T08:25:44.097757+09:00",
+  "updatedLabel": "2026-08-15 08:25:44 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2699,10 +2699,6 @@
         [
           1786740900000,
           1416.47998
-        ],
-        [
-          1786741192000,
-          1416.47998
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4733,10 +4729,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 62818.62,
+      "price": 62873.17,
       "previousClose": 63418.16,
-      "change": -599.54,
-      "changePercent": -0.9454,
+      "change": -544.99,
+      "changePercent": -0.8594,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5838,16 +5834,40 @@
         ],
         [
           1786747800000,
-          62818.621094
+          62816.71875
         ],
         [
-          1786747927000,
-          62818.621094
+          1786748100000,
+          62814.539062
+        ],
+        [
+          1786748400000,
+          62820.0
+        ],
+        [
+          1786748700000,
+          62826.5
+        ],
+        [
+          1786749000000,
+          62866.390625
+        ],
+        [
+          1786749300000,
+          62826.5
+        ],
+        [
+          1786749600000,
+          62889.011719
+        ],
+        [
+          1786749932000,
+          62873.171875
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-15 07:52 KST",
-      "marketTimestamp": 1786747927
+      "marketTime": "2026-08-15 08:25 KST",
+      "marketTimestamp": 1786749932
     }
   ],
   "mainCharts": [
@@ -7172,6 +7192,12 @@
       "publishedAt": "Fri, 14 Aug 2026 10:53:27 GMT"
     },
     {
+      "title": "미국 물가 둔화, 한은 8월 금리 인상 '고심'…백투백 가능성은",
+      "source": "데일리안",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdGpiRTVBNy1OZ0VmVFlpMWZfYVJmaE43VDJydVNCTDFjeExTeVRwV2RhcE5LV2xMR2J4MEpVMF9fLUVKX2FUeHI0T2pHRTBwWEZHc0owbnNUZG12cTVYeTZaVk50dkFvdTBzdFFIbjZTNXprZWNDc2ozMkNvRUU2QXAxdENHeVZrLXBpa3ZpYUYxVlF5TVdwRExZbENrYjdHR0NCZVMwaTNZbXBFYjRMX2ZoVzdWUGJaUGJsSHFxM2JJeXVDaWhRUi1QTFI3TFZ0d3Z0VkJxa3k5aDRpZ1BfRkJHWmZzWG4wUUM2MDFEZUNZVFhHQUhlLTMySHRvaDY4VDI0?oc=5",
+      "publishedAt": "Fri, 14 Aug 2026 23:06:00 GMT"
+    },
+    {
       "title": "증시 흔들릴까 불안하다면…채권 섞고 인컴 ETF로 방어 [S머니+]",
       "source": "서울경제",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mTVcyQUM0YXBvWXBhX2szaVhoOHZKOWRjTjg1UnZ0UTNQS0x6Z2ZMZnBXWE40TmVVZnlPc1pybEJwdGtteXJXRW5iQ1JHQklPX0E?oc=5",
@@ -7182,12 +7208,6 @@
       "source": "포커스온경제",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uamp6QkdweFdZVVdrYThMdW9uV3NHOUdlbGtmdG0wbDRwektUYS1URjBNU0ZQU2pOTG1oTFpKU0NvdmxGdklyanlDTWcydUJLMk0tM0JZNWUwcklrYmc?oc=5",
       "publishedAt": "Fri, 14 Aug 2026 06:53:09 GMT"
-    },
-    {
-      "title": "이번주 내내 오른 코스피, '칠천피' 근접 마감…코스닥도 상승",
-      "source": "hankyung.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MNkdGUWlPNmloQTZRV05ueWtBVlV4RjJ3eDYzLTdUQUVSWllJR01ra0VtTUdBLThoZW80d1FnWnA4cGlNbS1rbUtqTVNSeUh3VGRvbEpvQWVMUQ?oc=5",
-      "publishedAt": "Fri, 14 Aug 2026 06:38:30 GMT"
     }
   ],
   "summary": {
@@ -7228,7 +7248,7 @@
     "laggards": [
       {
         "label": "Bitcoin",
-        "changePercent": -0.9454,
+        "changePercent": -0.8594,
         "direction": "하락"
       },
       {
