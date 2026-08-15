@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-15T23:26:48.854279+09:00",
-  "updatedLabel": "2026-08-15 23:26:48 KST",
+  "updatedAt": "2026-08-15T23:51:09.383996+09:00",
+  "updatedLabel": "2026-08-15 23:51:09 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3148,7 +3148,7 @@
         ],
         [
           1786686600000,
-          81.779999
+          81.769997
         ],
         [
           1786686900000,
@@ -3188,7 +3188,7 @@
         ],
         [
           1786689600000,
-          82.120003
+          82.129997
         ],
         [
           1786689900000,
@@ -3204,7 +3204,7 @@
         ],
         [
           1786690800000,
-          82.580002
+          82.57
         ],
         [
           1786691100000,
@@ -3256,7 +3256,7 @@
         ],
         [
           1786694700000,
-          82.800003
+          82.809998
         ],
         [
           1786695000000,
@@ -3272,7 +3272,7 @@
         ],
         [
           1786695900000,
-          82.529999
+          82.519997
         ],
         [
           1786696200000,
@@ -3304,7 +3304,7 @@
         ],
         [
           1786698300000,
-          82.360001
+          82.379997
         ],
         [
           1786698600000,
@@ -3348,7 +3348,7 @@
         ],
         [
           1786701600000,
-          82.050003
+          82.059998
         ],
         [
           1786701900000,
@@ -3500,7 +3500,7 @@
         ],
         [
           1786713000000,
-          81.400002
+          81.410004
         ],
         [
           1786713300000,
@@ -3512,15 +3512,15 @@
         ],
         [
           1786713900000,
-          81.290001
+          81.279999
         ],
         [
           1786714200000,
-          81.010002
+          81.019997
         ],
         [
           1786714500000,
-          80.82
+          80.809998
         ],
         [
           1786714800000,
@@ -3692,7 +3692,7 @@
         ],
         [
           1786727400000,
-          82.199997
+          82.209999
         ],
         [
           1786727700000,
@@ -3704,7 +3704,7 @@
         ],
         [
           1786728300000,
-          82.169998
+          82.18
         ],
         [
           1786728600000,
@@ -3740,7 +3740,7 @@
         ],
         [
           1786731000000,
-          82.239998
+          82.230003
         ],
         [
           1786731300000,
@@ -4725,10 +4725,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 62963.21,
+      "price": 62970.58,
       "previousClose": 62977.613,
-      "change": -14.403,
-      "changePercent": -0.0229,
+      "change": -7.033,
+      "changePercent": -0.0112,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -5426,16 +5426,36 @@
         ],
         [
           1786803900000,
-          62959.011719
+          62965.949219
         ],
         [
-          1786804004000,
-          62963.210938
+          1786804200000,
+          62964.558594
+        ],
+        [
+          1786804500000,
+          62961.011719
+        ],
+        [
+          1786804800000,
+          62965.851562
+        ],
+        [
+          1786805100000,
+          62970.480469
+        ],
+        [
+          1786805400000,
+          62972.0
+        ],
+        [
+          1786805464000,
+          62970.578125
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-15 23:26 KST",
-      "marketTimestamp": 1786804004
+      "marketTime": "2026-08-15 23:51 KST",
+      "marketTimestamp": 1786805464
     }
   ],
   "mainCharts": [
@@ -6731,7 +6751,7 @@
   "headlines": [
     {
       "title": "다시 ‘미장’ 향하는 개미들…‘국장’으로 발길 돌릴 해법은",
-      "source": "시사저널",
+      "source": "sisajournal.com",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vVGlOMExBb3ltb2U3WUFxMnlmdzlNVDNiTkY4UE5WNXJZeW5XWkJfd3VoNG9qcnROa0tmVFNtei1aTDhzVmNaTnhIYTB0eXIwbTdndi12aUp3M2RZaTZ1Z0QySW5DWmx0V1JuZDQxVdIBc0FVX3lxTE1yaGVaVC1OUTdzcXl1Z01SMUtXem5MemwzMGVyMElleTBubVpEYmVfUlB6VVo1YkJ6OU5PWmJuUkJSd29jS1dLSkw5QXJzUDVELXNna19ZUnZTNUstYjNGenJhTnJveTI1Rzg3bGlTSUFTa3M?oc=5",
       "publishedAt": "Sat, 15 Aug 2026 08:00:00 GMT"
     },
@@ -6740,12 +6760,6 @@
       "source": "머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtYzZpOFNvTXdSOXZqd2ViWU44dDBucHg5bldsd1Axa2NXM0VmVmsyeVlpZmQydWtUYzJ1UkI1SW1RemJyZjRpWjJKRGZ6OVdpdmpLV2I2dTk5QmdVeWNnWXJSMmFWdUs50gFuQVVfeXFMT1hfYWhNckp4MmVEVFhYU1g0MnhKS2JYc3NhUU1FYlNQY3FJMldCN0QzNXlVdFpuSGVydmpJd29FeDZSRTJrdEtzNnpPNnEwZ1Y0R1kwRGxSOXI1a3RfdmVycmtyQjVNTTlwdHJ4OWc?oc=5",
       "publishedAt": "Sat, 15 Aug 2026 03:56:50 GMT"
-    },
-    {
-      "title": "No.1 경제·증권 채널 : @HKWOWTV",
-      "source": "한국경제TV",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQWxXbl95a3REX2VWLXNxQjNDQ3dMLUZGSHNYWUFDN28tQXFJbi1FZ2U3Q3lncTcxZnYyd245Vm8zdFVBaTZKTzhZS0Nhd1RYZ2tMMW92OGhBMDgxWmVnQ2ozVDhBRHNuWFJxT2M0MnQ3RDJSTVRkbzRuS2h2X2lTSllnZ2ZvMmtiMTFUWU5adUR5YTdQNmhBRnZfYVY?oc=5",
-      "publishedAt": "Sat, 15 Aug 2026 04:47:37 GMT"
     },
     {
       "title": "27만전자, 164만닉스, 돌아온 외인… 불붙은 국장과 반도체 고점론 [주간 증시해설서]",
@@ -6760,8 +6774,14 @@
       "publishedAt": "Sat, 15 Aug 2026 12:26:03 GMT"
     },
     {
+      "title": "No.1 경제·증권 채널 : @HKWOWTV",
+      "source": "한국경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXMwanVCTndNSXFnMEJ4ZXdYMWVhUEZXTWdoOWdtYVFFUUFidzBjZU1Yb1piS0FrSlhBWnZvbFdvYjlDc18yeDdGQk93REJCVUdaRzRCT2stQThQTjRBSkV3TGlfWHlrTUxZTDFmdEJxb1dwRDRRTDlDOWdnQzBVMk8waUVYRUpYSlJnLXlBTlJmRVhkMWdlZmVxeV9vYTNUMUZJ?oc=5",
+      "publishedAt": "Sat, 15 Aug 2026 00:01:06 GMT"
+    },
+    {
       "title": "증시 변동성 축소·우호적 매크로 환경...외인 매수세 지속 기대감",
-      "source": "데일리한국",
+      "source": "daily.hankooki.com",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9INWJNR05DQk1SaVI5RHVqLUVjTWM2b0twTmpxWmJ2aXhwZmFvNGdMY3pFZUpBQ3o5RW9oaVYycGprQUdfRlNobjhJSGJWTmhqZWVXUXFaR0FzWmZSbWgzOE5OOXNQLUFJUWRCbkc5NNIBc0FVX3lxTE8xWHlHMl9TdkMwOTVrM0ItZGpFODE4Q1E2Sy1EVUpBUWZSdEV5QWRmbS1zYjZicXNlNm8wZnFTTExSa3A2Q2tFSmFLUE45Q3NHamFiYXdfX1RrUDhPVjB0b2FyLXFFRzl1R3N0UDN4LXdQWk0?oc=5",
       "publishedAt": "Sat, 15 Aug 2026 05:00:00 GMT"
     },
@@ -6774,7 +6794,7 @@
     {
       "title": "[증시 동향] 국내 증시 반등 중···개미들도 구출할까",
       "source": "이뉴스투데이",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQYm4xalIyenpweFg1dFhUSDJyVXdjdDBpRTRJT292UzNVQjFZbGFDSTZNZG9Eek5Zb1pqR0pPOXNmeGNJUUdSd3U0dGVTOVpXYUN1YUpmVUdkcFlrRDFOUExVZlVEd0IxUUR5SmVGN2s?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQYm4xalIyenpweFg1dFhUSDJyVXdjdDBpRTRJT292UzNVQjFZbGFDSTZNZG9Eek5Zb1pqR0pPOXNmeGNJUUdSd3U0dGVTOVpXYUN1YUpmVUdkcFlrRDFOUExVZlVEd0IxUUR5SmVGN2vSAXRBVV95cUxQei1kQjZ5cVhqMFdDTTJkMEpZdE80NEw4cmFuRUs4dmcwNnltamhicVNaOXlCMFY5TUZuVUdYcldVM19HTFpkODdxTFVLM20tRDMtbk9iekdkLWRDSDFuZWdJYlJRODA3Q1NZTTFjS045WlZpRg?oc=5",
       "publishedAt": "Sat, 15 Aug 2026 07:50:36 GMT"
     }
   ],
