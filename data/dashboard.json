@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-15T14:28:24.217704+09:00",
-  "updatedLabel": "2026-08-15 14:28:24 KST",
+  "updatedAt": "2026-08-15T14:53:58.349067+09:00",
+  "updatedLabel": "2026-08-15 14:53:58 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4725,10 +4725,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 63057.83,
+      "price": 63005.9,
       "previousClose": 62977.613,
-      "change": 80.217,
-      "changePercent": 0.1274,
+      "change": 28.287,
+      "changePercent": 0.0449,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -4742,11 +4742,11 @@
         ],
         [
           1786752600000,
-          62948.789062
+          62948.78125
         ],
         [
           1786752900000,
-          62955.761719
+          62955.769531
         ],
         [
           1786753200000,
@@ -4754,7 +4754,7 @@
         ],
         [
           1786753500000,
-          62944.429688
+          62928.75
         ],
         [
           1786753800000,
@@ -4762,7 +4762,7 @@
         ],
         [
           1786754100000,
-          62949.988281
+          62949.980469
         ],
         [
           1786754400000,
@@ -4798,7 +4798,7 @@
         ],
         [
           1786756800000,
-          62969.988281
+          62970.0
         ],
         [
           1786757100000,
@@ -4850,7 +4850,7 @@
         ],
         [
           1786760700000,
-          63034.488281
+          63034.5
         ],
         [
           1786761000000,
@@ -4866,11 +4866,11 @@
         ],
         [
           1786761900000,
-          63071.109375
+          63072.070312
         ],
         [
           1786762200000,
-          63063.640625
+          63063.648438
         ],
         [
           1786762500000,
@@ -4886,19 +4886,19 @@
         ],
         [
           1786763400000,
-          63083.699219
+          63076.328125
         ],
         [
           1786763700000,
-          63062.300781
+          63062.289062
         ],
         [
           1786764000000,
-          63040.949219
+          63040.941406
         ],
         [
           1786764300000,
-          63022.730469
+          63022.71875
         ],
         [
           1786764600000,
@@ -4922,7 +4922,7 @@
         ],
         [
           1786766100000,
-          62988.390625
+          62987.949219
         ],
         [
           1786766400000,
@@ -4934,7 +4934,7 @@
         ],
         [
           1786767000000,
-          63036.609375
+          63037.769531
         ],
         [
           1786767300000,
@@ -4970,7 +4970,7 @@
         ],
         [
           1786769700000,
-          63052.019531
+          63052.011719
         ],
         [
           1786770000000,
@@ -4982,7 +4982,7 @@
         ],
         [
           1786770600000,
-          63088.960938
+          63089.140625
         ],
         [
           1786770900000,
@@ -4994,16 +4994,36 @@
         ],
         [
           1786771500000,
-          63057.828125
+          63053.148438
         ],
         [
-          1786771701000,
-          63057.828125
+          1786771800000,
+          63057.980469
+        ],
+        [
+          1786772100000,
+          62992.179688
+        ],
+        [
+          1786772400000,
+          63009.390625
+        ],
+        [
+          1786772700000,
+          62996.800781
+        ],
+        [
+          1786773000000,
+          62998.050781
+        ],
+        [
+          1786773236000,
+          63005.898438
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-15 14:28 KST",
-      "marketTimestamp": 1786771701
+      "marketTime": "2026-08-15 14:53 KST",
+      "marketTimestamp": 1786773236
     }
   ],
   "mainCharts": [
@@ -6298,16 +6318,16 @@
   ],
   "headlines": [
     {
+      "title": "\"한국 증시 믿은 내가 바보\" 코스피 변동성에 투자금 날린 개미들 - 머니투데이",
+      "source": "머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YX2FoTXJKeDJlRFRYWFNYNDJ4SktiWHNzYVFNRWJTUGNxSTJXQjdEMzV5VXRabkhlcnZqSXdvRXg2UkUya3RLczZ6TzZxMGdWNEdZMERsUjlyNWt0X3ZlcnJrckI1TU05cHRyeDln0gFuQVVfeXFMT1hfYWhNckp4MmVEVFhYU1g0MnhKS2JYc3NhUU1FYlNQY3FJMldCN0QzNXlVdFpuSGVydmpJd29FeDZSRTJrdEtzNnpPNnEwZ1Y0R1kwRGxSOXI1a3RfdmVycmtyQjVNTTlwdHJ4OWc?oc=5",
+      "publishedAt": "Sat, 15 Aug 2026 03:56:50 GMT"
+    },
+    {
       "title": "출발증시 2부",
       "source": "한국경제TV",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlplTVloRldUenZucjZzYXpfcEtrYVhwNGhQOU0ySmMyUXlOR2dPdk9ISS1ydEZ6UTJteU1XbTFHTnVtajVyZm53QVRpaXRzMDlOMHpOUFZrSTgxdlN0OUZjNG5MdGEtR1FVa2VfRDRmY3lQYmhPckQ3QVc0NUVEWmNSQXc2cS1lMy1oRndxWFdhUE1HVWIwd0ptaWRqRThfTWo4?oc=5",
       "publishedAt": "Fri, 14 Aug 2026 14:30:21 GMT"
-    },
-    {
-      "title": "\"신혼집 마련할 돈 날렸다\"...해외서도 놀란 코스피 개미 잔혹사 - 머니투데이",
-      "source": "머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtYzZpOFNvTXdSOXZqd2ViWU44dDBucHg5bldsd1Axa2NXM0VmVmsyeVlpZmQydWtUYzJ1UkI1SW1RemJyZjRpWjJKRGZ6OVdpdmpLV2I2dTk5QmdVeWNnWXJSMmFWdUs50gFuQVVfeXFMT1hfYWhNckp4MmVEVFhYU1g0MnhKS2JYc3NhUU1FYlNQY3FJMldCN0QzNXlVdFpuSGVydmpJd29FeDZSRTJrdEtzNnpPNnEwZ1Y0R1kwRGxSOXI1a3RfdmVycmtyQjVNTTlwdHJ4OWc?oc=5",
-      "publishedAt": "Sat, 15 Aug 2026 03:56:50 GMT"
     },
     {
       "title": "美 물가 안정·금리 인상 기대 후퇴…증시 올랐지만 “기계적 반응” 경계",
@@ -6323,7 +6343,7 @@
     },
     {
       "title": "글로벌 자금 이동 속 한국 증시 소외의 종착점은… 8월 반등 착시 경계론 나와",
-      "source": "글로벌이코노믹",
+      "source": "g-enews.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZl8yckhOdGp0TjRrWFMzQW5CY3B2ZjBhbGI0OWRwbGYzNjhQVkxLV0ZvZVQ4ZVVKaDJGaGprWVZSbUN1MV9aZmt4YmRyRDBwMDhPWldNNDdTdjZ2bW1GeVUtQVptVEJFT1NucXExbnJFLUlIQ0oxY083eldpWjhKbDBhMjBKZVRB?oc=5",
       "publishedAt": "Fri, 14 Aug 2026 08:25:29 GMT"
     },
