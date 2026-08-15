@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-15T10:26:14.405088+09:00",
-  "updatedLabel": "2026-08-15 10:26:14 KST",
+  "updatedAt": "2026-08-15T11:35:38.333521+09:00",
+  "updatedLabel": "2026-08-15 11:35:38 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2702,8 +2702,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-15 05:59 KST",
-      "marketTimestamp": 1786741192
+      "marketTime": "2026-08-15 10:36 KST",
+      "marketTimestamp": 1786757779
     },
     {
       "id": "us10y",
@@ -4729,10 +4729,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 62970.0,
+      "price": 63060.86,
       "previousClose": 62977.613,
-      "change": -7.613,
-      "changePercent": -0.0121,
+      "change": 83.247,
+      "changePercent": 0.1322,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -4806,16 +4806,68 @@
         ],
         [
           1786757100000,
-          62970.0
+          62972.511719
         ],
         [
-          1786757171000,
-          62970.0
+          1786757400000,
+          62970.511719
+        ],
+        [
+          1786757700000,
+          62971.441406
+        ],
+        [
+          1786758000000,
+          62964.699219
+        ],
+        [
+          1786758300000,
+          62953.828125
+        ],
+        [
+          1786758600000,
+          62958.738281
+        ],
+        [
+          1786758900000,
+          62972.28125
+        ],
+        [
+          1786759200000,
+          62996.460938
+        ],
+        [
+          1786759500000,
+          62975.851562
+        ],
+        [
+          1786759800000,
+          62984.808594
+        ],
+        [
+          1786760100000,
+          63013.269531
+        ],
+        [
+          1786760400000,
+          63038.628906
+        ],
+        [
+          1786760700000,
+          63034.488281
+        ],
+        [
+          1786761000000,
+          63060.851562
+        ],
+        [
+          1786761333000,
+          63060.859375
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-15 10:26 KST",
-      "marketTimestamp": 1786757171
+      "marketTime": "2026-08-15 11:35 KST",
+      "marketTimestamp": 1786761333
     }
   ],
   "mainCharts": [
@@ -6111,9 +6163,15 @@
   "headlines": [
     {
       "title": "출발증시 2부",
-      "source": "wowtv.co.kr",
+      "source": "한국경제TV",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRlplTVloRldUenZucjZzYXpfcEtrYVhwNGhQOU0ySmMyUXlOR2dPdk9ISS1ydEZ6UTJteU1XbTFHTnVtajVyZm53QVRpaXRzMDlOMHpOUFZrSTgxdlN0OUZjNG5MdGEtR1FVa2VfRDRmY3lQYmhPckQ3QVc0NUVEWmNSQXc2cS1lMy1oRndxWFdhUE1HVWIwd0ptaWRqRThfTWo4?oc=5",
       "publishedAt": "Fri, 14 Aug 2026 14:30:21 GMT"
+    },
+    {
+      "title": "美 물가 안정·금리 인상 기대 후퇴…증시 올랐지만 “기계적 반응” 경계",
+      "source": "한양경제",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCTjBHZENqMlB4WHRJU3BfdVJDenFwTUFhNVNreGQ4Xy1NcHdHREFQMGxYcEo0b1dNc041U3I4OE5kSnJueEdlNlpEV2VfQU15aU9kVzh3QkJwWm9ZdGdKejZYSFc0UFdnRkdQX1RUeEM?oc=5",
+      "publishedAt": "Sat, 15 Aug 2026 01:21:46 GMT"
     },
     {
       "title": "글로벌 자금 이동 속 한국 증시 소외의 종착점은… 8월 반등 착시 경계론 나와",
@@ -6123,13 +6181,19 @@
     },
     {
       "title": "“한국 증시 믿은 내가 바보”…외신이 본 ‘코스피 개미’의 잔혹한 여름",
-      "source": "동아일보",
+      "source": "donga.com",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6NzV1cnpxeVlaYmkwWU1aanFXSm9OTkVtYmV6Yzd4MHQzcHlvQTFmZ0tGc3dFdFQ1aktMaHJubjkxZmU5a2NtcjNPcnh6UGduUVNHNnh0TXd6dU0wNzZvU3JWYmRBOGlSN01sNkFsMWpvS2NWR3fSAWZBVV95cUxQaFdmanFQUUpidGQ0M2s1dWhYWDY2WGYyNGpPN1llSG1pd2o0aXRhTGN0dHdFZGxBOThPQjFud0dLc1hNZG5zRUI0UnhCOVlsSEVTQk1ucDF5MFVacEpyQXZkZmZzLVE?oc=5",
       "publishedAt": "Fri, 14 Aug 2026 08:39:55 GMT"
     },
     {
+      "title": "미국 물가 둔화, 한은 8월 금리 인상 '고심'…백투백 가능성은",
+      "source": "데일리안",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdGpiRTVBNy1OZ0VmVFlpMWZfYVJmaE43VDJydVNCTDFjeExTeVRwV2RhcE5LV2xMR2J4MEpVMF9fLUVKX2FUeHI0T2pHRTBwWEZHc0owbnNUZG12cTVYeTZaVk50dkFvdTBzdFFIbjZTNXprZWNDc2ozMkNvRUU2QXAxdENHeVZrLXBpa3ZpYUYxVlF5TVdwRExZbENrYjdHR0NCZVMwaTNZbXBFYjRMX2ZoVzdWUGJaUGJsSHFxM2JJeXVDaWhRUi1QTFI3TFZ0d3Z0VkJxa3k5aDRpZ1BfRkJHWmZzWG4wUUM2MDFEZUNZVFhHQUhlLTMySHRvaDY4VDI0?oc=5",
+      "publishedAt": "Fri, 14 Aug 2026 23:06:00 GMT"
+    },
+    {
       "title": "외국인 돌아오고 공포지수는 '뚝'[패닉 딛고 돌아온 증시①]",
-      "source": "뉴시스",
+      "source": "newsis.com",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBySlZoVWFnUklKZldJZU9rMlNRaDJNbU9yR1BEVG0tdkJ4cEFtdWRUSFRNRk9SMmhQNU5GT1h2ajBBbXNVaXF1a003UVU4MGhDUl84aC1DYUdrVUE2cG9Hd9IBeEFVX3lxTE5fNE5aaHBUOURWV21FaFA1LWNlNHltUWJEaFFTd3kyNFBGd09OVS1kVkJYYXRYSF9EbDBkRXFVQk1PVHpfX1dwTU9DU1dtbzNpUkVGdTl2NFRrWGtFd3ptSHQ0UThpLTVxLTZBZXpnVkNtX1VmbmNCRQ?oc=5",
       "publishedAt": "Fri, 14 Aug 2026 23:00:00 GMT"
     },
@@ -6140,22 +6204,10 @@
       "publishedAt": "Sat, 15 Aug 2026 01:00:00 GMT"
     },
     {
-      "title": "미국 물가 둔화, 한은 8월 금리 인상 '고심'…백투백 가능성은",
-      "source": "데일리안",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lZ2NXSDRSbGh1dkRkNjl1NjVrcVREZXFvUHBTWFVxeldGbTRhb2hPeU5XN1V3cWJoTVRHSWJ4ZTRzcHM4b0NwT2l6NWxPcW53bEdKLQ?oc=5",
-      "publishedAt": "Fri, 14 Aug 2026 23:06:00 GMT"
-    },
-    {
       "title": "[마켓톡스]미국증시서 반도체·한국증시로 거품 이동-시티그룹",
       "source": "edaily.co.kr",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMU1GX1gtbktsSEd0OGxlMXBlQThiQVJTWDJBZVdfQWxmWkVHY2hHOTRRWVZPX0hqcS1aODJJR1BOenJHZjNHV2FiUkwxc0gtNlQtWGh1REZJcnNDaVFPSGIyV19CblVzTEhfWmJUbWI2cEpHbWlhVkU2Z0tBR0hJeg?oc=5",
       "publishedAt": "Fri, 14 Aug 2026 10:53:27 GMT"
-    },
-    {
-      "title": "증시 흔들릴까 불안하다면…채권 섞고 인컴 ETF로 방어 [S머니+]",
-      "source": "서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mTVcyQUM0YXBvWXBhX2szaVhoOHZKOWRjTjg1UnZ0UTNQS0x6Z2ZMZnBXWE40TmVVZnlPc1pybEJwdGtteXJXRW5iQ1JHQklPX0E?oc=5",
-      "publishedAt": "Fri, 14 Aug 2026 10:26:03 GMT"
     }
   ],
   "summary": {
