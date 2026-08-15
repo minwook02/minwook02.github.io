@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-16T02:47:39.240975+09:00",
-  "updatedLabel": "2026-08-16 02:47:39 KST",
+  "updatedAt": "2026-08-16T03:34:31.733179+09:00",
+  "updatedLabel": "2026-08-16 03:34:31 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4725,10 +4725,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 62997.82,
+      "price": 62977.5,
       "previousClose": 62977.613,
-      "change": 20.207,
-      "changePercent": 0.0321,
+      "change": -0.113,
+      "changePercent": -0.0002,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -5586,16 +5586,52 @@
         ],
         [
           1786815900000,
-          62997.511719
+          62997.179688
         ],
         [
-          1786816055000,
-          62997.820312
+          1786816200000,
+          62993.148438
+        ],
+        [
+          1786816500000,
+          63000.339844
+        ],
+        [
+          1786816800000,
+          62988.691406
+        ],
+        [
+          1786817100000,
+          63008.519531
+        ],
+        [
+          1786817400000,
+          63022.949219
+        ],
+        [
+          1786817700000,
+          62972.929688
+        ],
+        [
+          1786818000000,
+          62987.929688
+        ],
+        [
+          1786818300000,
+          62972.0
+        ],
+        [
+          1786818600000,
+          62974.679688
+        ],
+        [
+          1786818865000,
+          62977.5
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-16 02:47 KST",
-      "marketTimestamp": 1786816055
+      "marketTime": "2026-08-16 03:34 KST",
+      "marketTimestamp": 1786818865
     }
   ],
   "mainCharts": [
@@ -6914,28 +6950,28 @@
       "publishedAt": "Sat, 15 Aug 2026 00:01:06 GMT"
     },
     {
-      "title": "[속보]뉴욕증시, S&P500 다시 기록의 문 열었다…나스닥 0.81% 상승",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yOE9UaUlvcWlCR0cxWkdfV3R0TTQ1Y1RyZU41bW9XcF9SQzhneURROEVpbWJfZVpJNm5HaS1ObUFZZUFPSUd1QzBzZUgzOGZrQzFxdjZmc0RjUk14Ynh0dkRsUQ?oc=5",
-      "publishedAt": "Sat, 15 Aug 2026 12:26:03 GMT"
-    },
-    {
       "title": "증시 변동성 축소·우호적 매크로 환경...외인 매수세 지속 기대감",
       "source": "데일리한국",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9INWJNR05DQk1SaVI5RHVqLUVjTWM2b0twTmpxWmJ2aXhwZmFvNGdMY3pFZUpBQ3o5RW9oaVYycGprQUdfRlNobjhJSGJWTmhqZWVXUXFaR0FzWmZSbWgzOE5OOXNQLUFJUWRCbkc5NNIBc0FVX3lxTE8xWHlHMl9TdkMwOTVrM0ItZGpFODE4Q1E2Sy1EVUpBUWZSdEV5QWRmbS1zYjZicXNlNm8wZnFTTExSa3A2Q2tFSmFLUE45Q3NHamFiYXdfX1RrUDhPVjB0b2FyLXFFRzl1R3N0UDN4LXdQWk0?oc=5",
       "publishedAt": "Sat, 15 Aug 2026 05:00:00 GMT"
     },
     {
-      "title": "서울기독교세계관연구원, AI 반도체·환율·레버리지·국민연금 등 복합 위험 진단",
-      "source": "한국교회장로닷컴",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtTXpwR2twT2lxNW91NTlPa192TlFwTEdDWlN1TmRacnZhMTZCUnhwRDVkUFFWZldidTJZRWpsc05mNWNrNWhnbm5INXo2WTczTWFDM3VBSzFLX2xDdnhrRWtreElPbm9UQjJF?oc=5",
-      "publishedAt": "Sat, 15 Aug 2026 13:13:30 GMT"
+      "title": "[속보]뉴욕증시, S&P500 다시 기록의 문 열었다…나스닥 0.81% 상승",
+      "source": "CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yOE9UaUlvcWlCR0cxWkdfV3R0TTQ1Y1RyZU41bW9XcF9SQzhneURROEVpbWJfZVpJNm5HaS1ObUFZZUFPSUd1QzBzZUgzOGZrQzFxdjZmc0RjUk14Ynh0dkRsUQ?oc=5",
+      "publishedAt": "Sat, 15 Aug 2026 12:26:03 GMT"
     },
     {
       "title": "[증시 동향] 국내 증시 반등 중···개미들도 구출할까",
       "source": "이뉴스투데이",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQYm4xalIyenpweFg1dFhUSDJyVXdjdDBpRTRJT292UzNVQjFZbGFDSTZNZG9Eek5Zb1pqR0pPOXNmeGNJUUdSd3U0dGVTOVpXYUN1YUpmVUdkcFlrRDFOUExVZlVEd0IxUUR5SmVGN2vSAXRBVV95cUxQei1kQjZ5cVhqMFdDTTJkMEpZdE80NEw4cmFuRUs4dmcwNnltamhicVNaOXlCMFY5TUZuVUdYcldVM19HTFpkODdxTFVLM20tRDMtbk9iekdkLWRDSDFuZWdJYlJRODA3Q1NZTTFjS045WlZpRg?oc=5",
       "publishedAt": "Sat, 15 Aug 2026 07:50:36 GMT"
+    },
+    {
+      "title": "서울기독교세계관연구원, AI 반도체·환율·레버리지·국민연금 등 복합 위험 진단",
+      "source": "한국교회장로닷컴",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtTXpwR2twT2lxNW91NTlPa192TlFwTEdDWlN1TmRacnZhMTZCUnhwRDVkUFFWZldidTJZRWpsc05mNWNrNWhnbm5INXo2WTczTWFDM3VBSzFLX2xDdnhrRWtreElPbm9UQjJF?oc=5",
+      "publishedAt": "Sat, 15 Aug 2026 13:13:30 GMT"
     }
   ],
   "summary": {
