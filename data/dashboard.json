@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-15T18:29:10.951558+09:00",
-  "updatedLabel": "2026-08-15 18:29:10 KST",
+  "updatedAt": "2026-08-15T18:52:25.485576+09:00",
+  "updatedLabel": "2026-08-15 18:52:25 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4725,10 +4725,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 62913.03,
+      "price": 62958.96,
       "previousClose": 62977.613,
-      "change": -64.583,
-      "changePercent": -0.1025,
+      "change": -18.653,
+      "changePercent": -0.0296,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -5186,16 +5186,36 @@
         ],
         [
           1786785900000,
-          62914.300781
+          62908.429688
         ],
         [
-          1786786147000,
-          62913.03125
+          1786786200000,
+          62918.070312
+        ],
+        [
+          1786786500000,
+          62946.769531
+        ],
+        [
+          1786786800000,
+          62951.980469
+        ],
+        [
+          1786787100000,
+          62956.148438
+        ],
+        [
+          1786787400000,
+          62958.949219
+        ],
+        [
+          1786787538000,
+          62958.960938
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-15 18:29 KST",
-      "marketTimestamp": 1786786147
+      "marketTime": "2026-08-15 18:52 KST",
+      "marketTimestamp": 1786787538
     }
   ],
   "mainCharts": [
@@ -6490,6 +6510,12 @@
   ],
   "headlines": [
     {
+      "title": "다시 ‘미장’ 향하는 개미들…‘국장’으로 발길 돌릴 해법은",
+      "source": "시사저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vVGlOMExBb3ltb2U3WUFxMnlmdzlNVDNiTkY4UE5WNXJZeW5XWkJfd3VoNG9qcnROa0tmVFNtei1aTDhzVmNaTnhIYTB0eXIwbTdndi12aUp3M2RZaTZ1Z0QySW5DWmx0V1JuZDQxVdIBc0FVX3lxTE1yaGVaVC1OUTdzcXl1Z01SMUtXem5MemwzMGVyMElleTBubVpEYmVfUlB6VVo1YkJ6OU5PWmJuUkJSd29jS1dLSkw5QXJzUDVELXNna19ZUnZTNUstYjNGenJhTnJveTI1Rzg3bGlTSUFTa3M?oc=5",
+      "publishedAt": "Sat, 15 Aug 2026 08:00:00 GMT"
+    },
+    {
       "title": "\"한국 증시 믿은 내가 바보\" 코스피 변동성에 투자금 날린 개미들 - 머니투데이",
       "source": "머니투데이",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YX2FoTXJKeDJlRFRYWFNYNDJ4SktiWHNzYVFNRWJTUGNxSTJXQjdEMzV5VXRabkhlcnZqSXdvRXg2UkUya3RLczZ6TzZxMGdWNEdZMERsUjlyNWt0X3ZlcnJrckI1TU05cHRyeDln0gFuQVVfeXFMT1hfYWhNckp4MmVEVFhYU1g0MnhKS2JYc3NhUU1FYlNQY3FJMldCN0QzNXlVdFpuSGVydmpJd29FeDZSRTJrdEtzNnpPNnEwZ1Y0R1kwRGxSOXI1a3RfdmVycmtyQjVNTTlwdHJ4OWc?oc=5",
@@ -6527,15 +6553,9 @@
     },
     {
       "title": "미국 물가 둔화, 한은 8월 금리 인상 '고심'…백투백 가능성은",
-      "source": "dailian.co.kr",
+      "source": "데일리안",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdGpiRTVBNy1OZ0VmVFlpMWZfYVJmaE43VDJydVNCTDFjeExTeVRwV2RhcE5LV2xMR2J4MEpVMF9fLUVKX2FUeHI0T2pHRTBwWEZHc0owbnNUZG12cTVYeTZaVk50dkFvdTBzdFFIbjZTNXprZWNDc2ozMkNvRUU2QXAxdENHeVZrLXBpa3ZpYUYxVlF5TVdwRExZbENrYjdHR0NCZVMwaTNZbXBFYjRMX2ZoVzdWUGJaUGJsSHFxM2JJeXVDaWhRUi1QTFI3TFZ0d3Z0VkJxa3k5aDRpZ1BfRkJHWmZzWG4wUUM2MDFEZUNZVFhHQUhlLTMySHRvaDY4VDI0?oc=5",
       "publishedAt": "Fri, 14 Aug 2026 23:06:00 GMT"
-    },
-    {
-      "title": "AI 광풍에 출렁이는 한국 증시…NYT \"오징어 게임 같은 생존 경쟁\"",
-      "source": "동포저널",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pRGJoSHk0bEYwRkQteU5CbGNEcWR3VldJTXVETjVlY3VjUlk4ZHVJOVNjUmstbmNIZ3R1Q21zOUdIN1J5ay1TUGJ6TC1pOTF3UXdTTjczU1BoSTU0T3RfOVRBeF9mWlphazVNTjdQNzEzTkU?oc=5",
-      "publishedAt": "Sat, 15 Aug 2026 02:25:57 GMT"
     }
   ],
   "summary": {
