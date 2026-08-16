@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-17T06:46:20.118336+09:00",
-  "updatedLabel": "2026-08-17 06:46:20 KST",
+  "updatedAt": "2026-08-17T07:25:13.899634+09:00",
+  "updatedLabel": "2026-08-17 07:25:13 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3051,16 +3051,29 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 82.4,
+      "price": 82.56,
       "previousClose": 82.4,
-      "change": 0.0,
-      "changePercent": 0.0,
-      "tone": "flat",
-      "direction": "보합",
-      "series": [],
+      "change": 0.16,
+      "changePercent": 0.1942,
+      "tone": "up",
+      "direction": "상승",
+      "series": [
+        [
+          1786918200000,
+          82.610001
+        ],
+        [
+          1786918500000,
+          82.599998
+        ],
+        [
+          1786918509000,
+          82.559998
+        ]
+      ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-15 05:59 KST",
-      "marketTimestamp": 1786741199
+      "marketTime": "2026-08-17 07:15 KST",
+      "marketTimestamp": 1786918509
     },
     {
       "id": "gold",
@@ -3069,16 +3082,29 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 4437.3,
+      "price": 4432.0,
       "previousClose": 4437.3,
-      "change": 0.0,
-      "changePercent": 0.0,
+      "change": -5.3,
+      "changePercent": -0.1194,
       "tone": "flat",
       "direction": "보합",
-      "series": [],
+      "series": [
+        [
+          1786918200000,
+          4432.600098
+        ],
+        [
+          1786918500000,
+          4430.799805
+        ],
+        [
+          1786918503000,
+          4432.0
+        ]
+      ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-15 06:00 KST",
-      "marketTimestamp": 1786741200
+      "marketTime": "2026-08-17 07:15 KST",
+      "marketTimestamp": 1786918503
     },
     {
       "id": "bitcoin",
@@ -3087,10 +3113,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 62818.84,
+      "price": 62789.95,
       "previousClose": 63024.637,
-      "change": -205.797,
-      "changePercent": -0.3265,
+      "change": -234.687,
+      "changePercent": -0.3724,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -4140,16 +4166,44 @@
         ],
         [
           1786916700000,
-          62831.398438
+          62903.609375
         ],
         [
-          1786916769000,
-          62818.839844
+          1786917000000,
+          62860.058594
+        ],
+        [
+          1786917300000,
+          62862.800781
+        ],
+        [
+          1786917600000,
+          62800.789062
+        ],
+        [
+          1786917900000,
+          62850.488281
+        ],
+        [
+          1786918200000,
+          62861.660156
+        ],
+        [
+          1786918500000,
+          62840.820312
+        ],
+        [
+          1786918800000,
+          62793.730469
+        ],
+        [
+          1786919109000,
+          62789.949219
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-17 06:46 KST",
-      "marketTimestamp": 1786916769
+      "marketTime": "2026-08-17 07:25 KST",
+      "marketTimestamp": 1786919109
     }
   ],
   "mainCharts": [
@@ -5444,16 +5498,16 @@
   ],
   "headlines": [
     {
-      "title": "조각투자 '증시 데뷔'…11월 신종증권시장 문 연다",
-      "source": "koreancenter.or.kr",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wSlFNQnhRUHF0WjZxQUs5emNJbnpJRjh5d1ptTkplSTZGZGpIUGhRak1ra2lVd2Q0dDNBUndaTUVjakh4VWNCR2JQQTVXTFVfSHlBb0lOemgzWXlYMGJmR3laVlRPejNhXzBiQ3gzVE1mQUto?oc=5",
-      "publishedAt": "Sun, 16 Aug 2026 20:57:02 GMT"
-    },
-    {
       "title": "“코스피, 앞으로 더 크게 흔들릴 수도” … AI시대 견뎌야 할 ‘뉴노멀’",
       "source": "매일경제",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jd3ZLeFVWb245Ni1OX05MeGRvX204NElzS1BqRFVhTEJ3ZWtoMnZiNXNZTGExRHRmWnQ2RUtwZTZSQVVURXA0RkpCekxHZW9xUEE?oc=5",
       "publishedAt": "Sun, 16 Aug 2026 19:10:00 GMT"
+    },
+    {
+      "title": "No.1 경제·증권 채널 : @HKWOWTV",
+      "source": "한국경제TV",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWhPYXA0QjlCekdWME9ITjJnMlhTaTlGdjhybHBLbkdBblJDcFZQUHdUNGhPQWZWbFdLZFlvT25vY1hab2s3RmMyXzVTbnlBRUxPSVJLNnV3MHRzckhhMWJuakZsak1ZT3FzTTl0eTNoNmdVb3J4SzEtMEVZR0hBZDNUcw?oc=5",
+      "publishedAt": "Sun, 16 Aug 2026 22:04:53 GMT"
     },
     {
       "title": "美 국채금리 25년 만 최고… 국내 증시 자금 빠지고 금리 오를까",
@@ -5474,29 +5528,29 @@
       "publishedAt": "Sun, 16 Aug 2026 15:00:54 GMT"
     },
     {
+      "title": "1410원대로 내려온 환율, 빨라진 ‘대미 투자’ 시계에 반등 여부 촉각",
+      "source": "시사저널e",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWal8zR1prYmpwTklUTkNlQ2JVS1FBdVJUcUZCcVVFOTAxcGRNZWFBUDJhWXVOcDNSOHp1MUwyRUNGamtiMFJWRlhXcS1TUmtWRm96aDVTblN2Z1JBZjJVUVdrRHNQSnNWZDIweHhnNlNhUdIBdkFVX3lxTE9LaUk0UVEyM0lsT3RfdDZSNnhVUlNYbGJzX2d6c0Q3RlhzNTVhMG45YUtmN1FiUkVqNFBnVE1od2Zvc3hOeGE5YmVKUlRxY1EyeWZYZ240ODZDN1p0VjhjcGlVci1TVXJoWUI4TnBWeHVBWUFGc1E?oc=5",
+      "publishedAt": "Sun, 16 Aug 2026 08:26:50 GMT"
+    },
+    {
       "title": "[이로운넷 주간 증시 전망] '폭풍 전 대기' 국면...소외주의 시간",
       "source": "이로운넷",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QWlBQNXZwRzFSVFlCanVyLUVvdG41a1ZudTBPZ2Z6Q09VRGJpdl94SS1ydE1ON3BQdUVPR3JncjFpR0RWTWV5eFRUaFBubHZnV3h2Q09hTmtWU3QwcWpuQ05Vanlpdw?oc=5",
       "publishedAt": "Sun, 16 Aug 2026 00:46:08 GMT"
     },
     {
-      "title": "악재 걷힌 삼전닉스...코스피 8500선 회복 가능성도 [주간 증시 전망]",
-      "source": "파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HQ2RWMTBqeXhpUzlJYXpHaTRRSUZfXzUyazJsekdKZzdWdGpoaVJwbG90Y0x1SEk0b3FBWTZTaVFwOE9ISGlMMFd0RVgxaGRoaG9yMVFLZ29ndw?oc=5",
-      "publishedAt": "Sun, 16 Aug 2026 07:48:31 GMT"
-    },
-    {
-      "title": "증시 급반등에…코스피 공매도 잔고 14% 증가",
-      "source": "서울경제TV",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUEdXajNiSTdES3FFLWdfSnpxd1BkTGNjRXJnUTNkMndkVHE3QS10d1pfV2xpZVhJYkdXcUd2X0UyVk1fZkZBcXphQ1JReVFJOWFmTFBVRm9PRUNUTVFFOEJ6dTM?oc=5",
-      "publishedAt": "Sun, 16 Aug 2026 00:11:20 GMT"
+      "title": "[주간 증시 전망] 돌아온 외국인·깨어난 반도체…코스피 '반등 본색'",
+      "source": "뉴스웍스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lbFc4b2RSS0V3S29BeXNOak9oTkFPODRLbmtEdlJLdDVINnFERmQ1Z0FqVG1yZFJOMUhESk1pcHN0LXJGSXdpY3FjRUdpanBUampLUUxFRWlzZTQ2ckN2cEplb0JYaVhIYzF1SVNpMNIBc0FVX3lxTE83WENPaHNMcmRrY1BvendwNTJnNnJLY0otMkJYSXYxWEpMNV94VVcwcmRSRVJuTXQ0NE83Rk0xWUtqV0Y3bUw0QzN6cFlRS0FFLXIxemVyZnVIN0xMcm44SW9XM2t5MWF4V1cySmlOVWpnaG8?oc=5",
+      "publishedAt": "Sun, 16 Aug 2026 05:00:00 GMT"
     }
   ],
   "summary": {
     "signal": {
-      "label": "Mixed",
-      "tone": "flat",
-      "message": "국내외 자산이 같은 방향으로 움직이지 않는 혼조장입니다."
+      "label": "Risk-On",
+      "tone": "up",
+      "message": "주식과 위험자산 강세가 우세합니다."
     },
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 상승 흐름입니다.",
@@ -5523,14 +5577,14 @@
       },
       {
         "label": "WTI",
-        "changePercent": 0.0,
-        "direction": "보합"
+        "changePercent": 0.1942,
+        "direction": "상승"
       }
     ],
     "laggards": [
       {
         "label": "Bitcoin",
-        "changePercent": -0.3265,
+        "changePercent": -0.3724,
         "direction": "하락"
       },
       {
