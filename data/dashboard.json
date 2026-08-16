@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-16T13:08:13.764532+09:00",
-  "updatedLabel": "2026-08-16 13:08:13 KST",
+  "updatedAt": "2026-08-16T14:00:52.861737+09:00",
+  "updatedLabel": "2026-08-16 14:00:52 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3087,10 +3087,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 63061.22,
+      "price": 63007.22,
       "previousClose": 63024.637,
-      "change": 36.583,
-      "changePercent": 0.058,
+      "change": -17.417,
+      "changePercent": -0.0276,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -3295,13 +3295,53 @@
           63061.21875
         ],
         [
-          1786853270000,
-          63061.21875
+          1786853400000,
+          63063.070312
+        ],
+        [
+          1786853700000,
+          63082.488281
+        ],
+        [
+          1786854000000,
+          63080.570312
+        ],
+        [
+          1786854300000,
+          63082.488281
+        ],
+        [
+          1786854600000,
+          63053.359375
+        ],
+        [
+          1786854900000,
+          63052.988281
+        ],
+        [
+          1786855200000,
+          63052.941406
+        ],
+        [
+          1786855500000,
+          63053.628906
+        ],
+        [
+          1786855800000,
+          63052.449219
+        ],
+        [
+          1786856100000,
+          63016.929688
+        ],
+        [
+          1786856447000,
+          63007.21875
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-16 13:07 KST",
-      "marketTimestamp": 1786853270
+      "marketTime": "2026-08-16 14:00 KST",
+      "marketTimestamp": 1786856447
     }
   ],
   "mainCharts": [
@@ -4615,7 +4655,7 @@
     },
     {
       "title": "증시 급반등에…코스피 공매도 잔고 14% 증가",
-      "source": "서울경제TV",
+      "source": "sentv.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUEdXajNiSTdES3FFLWdfSnpxd1BkTGNjRXJnUTNkMndkVHE3QS10d1pfV2xpZVhJYkdXcUd2X0UyVk1fZkZBcXphQ1JReVFJOWFmTFBVRm9PRUNUTVFFOEJ6dTM?oc=5",
       "publishedAt": "Sun, 16 Aug 2026 00:11:20 GMT"
     },
