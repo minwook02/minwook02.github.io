@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-17T07:25:13.899634+09:00",
-  "updatedLabel": "2026-08-17 07:25:13 KST",
+  "updatedAt": "2026-08-17T07:48:14.108223+09:00",
+  "updatedLabel": "2026-08-17 07:48:14 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3051,12 +3051,12 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 82.56,
+      "price": 82.43,
       "previousClose": 82.4,
-      "change": 0.16,
-      "changePercent": 0.1942,
-      "tone": "up",
-      "direction": "상승",
+      "change": 0.03,
+      "changePercent": 0.0364,
+      "tone": "flat",
+      "direction": "보합",
       "series": [
         [
           1786918200000,
@@ -3067,13 +3067,29 @@
           82.599998
         ],
         [
-          1786918509000,
-          82.559998
+          1786918800000,
+          82.5
+        ],
+        [
+          1786919100000,
+          82.519997
+        ],
+        [
+          1786919400000,
+          82.489998
+        ],
+        [
+          1786919700000,
+          82.410004
+        ],
+        [
+          1786919888000,
+          82.43
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-17 07:15 KST",
-      "marketTimestamp": 1786918509
+      "marketTime": "2026-08-17 07:38 KST",
+      "marketTimestamp": 1786919888
     },
     {
       "id": "gold",
@@ -3082,10 +3098,10 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 4432.0,
+      "price": 4433.0,
       "previousClose": 4437.3,
-      "change": -5.3,
-      "changePercent": -0.1194,
+      "change": -4.3,
+      "changePercent": -0.0969,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -3098,13 +3114,29 @@
           4430.799805
         ],
         [
-          1786918503000,
-          4432.0
+          1786918800000,
+          4430.0
+        ],
+        [
+          1786919100000,
+          4430.600098
+        ],
+        [
+          1786919400000,
+          4433.299805
+        ],
+        [
+          1786919700000,
+          4434.200195
+        ],
+        [
+          1786919888000,
+          4433.0
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-17 07:15 KST",
-      "marketTimestamp": 1786918503
+      "marketTime": "2026-08-17 07:38 KST",
+      "marketTimestamp": 1786919888
     },
     {
       "id": "bitcoin",
@@ -3113,10 +3145,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 62789.95,
+      "price": 62704.95,
       "previousClose": 63024.637,
-      "change": -234.687,
-      "changePercent": -0.3724,
+      "change": -319.687,
+      "changePercent": -0.5072,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -4197,13 +4229,33 @@
           62793.730469
         ],
         [
-          1786919109000,
-          62789.949219
+          1786919100000,
+          62780.011719
+        ],
+        [
+          1786919400000,
+          62741.039062
+        ],
+        [
+          1786919700000,
+          62667.738281
+        ],
+        [
+          1786920000000,
+          62715.390625
+        ],
+        [
+          1786920300000,
+          62708.179688
+        ],
+        [
+          1786920491000,
+          62704.949219
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-17 07:25 KST",
-      "marketTimestamp": 1786919109
+      "marketTime": "2026-08-17 07:48 KST",
+      "marketTimestamp": 1786920491
     }
   ],
   "mainCharts": [
@@ -5498,28 +5550,22 @@
   ],
   "headlines": [
     {
-      "title": "“코스피, 앞으로 더 크게 흔들릴 수도” … AI시대 견뎌야 할 ‘뉴노멀’",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jd3ZLeFVWb245Ni1OX05MeGRvX204NElzS1BqRFVhTEJ3ZWtoMnZiNXNZTGExRHRmWnQ2RUtwZTZSQVVURXA0RkpCekxHZW9xUEE?oc=5",
-      "publishedAt": "Sun, 16 Aug 2026 19:10:00 GMT"
-    },
-    {
-      "title": "No.1 경제·증권 채널 : @HKWOWTV",
-      "source": "한국경제TV",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWhPYXA0QjlCekdWME9ITjJnMlhTaTlGdjhybHBLbkdBblJDcFZQUHdUNGhPQWZWbFdLZFlvT25vY1hab2s3RmMyXzVTbnlBRUxPSVJLNnV3MHRzckhhMWJuakZsak1ZT3FzTTl0eTNoNmdVb3J4SzEtMEVZR0hBZDNUcw?oc=5",
-      "publishedAt": "Sun, 16 Aug 2026 22:04:53 GMT"
-    },
-    {
       "title": "美 국채금리 25년 만 최고… 국내 증시 자금 빠지고 금리 오를까",
       "source": "서울신문",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxbTZIYXlaOHZYa0w3bDJqaHZONFh0M25mbFN4WmF3YnU4XzVfeGgza2RHZnpueS1XM1d0d2ZTdEpfQVZycFdsSm0wTUpaWDI2dkhzMkZrSTFOU1g4ZmtPOFBvOElPSWJjQjczdndIQkduME1DbTBXMUp3?oc=5",
       "publishedAt": "Sun, 16 Aug 2026 15:47:54 GMT"
     },
     {
-      "title": "보조금에서 증시로…中, 기술기업 자금줄 바꾼다[차이나는 중국] - 머니투데이",
-      "source": "머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fN0RuVW5aQ3RDb01pQkQyQmV1QWdEcjE1aUxmNzYyYldXTkJyaEpWbjIxUEJBc1QzeVh3ck5US0tZblFQa2VMR0hRa1BuRU1WUWV0Z3psbVk4VXhJTEdmbXRsbXRET0tOUFJv0gFwQVVfeXFMUEpVcGdwa2V2bk5LNDR6ODRDS0c2TnYwTXJRQlcxWU5HTUZCdTJpMU9yOFAxZFZHdzctUU5aYTFWQlc2dnBxb1NsVlppaDVnV2Q2S1JMNDVGSGhzR2p1X3I2Rk01MS0wa2x2WFMtc09hbw?oc=5",
-      "publishedAt": "Sun, 16 Aug 2026 15:28:56 GMT"
+      "title": "“코스피, 앞으로 더 크게 흔들릴 수도” … AI시대 견뎌야 할 ‘뉴노멀’",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jd3ZLeFVWb245Ni1OX05MeGRvX204NElzS1BqRFVhTEJ3ZWtoMnZiNXNZTGExRHRmWnQ2RUtwZTZSQVVURXA0RkpCekxHZW9xUEE?oc=5",
+      "publishedAt": "Sun, 16 Aug 2026 19:10:00 GMT"
+    },
+    {
+      "title": "1410원대로 내려온 환율, 빨라진 ‘대미 투자’ 시계에 반등 여부 촉각",
+      "source": "sisajournal-e.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWal8zR1prYmpwTklUTkNlQ2JVS1FBdVJUcUZCcVVFOTAxcGRNZWFBUDJhWXVOcDNSOHp1MUwyRUNGamtiMFJWRlhXcS1TUmtWRm96aDVTblN2Z1JBZjJVUVdrRHNQSnNWZDIweHhnNlNhUdIBdkFVX3lxTE9LaUk0UVEyM0lsT3RfdDZSNnhVUlNYbGJzX2d6c0Q3RlhzNTVhMG45YUtmN1FiUkVqNFBnVE1od2Zvc3hOeGE5YmVKUlRxY1EyeWZYZ240ODZDN1p0VjhjcGlVci1TVXJoWUI4TnBWeHVBWUFGc1E?oc=5",
+      "publishedAt": "Sun, 16 Aug 2026 08:26:50 GMT"
     },
     {
       "title": "'국장 귀환' 기대했는데…국내 ETF서 빠진 개미자금 해외로",
@@ -5528,29 +5574,35 @@
       "publishedAt": "Sun, 16 Aug 2026 15:00:54 GMT"
     },
     {
-      "title": "1410원대로 내려온 환율, 빨라진 ‘대미 투자’ 시계에 반등 여부 촉각",
-      "source": "시사저널e",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWal8zR1prYmpwTklUTkNlQ2JVS1FBdVJUcUZCcVVFOTAxcGRNZWFBUDJhWXVOcDNSOHp1MUwyRUNGamtiMFJWRlhXcS1TUmtWRm96aDVTblN2Z1JBZjJVUVdrRHNQSnNWZDIweHhnNlNhUdIBdkFVX3lxTE9LaUk0UVEyM0lsT3RfdDZSNnhVUlNYbGJzX2d6c0Q3RlhzNTVhMG45YUtmN1FiUkVqNFBnVE1od2Zvc3hOeGE5YmVKUlRxY1EyeWZYZ240ODZDN1p0VjhjcGlVci1TVXJoWUI4TnBWeHVBWUFGc1E?oc=5",
-      "publishedAt": "Sun, 16 Aug 2026 08:26:50 GMT"
+      "title": "No.1 경제·증권 채널 : @HKWOWTV",
+      "source": "한국경제TV",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWhPYXA0QjlCekdWME9ITjJnMlhTaTlGdjhybHBLbkdBblJDcFZQUHdUNGhPQWZWbFdLZFlvT25vY1hab2s3RmMyXzVTbnlBRUxPSVJLNnV3MHRzckhhMWJuakZsak1ZT3FzTTl0eTNoNmdVb3J4SzEtMEVZR0hBZDNUcw?oc=5",
+      "publishedAt": "Sun, 16 Aug 2026 22:04:53 GMT"
+    },
+    {
+      "title": "보조금에서 증시로…中, 기술기업 자금줄 바꾼다[차이나는 중국] - 머니투데이",
+      "source": "머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fN0RuVW5aQ3RDb01pQkQyQmV1QWdEcjE1aUxmNzYyYldXTkJyaEpWbjIxUEJBc1QzeVh3ck5US0tZblFQa2VMR0hRa1BuRU1WUWV0Z3psbVk4VXhJTEdmbXRsbXRET0tOUFJv0gFwQVVfeXFMUEpVcGdwa2V2bk5LNDR6ODRDS0c2TnYwTXJRQlcxWU5HTUZCdTJpMU9yOFAxZFZHdzctUU5aYTFWQlc2dnBxb1NsVlppaDVnV2Q2S1JMNDVGSGhzR2p1X3I2Rk01MS0wa2x2WFMtc09hbw?oc=5",
+      "publishedAt": "Sun, 16 Aug 2026 15:28:56 GMT"
+    },
+    {
+      "title": "2분기 서학개미 순매도에도…증권사, 해외 수수료 1조 벌었다",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSSjExSUZITDYycXU3Nkh5MDFNRVJZczBKSWFFRncxUWlwdlVESldTUUJia20yQUQwQlBvbEZWRkw5TEFKbW9zQVdKcF9qSjJOd3FjWl8xMURMLXpZSDdiUNIBYEFVX3lxTFBSSjExSUZITDYycXU3Nkh5MDFNRVJZczBKSWFFRncxUWlwdlVESldTUUJia20yQUQwQlBvbEZWRkw5TEFKbW9zQVdKcF9qSjJOd3FjWl8xMURMLXpZSDdiUA?oc=5",
+      "publishedAt": "Sun, 16 Aug 2026 21:05:02 GMT"
     },
     {
       "title": "[이로운넷 주간 증시 전망] '폭풍 전 대기' 국면...소외주의 시간",
       "source": "이로운넷",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QWlBQNXZwRzFSVFlCanVyLUVvdG41a1ZudTBPZ2Z6Q09VRGJpdl94SS1ydE1ON3BQdUVPR3JncjFpR0RWTWV5eFRUaFBubHZnV3h2Q09hTmtWU3QwcWpuQ05Vanlpdw?oc=5",
       "publishedAt": "Sun, 16 Aug 2026 00:46:08 GMT"
-    },
-    {
-      "title": "[주간 증시 전망] 돌아온 외국인·깨어난 반도체…코스피 '반등 본색'",
-      "source": "뉴스웍스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lbFc4b2RSS0V3S29BeXNOak9oTkFPODRLbmtEdlJLdDVINnFERmQ1Z0FqVG1yZFJOMUhESk1pcHN0LXJGSXdpY3FjRUdpanBUampLUUxFRWlzZTQ2ckN2cEplb0JYaVhIYzF1SVNpMNIBc0FVX3lxTE83WENPaHNMcmRrY1BvendwNTJnNnJLY0otMkJYSXYxWEpMNV94VVcwcmRSRVJuTXQ0NE83Rk0xWUtqV0Y3bUw0QzN6cFlRS0FFLXIxemVyZnVIN0xMcm44SW9XM2t5MWF4V1cySmlOVWpnaG8?oc=5",
-      "publishedAt": "Sun, 16 Aug 2026 05:00:00 GMT"
     }
   ],
   "summary": {
     "signal": {
-      "label": "Risk-On",
-      "tone": "up",
-      "message": "주식과 위험자산 강세가 우세합니다."
+      "label": "Mixed",
+      "tone": "flat",
+      "message": "국내외 자산이 같은 방향으로 움직이지 않는 혼조장입니다."
     },
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 상승 흐름입니다.",
@@ -5577,14 +5629,14 @@
       },
       {
         "label": "WTI",
-        "changePercent": 0.1942,
-        "direction": "상승"
+        "changePercent": 0.0364,
+        "direction": "보합"
       }
     ],
     "laggards": [
       {
         "label": "Bitcoin",
-        "changePercent": -0.3724,
+        "changePercent": -0.5072,
         "direction": "하락"
       },
       {
