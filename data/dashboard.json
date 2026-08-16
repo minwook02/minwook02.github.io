@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-17T05:26:58.081439+09:00",
-  "updatedLabel": "2026-08-17 05:26:58 KST",
+  "updatedAt": "2026-08-17T05:50:04.650567+09:00",
+  "updatedLabel": "2026-08-17 05:50:04 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3087,10 +3087,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 63022.14,
+      "price": 62970.88,
       "previousClose": 63024.637,
-      "change": -2.497,
-      "changePercent": -0.004,
+      "change": -53.757,
+      "changePercent": -0.0853,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -4076,16 +4076,32 @@
         ],
         [
           1786911900000,
-          63021.96875
+          63024.660156
         ],
         [
-          1786912014000,
-          63022.140625
+          1786912200000,
+          63042.371094
+        ],
+        [
+          1786912500000,
+          63025.808594
+        ],
+        [
+          1786912800000,
+          63000.910156
+        ],
+        [
+          1786913100000,
+          62970.878906
+        ],
+        [
+          1786913401000,
+          62970.878906
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-17 05:26 KST",
-      "marketTimestamp": 1786912014
+      "marketTime": "2026-08-17 05:50 KST",
+      "marketTimestamp": 1786913401
     }
   ],
   "mainCharts": [
@@ -5386,6 +5402,12 @@
       "publishedAt": "Sun, 16 Aug 2026 19:10:00 GMT"
     },
     {
+      "title": "美 국채금리 25년 만 최고… 국내 증시 자금 빠지고 금리 오를까",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxbTZIYXlaOHZYa0w3bDJqaHZONFh0M25mbFN4WmF3YnU4XzVfeGgza2RHZnpueS1XM1d0d2ZTdEpfQVZycFdsSm0wTUpaWDI2dkhzMkZrSTFOU1g4ZmtPOFBvOElPSWJjQjczdndIQkduME1DbTBXMUp3?oc=5",
+      "publishedAt": "Sun, 16 Aug 2026 15:47:54 GMT"
+    },
+    {
       "title": "보조금에서 증시로…中, 기술기업 자금줄 바꾼다[차이나는 중국] - 머니투데이",
       "source": "머니투데이",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fN0RuVW5aQ3RDb01pQkQyQmV1QWdEcjE1aUxmNzYyYldXTkJyaEpWbjIxUEJBc1QzeVh3ck5US0tZblFQa2VMR0hRa1BuRU1WUWV0Z3psbVk4VXhJTEdmbXRsbXRET0tOUFJv0gFwQVVfeXFMUEpVcGdwa2V2bk5LNDR6ODRDS0c2TnYwTXJRQlcxWU5HTUZCdTJpMU9yOFAxZFZHdzctUU5aYTFWQlc2dnBxb1NsVlppaDVnV2Q2S1JMNDVGSGhzR2p1X3I2Rk01MS0wa2x2WFMtc09hbw?oc=5",
@@ -5393,7 +5415,7 @@
     },
     {
       "title": "'국장 귀환' 기대했는데…국내 ETF서 빠진 개미자금 해외로",
-      "source": "더구루",
+      "source": "theguru.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaQ2pJLXJ6QVR0dkFGMVJqRXRQTXNzOXJURklSOXQ5S3d4RnNiOWVZZmgxdWVHWDFmTXJHSW9CeG00VE5RYnd6M1VoLVYwa3pFYnhFX0pTSkUtMGRrMEdQTUtqUQ?oc=5",
       "publishedAt": "Sun, 16 Aug 2026 15:00:54 GMT"
     },
@@ -5402,12 +5424,6 @@
       "source": "이로운넷",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QWlBQNXZwRzFSVFlCanVyLUVvdG41a1ZudTBPZ2Z6Q09VRGJpdl94SS1ydE1ON3BQdUVPR3JncjFpR0RWTWV5eFRUaFBubHZnV3h2Q09hTmtWU3QwcWpuQ05Vanlpdw?oc=5",
       "publishedAt": "Sun, 16 Aug 2026 00:46:08 GMT"
-    },
-    {
-      "title": "美 국채금리 25년 만 최고… 국내 증시 자금 빠지고 금리 오를까",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oMXRaY2xEQVh1Q0RGVnRic0h2bDhaVUVNbldGNUJGZUJua1NyY0pGa2UxM29PcExYN3g2NmxvTlVUZzBmQUhfRTFKWGx6X3pNYmE3VW5LZw?oc=5",
-      "publishedAt": "Sun, 16 Aug 2026 15:47:54 GMT"
     },
     {
       "title": "증시 급반등에…코스피 공매도 잔고 14% 증가",
@@ -5430,9 +5446,9 @@
   ],
   "summary": {
     "signal": {
-      "label": "Risk-On",
-      "tone": "up",
-      "message": "주식과 위험자산 강세가 우세합니다."
+      "label": "Mixed",
+      "tone": "flat",
+      "message": "국내외 자산이 같은 방향으로 움직이지 않는 혼조장입니다."
     },
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 상승 흐름입니다.",
