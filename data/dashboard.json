@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-16T17:33:28.754357+09:00",
-  "updatedLabel": "2026-08-16 17:33:28 KST",
+  "updatedAt": "2026-08-16T18:30:39.924919+09:00",
+  "updatedLabel": "2026-08-16 18:30:39 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3087,10 +3087,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 62998.67,
+      "price": 62993.1,
       "previousClose": 63024.637,
-      "change": -25.967,
-      "changePercent": -0.0412,
+      "change": -31.537,
+      "changePercent": -0.05,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -3504,16 +3504,60 @@
         ],
         [
           1786869000000,
-          62998.671875
+          63007.46875
         ],
         [
-          1786869203000,
-          62998.671875
+          1786869300000,
+          63003.179688
+        ],
+        [
+          1786869600000,
+          62996.578125
+        ],
+        [
+          1786869900000,
+          62998.46875
+        ],
+        [
+          1786870200000,
+          63000.089844
+        ],
+        [
+          1786870500000,
+          63001.910156
+        ],
+        [
+          1786870800000,
+          63001.898438
+        ],
+        [
+          1786871100000,
+          62999.449219
+        ],
+        [
+          1786871400000,
+          62996.148438
+        ],
+        [
+          1786871700000,
+          62996.160156
+        ],
+        [
+          1786872000000,
+          63000.898438
+        ],
+        [
+          1786872300000,
+          62993.109375
+        ],
+        [
+          1786872635000,
+          62993.101562
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-16 17:33 KST",
-      "marketTimestamp": 1786869203
+      "marketTime": "2026-08-16 18:30 KST",
+      "marketTimestamp": 1786872635
     }
   ],
   "mainCharts": [
@@ -4833,21 +4877,21 @@
     },
     {
       "title": "증시 급반등에…코스피 공매도 잔고 14% 증가",
-      "source": "서울경제TV",
+      "source": "sentv.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUEdXajNiSTdES3FFLWdfSnpxd1BkTGNjRXJnUTNkMndkVHE3QS10d1pfV2xpZVhJYkdXcUd2X0UyVk1fZkZBcXphQ1JReVFJOWFmTFBVRm9PRUNUTVFFOEJ6dTM?oc=5",
       "publishedAt": "Sun, 16 Aug 2026 00:11:20 GMT"
+    },
+    {
+      "title": "악재 걷힌 삼전닉스...코스피 8500선 회복 가능성도 [주간 증시 전망]",
+      "source": "파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HQ2RWMTBqeXhpUzlJYXpHaTRRSUZfXzUyazJsekdKZzdWdGpoaVJwbG90Y0x1SEk0b3FBWTZTaVFwOE9ISGlMMFd0RVgxaGRoaG9yMVFLZ29ndw?oc=5",
+      "publishedAt": "Sun, 16 Aug 2026 07:48:31 GMT"
     },
     {
       "title": "코스피 급반등에 '공매도' 잔고도 증가…증시 경계감 고조",
       "source": "ebn.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMOWtOeVhReWJJdnVUbWppMnZNT1V6NnBBdEdJWU1hNk5pZlhBVkFyZi0wQW9zam5MaVNPdjFtSDNMS3BRRW9jTlFQQXVqa09pWVdfNkxaLURocmFUbmhmZFg2ekFSaEJ4?oc=5",
       "publishedAt": "Sun, 16 Aug 2026 04:00:00 GMT"
-    },
-    {
-      "title": "\"올라도 못 믿겠다\"...코스피 반등에도 주식 팔아치우는 개미들",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOEdrc04zbWZ5MkdSY1IxcllCTEk5TUFMakVHWjRyc3k4VVZDS21vMGtlMC1rMTZDNlRhSW1fTWxidXBoa0hlb2ZTQnlPR3lqNkJqRm4yanluUXpZNGdtbF95YXlyRDhxYzVJLTg2YnUzRnl0OG4tamRFRGVaZ1kyWA?oc=5",
-      "publishedAt": "Sun, 16 Aug 2026 01:29:34 GMT"
     },
     {
       "title": "BBC가 본 ‘롤러코스피’..“세계서 가장 변동성 큰 증시”",
