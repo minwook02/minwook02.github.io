@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-17T01:29:47.406173+09:00",
-  "updatedLabel": "2026-08-17 01:29:47 KST",
+  "updatedAt": "2026-08-17T01:54:24.894074+09:00",
+  "updatedLabel": "2026-08-17 01:54:24 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3087,10 +3087,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 63252.17,
+      "price": 63173.65,
       "previousClose": 63024.637,
-      "change": 227.533,
-      "changePercent": 0.361,
+      "change": 149.013,
+      "changePercent": 0.2364,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3884,16 +3884,36 @@
         ],
         [
           1786897500000,
-          63260.070312
+          63252.160156
         ],
         [
-          1786897784000,
-          63252.171875
+          1786897800000,
+          63296.121094
+        ],
+        [
+          1786898100000,
+          63259.238281
+        ],
+        [
+          1786898400000,
+          63220.859375
+        ],
+        [
+          1786898700000,
+          63215.710938
+        ],
+        [
+          1786899000000,
+          63171.761719
+        ],
+        [
+          1786899262000,
+          63173.648438
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-17 01:29 KST",
-      "marketTimestamp": 1786897784
+      "marketTime": "2026-08-17 01:54 KST",
+      "marketTimestamp": 1786899262
     }
   ],
   "mainCharts": [
@@ -5219,13 +5239,13 @@
     },
     {
       "title": "증시 급반등에…코스피 공매도 잔고 14% 증가",
-      "source": "서울경제TV",
+      "source": "sentv.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUEdXajNiSTdES3FFLWdfSnpxd1BkTGNjRXJnUTNkMndkVHE3QS10d1pfV2xpZVhJYkdXcUd2X0UyVk1fZkZBcXphQ1JReVFJOWFmTFBVRm9PRUNUTVFFOEJ6dTM?oc=5",
       "publishedAt": "Sun, 16 Aug 2026 00:11:20 GMT"
     },
     {
       "title": "[주간 증시 전망] 돌아온 외국인·깨어난 반도체…코스피 '반등 본색'",
-      "source": "newsworks.co.kr",
+      "source": "뉴스웍스",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83WENPaHNMcmRrY1BvendwNTJnNnJLY0otMkJYSXYxWEpMNV94VVcwcmRSRVJuTXQ0NE83Rk0xWUtqV0Y3bUw0QzN6cFlRS0FFLXIxemVyZnVIN0xMcm44SW9XM2t5MWF4V1cySmlOVWpnaG_SAXNBVV95cUxPN1hDT2hzTHJka2NQb3p3cDUyZzZyS2NKLTJCWEl2MVhKTDVfeFVXMHJkUkVSbk10NDRPN0ZNMVlLaldGN21MNEMzenBZUUtBRS1yMXplcmZ1SDdMTHJuOElvVzNreTFheFdXMkppTlVqZ2hv?oc=5",
       "publishedAt": "Sun, 16 Aug 2026 05:04:35 GMT"
     },
