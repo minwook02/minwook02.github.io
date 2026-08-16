@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-16T10:38:05.108998+09:00",
-  "updatedLabel": "2026-08-16 10:38:05 KST",
+  "updatedAt": "2026-08-16T12:03:28.450259+09:00",
+  "updatedLabel": "2026-08-16 12:03:28 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4729,10 +4729,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 62989.23,
+      "price": 63053.19,
       "previousClose": 63024.637,
-      "change": -35.407,
-      "changePercent": -0.0562,
+      "change": 28.553,
+      "changePercent": 0.0453,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -4814,16 +4814,84 @@
         ],
         [
           1786844100000,
-          62990.121094
+          62939.421875
         ],
         [
-          1786844274000,
-          62989.230469
+          1786844400000,
+          63004.308594
+        ],
+        [
+          1786844700000,
+          62999.851562
+        ],
+        [
+          1786845000000,
+          62975.179688
+        ],
+        [
+          1786845300000,
+          63013.898438
+        ],
+        [
+          1786845600000,
+          62977.421875
+        ],
+        [
+          1786845900000,
+          62974.128906
+        ],
+        [
+          1786846200000,
+          62958.578125
+        ],
+        [
+          1786846500000,
+          62976.699219
+        ],
+        [
+          1786846800000,
+          63043.480469
+        ],
+        [
+          1786847100000,
+          63046.078125
+        ],
+        [
+          1786847400000,
+          63046.078125
+        ],
+        [
+          1786847700000,
+          63049.800781
+        ],
+        [
+          1786848000000,
+          63085.480469
+        ],
+        [
+          1786848300000,
+          63067.550781
+        ],
+        [
+          1786848600000,
+          63059.058594
+        ],
+        [
+          1786848900000,
+          63054.449219
+        ],
+        [
+          1786849200000,
+          63053.171875
+        ],
+        [
+          1786849398000,
+          63053.191406
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-16 10:37 KST",
-      "marketTimestamp": 1786844274
+      "marketTime": "2026-08-16 12:03 KST",
+      "marketTimestamp": 1786849398
     }
   ],
   "mainCharts": [
@@ -6116,7 +6184,56 @@
       "marketTimestamp": 1786742159
     }
   ],
-  "headlines": [],
+  "headlines": [
+    {
+      "title": "[이로운넷 주간 증시 전망] '폭풍 전 대기' 국면...소외주의 시간",
+      "source": "이로운넷",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QWlBQNXZwRzFSVFlCanVyLUVvdG41a1ZudTBPZ2Z6Q09VRGJpdl94SS1ydE1ON3BQdUVPR3JncjFpR0RWTWV5eFRUaFBubHZnV3h2Q09hTmtWU3QwcWpuQ05Vanlpdw?oc=5",
+      "publishedAt": "Sun, 16 Aug 2026 00:46:08 GMT"
+    },
+    {
+      "title": "[마켓인사이트] 한주 내내 바닥다진 코스피, 상승흐름 이어가나",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xQllUc21uRmUtM1dqUEkwZkpnclhSOTdvV2VfVTdSbTJRLUszcVlWMTd1RFpqd2FtSUNEY2ZDRnJBTVlfQXFWZmF6bFVQNEY5YXEyak1DOXJ6dVV2X2hOc9IBYEFVX3lxTE9xQllUc21uRmUtM1dqUEkwZkpnclhSOTdvV2VfVTdSbTJRLUszcVlWMTd1RFpqd2FtSUNEY2ZDRnJBTVlfQXFWZmF6bFVQNEY5YXEyak1DOXJ6dVV2X2hOcw?oc=5",
+      "publishedAt": "Sat, 15 Aug 2026 21:00:16 GMT"
+    },
+    {
+      "title": "삼전닉스 몰빵 끝, 온기 퍼진다…멀미나던 한국 증시, '우상향' 시동? - 머니투데이",
+      "source": "머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wNHlNTVVReExGTnpxdU9JRTFSSzM2cVN0dUhDODI4YmZ6b0V0TkZYbkg2bU5tWlg4NFNPal82Wl9GbkVZNUx5VEEtZHZHSWR3eXJVSS02NklwajhNUTBPU0t5Y0lWdjZYQU9uTl9B0gFuQVVfeXFMTnA0eU1NVVF4TEZOenF1T0lFMVJLMzZxU3R1SEM4MjhiZnpvRXRORlhuSDZtTm1aWDg0U09qXzZaX0ZuRVk1THlUQS1kdkdJZHd5clVJLTY2SXBqOE1RME9TS3ljSVZ2NlhBT25OX0E?oc=5",
+      "publishedAt": "Sat, 15 Aug 2026 21:43:00 GMT"
+    },
+    {
+      "title": "증시 급반등에…코스피 공매도 잔고 14% 증가",
+      "source": "서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUEdXajNiSTdES3FFLWdfSnpxd1BkTGNjRXJnUTNkMndkVHE3QS10d1pfV2xpZVhJYkdXcUd2X0UyVk1fZkZBcXphQ1JReVFJOWFmTFBVRm9PRUNUTVFFOEJ6dTM?oc=5",
+      "publishedAt": "Sun, 16 Aug 2026 00:11:20 GMT"
+    },
+    {
+      "title": "증시 활황에 웃은 증권사…상반기 순익 첫 10조 돌파",
+      "source": "아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vUTdIOVV3MXlyTFhJblA1Y2F1Qy1qZXh0Qm9EZlAtMEtnVG5Rem9XNDNCUy1hZzZTWTJoMDZCbTh4amZUQkNFQ3JxZENxQ0NzU3NHLWtEa2XSAVhBVV95cUxOb1E3SDlVdzF5ckxYSW5QNWNhdUMtamV4dEJvRGZQLTBLZ1RuUXpvVzQzQlMtYWc2U1kyaDA2Qm04eGpmVEJDRUNycWRDcUNDc1NzRy1rRGtl?oc=5",
+      "publishedAt": "Sat, 15 Aug 2026 23:00:00 GMT"
+    },
+    {
+      "title": "유상대 한은 부총재 \"금리 인상 가능성 커\" … 코스피, 유동성 '씨가 마른다'",
+      "source": "뉴데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeW9jM216TlRRWGxEaHd0OTh0dzZ3MWFDRm9ZeGVQZFVlX29tejBEU3pqUUxPOEliUmx1bU94X3llUnIzMm9yUjlhYnU3cjNRTUN2b2pvdE9IOWg2dHB6MGpwTkM0d2c5YlZaa3ZXVXFRampFZmZ6NVd1dFJ1VVZKatIBgAFBVV95cUxPeW9jM216TlRRWGxEaHd0OTh0dzZ3MWFDRm9ZeGVQZFVlX29tejBEU3pqUUxPOEliUmx1bU94X3llUnIzMm9yUjlhYnU3cjNRTUN2b2pvdE9IOWg2dHB6MGpwTkM0d2c5YlZaa3ZXVXFRampFZmZ6NVd1dFJ1VVZKag?oc=5",
+      "publishedAt": "Sat, 15 Aug 2026 23:00:00 GMT"
+    },
+    {
+      "title": "빨라진 '순환매 시계'…바이오·뷰티 거쳐 실적주로[패닉 딛고 돌아온 증시②]",
+      "source": "뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01enBYTGM4MG5hTGJ3Tm9xSTF5Zm11NFY0SmJaOGQ0LXhmU0hOT2NCMGt0RDRJNlZDbFA2OUlHTFp1WWYwTXIwX3owX0lRR2xPOE1PUHhBNGVxQjVOUzBTMdIBeEFVX3lxTE04TzZMX0JyTllVY2M0MVNFRXdaaWhwdzhQUzV5N0lyRDZqTVlYX2FOU25kZE82MEMwYlVyTTYydUdCVFczZWJpZWtmWU9DUGpnWWFuU3gxajk4RVZ0Rk9idTFrbFlyd0x3RjE4UzRzNDdFMmp3U3FfWA?oc=5",
+      "publishedAt": "Sat, 15 Aug 2026 23:00:00 GMT"
+    },
+    {
+      "title": "되살아난 반도체 투심…코스피 6200~7200 [주간 증시 전망]",
+      "source": "데일리안",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNa1daS1BpSkN6Vng5bVY5dk5MbUV6WXlIc1JEcUc5WXNCUm5RXy0wWC1tWnFYUTBMZHdFVExFMndLcnM2RWx5WVNlSlJEWGZmR2lkNGtwcGtvb0VfdU5vUVhvelJoSUs1T2NlLTRnbzJveERUVFFYdUVJSE8zTkxpQW9yY0x5ZWdFd1pfdzlIbnF2NVNJeFFFY0hsS01VMzRWTjNpaGRoQjk5NUgtRjQ4RmQzek1rcjFKTzUyaDBSa2ZoLTZZQVZuNUpUT01XT1VXaUluS2hiZ216VThMdEFEYTJVbTdMSWFVTGtiQXlLMWw3X1Flai0yYg?oc=5",
+      "publishedAt": "Sat, 15 Aug 2026 22:01:00 GMT"
+    }
+  ],
   "summary": {
     "signal": {
       "label": "Risk-On",
@@ -6170,7 +6287,5 @@
       }
     ]
   },
-  "errors": [
-    "뉴스: HTTP Error 503: Service Unavailable"
-  ]
+  "errors": []
 }
