@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-16T23:51:10.996475+09:00",
-  "updatedLabel": "2026-08-16 23:51:10 KST",
+  "updatedAt": "2026-08-17T00:25:44.474054+09:00",
+  "updatedLabel": "2026-08-17 00:25:44 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2702,8 +2702,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-16 23:13 KST",
-      "marketTimestamp": 1786889622
+      "marketTime": "2026-08-17 00:22 KST",
+      "marketTimestamp": 1786893722
     },
     {
       "id": "us10y",
@@ -3087,10 +3087,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 63029.94,
+      "price": 63039.16,
       "previousClose": 63024.637,
-      "change": 5.303,
-      "changePercent": 0.0084,
+      "change": 14.523,
+      "changePercent": 0.023,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -3808,16 +3808,40 @@
         ],
         [
           1786891800000,
-          63029.949219
+          63034.21875
         ],
         [
-          1786891865000,
-          63029.941406
+          1786892100000,
+          63034.539062
+        ],
+        [
+          1786892400000,
+          63043.0
+        ],
+        [
+          1786892700000,
+          63045.011719
+        ],
+        [
+          1786893000000,
+          63036.351562
+        ],
+        [
+          1786893300000,
+          63036.210938
+        ],
+        [
+          1786893600000,
+          63038.511719
+        ],
+        [
+          1786893938000,
+          63039.160156
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-16 23:51 KST",
-      "marketTimestamp": 1786891865
+      "marketTime": "2026-08-17 00:25 KST",
+      "marketTimestamp": 1786893938
     }
   ],
   "mainCharts": [
@@ -5113,7 +5137,7 @@
   "headlines": [
     {
       "title": "美 국채금리 25년 만 최고… 국내 증시 자금 빠지고 금리 오를까",
-      "source": "seoul.co.kr",
+      "source": "서울신문",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05VXNjWVhyZU5maEdTVXdHR2pmX0N2RGNhUnpEakhjX1daNWR4bXJkN0lIZTBIdjVpLUp6NDVCVGdWbndSQXJyWkRHV201Z0p2ekZZWDZjVjRiU0RkdFRqb0Z6TDI1ODdJc3FGY2xEVFZJMEtLYXRQY0xn?oc=5",
       "publishedAt": "Sun, 16 Aug 2026 09:16:56 GMT"
     },
@@ -5125,7 +5149,7 @@
     },
     {
       "title": "[이로운넷 주간 증시 전망] '폭풍 전 대기' 국면...소외주의 시간",
-      "source": "이로운넷",
+      "source": "eroun.net",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QWlBQNXZwRzFSVFlCanVyLUVvdG41a1ZudTBPZ2Z6Q09VRGJpdl94SS1ydE1ON3BQdUVPR3JncjFpR0RWTWV5eFRUaFBubHZnV3h2Q09hTmtWU3QwcWpuQ05Vanlpdw?oc=5",
       "publishedAt": "Sun, 16 Aug 2026 00:46:08 GMT"
     },
