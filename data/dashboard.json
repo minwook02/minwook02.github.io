@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-17T06:23:44.863484+09:00",
-  "updatedLabel": "2026-08-17 06:23:44 KST",
+  "updatedAt": "2026-08-17T06:46:20.118336+09:00",
+  "updatedLabel": "2026-08-17 06:46:20 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3087,12 +3087,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 62987.46,
+      "price": 62818.84,
       "previousClose": 63024.637,
-      "change": -37.177,
-      "changePercent": -0.059,
-      "tone": "flat",
-      "direction": "보합",
+      "change": -205.797,
+      "changePercent": -0.3265,
+      "tone": "down",
+      "direction": "하락",
       "series": [
         [
           1786838400000,
@@ -4120,16 +4120,36 @@
         ],
         [
           1786915200000,
-          62981.640625
+          62976.761719
         ],
         [
-          1786915418000,
-          62987.460938
+          1786915500000,
+          62963.828125
+        ],
+        [
+          1786915800000,
+          62968.851562
+        ],
+        [
+          1786916100000,
+          62925.691406
+        ],
+        [
+          1786916400000,
+          62873.539062
+        ],
+        [
+          1786916700000,
+          62831.398438
+        ],
+        [
+          1786916769000,
+          62818.839844
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-17 06:23 KST",
-      "marketTimestamp": 1786915418
+      "marketTime": "2026-08-17 06:46 KST",
+      "marketTimestamp": 1786916769
     }
   ],
   "mainCharts": [
@@ -5425,7 +5445,7 @@
   "headlines": [
     {
       "title": "조각투자 '증시 데뷔'…11월 신종증권시장 문 연다",
-      "source": "연합뉴스 한민족센터",
+      "source": "koreancenter.or.kr",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wSlFNQnhRUHF0WjZxQUs5emNJbnpJRjh5d1ptTkplSTZGZGpIUGhRak1ra2lVd2Q0dDNBUndaTUVjakh4VWNCR2JQQTVXTFVfSHlBb0lOemgzWXlYMGJmR3laVlRPejNhXzBiQ3gzVE1mQUto?oc=5",
       "publishedAt": "Sun, 16 Aug 2026 20:57:02 GMT"
     },
@@ -5460,23 +5480,23 @@
       "publishedAt": "Sun, 16 Aug 2026 00:46:08 GMT"
     },
     {
-      "title": "증시 급반등에…코스피 공매도 잔고 14% 증가",
-      "source": "서울경제TV",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUEdXajNiSTdES3FFLWdfSnpxd1BkTGNjRXJnUTNkMndkVHE3QS10d1pfV2xpZVhJYkdXcUd2X0UyVk1fZkZBcXphQ1JReVFJOWFmTFBVRm9PRUNUTVFFOEJ6dTM?oc=5",
-      "publishedAt": "Sun, 16 Aug 2026 00:11:20 GMT"
-    },
-    {
       "title": "악재 걷힌 삼전닉스...코스피 8500선 회복 가능성도 [주간 증시 전망]",
       "source": "파이낸셜뉴스",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HQ2RWMTBqeXhpUzlJYXpHaTRRSUZfXzUyazJsekdKZzdWdGpoaVJwbG90Y0x1SEk0b3FBWTZTaVFwOE9ISGlMMFd0RVgxaGRoaG9yMVFLZ29ndw?oc=5",
       "publishedAt": "Sun, 16 Aug 2026 07:48:31 GMT"
+    },
+    {
+      "title": "증시 급반등에…코스피 공매도 잔고 14% 증가",
+      "source": "서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UUEdXajNiSTdES3FFLWdfSnpxd1BkTGNjRXJnUTNkMndkVHE3QS10d1pfV2xpZVhJYkdXcUd2X0UyVk1fZkZBcXphQ1JReVFJOWFmTFBVRm9PRUNUTVFFOEJ6dTM?oc=5",
+      "publishedAt": "Sun, 16 Aug 2026 00:11:20 GMT"
     }
   ],
   "summary": {
     "signal": {
-      "label": "Risk-On",
-      "tone": "up",
-      "message": "주식과 위험자산 강세가 우세합니다."
+      "label": "Mixed",
+      "tone": "flat",
+      "message": "국내외 자산이 같은 방향으로 움직이지 않는 혼조장입니다."
     },
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 상승 흐름입니다.",
@@ -5509,6 +5529,11 @@
     ],
     "laggards": [
       {
+        "label": "Bitcoin",
+        "changePercent": -0.3265,
+        "direction": "하락"
+      },
+      {
         "label": "NASDAQ",
         "changePercent": -0.2755,
         "direction": "하락"
@@ -5516,11 +5541,6 @@
       {
         "label": "DOW",
         "changePercent": -0.1998,
-        "direction": "하락"
-      },
-      {
-        "label": "S&P 500",
-        "changePercent": -0.1696,
         "direction": "하락"
       }
     ]
