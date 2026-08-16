@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-17T04:23:20.649361+09:00",
-  "updatedLabel": "2026-08-17 04:23:20 KST",
+  "updatedAt": "2026-08-17T04:45:17.143173+09:00",
+  "updatedLabel": "2026-08-17 04:45:17 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3052,11 +3052,11 @@
       "kind": "commodity",
       "decimals": 2,
       "price": 82.4,
-      "previousClose": 81.25,
-      "change": 1.15,
-      "changePercent": 1.4154,
-      "tone": "up",
-      "direction": "상승",
+      "previousClose": 82.4,
+      "change": 0.0,
+      "changePercent": 0.0,
+      "tone": "flat",
+      "direction": "보합",
       "series": [],
       "marketState": "UNKNOWN",
       "marketTime": "2026-08-15 05:59 KST",
@@ -3087,10 +3087,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 63113.76,
+      "price": 63105.39,
       "previousClose": 63024.637,
-      "change": 89.123,
-      "changePercent": 0.1414,
+      "change": 80.753,
+      "changePercent": 0.1281,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -4024,16 +4024,32 @@
         ],
         [
           1786908000000,
-          63113.761719
+          63126.371094
         ],
         [
-          1786908197000,
-          63113.761719
+          1786908300000,
+          63153.039062
+        ],
+        [
+          1786908600000,
+          63144.71875
+        ],
+        [
+          1786908900000,
+          63151.621094
+        ],
+        [
+          1786909200000,
+          63093.820312
+        ],
+        [
+          1786909513000,
+          63105.390625
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-17 04:23 KST",
-      "marketTimestamp": 1786908197
+      "marketTime": "2026-08-17 04:45 KST",
+      "marketTimestamp": 1786909513
     }
   ],
   "mainCharts": [
@@ -5401,14 +5417,14 @@
         "direction": "상승"
       },
       {
-        "label": "WTI",
-        "changePercent": 1.4154,
-        "direction": "상승"
-      },
-      {
         "label": "KOSDAQ",
         "changePercent": 0.3808,
         "direction": "상승"
+      },
+      {
+        "label": "Bitcoin",
+        "changePercent": 0.1281,
+        "direction": "보합"
       }
     ],
     "laggards": [
