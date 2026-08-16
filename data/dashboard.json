@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-17T05:50:04.650567+09:00",
-  "updatedLabel": "2026-08-17 05:50:04 KST",
+  "updatedAt": "2026-08-17T06:23:44.863484+09:00",
+  "updatedLabel": "2026-08-17 06:23:44 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3087,10 +3087,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 62970.88,
+      "price": 62987.46,
       "previousClose": 63024.637,
-      "change": -53.757,
-      "changePercent": -0.0853,
+      "change": -37.177,
+      "changePercent": -0.059,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -4095,13 +4095,41 @@
           62970.878906
         ],
         [
-          1786913401000,
-          62970.878906
+          1786913400000,
+          62996.671875
+        ],
+        [
+          1786913700000,
+          63000.730469
+        ],
+        [
+          1786914000000,
+          62999.269531
+        ],
+        [
+          1786914300000,
+          62982.839844
+        ],
+        [
+          1786914600000,
+          62994.679688
+        ],
+        [
+          1786914900000,
+          62994.710938
+        ],
+        [
+          1786915200000,
+          62981.640625
+        ],
+        [
+          1786915418000,
+          62987.460938
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-17 05:50 KST",
-      "marketTimestamp": 1786913401
+      "marketTime": "2026-08-17 06:23 KST",
+      "marketTimestamp": 1786915418
     }
   ],
   "mainCharts": [
@@ -5396,6 +5424,12 @@
   ],
   "headlines": [
     {
+      "title": "조각투자 '증시 데뷔'…11월 신종증권시장 문 연다",
+      "source": "연합뉴스 한민족센터",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wSlFNQnhRUHF0WjZxQUs5emNJbnpJRjh5d1ptTkplSTZGZGpIUGhRak1ra2lVd2Q0dDNBUndaTUVjakh4VWNCR2JQQTVXTFVfSHlBb0lOemgzWXlYMGJmR3laVlRPejNhXzBiQ3gzVE1mQUto?oc=5",
+      "publishedAt": "Sun, 16 Aug 2026 20:57:02 GMT"
+    },
+    {
       "title": "“코스피, 앞으로 더 크게 흔들릴 수도” … AI시대 견뎌야 할 ‘뉴노멀’",
       "source": "매일경제",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jd3ZLeFVWb245Ni1OX05MeGRvX204NElzS1BqRFVhTEJ3ZWtoMnZiNXNZTGExRHRmWnQ2RUtwZTZSQVVURXA0RkpCekxHZW9xUEE?oc=5",
@@ -5415,7 +5449,7 @@
     },
     {
       "title": "'국장 귀환' 기대했는데…국내 ETF서 빠진 개미자금 해외로",
-      "source": "theguru.co.kr",
+      "source": "더구루",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaQ2pJLXJ6QVR0dkFGMVJqRXRQTXNzOXJURklSOXQ5S3d4RnNiOWVZZmgxdWVHWDFmTXJHSW9CeG00VE5RYnd6M1VoLVYwa3pFYnhFX0pTSkUtMGRrMEdQTUtqUQ?oc=5",
       "publishedAt": "Sun, 16 Aug 2026 15:00:54 GMT"
     },
@@ -5432,23 +5466,17 @@
       "publishedAt": "Sun, 16 Aug 2026 00:11:20 GMT"
     },
     {
-      "title": "[마켓인사이트] 한주 내내 바닥다진 코스피, 상승흐름 이어가나",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xQllUc21uRmUtM1dqUEkwZkpnclhSOTdvV2VfVTdSbTJRLUszcVlWMTd1RFpqd2FtSUNEY2ZDRnJBTVlfQXFWZmF6bFVQNEY5YXEyak1DOXJ6dVV2X2hOc9IBYEFVX3lxTE9xQllUc21uRmUtM1dqUEkwZkpnclhSOTdvV2VfVTdSbTJRLUszcVlWMTd1RFpqd2FtSUNEY2ZDRnJBTVlfQXFWZmF6bFVQNEY5YXEyak1DOXJ6dVV2X2hOcw?oc=5",
-      "publishedAt": "Sat, 15 Aug 2026 21:00:16 GMT"
-    },
-    {
-      "title": "[주간 증시 전망] 돌아온 외국인·깨어난 반도체…코스피 '반등 본색'",
-      "source": "뉴스웍스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83WENPaHNMcmRrY1BvendwNTJnNnJLY0otMkJYSXYxWEpMNV94VVcwcmRSRVJuTXQ0NE83Rk0xWUtqV0Y3bUw0QzN6cFlRS0FFLXIxemVyZnVIN0xMcm44SW9XM2t5MWF4V1cySmlOVWpnaG_SAXNBVV95cUxPN1hDT2hzTHJka2NQb3p3cDUyZzZyS2NKLTJCWEl2MVhKTDVfeFVXMHJkUkVSbk10NDRPN0ZNMVlLaldGN21MNEMzenBZUUtBRS1yMXplcmZ1SDdMTHJuOElvVzNreTFheFdXMkppTlVqZ2hv?oc=5",
-      "publishedAt": "Sun, 16 Aug 2026 05:04:35 GMT"
+      "title": "악재 걷힌 삼전닉스...코스피 8500선 회복 가능성도 [주간 증시 전망]",
+      "source": "파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HQ2RWMTBqeXhpUzlJYXpHaTRRSUZfXzUyazJsekdKZzdWdGpoaVJwbG90Y0x1SEk0b3FBWTZTaVFwOE9ISGlMMFd0RVgxaGRoaG9yMVFLZ29ndw?oc=5",
+      "publishedAt": "Sun, 16 Aug 2026 07:48:31 GMT"
     }
   ],
   "summary": {
     "signal": {
-      "label": "Mixed",
-      "tone": "flat",
-      "message": "국내외 자산이 같은 방향으로 움직이지 않는 혼조장입니다."
+      "label": "Risk-On",
+      "tone": "up",
+      "message": "주식과 위험자산 강세가 우세합니다."
     },
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 상승 흐름입니다.",
