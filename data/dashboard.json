@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-22T08:27:19.654894+09:00",
-  "updatedLabel": "2026-08-22 08:27:19 KST",
+  "updatedAt": "2026-08-22T08:51:16.246714+09:00",
+  "updatedLabel": "2026-08-22 08:51:16 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4737,10 +4737,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 78501.18,
+      "price": 78122.82,
       "previousClose": 73013.0,
-      "change": 5488.18,
-      "changePercent": 7.5167,
+      "change": 5109.82,
+      "changePercent": 6.9985,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -5870,16 +5870,36 @@
         ],
         [
           1787354700000,
-          78573.578125
+          78400.273438
         ],
         [
-          1787354834000,
-          78501.179688
+          1787355000000,
+          78378.757812
+        ],
+        [
+          1787355300000,
+          78210.84375
+        ],
+        [
+          1787355600000,
+          78384.007812
+        ],
+        [
+          1787355900000,
+          78254.789062
+        ],
+        [
+          1787356200000,
+          78168.640625
+        ],
+        [
+          1787356272000,
+          78122.820312
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-22 08:27 KST",
-      "marketTimestamp": 1787354834
+      "marketTime": "2026-08-22 08:51 KST",
+      "marketTimestamp": 1787356272
     }
   ],
   "mainCharts": [
@@ -7192,7 +7212,7 @@
     {
       "title": "[주간증시전망] 美금리 충격에 출렁인 코스피…엔비디아 실적이 다음 분수령",
       "source": "아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zeE8xbzJ5NEh2X2hfanhLVUh6WWxobEZ0bWR2eXhNYjZVeVJTQ1lLNWs2aGVJUzVIZWtnai1tWTEyXzF4SnZHUnc4Q0ZiVmIybUV1Um16cEVvUdIBWEFVX3lxTE1mN1pkb1BBR3lPZERDWEtlTUYzYTlNczctVk5qc2tGX3BVRWlCSGFMaVZta2p1d01GOUVzQV80bU44amcxT3VRQlAxME4zV1lpc1VKd0tEN2Q?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mN1pkb1BBR3lPZERDWEtlTUYzYTlNczctVk5qc2tGX3BVRWlCSGFMaVZta2p1d01GOUVzQV80bU44amcxT3VRQlAxME4zV1lpc1VKd0tEN2TSAVhBVV95cUxNZjdaZG9QQUd5T2REQ1hLZU1GM2E5TXM3LVZOanNrRl9wVUVpQkhhTGlWbWtqdXdNRjlFc0FfNG1OOGpnMU91UUJQMTBOM1dZaXNVSndLRDdk?oc=5",
       "publishedAt": "Fri, 21 Aug 2026 21:00:00 GMT"
     },
     {
@@ -7222,7 +7242,7 @@
     {
       "title": "[8.22(토) 한국장 전망] 미 증시 전반 상승·원화 강세·코스…",
       "source": "주달",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qckJlRXBqWl95d0o4SnVKRmhnb042LXJCTjJ2eUxERWpfc3c3YlNsRkwzMUhoR2hWLURsaHkxM0NUMlRtVV9iZDFudW1ERURMUzA1djQyS0tSOTMySmtGdFNqcTY2ektSZTh6bnREX1hJenlJc3c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0R4aWZxNktxQnBLYmZ5SFJQbXVfT3QtZUJQSlI5SUVETS0wZ1RCbEstUWdvT2VsM0MzajdWMS1IV1NzMnRNQm5QS2RpMWFmTVF5S1NjeWJZV2s0MC1EeHlPSi1SbnBuYTVEVVllVXlZdnhhdE0xUkRvUE5ud2ZuSTVxbVNvWXdQQkhObWgzMHZuUVU?oc=5",
       "publishedAt": "Fri, 21 Aug 2026 20:30:28 GMT"
     }
   ],
@@ -7247,7 +7267,7 @@
     "leaders": [
       {
         "label": "Bitcoin",
-        "changePercent": 7.5167,
+        "changePercent": 6.9985,
         "direction": "상승"
       },
       {
