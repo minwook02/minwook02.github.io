@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-23T04:47:04.492797+09:00",
-  "updatedLabel": "2026-08-23 04:47:04 KST",
+  "updatedAt": "2026-08-23T05:26:58.537715+09:00",
+  "updatedLabel": "2026-08-23 05:26:58 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -961,8 +961,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-22 05:00 KST",
-      "marketTimestamp": 1787342400
+      "marketTime": "2026-08-22 05:41 KST",
+      "marketTimestamp": 1787344912
     },
     {
       "id": "nasdaq",
@@ -1306,10 +1306,10 @@
       "group": "해외 지수",
       "kind": "equity",
       "decimals": 2,
-      "price": 53277.0,
+      "price": 53277.01,
       "previousClose": 52759.2,
-      "change": 517.8,
-      "changePercent": 0.9814,
+      "change": 517.81,
+      "changePercent": 0.9815,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -1627,12 +1627,12 @@
         ],
         [
           1787342400000,
-          53277.0
+          53277.011719
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-22 05:00 KST",
-      "marketTimestamp": 1787342400
+      "marketTime": "2026-08-22 05:41 KST",
+      "marketTimestamp": 1787344917
     },
     {
       "id": "usdkrw",
@@ -4729,10 +4729,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 77449.37,
+      "price": 77347.29,
       "previousClose": 78326.97,
-      "change": -877.6,
-      "changePercent": -1.1204,
+      "change": -979.68,
+      "changePercent": -1.2508,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5686,16 +5686,48 @@
         ],
         [
           1787427900000,
-          77415.789062
+          77437.109375
         ],
         [
-          1787428016000,
-          77449.367188
+          1787428200000,
+          77453.382812
+        ],
+        [
+          1787428500000,
+          77419.9375
+        ],
+        [
+          1787428800000,
+          77397.171875
+        ],
+        [
+          1787429100000,
+          77425.3125
+        ],
+        [
+          1787429400000,
+          77411.460938
+        ],
+        [
+          1787429700000,
+          77344.1875
+        ],
+        [
+          1787430000000,
+          77331.71875
+        ],
+        [
+          1787430300000,
+          77347.289062
+        ],
+        [
+          1787430373000,
+          77347.289062
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-23 04:46 KST",
-      "marketTimestamp": 1787428016
+      "marketTime": "2026-08-23 05:26 KST",
+      "marketTimestamp": 1787430373
     }
   ],
   "mainCharts": [
@@ -6653,8 +6685,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-22 05:00 KST",
-      "marketTimestamp": 1787342400
+      "marketTime": "2026-08-22 05:41 KST",
+      "marketTimestamp": 1787344912
     },
     {
       "id": "nasdaq",
@@ -7000,6 +7032,12 @@
       "publishedAt": "Fri, 21 Aug 2026 23:20:00 GMT"
     },
     {
+      "title": "엔비디아 기대감과 금리 우려의 '이중주' [주간 증시 전망]",
+      "source": "데일리안",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1YmYwVEc2TmxONlYyMlBTS0laQnNaVzdOQ3JrblFtVmlYemxEZGNBVHZBbU9EclREc3pza2JNallRYnhyaHdNUWg2TWE2Q0dRMzdkdDlB?oc=5",
+      "publishedAt": "Sat, 22 Aug 2026 15:10:00 GMT"
+    },
+    {
       "title": "[심층취재] '엔캐리 청산' 우려 확대...한국 증시에 '먹구름'",
       "source": "ABC뉴스",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zeEl2bzNQeWNJNFBKb29UVTVua2xGUG1CNjRzamM1VmlVclRYRjhPQTVNR3h3Z2NXX2RLTWNVVzBiOEpZTTZZbU9YY1ZSLVQ4V3MzYzJ1c1JHcGNDanJ2ckNyclB3ZnfSAWdBVV95cUxNc3hJdm8zUHljSTRQSm9vVFU1bmtsRlBtQjY0c2pjNVZpVXJUWEY4T0E1TUd4d2djV19kS01jVVcwYjhKWU02WW1PWGNWUi1UOFdzM2MydXNSR3BjQ2pydnJDcnJQd2Z3?oc=5",
@@ -7010,12 +7048,6 @@
       "source": "기호일보",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lMlMyZ3p2aWIxWWZtOGJRcFFWd05xMDNONzVSeThNT0hYZEQ5WTN5THdwajlpNnVremFWWWs2UlBvUE1tSEMyYmxRdVJ3RTRiY0VjOGlZeVhPSzU5X3pKdWc3dkVqcVhQRTd6ajFWMA?oc=5",
       "publishedAt": "Sat, 22 Aug 2026 09:25:22 GMT"
-    },
-    {
-      "title": "엔비디아 기대감과 금리 우려의 '이중주' [주간 증시 전망]",
-      "source": "데일리안",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1YmYwVEc2TmxONlYyMlBTS0laQnNaVzdOQ3JrblFtVmlYemxEZGNBVHZBbU9EclREc3pza2JNallRYnhyaHdNUWg2TWE2Q0dRMzdkdDlB?oc=5",
-      "publishedAt": "Sat, 22 Aug 2026 15:10:00 GMT"
     },
     {
       "title": "19년 만에 최고치 치솟은 美 장기채… 증시가 버텨내는 배경과 경고음",
@@ -7068,7 +7100,7 @@
       },
       {
         "label": "DOW",
-        "changePercent": 0.9814,
+        "changePercent": 0.9815,
         "direction": "상승"
       },
       {
@@ -7085,7 +7117,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -1.1204,
+        "changePercent": -1.2508,
         "direction": "하락"
       },
       {
