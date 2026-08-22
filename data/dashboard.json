@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-23T06:47:46.166639+09:00",
-  "updatedLabel": "2026-08-23 06:47:46 KST",
+  "updatedAt": "2026-08-23T07:25:53.035661+09:00",
+  "updatedLabel": "2026-08-23 07:25:53 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4729,10 +4729,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 76935.39,
+      "price": 77139.55,
       "previousClose": 78326.97,
-      "change": -1391.58,
-      "changePercent": -1.7766,
+      "change": -1187.42,
+      "changePercent": -1.516,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5782,16 +5782,44 @@
         ],
         [
           1787435100000,
-          76930.992188
+          76962.601562
         ],
         [
-          1787435258000,
-          76935.390625
+          1787435400000,
+          76935.273438
+        ],
+        [
+          1787435700000,
+          76847.367188
+        ],
+        [
+          1787436000000,
+          76965.257812
+        ],
+        [
+          1787436300000,
+          77110.523438
+        ],
+        [
+          1787436600000,
+          77097.570312
+        ],
+        [
+          1787436900000,
+          77050.359375
+        ],
+        [
+          1787437200000,
+          77115.960938
+        ],
+        [
+          1787437547000,
+          77139.546875
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-23 06:47 KST",
-      "marketTimestamp": 1787435258
+      "marketTime": "2026-08-23 07:25 KST",
+      "marketTimestamp": 1787437547
     }
   ],
   "mainCharts": [
@@ -7092,7 +7120,7 @@
     {
       "title": "'AI 반도체 슈퍼위크'…코스피 '주주환원 약발' 계속되나",
       "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41LW5CR0hKYm1scnZtVUVhSXcxTnNhRVVGUnNGRTFsLVRUYmE5THRPa2FaMWg0Q3dNT0tQOUlybi1Cd2JCY0lZWlBYLTlRODAwMy1kVGszTmRHWVnSAWBBVV95cUxPdWdobWRYZldldld3SkdBd3RiOGdPWERVc2ZhZGg5TWRTaHZiQjh1aW5rZE9MZnhJSXhCR09qVnlzS0RlQ19MeElGdnhibEJEdlMxQWhFTnluQVFDTmY5aEk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91Z2htZFhmV2V2V3dKR0F3dGI4Z09YRFVzZmFkaDlNZFNodmJCOHVpbmtkT0xmeElJeEJHT2pWeXNLRGVDX0x4SUZ2eGJsQkR2UzFBaEVOeW5BUUNOZjloSdIBYEFVX3lxTE91Z2htZFhmV2V2V3dKR0F3dGI4Z09YRFVzZmFkaDlNZFNodmJCOHVpbmtkT0xmeElJeEJHT2pWeXNLRGVDX0x4SUZ2eGJsQkR2UzFBaEVOeW5BUUNOZjloSQ?oc=5",
       "publishedAt": "Sat, 22 Aug 2026 21:00:44 GMT"
     },
     {
@@ -7181,7 +7209,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -1.7766,
+        "changePercent": -1.516,
         "direction": "하락"
       },
       {
