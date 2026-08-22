@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-22T23:25:16.230986+09:00",
-  "updatedLabel": "2026-08-22 23:25:16 KST",
+  "updatedAt": "2026-08-22T23:49:39.193733+09:00",
+  "updatedLabel": "2026-08-22 23:49:39 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4729,10 +4729,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 77013.45,
+      "price": 76951.94,
       "previousClose": 78326.97,
-      "change": -1313.52,
-      "changePercent": -1.677,
+      "change": -1375.03,
+      "changePercent": -1.7555,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5429,13 +5429,33 @@
           77010.328125
         ],
         [
-          1787408713000,
-          77013.453125
+          1787408700000,
+          77081.359375
+        ],
+        [
+          1787409000000,
+          77133.4375
+        ],
+        [
+          1787409300000,
+          76980.5
+        ],
+        [
+          1787409600000,
+          76947.71875
+        ],
+        [
+          1787409900000,
+          76957.273438
+        ],
+        [
+          1787410176000,
+          76951.9375
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-22 23:25 KST",
-      "marketTimestamp": 1787408713
+      "marketTime": "2026-08-22 23:49 KST",
+      "marketTimestamp": 1787410176
     }
   ],
   "mainCharts": [
@@ -6764,6 +6784,12 @@
       "publishedAt": "Fri, 21 Aug 2026 21:00:00 GMT"
     },
     {
+      "title": "엔캐리 청산 공포 확산…韓증시 폭락 재현될까",
+      "source": "마켓인",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5RkQ5RTNHT0d6TnF3aE1GZWRSNzVZLUFqYzdsSjlUb2ZfM3pxWFFRWXZ0UXEzSDZCb1dNTXdZWi1IN3JTZFc3UjE3SGFfV0dla1E1dG9Hazc3QlFiX0RtUGo3eUNYcXFYWkcyTGk4UmRBQQ?oc=5",
+      "publishedAt": "Sat, 22 Aug 2026 05:03:06 GMT"
+    },
+    {
       "title": "한국에서 시작하는 베트남 주식 투자 안내: 증시 보는 법과 세 가지 투자 경로",
       "source": "씬짜오베트남",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43Vm9xbnRrY2xoVUFXZ21jQ2N0dFpDMnc1UGZzbHJibWowZlRlUy1XLWZoOEQyZk52cGduQ0VLYmpCdGNEaGxoeQ?oc=5",
@@ -6774,12 +6800,6 @@
       "source": "산경투데이",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJdW1CY3BYU1oxRjMyMG0xNjBLejFacmVzRF9YX3ZFUkZHa3ppZlNRRFFOeUJMWTdmc0tNTExIdzZEdmpRR1N2SmpJWWxPNXFBQm9BVHEzMnVJYk9pWEY0cUpmb3c1TklzT3N6eXAzN2zSAXRBVV95cUxNa1FheUV2cTc3TU5lSktoMlBlNWp0T2lHM3l6UHRMLXZ0eFFqQ3dTb2ZOaGItMDFlMTROc0dRS1RiYXF2cldnUVQ3NnpwX1JORnhIV3R1M2RSUUxxSHh0VHJscmkwRnE1UW1xWmt6TjJlQTViMg?oc=5",
       "publishedAt": "Fri, 21 Aug 2026 23:22:17 GMT"
-    },
-    {
-      "title": "엔화 강세에 커지는 '엔캐리 청산' 경계…국내 증시 변동성 촉각",
-      "source": "ebn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PZ3dmSEE0bVN4UTM0dnB4SGUteTBVbDdSNmtReDd0WEpxd3M0U3JLWGh1YWRBV1RZYjhZLURDb3hNT1JGY1VsOVRraFVqS1ZqZDUzeVhZdWZaWWpoT2JxYjRoMDRLUTdr?oc=5",
-      "publishedAt": "Sat, 22 Aug 2026 04:07:25 GMT"
     }
   ],
   "summary": {
@@ -6825,7 +6845,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -1.677,
+        "changePercent": -1.7555,
         "direction": "하락"
       },
       {
