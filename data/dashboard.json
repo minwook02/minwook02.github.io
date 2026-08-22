@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-22T20:23:59.064685+09:00",
-  "updatedLabel": "2026-08-22 20:23:59 KST",
+  "updatedAt": "2026-08-22T20:47:08.475741+09:00",
+  "updatedLabel": "2026-08-22 20:47:08 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1306,10 +1306,10 @@
       "group": "해외 지수",
       "kind": "equity",
       "decimals": 2,
-      "price": 53277.0,
+      "price": 53277.01,
       "previousClose": 52759.2,
-      "change": 517.8,
-      "changePercent": 0.9814,
+      "change": 517.81,
+      "changePercent": 0.9815,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -1627,12 +1627,12 @@
         ],
         [
           1787342400000,
-          53277.0
+          53277.011719
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-22 05:00 KST",
-      "marketTimestamp": 1787342400
+      "marketTime": "2026-08-22 05:41 KST",
+      "marketTimestamp": 1787344917
     },
     {
       "id": "usdkrw",
@@ -4729,10 +4729,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 76873.69,
+      "price": 77186.9,
       "previousClose": 78326.97,
-      "change": -1453.28,
-      "changePercent": -1.8554,
+      "change": -1140.07,
+      "changePercent": -1.4555,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5282,16 +5282,36 @@
         ],
         [
           1787397600000,
-          76839.359375
+          76837.929688
         ],
         [
-          1787397836000,
-          76873.6875
+          1787397900000,
+          76974.820312
+        ],
+        [
+          1787398200000,
+          77087.359375
+        ],
+        [
+          1787398500000,
+          77122.0
+        ],
+        [
+          1787398800000,
+          77161.640625
+        ],
+        [
+          1787399100000,
+          77187.71875
+        ],
+        [
+          1787399219000,
+          77186.898438
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-22 20:23 KST",
-      "marketTimestamp": 1787397836
+      "marketTime": "2026-08-22 20:46 KST",
+      "marketTimestamp": 1787399219
     }
   ],
   "mainCharts": [
@@ -6602,16 +6622,28 @@
       "publishedAt": "Fri, 21 Aug 2026 21:00:00 GMT"
     },
     {
+      "title": "코스피 발목 잡는 ‘보이지 않는 손’, 미국 장기국채 금리의 정체[경제뭔데]",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90bHA4RGdUQTFVNEZzUTFPX0dVaFgyUkNpZWhGS0xWbHg3UUlRUjYyLWVIUl9aemw4UHFrT2dNUjhBM3lLcFE?oc=5",
+      "publishedAt": "Fri, 21 Aug 2026 21:02:39 GMT"
+    },
+    {
       "title": "한국에서 시작하는 베트남 주식 투자 안내: 증시 보는 법과 세 가지 투자 경로",
       "source": "씬짜오베트남",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43Vm9xbnRrY2xoVUFXZ21jQ2N0dFpDMnc1UGZzbHJibWowZlRlUy1XLWZoOEQyZk52cGduQ0VLYmpCdGNEaGxoeQ?oc=5",
       "publishedAt": "Sat, 22 Aug 2026 03:54:43 GMT"
     },
     {
-      "title": "출발증시 1부",
-      "source": "한국경제TV",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRmhKR1RKMkJXNnpPMWdENDhwTW40TzBub242UlJHVk9tMEVOdHI5Sk9wWkFHZ1d4V1ZQcGhTLTh1WUg3RVlvbDQyYXRTME1TNU44VktreVM0dVVKWjB0RUstR3YwY0loVTFZcFlacVp2a0d5OXdwMTZsaV9FUnk1cF9SS3hpOURjZC13M1ZmekEwUHpKZTJGTjk3MDJiYk1sQmh3?oc=5",
-      "publishedAt": "Fri, 21 Aug 2026 11:33:07 GMT"
+      "title": "19년 만에 최고치 치솟은 美 장기채… 증시가 버텨내는 배경과 경고음",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWVBWN25kdVZJRWVkb2ZTNm1fdmZ6QXRGWXliX0V5Vndma0pfdWZGeXZHM3ZmZktiUURRLTItd1BRRDBZdk5nY2E3STNWSHN1ZmZSdEhqdjkwWXB4S3hqOFFucl9PMGcyTUZzeWJkVTVVQlRkdTRCLTI1MHNwWW13Szd2czFJX1ND?oc=5",
+      "publishedAt": "Sat, 22 Aug 2026 05:45:33 GMT"
+    },
+    {
+      "title": "서학개미, 반도체 ETF에 1천억원 베팅…증시 대기자금도 105조원",
+      "source": "산경투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJdW1CY3BYU1oxRjMyMG0xNjBLejFacmVzRF9YX3ZFUkZHa3ppZlNRRFFOeUJMWTdmc0tNTExIdzZEdmpRR1N2SmpJWWxPNXFBQm9BVHEzMnVJYk9pWEY0cUpmb3c1TklzT3N6eXAzN2zSAXRBVV95cUxNa1FheUV2cTc3TU5lSktoMlBlNWp0T2lHM3l6UHRMLXZ0eFFqQ3dTb2ZOaGItMDFlMTROc0dRS1RiYXF2cldnUVQ3NnpwX1JORnhIV3R1M2RSUUxxSHh0VHJscmkwRnE1UW1xWmt6TjJlQTViMg?oc=5",
+      "publishedAt": "Fri, 21 Aug 2026 23:22:17 GMT"
     },
     {
       "title": "엔화 강세에 커지는 '엔캐리 청산' 경계…국내 증시 변동성 촉각",
@@ -6620,22 +6652,10 @@
       "publishedAt": "Sat, 22 Aug 2026 04:07:25 GMT"
     },
     {
-      "title": "“모더나의 ‘mRNA 암 백신’은 역사적 사건”…국내 증시 진짜 수혜주 2곳은 [여의도란도란]",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04eGVaTFJMajJjU20wbXhfM2o4M1pydmNlNzlJRzFILUZjMTAtdVU4SGlCVjJOQ2RMTHU0bWwtV1hXVC01dmlkZnJBZldmSzg?oc=5",
-      "publishedAt": "Sat, 22 Aug 2026 00:39:00 GMT"
-    },
-    {
       "title": "다음주 한국·미국 주요 일정｜PCE·엔비디아·한국은행·잭슨홀 ‘슈퍼위크’",
       "source": "네이버 프리미엄콘텐츠",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtaU1TbjdCWTNqWmxwZE9Pb0VWQXZGSUVBdlFkVXJtOGdNZlpKeG5KQnN4X3JEMDVHWDdqbXRRdmVuUk11cjduNXpYeEFDOTR4bFZmeC1WTEZVWEgzVGQ0Tzl2X3Vjd1BPSFBwS2hVa25Qa0pOZkwwMmIzcExDQQ?oc=5",
       "publishedAt": "Sat, 22 Aug 2026 00:50:00 GMT"
-    },
-    {
-      "title": "미국증시 장중..국채금리 불안에도 코인주 '껑충', 4대지수 'UP'",
-      "source": "초이스경제",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FbnlIZHlFQ1JHWjBtYXhBbUFmRTRlbVZKajNZX2FFQlJHOXFHQnVXY050WGthREFXcUtJdDZYLVRxWFpkb2t2ckZmTEhJQVY4MFhGb2pSN2NuV1VBTnJtdkZUUEdzWGtGNFNqQzY5ONIBc0FVX3lxTE9ydWNoUUdXN3UyMHJOdUc0WTBTSnk5bFlQY1c1MmZOclN0YWdyUGFyTUJPX3NVSzROTXczZjBlQjVibFFJX18yX1RQaU9lejFsanltQmxsakdfREJ5cFEyY0QtdmFMemVCbWdNakNIaWRpQlU?oc=5",
-      "publishedAt": "Fri, 21 Aug 2026 19:43:01 GMT"
     }
   ],
   "summary": {
@@ -6664,7 +6684,7 @@
       },
       {
         "label": "DOW",
-        "changePercent": 0.9814,
+        "changePercent": 0.9815,
         "direction": "상승"
       },
       {
@@ -6681,7 +6701,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -1.8554,
+        "changePercent": -1.4555,
         "direction": "하락"
       },
       {
