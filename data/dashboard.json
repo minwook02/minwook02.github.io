@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-22T21:46:39.105484+09:00",
-  "updatedLabel": "2026-08-22 21:46:39 KST",
+  "updatedAt": "2026-08-22T22:34:23.331366+09:00",
+  "updatedLabel": "2026-08-22 22:34:23 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1307,9 +1307,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 53277.01,
-      "previousClose": 52759.2,
-      "change": 517.81,
-      "changePercent": 0.9815,
+      "previousClose": 52759.21,
+      "change": 517.8,
+      "changePercent": 0.9814,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -4729,10 +4729,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 77346.49,
+      "price": 77126.24,
       "previousClose": 78326.97,
-      "change": -980.48,
-      "changePercent": -1.2518,
+      "change": -1200.73,
+      "changePercent": -1.533,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5350,16 +5350,52 @@
         ],
         [
           1787402700000,
-          77360.859375
+          77343.5625
         ],
         [
-          1787402786000,
-          77346.492188
+          1787403000000,
+          77312.960938
+        ],
+        [
+          1787403300000,
+          77300.007812
+        ],
+        [
+          1787403600000,
+          77220.640625
+        ],
+        [
+          1787403900000,
+          77252.789062
+        ],
+        [
+          1787404200000,
+          77217.578125
+        ],
+        [
+          1787404500000,
+          77137.289062
+        ],
+        [
+          1787404800000,
+          77170.46875
+        ],
+        [
+          1787405100000,
+          77162.382812
+        ],
+        [
+          1787405400000,
+          77137.179688
+        ],
+        [
+          1787405661000,
+          77126.242188
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-22 21:46 KST",
-      "marketTimestamp": 1787402786
+      "marketTime": "2026-08-22 22:34 KST",
+      "marketTimestamp": 1787405661
     }
   ],
   "mainCharts": [
@@ -6664,6 +6700,12 @@
       "publishedAt": "Fri, 21 Aug 2026 23:20:00 GMT"
     },
     {
+      "title": "[심층취재] '엔캐리 청산' 우려 확대...한국 증시에 '먹구름'",
+      "source": "ABC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zeEl2bzNQeWNJNFBKb29UVTVua2xGUG1CNjRzamM1VmlVclRYRjhPQTVNR3h3Z2NXX2RLTWNVVzBiOEpZTTZZbU9YY1ZSLVQ4V3MzYzJ1c1JHcGNDanJ2ckNyclB3ZnfSAWdBVV95cUxNc3hJdm8zUHljSTRQSm9vVFU1bmtsRlBtQjY0c2pjNVZpVXJUWEY4T0E1TUd4d2djV19kS01jVVcwYjhKWU02WW1PWGNWUi1UOFdzM2MydXNSR3BjQ2pydnJDcnJQd2Z3?oc=5",
+      "publishedAt": "Sat, 22 Aug 2026 11:07:11 GMT"
+    },
+    {
       "title": "19년 만에 최고치 치솟은 美 장기채… 증시가 버텨내는 배경과 경고음",
       "source": "글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWVBWN25kdVZJRWVkb2ZTNm1fdmZ6QXRGWXliX0V5Vndma0pfdWZGeXZHM3ZmZktiUURRLTItd1BRRDBZdk5nY2E3STNWSHN1ZmZSdEhqdjkwWXB4S3hqOFFucl9PMGcyTUZzeWJkVTVVQlRkdTRCLTI1MHNwWW13Szd2czFJX1ND?oc=5",
@@ -6698,12 +6740,6 @@
       "source": "ebn.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PZ3dmSEE0bVN4UTM0dnB4SGUteTBVbDdSNmtReDd0WEpxd3M0U3JLWGh1YWRBV1RZYjhZLURDb3hNT1JGY1VsOVRraFVqS1ZqZDUzeVhZdWZaWWpoT2JxYjRoMDRLUTdr?oc=5",
       "publishedAt": "Sat, 22 Aug 2026 04:07:25 GMT"
-    },
-    {
-      "title": "다음주 한국·미국 주요 일정｜PCE·엔비디아·한국은행·잭슨홀 ‘슈퍼위크’",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtaU1TbjdCWTNqWmxwZE9Pb0VWQXZGSUVBdlFkVXJtOGdNZlpKeG5KQnN4X3JEMDVHWDdqbXRRdmVuUk11cjduNXpYeEFDOTR4bFZmeC1WTEZVWEgzVGQ0Tzl2X3Vjd1BPSFBwS2hVa25Qa0pOZkwwMmIzcExDQQ?oc=5",
-      "publishedAt": "Sat, 22 Aug 2026 00:50:00 GMT"
     }
   ],
   "summary": {
@@ -6732,7 +6768,7 @@
       },
       {
         "label": "DOW",
-        "changePercent": 0.9815,
+        "changePercent": 0.9814,
         "direction": "상승"
       },
       {
@@ -6749,7 +6785,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -1.2518,
+        "changePercent": -1.533,
         "direction": "하락"
       },
       {
