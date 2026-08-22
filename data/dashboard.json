@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-23T06:25:08.241362+09:00",
-  "updatedLabel": "2026-08-23 06:25:08 KST",
+  "updatedAt": "2026-08-23T06:47:46.166639+09:00",
+  "updatedLabel": "2026-08-23 06:47:46 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4729,10 +4729,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 77129.63,
+      "price": 76935.39,
       "previousClose": 78326.97,
-      "change": -1197.34,
-      "changePercent": -1.5286,
+      "change": -1391.58,
+      "changePercent": -1.7766,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5765,13 +5765,33 @@
           77129.617188
         ],
         [
-          1787433901000,
-          77129.632812
+          1787433900000,
+          77179.578125
+        ],
+        [
+          1787434200000,
+          77115.101562
+        ],
+        [
+          1787434500000,
+          76992.898438
+        ],
+        [
+          1787434800000,
+          77025.273438
+        ],
+        [
+          1787435100000,
+          76930.992188
+        ],
+        [
+          1787435258000,
+          76935.390625
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-23 06:25 KST",
-      "marketTimestamp": 1787433901
+      "marketTime": "2026-08-23 06:47 KST",
+      "marketTimestamp": 1787435258
     }
   ],
   "mainCharts": [
@@ -7076,10 +7096,10 @@
       "publishedAt": "Sat, 22 Aug 2026 21:00:44 GMT"
     },
     {
-      "title": "엔비디아·잭슨홀 주목… 코스피 7000선 안착 시험 [주간증시전망]",
-      "source": "IT조선",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LNzRfb0o3OFlhZTFZR3dZajF5ZlVscjZRX3Z5bWd0aEs3dHlOMXBDbFpDd2Vob0g0em5YWXRGWXJ3NHg2bVFJd3pMNW5pWnE5R2VXLTVQX1V5T0FzN2RDajdHSnBid3FybGFFb0FzM3LSAXRBVV95cUxOeS1vYjdhU25FamdHT1M1NGVmLWd2bjlPTHo0Z3BQR00wNkJhVjFLNEdseVB6cEhDdGk1MWMzaTllYWpQeTFhQkh5cjkyUW12dTRLeEdXMUlNMEdtYm5tWlRZaDR4SDRGdF9iVGhBRmViZGxBXw?oc=5",
-      "publishedAt": "Sat, 22 Aug 2026 21:10:00 GMT"
+      "title": "[주간증시전망] 엔비디아 실적 발표·美 국채금리에 ‘쏠린 눈’ - 조선비즈",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0VkWEJtSmYyZ016aHZjeERVZ0VVSVhidXZlVjNBMUdXd0Uwakx1bHIxaUdzY25sZlF0TjhFV2FIWDhOSHphSlNBRkJDaHh1M3dQbHpLU3FnTmgtVTF5YWxRMmdHTkE3VFg0WWw4OVAzRl9UWTBYUnpBX0c0eksyVUtDVU9FX0gw0gGcAUFVX3lxTFBuekZrbU9YYWtoX1RDbXFzNXlOMy1fNEIxOUVfdGZhLVZvU1RtWXZ2azN0OEZuRm4taTJwazFORWlzcV9HYXhpQTZDWXh2VGc3N19ZZk9rVFlaSnJYei03RWRoTER6ejMzZGtOcS10S2xOQ29IeWpTMDhkQVdhS2xFSDktNzdGUGhyY19jVUlDbV9aZkd4Wlo5M09Jdw?oc=5",
+      "publishedAt": "Sat, 22 Aug 2026 21:00:00 GMT"
     },
     {
       "title": "뉴욕 증시 일제히 상승 마감…다우 1%↑",
@@ -7161,7 +7181,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -1.5286,
+        "changePercent": -1.7766,
         "direction": "하락"
       },
       {
