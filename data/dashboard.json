@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-23T00:25:02.238511+09:00",
-  "updatedLabel": "2026-08-23 00:25:02 KST",
+  "updatedAt": "2026-08-23T00:48:07.449873+09:00",
+  "updatedLabel": "2026-08-23 00:48:07 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -961,8 +961,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-22 05:00 KST",
-      "marketTimestamp": 1787342400
+      "marketTime": "2026-08-22 05:41 KST",
+      "marketTimestamp": 1787344912
     },
     {
       "id": "nasdaq",
@@ -4729,10 +4729,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 76984.47,
+      "price": 77023.25,
       "previousClose": 78326.97,
-      "change": -1342.5,
-      "changePercent": -1.714,
+      "change": -1303.72,
+      "changePercent": -1.6645,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5474,16 +5474,36 @@
         ],
         [
           1787412000000,
-          76963.671875
+          76984.46875
         ],
         [
-          1787412295000,
-          76984.46875
+          1787412300000,
+          76965.359375
+        ],
+        [
+          1787412600000,
+          77080.46875
+        ],
+        [
+          1787412900000,
+          77039.882812
+        ],
+        [
+          1787413200000,
+          77049.507812
+        ],
+        [
+          1787413500000,
+          77023.257812
+        ],
+        [
+          1787413684000,
+          77023.25
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-23 00:24 KST",
-      "marketTimestamp": 1787412295
+      "marketTime": "2026-08-23 00:48 KST",
+      "marketTimestamp": 1787413684
     }
   ],
   "mainCharts": [
@@ -6441,8 +6461,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-22 05:00 KST",
-      "marketTimestamp": 1787342400
+      "marketTime": "2026-08-22 05:41 KST",
+      "marketTimestamp": 1787344912
     },
     {
       "id": "nasdaq",
@@ -6806,12 +6826,6 @@
       "publishedAt": "Sat, 22 Aug 2026 05:45:33 GMT"
     },
     {
-      "title": "코스피 발목 잡는 ‘보이지 않는 손’, 미국 장기국채 금리의 정체[경제뭔데]",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE90bHA4RGdUQTFVNEZzUTFPX0dVaFgyUkNpZWhGS0xWbHg3UUlRUjYyLWVIUl9aemw4UHFrT2dNUjhBM3lLcFE?oc=5",
-      "publishedAt": "Fri, 21 Aug 2026 21:02:39 GMT"
-    },
-    {
       "title": "엔비디아 기대감과 금리 우려의 '이중주' [주간 증시 전망]",
       "source": "데일리안",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13X2xUZUoyQzljUmd1cFYtcHRfQlZMRWwxeTVlaXNib0xaYVZ4aDBCcXNuR25jaDhDUUJZNXNCVXRQaFp4VDZiMXFxbEs1Z3ZsMm85RVBxUQ?oc=5",
@@ -6828,6 +6842,12 @@
       "source": "씬짜오베트남",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43Vm9xbnRrY2xoVUFXZ21jQ2N0dFpDMnc1UGZzbHJibWowZlRlUy1XLWZoOEQyZk52cGduQ0VLYmpCdGNEaGxoeQ?oc=5",
       "publishedAt": "Sat, 22 Aug 2026 03:54:43 GMT"
+    },
+    {
+      "title": "서학개미, 반도체 ETF에 1천억원 베팅…증시 대기자금도 105조원",
+      "source": "산경투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJdW1CY3BYU1oxRjMyMG0xNjBLejFacmVzRF9YX3ZFUkZHa3ppZlNRRFFOeUJMWTdmc0tNTExIdzZEdmpRR1N2SmpJWWxPNXFBQm9BVHEzMnVJYk9pWEY0cUpmb3c1TklzT3N6eXAzN2zSAXRBVV95cUxNa1FheUV2cTc3TU5lSktoMlBlNWp0T2lHM3l6UHRMLXZ0eFFqQ3dTb2ZOaGItMDFlMTROc0dRS1RiYXF2cldnUVQ3NnpwX1JORnhIV3R1M2RSUUxxSHh0VHJscmkwRnE1UW1xWmt6TjJlQTViMg?oc=5",
+      "publishedAt": "Fri, 21 Aug 2026 23:22:17 GMT"
     }
   ],
   "summary": {
@@ -6873,7 +6893,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -1.714,
+        "changePercent": -1.6645,
         "direction": "하락"
       },
       {
