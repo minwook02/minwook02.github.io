@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-23T14:02:24.193039+09:00",
-  "updatedLabel": "2026-08-23 14:02:24 KST",
+  "updatedAt": "2026-08-23T14:55:42.380764+09:00",
+  "updatedLabel": "2026-08-23 14:55:42 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3095,10 +3095,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 76636.1,
+      "price": 76103.63,
       "previousClose": 77076.06,
-      "change": -439.96,
-      "changePercent": -0.5708,
+      "change": -972.43,
+      "changePercent": -1.2616,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3344,16 +3344,56 @@
         ],
         [
           1787461200000,
-          76635.007812
+          76579.539062
         ],
         [
-          1787461340000,
-          76636.101562
+          1787461500000,
+          76296.367188
+        ],
+        [
+          1787461800000,
+          75908.328125
+        ],
+        [
+          1787462100000,
+          76020.34375
+        ],
+        [
+          1787462400000,
+          76278.25
+        ],
+        [
+          1787462700000,
+          76216.632812
+        ],
+        [
+          1787463000000,
+          76238.679688
+        ],
+        [
+          1787463300000,
+          76196.21875
+        ],
+        [
+          1787463600000,
+          76155.617188
+        ],
+        [
+          1787463900000,
+          76164.023438
+        ],
+        [
+          1787464200000,
+          76133.789062
+        ],
+        [
+          1787464537000,
+          76103.632812
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-23 14:02 KST",
-      "marketTimestamp": 1787461340
+      "marketTime": "2026-08-23 14:55 KST",
+      "marketTimestamp": 1787464537
     }
   ],
   "mainCharts": [
@@ -4664,22 +4704,10 @@
       "publishedAt": "Sat, 22 Aug 2026 21:00:44 GMT"
     },
     {
-      "title": "사이드카가 일상이 된 증시",
-      "source": "마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PRkRudVFRM1hEUGhsVTlGSjJyVDJMS3Frc3h5SDUzOS1hdDZtOVNIYmJCVnhjVzFRckIwdFRWMzRSdHV1cnJidWVkMS1JZ3VDblVkX2FvdjhFRm1qNFlHY1hBQUdGTDZGQ0JmYm43dEFKaWc?oc=5",
-      "publishedAt": "Sun, 23 Aug 2026 04:27:18 GMT"
-    },
-    {
       "title": "[이번주 증시] 엔비디아 실적 및 잭슨홀 미팅 주목",
       "source": "오피니언뉴스",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UZ2E3c1JGZWx1TEVOVllaNGt6X1I5NlBvcjE1Y0g4ajZTZDJ5YjNRS3lqYmU0M1dlM1Z5VFQzWHAtYjZSLThscHpsOVRSR1RGaXdVTTY5blVDRVNUMmtsTDJQZm1JTWRHbC1xOGllckxidw?oc=5",
       "publishedAt": "Sun, 23 Aug 2026 00:00:00 GMT"
-    },
-    {
-      "title": "[주간증시전망] 엔비디아 실적 발표·美 국채금리에 ‘쏠린 눈’ - 조선비즈",
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0VkWEJtSmYyZ016aHZjeERVZ0VVSVhidXZlVjNBMUdXd0Uwakx1bHIxaUdzY25sZlF0TjhFV2FIWDhOSHphSlNBRkJDaHh1M3dQbHpLU3FnTmgtVTF5YWxRMmdHTkE3VFg0WWw4OVAzRl9UWTBYUnpBX0c0eksyVUtDVU9FX0gw0gGcAUFVX3lxTFBuekZrbU9YYWtoX1RDbXFzNXlOMy1fNEIxOUVfdGZhLVZvU1RtWXZ2azN0OEZuRm4taTJwazFORWlzcV9HYXhpQTZDWXh2VGc3N19ZZk9rVFlaSnJYei03RWRoTER6ejMzZGtOcS10S2xOQ29IeWpTMDhkQVdhS2xFSDktNzdGUGhyY19jVUlDbV9aZkd4Wlo5M09Jdw?oc=5",
-      "publishedAt": "Sat, 22 Aug 2026 21:07:54 GMT"
     },
     {
       "title": "3분기 새내기주 '반토막'…공모가 대비 평균 25% 하락",
@@ -4688,10 +4716,22 @@
       "publishedAt": "Sat, 22 Aug 2026 23:50:51 GMT"
     },
     {
+      "title": "주주환원으로 불씨 살린 코스피…엔비디아·금리가 다음 고비 [주간증시]",
+      "source": "에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51d29qcm1GRHhfek9vSTdEUEFoSWFCcnpqNE1NYnliZldVZVUwSkU2THA5OGV5ZllVUGtiRlVDb2NZemRRbUwtM09xdmxhS01PaFN3OXZOQmVia0E?oc=5",
+      "publishedAt": "Sun, 23 Aug 2026 01:02:43 GMT"
+    },
+    {
       "title": "[주가지수·ETF 전망] 경기엔 비관, 증시는 낙관…국내 투자자 절반 \"코스피 더 오른다\"",
       "source": "미디어인뉴스",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9idHBDcG5OMldzV0VvMGVqVnotVWpjUzZJeGhpbUxEUXFKbmxHNTRIZHJRT0ZOd0VGcXlfVWduWW1NTmRrN0wzWlU3NXBhM0hhQUlxQUk4R2huSUUwZU1sVDVRSkRFQTBGWGY3NmRn?oc=5",
       "publishedAt": "Sun, 23 Aug 2026 01:06:51 GMT"
+    },
+    {
+      "title": "[주간증시전망] 엔비디아 실적 발표·美 국채금리에 ‘쏠린 눈’ - 조선비즈",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0VkWEJtSmYyZ016aHZjeERVZ0VVSVhidXZlVjNBMUdXd0Uwakx1bHIxaUdzY25sZlF0TjhFV2FIWDhOSHphSlNBRkJDaHh1M3dQbHpLU3FnTmgtVTF5YWxRMmdHTkE3VFg0WWw4OVAzRl9UWTBYUnpBX0c0eksyVUtDVU9FX0gw0gGcAUFVX3lxTFBuekZrbU9YYWtoX1RDbXFzNXlOMy1fNEIxOUVfdGZhLVZvU1RtWXZ2azN0OEZuRm4taTJwazFORWlzcV9HYXhpQTZDWXh2VGc3N19ZZk9rVFlaSnJYei03RWRoTER6ejMzZGtOcS10S2xOQ29IeWpTMDhkQVdhS2xFSDktNzdGUGhyY19jVUlDbV9aZkd4Wlo5M09Jdw?oc=5",
+      "publishedAt": "Sat, 22 Aug 2026 21:07:54 GMT"
     },
     {
       "title": "[발행인칼럼] 증시 30% 추락 뒤 남은 질문…‘2배 ETF’로 코리아 디스카운트 없애려 했나",
@@ -4742,13 +4782,13 @@
         "direction": "하락"
       },
       {
-        "label": "USD/KRW",
-        "changePercent": -0.706,
+        "label": "Bitcoin",
+        "changePercent": -1.2616,
         "direction": "하락"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": -0.5708,
+        "label": "USD/KRW",
+        "changePercent": -0.706,
         "direction": "하락"
       }
     ]
