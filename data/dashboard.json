@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-23T23:52:25.461074+09:00",
-  "updatedLabel": "2026-08-23 23:52:25 KST",
+  "updatedAt": "2026-08-24T00:26:02.996075+09:00",
+  "updatedLabel": "2026-08-24 00:26:02 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3095,12 +3095,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 77167.83,
+      "price": 77211.37,
       "previousClose": 77076.06,
-      "change": 91.77,
-      "changePercent": 0.1191,
-      "tone": "flat",
-      "direction": "보합",
+      "change": 135.31,
+      "changePercent": 0.1756,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1787443200000,
@@ -3816,16 +3816,44 @@
         ],
         [
           1787496600000,
-          77175.921875
+          77259.507812
         ],
         [
-          1787496741000,
-          77167.828125
+          1787496900000,
+          77179.28125
+        ],
+        [
+          1787497200000,
+          77251.859375
+        ],
+        [
+          1787497500000,
+          77274.78125
+        ],
+        [
+          1787497800000,
+          77144.90625
+        ],
+        [
+          1787498100000,
+          76984.460938
+        ],
+        [
+          1787498400000,
+          77206.023438
+        ],
+        [
+          1787498700000,
+          77211.367188
+        ],
+        [
+          1787498755000,
+          77211.367188
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-23 23:52 KST",
-      "marketTimestamp": 1787496741
+      "marketTime": "2026-08-24 00:25 KST",
+      "marketTimestamp": 1787498755
     }
   ],
   "mainCharts": [
@@ -5160,16 +5188,16 @@
       "publishedAt": "Sun, 23 Aug 2026 05:34:27 GMT"
     },
     {
-      "title": "[이번주 증시] 엔비디아 실적 및 잭슨홀 미팅 주목",
-      "source": "오피니언뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UZ2E3c1JGZWx1TEVOVllaNGt6X1I5NlBvcjE1Y0g4ajZTZDJ5YjNRS3lqYmU0M1dlM1Z5VFQzWHAtYjZSLThscHpsOVRSR1RGaXdVTTY5blVDRVNUMmtsTDJQZm1JTWRHbC1xOGllckxidw?oc=5",
-      "publishedAt": "Sun, 23 Aug 2026 00:00:00 GMT"
-    },
-    {
       "title": "[주간 증시 전망] 글로벌 금리 상승에 흔들린 증시…엔비디아 실적이 '분수령'",
       "source": "뉴스웍스",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PcDVWMmVqYWVrQUhrZ011OENicEhabElQRE1ZS2hGYlRZT0VWV1drNFZGNm1JYThsUDZlZmpaZUJVcEY3OWFTaU9Ra3VKOXhnMlNoY24zOGFvb1ZYM0hUblg3eEZBZ1lMY2FIQUV5X2tvVTTSAXNBVV95cUxOT3A1VjJlamFla0FIa2dNdThDYnBIWmxJUERNWUtoRmJUWU9FVldXazRWRjZtSWE4bFA2ZWZqWmVCVXBGNzlhU2lPUWt1Sjl4ZzJTaGNuMzhhb29WWDNIVG5YN3hGQWdZTGNhSEFFeV9rb1U0?oc=5",
       "publishedAt": "Sun, 23 Aug 2026 05:05:21 GMT"
+    },
+    {
+      "title": "[이번주 증시] 엔비디아 실적 및 잭슨홀 미팅 주목",
+      "source": "오피니언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UZ2E3c1JGZWx1TEVOVllaNGt6X1I5NlBvcjE1Y0g4ajZTZDJ5YjNRS3lqYmU0M1dlM1Z5VFQzWHAtYjZSLThscHpsOVRSR1RGaXdVTTY5blVDRVNUMmtsTDJQZm1JTWRHbC1xOGllckxidw?oc=5",
+      "publishedAt": "Sun, 23 Aug 2026 00:00:00 GMT"
     }
   ],
   "summary": {
@@ -5220,8 +5248,8 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.1191,
-        "direction": "보합"
+        "changePercent": 0.1756,
+        "direction": "상승"
       }
     ]
   },
