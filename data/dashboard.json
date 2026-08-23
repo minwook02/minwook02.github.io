@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-24T01:55:37.284472+09:00",
-  "updatedLabel": "2026-08-24 01:55:37 KST",
+  "updatedAt": "2026-08-24T02:24:30.780124+09:00",
+  "updatedLabel": "2026-08-24 02:24:30 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -972,9 +972,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 26180.455,
-      "previousClose": 26067.166,
-      "change": 113.289,
-      "changePercent": 0.4346,
+      "previousClose": 26067.2,
+      "change": 113.255,
+      "changePercent": 0.4345,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3095,10 +3095,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 77398.96,
+      "price": 77293.89,
       "previousClose": 77076.06,
-      "change": 322.9,
-      "changePercent": 0.4189,
+      "change": 217.83,
+      "changePercent": 0.2826,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3915,13 +3915,37 @@
           77381.0
         ],
         [
-          1787504131000,
-          77398.960938
+          1787504100000,
+          77405.671875
+        ],
+        [
+          1787504400000,
+          77198.5
+        ],
+        [
+          1787504700000,
+          77323.1875
+        ],
+        [
+          1787505000000,
+          77266.179688
+        ],
+        [
+          1787505300000,
+          77359.632812
+        ],
+        [
+          1787505600000,
+          77343.796875
+        ],
+        [
+          1787505865000,
+          77293.890625
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-24 01:55 KST",
-      "marketTimestamp": 1787504131
+      "marketTime": "2026-08-24 02:24 KST",
+      "marketTimestamp": 1787505865
     }
   ],
   "mainCharts": [
@@ -4890,9 +4914,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 26180.455,
-      "previousClose": 26067.166,
-      "change": 113.289,
-      "changePercent": 0.4346,
+      "previousClose": 26067.2,
+      "change": 113.255,
+      "changePercent": 0.4345,
       "tone": "up",
       "direction": "상승",
       "series": [
