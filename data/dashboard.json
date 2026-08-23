@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-24T00:49:04.442442+09:00",
-  "updatedLabel": "2026-08-24 00:49:04 KST",
+  "updatedAt": "2026-08-24T01:30:05.996849+09:00",
+  "updatedLabel": "2026-08-24 01:30:05 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3095,10 +3095,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 77207.12,
+      "price": 77306.32,
       "previousClose": 77076.06,
-      "change": 131.06,
-      "changePercent": 0.17,
+      "change": 230.26,
+      "changePercent": 0.2987,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3860,16 +3860,48 @@
         ],
         [
           1787499900000,
-          77207.117188
+          77180.0
         ],
         [
-          1787500138000,
-          77207.117188
+          1787500200000,
+          77166.867188
+        ],
+        [
+          1787500500000,
+          77141.09375
+        ],
+        [
+          1787500800000,
+          77259.5
+        ],
+        [
+          1787501100000,
+          77197.289062
+        ],
+        [
+          1787501400000,
+          77261.898438
+        ],
+        [
+          1787501700000,
+          77226.921875
+        ],
+        [
+          1787502000000,
+          77251.0625
+        ],
+        [
+          1787502300000,
+          77306.320312
+        ],
+        [
+          1787502603000,
+          77306.320312
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-24 00:48 KST",
-      "marketTimestamp": 1787500138
+      "marketTime": "2026-08-24 01:30 KST",
+      "marketTimestamp": 1787502603
     }
   ],
   "mainCharts": [
@@ -5170,8 +5202,8 @@
     {
       "title": "\"엔비디아·잭슨홀 주목\"...기준금리 결정도 관심",
       "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZUp5RGpmZ29hWTJQamZNdXh1X3lla3FacjIwUFdtbVBMSk4taXBIb1NDbjY1c0kxMXpZOTRJTDhSdmFjd1psejVsSE1XZmVRaDY3UGNHNVJNNFpCMjJCT2Exa2lXci04OW5DeDV6M3hiMVhOSkk2ODludlBqLUFTWU1jbw?oc=5",
-      "publishedAt": "Sun, 23 Aug 2026 11:16:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeEhjSXdXRl9VcVdfR1pyaHpXZzdqOHhJenBGZTI2V2hpd085dVIwemYxZkN5S0hwWkdTQ3pYUDRRakZmZzdXVE1DZ1d0RGs5b1N2SjdwdGsxTjdMYWVITUt2bTJtNVdrVk1mdlVIZkxFUFNMR1BHbnZFRDVHRXhfdzJnVQ?oc=5",
+      "publishedAt": "Sun, 23 Aug 2026 14:24:00 GMT"
     },
     {
       "title": "환율 1300원대 내려오자 ‘달러 사재기’…환차손 우려 커진 해외주식 투자는 주춤",
@@ -5263,8 +5295,8 @@
         "direction": "하락"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": 0.17,
+        "label": "WTI",
+        "changePercent": 0.2649,
         "direction": "상승"
       }
     ]
