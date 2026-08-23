@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-23T19:27:36.505164+09:00",
-  "updatedLabel": "2026-08-23 19:27:36 KST",
+  "updatedAt": "2026-08-23T19:52:09.063168+09:00",
+  "updatedLabel": "2026-08-23 19:52:09 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3059,16 +3059,16 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 87.06,
-      "previousClose": 86.83,
-      "change": 0.23,
-      "changePercent": 0.2649,
-      "tone": "up",
-      "direction": "상승",
+      "price": null,
+      "previousClose": null,
+      "change": null,
+      "changePercent": null,
+      "tone": "flat",
+      "direction": "보합",
       "series": [],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-22 05:59 KST",
-      "marketTimestamp": 1787345999
+      "marketTime": null,
+      "marketTimestamp": null
     },
     {
       "id": "gold",
@@ -3095,10 +3095,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 76801.1,
+      "price": 76812.57,
       "previousClose": 77076.06,
-      "change": -274.96,
-      "changePercent": -0.3567,
+      "change": -263.49,
+      "changePercent": -0.3419,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3604,16 +3604,36 @@
         ],
         [
           1787480700000,
-          76785.828125
+          76738.703125
         ],
         [
-          1787480851000,
-          76801.101562
+          1787481000000,
+          76876.5625
+        ],
+        [
+          1787481300000,
+          76810.578125
+        ],
+        [
+          1787481600000,
+          76841.453125
+        ],
+        [
+          1787481900000,
+          76792.921875
+        ],
+        [
+          1787482200000,
+          76812.570312
+        ],
+        [
+          1787482324000,
+          76812.570312
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-23 19:27 KST",
-      "marketTimestamp": 1787480851
+      "marketTime": "2026-08-23 19:52 KST",
+      "marketTimestamp": 1787482324
     }
   ],
   "mainCharts": [
@@ -4936,6 +4956,12 @@
       "publishedAt": "Sun, 23 Aug 2026 05:05:21 GMT"
     },
     {
+      "title": "[이번주 증시] 엔비디아 실적·금통위·잭슨홀…코스피 반등 이어질까",
+      "source": "뉴시안",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nZFozTTc2WXh3MXJKWThvWFBOOVFxcTVzemNYOXJCNnRfaHc0V2JoaHc0TXRyV0V0Ym9wUEZnUzQzS2p2SFdwSllXTmozSVJTekh0UElWUVZ1b211U2hXa2N5TTYtOTZ0MFHSAW5BVV95cUxOUGpLbDlnUEpJdWxqUFZvaDhBeFBkb0tNNWVuaWF3TDN5a1BLZ0wzMWRJOTJOT1JYOWsyZUd5YlN0NkJiaVE2UUFUVlF6eUpodFVDbW5EZUN5X1pUTGhwZHl6aEJUZXNLQ1dOMmZqUQ?oc=5",
+      "publishedAt": "Sun, 23 Aug 2026 05:34:27 GMT"
+    },
+    {
       "title": "[이번주 증시] 엔비디아 실적 및 잭슨홀 미팅 주목",
       "source": "오피니언뉴스",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UZ2E3c1JGZWx1TEVOVllaNGt6X1I5NlBvcjE1Y0g4ajZTZDJ5YjNRS3lqYmU0M1dlM1Z5VFQzWHAtYjZSLThscHpsOVRSR1RGaXdVTTY5blVDRVNUMmtsTDJQZm1JTWRHbC1xOGllckxidw?oc=5",
@@ -4952,12 +4978,6 @@
       "source": "미디어인뉴스",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9idHBDcG5OMldzV0VvMGVqVnotVWpjUzZJeGhpbUxEUXFKbmxHNTRIZHJRT0ZOd0VGcXlfVWduWW1NTmRrN0wzWlU3NXBhM0hhQUlxQUk4R2huSUUwZU1sVDVRSkRFQTBGWGY3NmRn?oc=5",
       "publishedAt": "Sun, 23 Aug 2026 01:06:51 GMT"
-    },
-    {
-      "title": "주주환원으로 불씨 살린 코스피…엔비디아·금리가 다음 고비 [주간증시]",
-      "source": "에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51d29qcm1GRHhfek9vSTdEUEFoSWFCcnpqNE1NYnliZldVZVUwSkU2THA5OGV5ZllVUGtiRlVDb2NZemRRbUwtM09xdmxhS01PaFN3OXZOQmVia0E?oc=5",
-      "publishedAt": "Sun, 23 Aug 2026 01:02:43 GMT"
     }
   ],
   "summary": {
@@ -5008,7 +5028,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -0.3567,
+        "changePercent": -0.3419,
         "direction": "하락"
       }
     ]
