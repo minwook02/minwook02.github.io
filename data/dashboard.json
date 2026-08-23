@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-24T03:34:33.800640+09:00",
-  "updatedLabel": "2026-08-24 03:34:33 KST",
+  "updatedAt": "2026-08-24T04:24:43.088902+09:00",
+  "updatedLabel": "2026-08-24 04:24:43 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3078,11 +3078,11 @@
       "kind": "commodity",
       "decimals": 2,
       "price": 4680.6,
-      "previousClose": 4571.4,
-      "change": 109.2,
-      "changePercent": 2.3888,
-      "tone": "up",
-      "direction": "상승",
+      "previousClose": 4680.6,
+      "change": 0.0,
+      "changePercent": 0.0,
+      "tone": "flat",
+      "direction": "보합",
       "series": [],
       "marketState": "UNKNOWN",
       "marketTime": "2026-08-22 05:59 KST",
@@ -3095,10 +3095,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 77311.34,
+      "price": 77364.08,
       "previousClose": 77076.06,
-      "change": 235.28,
-      "changePercent": 0.3053,
+      "change": 288.02,
+      "changePercent": 0.3737,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3992,16 +3992,56 @@
         ],
         [
           1787509800000,
-          77318.617188
+          77288.390625
         ],
         [
-          1787510068000,
-          77311.34375
+          1787510100000,
+          77320.0
+        ],
+        [
+          1787510400000,
+          77333.609375
+        ],
+        [
+          1787510700000,
+          77295.867188
+        ],
+        [
+          1787511000000,
+          77283.617188
+        ],
+        [
+          1787511300000,
+          77325.0
+        ],
+        [
+          1787511600000,
+          77334.46875
+        ],
+        [
+          1787511900000,
+          77309.179688
+        ],
+        [
+          1787512200000,
+          77316.007812
+        ],
+        [
+          1787512500000,
+          77369.757812
+        ],
+        [
+          1787512800000,
+          77382.28125
+        ],
+        [
+          1787513079000,
+          77364.078125
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-24 03:34 KST",
-      "marketTimestamp": 1787510068
+      "marketTime": "2026-08-24 04:24 KST",
+      "marketTimestamp": 1787513079
     }
   ],
   "mainCharts": [
@@ -5350,9 +5390,9 @@
   ],
   "summary": {
     "signal": {
-      "label": "Defensive",
-      "tone": "down",
-      "message": "환율·안전자산 쏠림이 강해 방어적 흐름입니다."
+      "label": "Mixed",
+      "tone": "flat",
+      "message": "국내외 자산이 같은 방향으로 움직이지 않는 혼조장입니다."
     },
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 하락 흐름입니다.",
@@ -5368,11 +5408,6 @@
     ],
     "leaders": [
       {
-        "label": "Gold",
-        "changePercent": 2.3888,
-        "direction": "상승"
-      },
-      {
         "label": "DOW",
         "changePercent": 0.9815,
         "direction": "상승"
@@ -5380,6 +5415,11 @@
       {
         "label": "KOSPI",
         "changePercent": 0.881,
+        "direction": "상승"
+      },
+      {
+        "label": "S&P 500",
+        "changePercent": 0.4346,
         "direction": "상승"
       }
     ],
@@ -5395,9 +5435,9 @@
         "direction": "하락"
       },
       {
-        "label": "WTI",
-        "changePercent": 0.2649,
-        "direction": "상승"
+        "label": "Gold",
+        "changePercent": 0.0,
+        "direction": "보합"
       }
     ]
   },
