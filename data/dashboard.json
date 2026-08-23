@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-23T10:39:39.559768+09:00",
-  "updatedLabel": "2026-08-23 10:39:39 KST",
+  "updatedAt": "2026-08-23T12:06:19.807271+09:00",
+  "updatedLabel": "2026-08-23 12:06:19 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4733,12 +4733,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 77242.55,
+      "price": 77035.64,
       "previousClose": 77076.06,
-      "change": 166.49,
-      "changePercent": 0.216,
-      "tone": "up",
-      "direction": "상승",
+      "change": -40.42,
+      "changePercent": -0.0524,
+      "tone": "flat",
+      "direction": "보합",
       "series": [
         [
           1787443200000,
@@ -4818,16 +4818,88 @@
         ],
         [
           1787448900000,
-          77231.0
+          77247.9375
         ],
         [
-          1787449175000,
-          77242.546875
+          1787449200000,
+          77238.640625
+        ],
+        [
+          1787449500000,
+          77236.570312
+        ],
+        [
+          1787449800000,
+          77245.859375
+        ],
+        [
+          1787450100000,
+          77184.539062
+        ],
+        [
+          1787450400000,
+          77125.523438
+        ],
+        [
+          1787450700000,
+          77095.25
+        ],
+        [
+          1787451000000,
+          77043.171875
+        ],
+        [
+          1787451300000,
+          77102.773438
+        ],
+        [
+          1787451600000,
+          77053.65625
+        ],
+        [
+          1787451900000,
+          77100.679688
+        ],
+        [
+          1787452200000,
+          77195.679688
+        ],
+        [
+          1787452500000,
+          77172.039062
+        ],
+        [
+          1787452800000,
+          77169.25
+        ],
+        [
+          1787453100000,
+          77176.453125
+        ],
+        [
+          1787453400000,
+          77062.257812
+        ],
+        [
+          1787453700000,
+          77064.679688
+        ],
+        [
+          1787454000000,
+          77061.007812
+        ],
+        [
+          1787454300000,
+          77049.40625
+        ],
+        [
+          1787454376000,
+          77035.640625
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-23 10:39 KST",
-      "marketTimestamp": 1787449175
+      "marketTime": "2026-08-23 12:06 KST",
+      "marketTimestamp": 1787454376
     }
   ],
   "mainCharts": [
@@ -6156,6 +6228,12 @@
       "publishedAt": "Sun, 23 Aug 2026 01:06:51 GMT"
     },
     {
+      "title": "[발행인칼럼] 증시 30% 추락 뒤 남은 질문…‘2배 ETF’로 코리아 디스카운트 없애려 했나",
+      "source": "더 이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRQkJLN2VQV1RtZEU0Mk5qTjBVTVRDc0djLU01RE0zY0NxTFR5Q1VPMGJuUWkwbEU0a05mcFZWOG9YN2V4SmlZWGpHc291VnZBUC1oaHVNbGc3SGdkNnVqYnEtSFBtU3QwLTZFcUJzSHFLd9IBckFVX3lxTFBRQkJLN2VQV1RtZEU0Mk5qTjBVTVRDc0djLU01RE0zY0NxTFR5Q1VPMGJuUWkwbEU0a05mcFZWOG9YN2V4SmlZWGpHc291VnZBUC1oaHVNbGc3SGdkNnVqYnEtSFBtU3QwLTZFcUJzSHFLdw?oc=5",
+      "publishedAt": "Sun, 23 Aug 2026 01:14:23 GMT"
+    },
+    {
       "title": "[주간증시전망] 엔비디아 실적 발표·美 국채금리에 ‘쏠린 눈’ - 조선비즈",
       "source": "Chosunbiz",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0VkWEJtSmYyZ016aHZjeERVZ0VVSVhidXZlVjNBMUdXd0Uwakx1bHIxaUdzY25sZlF0TjhFV2FIWDhOSHphSlNBRkJDaHh1M3dQbHpLU3FnTmgtVTF5YWxRMmdHTkE3VFg0WWw4OVAzRl9UWTBYUnpBX0c0eksyVUtDVU9FX0gw0gGcAUFVX3lxTFBuekZrbU9YYWtoX1RDbXFzNXlOMy1fNEIxOUVfdGZhLVZvU1RtWXZ2azN0OEZuRm4taTJwazFORWlzcV9HYXhpQTZDWXh2VGc3N19ZZk9rVFlaSnJYei03RWRoTER6ejMzZGtOcS10S2xOQ29IeWpTMDhkQVdhS2xFSDktNzdGUGhyY19jVUlDbV9aZkd4Wlo5M09Jdw?oc=5",
@@ -6166,12 +6244,6 @@
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uaVVhUnB0Sm40SkdRbzZsN0xHbG9zVTlaZzhvMDZpVFlrV0dyN21ET0ZMX25SMHNlR2tKOWdnSUZNSmItbU1aZDJUaVUtMVczS3BlNWhsM1M0UQ?oc=5",
       "publishedAt": "Sat, 22 Aug 2026 23:00:02 GMT"
-    },
-    {
-      "title": "증시 활황에 증권사 MTS 개편 경쟁 뜨겁다, AI 싣고 종합 플랫폼으로 진화하고",
-      "source": "비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52cXhZUEdjbE40dzRqd0dBOTNVNi1nNTJFVlRUcHFMTC1vdFRoZXMxMWZQY0lIWncxUHZibEV2NUJ6MEszeUtQZFVvYW12Z1hLbDlCSlR4WmRWY3BMeS0zSHZUNUFPd0NHX1lIMGRFN21wX0U?oc=5",
-      "publishedAt": "Sat, 22 Aug 2026 21:00:00 GMT"
     }
   ],
   "summary": {
@@ -6222,8 +6294,8 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": 0.216,
-        "direction": "상승"
+        "changePercent": -0.0524,
+        "direction": "보합"
       }
     ]
   },
