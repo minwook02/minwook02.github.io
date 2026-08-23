@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-23T19:52:09.063168+09:00",
-  "updatedLabel": "2026-08-23 19:52:09 KST",
+  "updatedAt": "2026-08-23T20:24:01.997904+09:00",
+  "updatedLabel": "2026-08-23 20:24:01 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -3059,16 +3059,16 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": null,
-      "previousClose": null,
-      "change": null,
-      "changePercent": null,
-      "tone": "flat",
-      "direction": "보합",
+      "price": 87.06,
+      "previousClose": 86.83,
+      "change": 0.23,
+      "changePercent": 0.2649,
+      "tone": "up",
+      "direction": "상승",
       "series": [],
       "marketState": "UNKNOWN",
-      "marketTime": null,
-      "marketTimestamp": null
+      "marketTime": "2026-08-22 05:59 KST",
+      "marketTimestamp": 1787345999
     },
     {
       "id": "gold",
@@ -3095,12 +3095,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 76812.57,
+      "price": 77163.77,
       "previousClose": 77076.06,
-      "change": -263.49,
-      "changePercent": -0.3419,
-      "tone": "down",
-      "direction": "하락",
+      "change": 87.71,
+      "changePercent": 0.1138,
+      "tone": "flat",
+      "direction": "보합",
       "series": [
         [
           1787443200000,
@@ -3624,16 +3624,40 @@
         ],
         [
           1787482200000,
-          76812.570312
+          76805.046875
         ],
         [
-          1787482324000,
-          76812.570312
+          1787482500000,
+          76776.929688
+        ],
+        [
+          1787482800000,
+          76729.578125
+        ],
+        [
+          1787483100000,
+          76794.351562
+        ],
+        [
+          1787483400000,
+          76862.21875
+        ],
+        [
+          1787483700000,
+          76956.570312
+        ],
+        [
+          1787484000000,
+          77183.109375
+        ],
+        [
+          1787484238000,
+          77163.773438
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-23 19:52 KST",
-      "marketTimestamp": 1787482324
+      "marketTime": "2026-08-23 20:23 KST",
+      "marketTimestamp": 1787484238
     }
   ],
   "mainCharts": [
@@ -4950,16 +4974,16 @@
       "publishedAt": "Sat, 22 Aug 2026 21:00:44 GMT"
     },
     {
+      "title": "[이번주 증시] 엔비디아 실적·금통위·잭슨홀…코스피 반등 이어질까",
+      "source": "뉴시안",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QaktsOWdQSkl1bGpQVm9oOEF4UGRvS001ZW5pYXdMM3lrUEtnTDMxZEk5Mk5PUlg5azJlR3liU3Q2QmJpUTZRQVRWUXp5Smh0VUNtbkRlQ3lfWlRMaHBkeXpoQlRlc0tDV04yZmpR0gFuQVVfeXFMTlBqS2w5Z1BKSXVsalBWb2g4QXhQZG9LTTVlbmlhd0wzeWtQS2dMMzFkSTkyTk9SWDlrMmVHeWJTdDZCYmlRNlFBVFZRenlKaHRVQ21uRGVDeV9aVExocGR5emhCVGVzS0NXTjJmalE?oc=5",
+      "publishedAt": "Sun, 23 Aug 2026 06:25:24 GMT"
+    },
+    {
       "title": "[주간 증시 전망] 글로벌 금리 상승에 흔들린 증시…엔비디아 실적이 '분수령'",
       "source": "뉴스웍스",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PcDVWMmVqYWVrQUhrZ011OENicEhabElQRE1ZS2hGYlRZT0VWV1drNFZGNm1JYThsUDZlZmpaZUJVcEY3OWFTaU9Ra3VKOXhnMlNoY24zOGFvb1ZYM0hUblg3eEZBZ1lMY2FIQUV5X2tvVTTSAXNBVV95cUxOT3A1VjJlamFla0FIa2dNdThDYnBIWmxJUERNWUtoRmJUWU9FVldXazRWRjZtSWE4bFA2ZWZqWmVCVXBGNzlhU2lPUWt1Sjl4ZzJTaGNuMzhhb29WWDNIVG5YN3hGQWdZTGNhSEFFeV9rb1U0?oc=5",
       "publishedAt": "Sun, 23 Aug 2026 05:05:21 GMT"
-    },
-    {
-      "title": "[이번주 증시] 엔비디아 실적·금통위·잭슨홀…코스피 반등 이어질까",
-      "source": "뉴시안",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nZFozTTc2WXh3MXJKWThvWFBOOVFxcTVzemNYOXJCNnRfaHc0V2JoaHc0TXRyV0V0Ym9wUEZnUzQzS2p2SFdwSllXTmozSVJTekh0UElWUVZ1b211U2hXa2N5TTYtOTZ0MFHSAW5BVV95cUxOUGpLbDlnUEpJdWxqUFZvaDhBeFBkb0tNNWVuaWF3TDN5a1BLZ0wzMWRJOTJOT1JYOWsyZUd5YlN0NkJiaVE2UUFUVlF6eUpodFVDbW5EZUN5X1pUTGhwZHl6aEJUZXNLQ1dOMmZqUQ?oc=5",
-      "publishedAt": "Sun, 23 Aug 2026 05:34:27 GMT"
     },
     {
       "title": "[이번주 증시] 엔비디아 실적 및 잭슨홀 미팅 주목",
@@ -5028,8 +5052,8 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -0.3419,
-        "direction": "하락"
+        "changePercent": 0.1138,
+        "direction": "보합"
       }
     ]
   },
