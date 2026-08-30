@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-31T02:59:48.822092+09:00",
-  "updatedLabel": "2026-08-31 02:59:48 KST",
+  "updatedAt": "2026-08-31T05:58:22.409759+09:00",
+  "updatedLabel": "2026-08-31 05:58:22 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2710,8 +2710,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-30 23:01 KST",
-      "marketTimestamp": 1788098465
+      "marketTime": "2026-08-31 05:24 KST",
+      "marketTimestamp": 1788121487
     },
     {
       "id": "us10y",
@@ -3060,11 +3060,11 @@
       "kind": "commodity",
       "decimals": 2,
       "price": 83.4,
-      "previousClose": 83.53,
-      "change": -0.13,
-      "changePercent": -0.1556,
-      "tone": "down",
-      "direction": "하락",
+      "previousClose": 83.4,
+      "change": 0.0,
+      "changePercent": 0.0,
+      "tone": "flat",
+      "direction": "보합",
       "series": [],
       "marketState": "UNKNOWN",
       "marketTime": "2026-08-29 05:59 KST",
@@ -3078,11 +3078,11 @@
       "kind": "commodity",
       "decimals": 2,
       "price": 4529.9,
-      "previousClose": 4664.0,
-      "change": -134.1,
-      "changePercent": -2.8752,
-      "tone": "down",
-      "direction": "하락",
+      "previousClose": 4529.9,
+      "change": 0.0,
+      "changePercent": 0.0,
+      "tone": "flat",
+      "direction": "보합",
       "series": [],
       "marketState": "UNKNOWN",
       "marketTime": "2026-08-29 05:59 KST",
@@ -3095,10 +3095,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 79010.88,
+      "price": 78625.0,
       "previousClose": 78234.75,
-      "change": 776.13,
-      "changePercent": 0.9921,
+      "change": 390.25,
+      "changePercent": 0.4988,
       "tone": "up",
       "direction": "상승",
       "series": [
@@ -3964,16 +3964,160 @@
         ],
         [
           1788112500000,
-          79002.398438
+          79011.742188
         ],
         [
-          1788112783000,
-          79010.882812
+          1788112800000,
+          79011.773438
+        ],
+        [
+          1788113100000,
+          78858.117188
+        ],
+        [
+          1788113400000,
+          78836.40625
+        ],
+        [
+          1788113700000,
+          78893.9375
+        ],
+        [
+          1788114000000,
+          78870.6875
+        ],
+        [
+          1788114300000,
+          78999.867188
+        ],
+        [
+          1788114600000,
+          79150.09375
+        ],
+        [
+          1788114900000,
+          79148.179688
+        ],
+        [
+          1788115200000,
+          79090.078125
+        ],
+        [
+          1788115500000,
+          79061.523438
+        ],
+        [
+          1788115800000,
+          79013.671875
+        ],
+        [
+          1788116100000,
+          79028.046875
+        ],
+        [
+          1788116400000,
+          78978.109375
+        ],
+        [
+          1788116700000,
+          78984.578125
+        ],
+        [
+          1788117000000,
+          79021.9375
+        ],
+        [
+          1788117300000,
+          78985.070312
+        ],
+        [
+          1788117600000,
+          78904.9375
+        ],
+        [
+          1788117900000,
+          78903.546875
+        ],
+        [
+          1788118200000,
+          78892.609375
+        ],
+        [
+          1788118500000,
+          78782.8125
+        ],
+        [
+          1788118800000,
+          78780.070312
+        ],
+        [
+          1788119100000,
+          78786.96875
+        ],
+        [
+          1788119400000,
+          78830.546875
+        ],
+        [
+          1788119700000,
+          78856.109375
+        ],
+        [
+          1788120000000,
+          78848.578125
+        ],
+        [
+          1788120300000,
+          78872.21875
+        ],
+        [
+          1788120600000,
+          78850.351562
+        ],
+        [
+          1788120900000,
+          78876.421875
+        ],
+        [
+          1788121200000,
+          78905.03125
+        ],
+        [
+          1788121500000,
+          78830.507812
+        ],
+        [
+          1788121800000,
+          78800.28125
+        ],
+        [
+          1788122100000,
+          78698.296875
+        ],
+        [
+          1788122400000,
+          78463.867188
+        ],
+        [
+          1788122700000,
+          78660.46875
+        ],
+        [
+          1788123000000,
+          78677.960938
+        ],
+        [
+          1788123300000,
+          78644.046875
+        ],
+        [
+          1788123500000,
+          78625.0
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-08-31 02:59 KST",
-      "marketTimestamp": 1788112783
+      "marketTime": "2026-08-31 05:58 KST",
+      "marketTimestamp": 1788123500
     }
   ],
   "mainCharts": [
@@ -5272,6 +5416,12 @@
   ],
   "headlines": [
     {
+      "title": "한국은 3%대 진입, 미국도 인상론 무게...배당 매력 떨어지자 우선주 ‘찬밥’",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zQ1dmZ2JGUHBCWlo3amlnd3JCa0JIbkR0d2dvMmdabWtoR2czWnhna3pOUUJab3ZUckwtV0RqV3prbHFrN3phcFk2MWRWQ3JvbWc?oc=5",
+      "publishedAt": "Sun, 30 Aug 2026 20:49:59 GMT"
+    },
+    {
       "title": "국내 증시 복귀했던 ‘서학개미’ 다시 미국 증시행",
       "source": "부산일보",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DVndDd2RzQjhmN2VWYjJOMUwwSWhfUzAzVnAwckx1T1hGUGdSWFhqUkhBRF9BYTZqNmtYRlZxZ3k5Ml8tRlpZUVZ0WVJRVUMzRUNFY2RwdDZveGFyVkV3b1pUbzdzdU11WVF3bmVuWDAtT2FOMGlfZw?oc=5",
@@ -5290,10 +5440,16 @@
       "publishedAt": "Sun, 30 Aug 2026 09:33:33 GMT"
     },
     {
-      "title": "글로벌 큰손이 뽑은 韓 기대주는? [한경 프리미엄9 TODAY]",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kVTcyc1ZLMGJVOXNkeDlVNmtlR3NQeWplMVlYaTAxTXM4Mmk5YWtGbzdaSU9xc0lpS2NxUlVoUnFyZTZ3Nzhha213TVZxakptSHhGUEZjS3Z1dw?oc=5",
-      "publishedAt": "Sun, 30 Aug 2026 16:22:00 GMT"
+      "title": "신현송 \"美 금리 올린다고, 우리도 올려야하는 건 아니다\" - 머니투데이",
+      "source": "머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrdnJXR3JZVnFkZHQzbFJqUXQ5T2ZOZWloUkRaYW1ZS0ltOHRRMzRLaWtGdVJBQUE5N1J0Q0RFdzRCZHUtTTRldFhSLWMzUnFtbUJDU1ZFUkZ0YVpxRTB2SkhZOHFraXNM0gFuQVVfeXFMUFlBWDRJRElmTm1NNFQ2ZGF2Q1hRODdPWktlX1NPUzEzeE9wUzkyZEFlaVBiMUpwVjNmY3lDQlQwbk9ST1Z0elhOWXI1eXRnb2lHLWtZay16ZmlXLTJCTTN1MC1uWWR1S0g4bXJ6R1E?oc=5",
+      "publishedAt": "Sun, 30 Aug 2026 18:50:00 GMT"
+    },
+    {
+      "title": "신현송 “원화 면역력 생겨 기계적 대응 안해”… 연준과 무관?",
+      "source": "국민일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pRnFhaVRpMXNiUzN3T0pBMDNTeWV6N0U0X2dYclA2bzI1cE0wblJRME5jaUV3YThPSW4zamVGcGNQd1ZzazBBZ3lSRE1kYUdGX1pFcEs5RklRbFVvYk5CZ1RrZmFFVXBhWnRqQ9IBbEFVX3lxTE9pRnFhaVRpMXNiUzN3T0pBMDNTeWV6N0U0X2dYclA2bzI1cE0wblJRME5jaUV3YThPSW4zamVGcGNQd1ZzazBBZ3lSRE1kYUdGX1pFcEs5RklRbFVvYk5CZ1RrZmFFVXBhWnRqQw?oc=5",
+      "publishedAt": "Sun, 30 Aug 2026 17:08:00 GMT"
     },
     {
       "title": "[주간 증시전망] 수출 개선···국내 기업 호재 기대감",
@@ -5302,22 +5458,10 @@
       "publishedAt": "Sun, 30 Aug 2026 09:22:01 GMT"
     },
     {
-      "title": "개미 투자자, 다시 미국 증시로?… 두 달간 美주식 9.7조원 순매수",
-      "source": "디지털데일리",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YRkhRT1JUWWZCVWdKcndSVVRXNVhxYjlVUXExX1ZIOVdEUXhXNFBzM2xJQ2tleGV3Yl94ME1EMjMxc1JuUlg5eHQxN2NKenE0VGMzR001TTFoNXRlclprNXdIak4?oc=5",
-      "publishedAt": "Sun, 30 Aug 2026 04:21:54 GMT"
-    },
-    {
-      "title": "개인 美주식 매수 열풍… 두 달간 10조원 육박",
-      "source": "천지일보",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94TDcyeFZ3a0FScURxVkpuYlc3OFVLaHgtRkxuZllGbjFON1RZdkZ6WFAxSDVRbFFnUGtrbVFJZUktWnA4S0pWUGw0c1hFcXdCdGhXcWF4OXJKajBCb3FZWGhzQ0J0V0dJOXc?oc=5",
-      "publishedAt": "Sun, 30 Aug 2026 06:36:46 GMT"
-    },
-    {
-      "title": "국내 증시 부진에 서학개미 美증시로…두 달간 9.7조원 순매수",
-      "source": "산경투데이",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVLW5nQW95Z2dESzFNbTJyV241X3RRZW8yMW1UeV92NVoyMmtvN3NwblYtWW12bEZicHJNVEVuVi16T2FEVmh1OXBrdXNOQ1JCSl9SVnBaQU5XaWZjbkFNamk3QThWcGJ4V3JSTG84RU9jSmVS0gF0QVVfeXFMUFUtbmdBb3lnZ0RLMU1tMnJXbjVfdFFlbzIxbVR5X3Y1WjIya283c3BuVi1ZbXZsRmJwck1URW5WLXpPYURWaHU5cGt1c05DUkJKX1JWcFpBTldpZmNuQU1qaTdBOFZwYnhXclJMbzhFT2NKZVI?oc=5",
-      "publishedAt": "Sun, 30 Aug 2026 01:40:02 GMT"
+      "title": "미국 30년물 국채금리 6% 돌파가 불러올 글로벌 경제 대재앙의 서막 -> 무위험 수익률 6% 시대 => 전 세계 스마트머니의 미국 본토 유턴 >> 환율 쇼크와 자본 유출 = 한국 금융시장을 덮치는 거시경제적 뇌관 |",
+      "source": "데일리머니",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PYzVhblBTRG05eTB4ZXktRUtJZjVBNExqWXh0ZE50MFoyRHVrcldITEk0VGNUOEdVQXJBSXQxU3NMTm5LRDVEMENHcHQ4dC1NMTJka3ZURVJNbUVjMkdfby0xREJ4UlNVMDQ3RzRxdGo3d2I2V0E?oc=5",
+      "publishedAt": "Sun, 30 Aug 2026 17:27:34 GMT"
     }
   ],
   "summary": {
@@ -5341,7 +5485,7 @@
     "leaders": [
       {
         "label": "Bitcoin",
-        "changePercent": 0.9921,
+        "changePercent": 0.4988,
         "direction": "상승"
       },
       {
@@ -5350,17 +5494,12 @@
         "direction": "보합"
       },
       {
-        "label": "DOW",
-        "changePercent": -0.0176,
+        "label": "WTI",
+        "changePercent": 0.0,
         "direction": "보합"
       }
     ],
     "laggards": [
-      {
-        "label": "Gold",
-        "changePercent": -2.8752,
-        "direction": "하락"
-      },
       {
         "label": "KOSPI",
         "changePercent": -1.7865,
@@ -5369,6 +5508,11 @@
       {
         "label": "NASDAQ",
         "changePercent": -0.5236,
+        "direction": "하락"
+      },
+      {
+        "label": "USD/KRW",
+        "changePercent": -0.3448,
         "direction": "하락"
       }
     ]
