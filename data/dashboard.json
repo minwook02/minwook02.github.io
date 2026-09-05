@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-06T00:03:00.332639+09:00",
-  "updatedLabel": "2026-09-06 00:03:00 KST",
+  "updatedAt": "2026-09-06T02:30:05.706055+09:00",
+  "updatedLabel": "2026-09-06 02:30:05 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2707,7 +2707,7 @@
       ],
       "marketState": "UNKNOWN",
       "marketTime": "2026-09-05 12:30 KST",
-      "marketTimestamp": 1788579051
+      "marketTimestamp": 1788579052
     },
     {
       "id": "us10y",
@@ -4725,12 +4725,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 79741.75,
+      "price": 80034.05,
       "previousClose": 79676.33,
-      "change": 65.42,
-      "changePercent": 0.0821,
-      "tone": "flat",
-      "direction": "보합",
+      "change": 357.72,
+      "changePercent": 0.449,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1788566400000,
@@ -5454,16 +5454,132 @@
         ],
         [
           1788620400000,
-          79735.242188
+          79741.757812
         ],
         [
-          1788620574000,
-          79741.75
+          1788620700000,
+          79713.789062
+        ],
+        [
+          1788621000000,
+          79718.828125
+        ],
+        [
+          1788621300000,
+          79689.992188
+        ],
+        [
+          1788621600000,
+          79751.148438
+        ],
+        [
+          1788621900000,
+          79686.03125
+        ],
+        [
+          1788622200000,
+          79711.648438
+        ],
+        [
+          1788622500000,
+          79734.507812
+        ],
+        [
+          1788622800000,
+          79750.0
+        ],
+        [
+          1788623100000,
+          79755.4375
+        ],
+        [
+          1788623400000,
+          79765.710938
+        ],
+        [
+          1788623700000,
+          79802.007812
+        ],
+        [
+          1788624000000,
+          79847.351562
+        ],
+        [
+          1788624300000,
+          79795.953125
+        ],
+        [
+          1788624600000,
+          79769.492188
+        ],
+        [
+          1788624900000,
+          79818.726562
+        ],
+        [
+          1788625200000,
+          79863.171875
+        ],
+        [
+          1788625500000,
+          79898.757812
+        ],
+        [
+          1788625800000,
+          79987.476562
+        ],
+        [
+          1788626100000,
+          79946.898438
+        ],
+        [
+          1788626400000,
+          79943.320312
+        ],
+        [
+          1788626700000,
+          79999.992188
+        ],
+        [
+          1788627000000,
+          80097.992188
+        ],
+        [
+          1788627300000,
+          80040.53125
+        ],
+        [
+          1788627600000,
+          80039.117188
+        ],
+        [
+          1788627900000,
+          80118.90625
+        ],
+        [
+          1788628200000,
+          80124.140625
+        ],
+        [
+          1788628500000,
+          80052.179688
+        ],
+        [
+          1788628800000,
+          80060.617188
+        ],
+        [
+          1788629100000,
+          80034.046875
+        ],
+        [
+          1788629396000,
+          80034.046875
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-09-06 00:02 KST",
-      "marketTimestamp": 1788620574
+      "marketTime": "2026-09-06 02:29 KST",
+      "marketTimestamp": 1788629396
     }
   ],
   "mainCharts": [
@@ -6764,14 +6880,8 @@
     {
       "title": "국내 증시 흔들리자 미국으로…은행엔 20조 넘는 ‘역머니무브’",
       "source": "JTBC",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RcE5MMmtRNHF3NmhqTkZiN3dwT19DTFdiRV9OZnRyQU9VWnZYWjZZc3gwc2RLS3VYWkhYTnY4RF9qakNEd0NEQ1loX3NvZFdCaVE?oc=5",
-      "publishedAt": "Sat, 05 Sep 2026 11:05:24 GMT"
-    },
-    {
-      "title": "세금이 바꾸는 돈길…\"韓증시 구조적 변화\"[주末머니]",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kMnh1X1lRQWlqbGNmc184ME1TYTMxdkE3UE93NHpjdi1XTDNSdkZGbE9SZ294SC1sTzRjOXF3UC1MLXQ4VktORGg5d0RDbVU?oc=5",
-      "publishedAt": "Sat, 05 Sep 2026 09:26:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1ZEpDNnR0N083UXVRVUU5OExQRnF3ZmZLRnFNU2pmS1FSc0xtTU9YTXU1cVBTOGVSRDhtTVp4ZkR6NGFQQ0JSSnpxN2tSQkYySkppdQ?oc=5",
+      "publishedAt": "Sat, 05 Sep 2026 10:35:00 GMT"
     },
     {
       "title": "중동 리스크에 유가·금리 ’들썩’…국내 경제 발목잡나",
@@ -6798,16 +6908,22 @@
       "publishedAt": "Fri, 04 Sep 2026 21:00:00 GMT"
     },
     {
+      "title": "마작 19 세 자산 배분의 파악: 원리, 방법 및 기술",
+      "source": "Histoire pour tous",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWS05Q0ZPSHpranlPUFhqc1BTdUdCVmVHZnB6ZkVCaUVrd1YzeFZ3ZUhLOHE4WGJRa3NGbFBqSC1SdzlTZThCMHhaM1VGVmw3dDFoaXhJY3R3WGltdmpYQUV4eEozMjZXMkx6R0hyeE5vV1ctYzNWNFpxZkZvNlUwNk0xNlFhcC1uOGMwNkh5b2hEQWlOc3dXQ3NNME9nRmhLZHVQSUZidWNucGhrRTd0a0ZyVUlWWUh2a25MWVdYNWI1SGswM1NXRk5XODAwSWlOSXE2a3FR?oc=5",
+      "publishedAt": "Sat, 05 Sep 2026 05:38:45 GMT"
+    },
+    {
       "title": "한국 새벽 3시...美 국채금리 '뛰고' vs 미국증시 '하락', 테슬라 '뚝'",
       "source": "초이스경제",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rYzhkWHR0dm80TWhCT2dKdzhmWkNja1d2OW5FVkNETFZLamh2aDdMQTBLM0owX1lWYmFvREw5LWJWak5vOGlseWxOT2dlVk1sNU50cmFKSl9CR3pfdVVzeWdsMmFiMUtwZmZoY21ENNIBc0FVX3lxTE9CZ0tWYkQwNTJwdVpoTmw3WElINUdoNVQ5TktBZDFJeTdhdFRacEdkbHdtTDZ3cXBVOFdsdUpLN3pZZlRMLVRrWFFpUGE5am9PTy1BN1loaWtEQzRUbkdabXc4dFk2VkM3X21PVlMxM0FlYk0?oc=5",
       "publishedAt": "Fri, 04 Sep 2026 18:41:02 GMT"
     },
     {
-      "title": "경상흑자 2331억달러 호재 놓친 증시…'셀코리아'에 발목",
-      "source": "ebn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aOG5lUHpFb1RmZ1dtbldYMXZwRHB0UE13b3Zxakh4RWNjbnhCSk81TTRNc25ueFhIZHhWNzF4cHhCWW53eDhUdzFrR1RWcnU0M1Y0Q3M4dTF4eC1GeXo1Ny0ybzl1Vlpx?oc=5",
-      "publishedAt": "Fri, 04 Sep 2026 21:00:00 GMT"
+      "title": "[증시 동향] 떠났던 투심, 다시 국내 증시로 돌아올까",
+      "source": "이뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJR2dKcGlzXzZoVDBTNVBTdXpDdlpGcTdVNXkxZ3NsMjNJT0NTZ2ttOWI1QXdjdjBPNEV5bzJmUWZqdjlJeHljRWdtRjVxNUIxQ3M5UEJsdGZDVnhVdFk2NVB4ZVo2dHhWbFFPR2dHbzPSAXRBVV95cUxQTm40aTNOUFA5Y09WN2w1WWtHeWlDdUh1dUgyTDVhRGdmWmdESjU2dVNIT0M3UnFzeFBqUEJPZlFEVXRmVDRGbl9icVBPdnVfZ0k0ZGRha2drWWJtNGRmOVNISXlmVURvRjFlc0daakRZNE1Mag?oc=5",
+      "publishedAt": "Sat, 05 Sep 2026 05:27:24 GMT"
     }
   ],
   "summary": {
@@ -6840,8 +6956,8 @@
         "direction": "상승"
       },
       {
-        "label": "WTI",
-        "changePercent": 0.1972,
+        "label": "Bitcoin",
+        "changePercent": 0.449,
         "direction": "상승"
       }
     ],
