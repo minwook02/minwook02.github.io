@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-12T09:32:35.988677+09:00",
-  "updatedLabel": "2026-09-12 09:32:35 KST",
+  "updatedAt": "2026-09-12T14:29:44.492924+09:00",
+  "updatedLabel": "2026-09-12 14:29:44 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2706,8 +2706,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-09-12 05:59 KST",
-      "marketTimestamp": 1789160398
+      "marketTime": "2026-09-12 12:35 KST",
+      "marketTimestamp": 1789184124
     },
     {
       "id": "us10y",
@@ -3055,10 +3055,10 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 99.99,
+      "price": 100.05,
       "previousClose": 102.48,
-      "change": -2.49,
-      "changePercent": -2.4297,
+      "change": -2.43,
+      "changePercent": -2.3712,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3877,10 +3877,6 @@
         [
           1789160100000,
           99.989998
-        ],
-        [
-          1789160399000,
-          99.989998
         ]
       ],
       "marketState": "UNKNOWN",
@@ -3894,12 +3890,12 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 4390.0,
+      "price": 4408.9,
       "previousClose": 4407.3,
-      "change": -17.3,
-      "changePercent": -0.3925,
-      "tone": "down",
-      "direction": "하락",
+      "change": 1.6,
+      "changePercent": 0.0363,
+      "tone": "flat",
+      "direction": "보합",
       "series": [
         [
           1789099200000,
@@ -4716,10 +4712,6 @@
         [
           1789160100000,
           4390.0
-        ],
-        [
-          1789160399000,
-          4390.0
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4733,10 +4725,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 77233.1,
+      "price": 77187.01,
       "previousClose": 77201.88,
-      "change": 31.22,
-      "changePercent": 0.0404,
+      "change": -14.87,
+      "changePercent": -0.0193,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -4766,16 +4758,252 @@
         ],
         [
           1789173000000,
-          77229.539062
+          77256.140625
         ],
         [
-          1789173149000,
-          77233.101562
+          1789173300000,
+          77252.679688
+        ],
+        [
+          1789173600000,
+          77271.640625
+        ],
+        [
+          1789173900000,
+          77274.851562
+        ],
+        [
+          1789174200000,
+          77311.992188
+        ],
+        [
+          1789174500000,
+          77271.109375
+        ],
+        [
+          1789174800000,
+          77266.546875
+        ],
+        [
+          1789175100000,
+          77341.140625
+        ],
+        [
+          1789175400000,
+          77360.03125
+        ],
+        [
+          1789175700000,
+          77347.359375
+        ],
+        [
+          1789176000000,
+          77314.210938
+        ],
+        [
+          1789176300000,
+          77310.351562
+        ],
+        [
+          1789176600000,
+          77308.757812
+        ],
+        [
+          1789176900000,
+          77284.90625
+        ],
+        [
+          1789177200000,
+          77261.679688
+        ],
+        [
+          1789177500000,
+          77304.601562
+        ],
+        [
+          1789177800000,
+          77281.742188
+        ],
+        [
+          1789178100000,
+          77250.023438
+        ],
+        [
+          1789178400000,
+          77285.9375
+        ],
+        [
+          1789178700000,
+          77298.960938
+        ],
+        [
+          1789179000000,
+          77283.367188
+        ],
+        [
+          1789179300000,
+          77295.101562
+        ],
+        [
+          1789179600000,
+          77303.5
+        ],
+        [
+          1789179900000,
+          77269.742188
+        ],
+        [
+          1789180200000,
+          77255.046875
+        ],
+        [
+          1789180500000,
+          77237.007812
+        ],
+        [
+          1789180800000,
+          77223.109375
+        ],
+        [
+          1789181100000,
+          77257.9375
+        ],
+        [
+          1789181400000,
+          77249.726562
+        ],
+        [
+          1789181700000,
+          77286.351562
+        ],
+        [
+          1789182000000,
+          77307.59375
+        ],
+        [
+          1789182300000,
+          77279.296875
+        ],
+        [
+          1789182600000,
+          77255.828125
+        ],
+        [
+          1789182900000,
+          77285.390625
+        ],
+        [
+          1789183200000,
+          77234.210938
+        ],
+        [
+          1789183500000,
+          77279.921875
+        ],
+        [
+          1789183800000,
+          77254.5625
+        ],
+        [
+          1789184100000,
+          77243.007812
+        ],
+        [
+          1789184400000,
+          77243.976562
+        ],
+        [
+          1789184700000,
+          77225.429688
+        ],
+        [
+          1789185000000,
+          77253.632812
+        ],
+        [
+          1789185300000,
+          77259.226562
+        ],
+        [
+          1789185600000,
+          77289.117188
+        ],
+        [
+          1789185900000,
+          77289.109375
+        ],
+        [
+          1789186200000,
+          77284.757812
+        ],
+        [
+          1789186500000,
+          77218.5
+        ],
+        [
+          1789186800000,
+          77228.4375
+        ],
+        [
+          1789187100000,
+          77241.101562
+        ],
+        [
+          1789187400000,
+          77265.007812
+        ],
+        [
+          1789187700000,
+          77279.5
+        ],
+        [
+          1789188000000,
+          77238.90625
+        ],
+        [
+          1789188300000,
+          77250.78125
+        ],
+        [
+          1789188600000,
+          77230.242188
+        ],
+        [
+          1789188900000,
+          77206.75
+        ],
+        [
+          1789189200000,
+          77188.90625
+        ],
+        [
+          1789189500000,
+          77173.421875
+        ],
+        [
+          1789189800000,
+          77214.492188
+        ],
+        [
+          1789190100000,
+          77224.6875
+        ],
+        [
+          1789190400000,
+          77208.789062
+        ],
+        [
+          1789190700000,
+          77204.96875
+        ],
+        [
+          1789190976000,
+          77187.007812
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-09-12 09:32 KST",
-      "marketTimestamp": 1789173149
+      "marketTime": "2026-09-12 14:29 KST",
+      "marketTimestamp": 1789190976
     }
   ],
   "mainCharts": [
@@ -6074,52 +6302,52 @@
   ],
   "headlines": [
     {
+      "title": "한국 ETF 사라졌던 日 증시…3년 반 만에 반도체로 귀환",
+      "source": "뉴시안",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GeGJDWDNMeXFENTFTZXNnTHZQVlJoZkFVaTI2dlhPeXRseFVxYkFRVXpmY0FrSVU5TmxXUWFYcXJTRFdNanJkS041WUJ2RVczZXBuMjdNRmludFVLNzVETkcxaXp0TFg4bHhJ0gFuQVVfeXFMTU1BbzhnODdHY21ld3loR0JyWXJxOWtHbllIZG1mOWdFX1RRUk8ybHhuXzVmcXY2dHF1UUIweERUMzBzWG9LMU5tZnRpQVBqSlpCSnBqTjE1ZkFZLXVxU1lhRnBXZlU0UEx5Qms2UVE?oc=5",
+      "publishedAt": "Sat, 12 Sep 2026 00:32:24 GMT"
+    },
+    {
+      "title": "MMF서 19조 빠졌다…증시로 이동하는 ‘대기자금’",
+      "source": "sedaily.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HcU1QYXo0QmVMUUx2VGVCcUdIVjNlRXRWRW9HREFDYml5OVRudjR1QXFaZ2tFUnl6Uk9sN0ZMOTBRSFZ4M1I3SGdXQi1pZC1KRlHSAVNBVV95cUxPdWlSN0ZTY01ReWszZkp5cElyN3VGRnkta3JWdzFjMHJpUWN4OVVPb1V2dDM1WWlKaGpyakItak8tVmE2VGppRkpicm1NWDROZUlkQQ?oc=5",
+      "publishedAt": "Sat, 12 Sep 2026 01:00:00 GMT"
+    },
+    {
       "title": "[통합편] 하반기 국내 증시 전망 | 이경민 대신증권 FICC리서치부장",
       "source": "머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQaFctY0ViTXhGVWRBejZRb3FTZ0ZMemNzRHJlSzJrOVFvQTgzYzVtZjVxSk0wSDFRUE5ZRmVwWDIxamZaV0dUZmpiRjBrUXNRSFVj?oc=5",
-      "publishedAt": "Sat, 12 Sep 2026 00:00:22 GMT"
+      "publishedAt": "Sat, 12 Sep 2026 03:00:22 GMT"
+    },
+    {
+      "title": "美 '5% 금리' 충격 한국 덮쳤다...국고채 3년 4%·원화 다시 약세",
+      "source": "ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QYkZhNVA5TkZIUi1VVnNOdjhGN1BfajNVbEttUzZOTlBNeWFOcFpGM2V5d3BRVzRmbi0tckEtX05zV3BsekxrQWF1NjYwb3B0MXk3cTYtRl9ZaTRMcV93U25BUy1RUDNy?oc=5",
+      "publishedAt": "Sat, 12 Sep 2026 04:53:25 GMT"
+    },
+    {
+      "title": "[포커스] 美 금리, 정말 올릴까…중간선거 앞둔 Fed의 마지막 선택",
+      "source": "CEONEWS",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EQlZ0TGVvYVRvWGtnX0pSWGxrcFRFNi01YjJZOW1VcmNvemNFMGxtMGNWcUJxZmFNVXFEWEdaMmhFc2Y1aGUtdFlaYWNWN2VLQmxuZUVYOTJsUFRhRnk0?oc=5",
+      "publishedAt": "Sat, 12 Sep 2026 01:44:00 GMT"
+    },
+    {
+      "title": "다음주 증시...유가 향방 · 美 FOMC가 최대 변수?",
+      "source": "초이스경제",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOZ01tOGxQeFpjZGhzMHMxelhGVUFsdGRUTWhGYU1Md29uM1VTZUV6R2RDOGVGVmNDZUpsbmpWX2IxbnRnOVlKd2tHYk9XeEd4VEpHa3hSa3UxT08wVktyd2ltQi1ZNkRqRTQyckkwWWhGa0XSAXNBVV95cUxQTmdNbThsUHhaY2RoczBzMXpYRlVBbHRkVE1oRmFNTHdvbjNVU2VFekdkQzhlRlZjQ2VKbG5qVl9iMW50ZzlZSndrR2JPV3hHeFRKR2t4Umt1MU9PMFZLcndpbUItWTZEakU0MnJJMFloRmtF?oc=5",
+      "publishedAt": "Sat, 12 Sep 2026 00:57:06 GMT"
     },
     {
       "title": "[금융 한 입] 글로벌 증시 변동성 경고…AI 반도체 호황 계속될까",
-      "source": "BBS불교방송",
+      "source": "news.bbsi.co.kr",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uaHdYNmd4ZnpkNzVueGdoM3BFcDc5NE4wZl9TdjVabjJNWUcwUk01Q3FCM2ZXWFNsUmFQTnNFN0ZueEJXQjBON1hycmhxUmc0Z2VSMTVlckRFcXhpYVBnOUxiV2VqX2gxdm5R?oc=5",
       "publishedAt": "Fri, 11 Sep 2026 10:00:00 GMT"
     },
     {
-      "title": "[주간증시전망] 코스피, 7000선 안착할까…AI 훈풍 vs 고유가·고금리 변수",
-      "source": "아주경제",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOUjVkVnRaQ2liTkVqc1JxaGMxTmNsVV9kaVUtTWJjUkZhV0JfSGp3Q2lQemVjNVhTQ3V0SjVyOHdCd0dRV2NLRmZVRTlQRDhDVVZxY0tRc1nSAVhBVV95cUxQTlI1ZFZ0WkNpYk5FanNScWhjMU5jbFVfZGlVLU1iY1JGYVdCX0hqd0NpUHplYzVYU0N1dEo1cjh3QndHUVdjS0ZmVUU5UEQ4Q1VWcWNLUXNZ?oc=5",
-      "publishedAt": "Fri, 11 Sep 2026 21:00:00 GMT"
-    },
-    {
-      "title": "WSJ “한국증시는 세계서 가장 광적인 시장”",
-      "source": "문화일보",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SFhJTXZmT0VFVU9DN2Uwd0kxOEt3ejkyOHJoNkFLNlh0dlZ0UDJHTVhOR0xBSHp1Q285dTFsbndLY0lOdGIyZ1g3VDdIbDh2?oc=5",
-      "publishedAt": "Fri, 11 Sep 2026 03:33:47 GMT"
-    },
-    {
-      "title": "박스권 증시에 ＇파킹형＇ ETF로 일주일간 1.5조 유입",
-      "source": "한국경제TV",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdFZHTURpYnJNOXk5eUhzWW1FQzRFWUhmU1c5WGRaY0YyTGpZb1ZVRllBclZ3YUVkWHdKVEhqeTcyNmNnWEpmSXFPYlJRZ0g3ckY4NVZ2MkZxOXNqTUFnZEpGQ0JFTTNKZW9oU2dMc3ltWUpZMUE2NDNVS3dwbTc2SA?oc=5",
-      "publishedAt": "Fri, 11 Sep 2026 23:00:00 GMT"
-    },
-    {
-      "title": "금감원장 “韓 증시 저평가 탈출”…외국인 자금유입 속도 낸다",
-      "source": "재외동포신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KbUpOM1h3YWlNS0l4SVlXOFc1NGZnVUY5eHFackQzVnpIa1E1Sl9GaG1fUnRUUnNFWmpKTFJTcHd1UGhGam8tZzhvcURkWGFZNTFfZXJPQ3dLNTdBTkk2TzIyQ1dJWnpNdVBiYQ?oc=5",
-      "publishedAt": "Fri, 11 Sep 2026 08:31:07 GMT"
-    },
-    {
-      "title": "\"'롤러코스터' 한국 증시, 어떻게 풀까...지속적 親증시 정책 필요\"",
-      "source": "베타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnbF9SbzRoVEpybkhKZzl1WnRQc2UwMnVOY05Rd2UyeGI1czZkTlItNFhKRnZxdTR0NEdzZFdnLTlXdUxWRVl5eklIbkJSR2txdjM0ZlBlcXZ0bUltZHF1RmhZbno?oc=5",
-      "publishedAt": "Fri, 11 Sep 2026 09:50:15 GMT"
-    },
-    {
-      "title": "미국·일본·영국 찍고 한국 국채 금리 쇼크 어디까지?",
-      "source": "주간현대",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE4tSEFjbTgtRWQxbE1Kc0xnTkY2d3JCRmxBMS1ZTnVia0xueE9ZSjhtdTUwbUkxM3RGdWh6SS1uYkNqZm8?oc=5",
-      "publishedAt": "Fri, 11 Sep 2026 07:42:00 GMT"
+      "title": "키움증권 美 자회사, 현지서 국내 반도체 ETF 상장",
+      "source": "뉴스로드",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WazhERVNiRTF1cXQ0cXg0S0RQeU9SdWJWRFZWU3B1SklJVllFZk9MZlpmQi1sa3pFaGRhcGRDc1RyZGROdUZlNmc4NVV0ZDVRMG1hVXBFQWxYc1RrLXlFM0xySlRUQTkzb1lN0gFvQVVfeXFMTjJoTmlGSlMtbEkzaEZoTGY3SGhMdEotQVVJS2FveUotcUJKQ0pQVUpDdWFiaEZ1N3pxQVo5bDNaTklhNGFlV1pUZEt3TDhnMDhCdElIellkeEQzWTBQLTlYS2tnX0l6SHFIdTF4aktj?oc=5",
+      "publishedAt": "Sat, 12 Sep 2026 01:48:35 GMT"
     }
   ],
   "summary": {
@@ -6160,7 +6388,7 @@
     "laggards": [
       {
         "label": "WTI",
-        "changePercent": -2.4297,
+        "changePercent": -2.3712,
         "direction": "하락"
       },
       {
