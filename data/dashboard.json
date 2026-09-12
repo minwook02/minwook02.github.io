@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-12T22:27:25.579974+09:00",
-  "updatedLabel": "2026-09-12 22:27:25 KST",
+  "updatedAt": "2026-09-13T01:27:19.321515+09:00",
+  "updatedLabel": "2026-09-13 01:27:19 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4725,12 +4725,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 77243.32,
+      "price": 77365.72,
       "previousClose": 77201.88,
-      "change": 41.44,
-      "changePercent": 0.0537,
-      "tone": "flat",
-      "direction": "보합",
+      "change": 163.84,
+      "changePercent": 0.2122,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1789171200000,
@@ -5378,16 +5378,160 @@
         ],
         [
           1789219500000,
-          77240.382812
+          77288.5625
         ],
         [
-          1789219638000,
-          77243.320312
+          1789219800000,
+          77289.648438
+        ],
+        [
+          1789220100000,
+          77269.703125
+        ],
+        [
+          1789220400000,
+          77274.710938
+        ],
+        [
+          1789220700000,
+          77257.382812
+        ],
+        [
+          1789221000000,
+          77320.101562
+        ],
+        [
+          1789221300000,
+          77351.601562
+        ],
+        [
+          1789221600000,
+          77360.0
+        ],
+        [
+          1789221900000,
+          77364.007812
+        ],
+        [
+          1789222200000,
+          77349.0
+        ],
+        [
+          1789222500000,
+          77357.8125
+        ],
+        [
+          1789222800000,
+          77369.992188
+        ],
+        [
+          1789223100000,
+          77404.09375
+        ],
+        [
+          1789223400000,
+          77415.226562
+        ],
+        [
+          1789223700000,
+          77449.570312
+        ],
+        [
+          1789224000000,
+          77424.75
+        ],
+        [
+          1789224300000,
+          77466.671875
+        ],
+        [
+          1789224600000,
+          77453.109375
+        ],
+        [
+          1789224900000,
+          77444.007812
+        ],
+        [
+          1789225200000,
+          77435.726562
+        ],
+        [
+          1789225500000,
+          77412.960938
+        ],
+        [
+          1789225800000,
+          77405.820312
+        ],
+        [
+          1789226100000,
+          77419.507812
+        ],
+        [
+          1789226400000,
+          77418.8125
+        ],
+        [
+          1789226700000,
+          77434.5625
+        ],
+        [
+          1789227000000,
+          77388.609375
+        ],
+        [
+          1789227300000,
+          77406.539062
+        ],
+        [
+          1789227600000,
+          77379.90625
+        ],
+        [
+          1789227900000,
+          77360.3125
+        ],
+        [
+          1789228200000,
+          77369.09375
+        ],
+        [
+          1789228500000,
+          77363.96875
+        ],
+        [
+          1789228800000,
+          77401.492188
+        ],
+        [
+          1789229100000,
+          77348.453125
+        ],
+        [
+          1789229400000,
+          77345.109375
+        ],
+        [
+          1789229700000,
+          77361.882812
+        ],
+        [
+          1789230000000,
+          77368.820312
+        ],
+        [
+          1789230300000,
+          77365.726562
+        ],
+        [
+          1789230436000,
+          77365.71875
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-09-12 22:27 KST",
-      "marketTimestamp": 1789219638
+      "marketTime": "2026-09-13 01:27 KST",
+      "marketTimestamp": 1789230436
     }
   ],
   "mainCharts": [
@@ -6686,28 +6830,22 @@
   ],
   "headlines": [
     {
+      "title": "다음주 증시, 글로벌 통화정책 슈퍼위크…美·日 금리 상승발 변동성 확대 '경계'",
+      "source": "데일리한국",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZcC1aQjhlejAzRks5ZE5mSVhUUnM0N0pSaFZqZ1lZTTFHWmlKUExSekhKZzVEOWRFdjlGSGowODdSLTFpUmhla2xwU0lmVUVBejJ3ZFVaN0tpOEZ4R3JFenNQRklSVFJQUHVORXlhTdIBc0FVX3lxTE5TNUVlMVZfMzBxMmJKZkZxZkxJZDR4engxTTd2dFFiZ2YxRmd4WXlxRHlvMWZ3M2t3NnBBMG5lMk0zeWt0MnNrUnBkSGhILUtCczhSRTU4ZUNsdl9Qd2FYV3MtWUhQMHY3UndvNlV2NkFRZXM?oc=5",
+      "publishedAt": "Sat, 12 Sep 2026 05:00:00 GMT"
+    },
+    {
       "title": "한국 ETF 사라졌던 日 증시…3년 반 만에 반도체로 귀환",
       "source": "뉴시안",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GeGJDWDNMeXFENTFTZXNnTHZQVlJoZkFVaTI2dlhPeXRseFVxYkFRVXpmY0FrSVU5TmxXUWFYcXJTRFdNanJkS041WUJ2RVczZXBuMjdNRmludFVLNzVETkcxaXp0TFg4bHhJ0gFuQVVfeXFMTU1BbzhnODdHY21ld3loR0JyWXJxOWtHbllIZG1mOWdFX1RRUk8ybHhuXzVmcXY2dHF1UUIweERUMzBzWG9LMU5tZnRpQVBqSlpCSnBqTjE1ZkFZLXVxU1lhRnBXZlU0UEx5Qms2UVE?oc=5",
       "publishedAt": "Sat, 12 Sep 2026 00:32:24 GMT"
     },
     {
-      "title": "유가 하락·CPI 안도에 '숨통'…5일 만에 반등 [뉴욕증시 브리핑]",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWMFZlZUtoT1hWZFpwNlBldXQ4c2hib19QdlRJT2I3aG04TktObFlqMXpFbWZTcDYxRHVNQVlTYkxneHZfM1ZMdUcwbkFzeG9ZSTdLRjJ6MllJQQ?oc=5",
-      "publishedAt": "Fri, 11 Sep 2026 22:12:34 GMT"
-    },
-    {
-      "title": "美 '5% 금리' 충격 한국 덮쳤다...국고채 3년 4%·원화 다시 약세",
+      "title": "美 '5% 금리' 충격 한국 덮쳤다...국고채 3년 4%·원화 다시 약세 - 이비엔(EBN)뉴스센터",
       "source": "ebn.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QYkZhNVA5TkZIUi1VVnNOdjhGN1BfajNVbEttUzZOTlBNeWFOcFpGM2V5d3BRVzRmbi0tckEtX05zV3BsekxrQWF1NjYwb3B0MXk3cTYtRl9ZaTRMcV93U25BUy1RUDNy?oc=5",
       "publishedAt": "Sat, 12 Sep 2026 04:53:25 GMT"
-    },
-    {
-      "title": "[포커스] 美 금리, 정말 올릴까…중간선거 앞둔 Fed의 마지막 선택",
-      "source": "CEONEWS",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EQlZ0TGVvYVRvWGtnX0pSWGxrcFRFNi01YjJZOW1VcmNvemNFMGxtMGNWcUJxZmFNVXFEWEdaMmhFc2Y1aGUtdFlaYWNWN2VLQmxuZUVYOTJsUFRhRnk0?oc=5",
-      "publishedAt": "Sat, 12 Sep 2026 01:44:00 GMT"
     },
     {
       "title": "MMF서 19조 빠졌다…증시로 이동하는 ‘대기자금’",
@@ -6716,22 +6854,28 @@
       "publishedAt": "Sat, 12 Sep 2026 01:00:00 GMT"
     },
     {
-      "title": "다음주 증시, 글로벌 통화정책 슈퍼위크…美·日 금리 상승발 변동성 확대 '경계'",
-      "source": "데일리한국",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZcC1aQjhlejAzRks5ZE5mSVhUUnM0N0pSaFZqZ1lZTTFHWmlKUExSekhKZzVEOWRFdjlGSGowODdSLTFpUmhla2xwU0lmVUVBejJ3ZFVaN0tpOEZ4R3JFenNQRklSVFJQUHVORXlhTdIBc0FVX3lxTE5TNUVlMVZfMzBxMmJKZkZxZkxJZDR4engxTTd2dFFiZ2YxRmd4WXlxRHlvMWZ3M2t3NnBBMG5lMk0zeWt0MnNrUnBkSGhILUtCczhSRTU4ZUNsdl9Qd2FYV3MtWUhQMHY3UndvNlV2NkFRZXM?oc=5",
-      "publishedAt": "Sat, 12 Sep 2026 05:00:00 GMT"
+      "title": "유가·금리·물가 3중 압박…AI주 조정 본격화하나",
+      "source": "뉴스비전e",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42aFRKUU0yMVVkQUVYWjg5SUI1SVhyVll6cmlvVlN4NjBUcndvMlBkbTFnR1BKbzB5SDdldEZ0RTVWWmhkNlJBVWFtN0xRSXVYVUxjWkNVWS1wM0FuVGhib09lQ0hGdGc?oc=5",
+      "publishedAt": "Sat, 12 Sep 2026 13:53:22 GMT"
+    },
+    {
+      "title": "코스피 1.76% 하락 마감 뒤 미 CPI 공개…뉴욕증시 3대 지수는 일제히 반등",
+      "source": "CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRenJNb1BCX1E4YjI3djM1eGV6bU5VWEZFUllyNnZnQnFtbERKNFh1bk5pdTJmYmN0Tks2OFAta1Y3eVZzVEJ6SEp4Z3dCM3liQk5oSE9UNlQyaTQwc01GVG1MMGtiRnFI?oc=5",
+      "publishedAt": "Sat, 12 Sep 2026 13:38:31 GMT"
+    },
+    {
+      "title": "유가 하락·CPI 안도에 '숨통'…5일 만에 반등 [뉴욕증시 브리핑]",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWMFZlZUtoT1hWZFpwNlBldXQ4c2hib19QdlRJT2I3aG04TktObFlqMXpFbWZTcDYxRHVNQVlTYkxneHZfM1ZMdUcwbkFzeG9ZSTdLRjJ6MllJQQ?oc=5",
+      "publishedAt": "Fri, 11 Sep 2026 22:12:34 GMT"
     },
     {
       "title": "[통합편] 하반기 국내 증시 전망 | 이경민 대신증권 FICC리서치부장",
-      "source": "머니투데이",
+      "source": "mt.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQaFctY0ViTXhGVWRBejZRb3FTZ0ZMemNzRHJlSzJrOVFvQTgzYzVtZjVxSk0wSDFRUE5ZRmVwWDIxamZaV0dUZmpiRjBrUXNRSFVj?oc=5",
       "publishedAt": "Sat, 12 Sep 2026 03:00:22 GMT"
-    },
-    {
-      "title": "다음주 증시...유가 향방 · 美 FOMC가 최대 변수?",
-      "source": "초이스경제",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6cE1uMTVLREhKT2UtTnhRSXVEaWpTTV9HejI4aW11VExXVTJPZXVmU3c3WlhHRUtIS2N2QjItOTVsQkxtM25lWDFyN19ZVTJIWVhnbWRXQXdscEw5Z3ZZSVd1T19HZ2l0bE1wcWoyMNIBc0FVX3lxTFBOZ01tOGxQeFpjZGhzMHMxelhGVUFsdGRUTWhGYU1Md29uM1VTZUV6R2RDOGVGVmNDZUpsbmpWX2IxbnRnOVlKd2tHYk9XeEd4VEpHa3hSa3UxT08wVktyd2ltQi1ZNkRqRTQyckkwWWhGa0U?oc=5",
-      "publishedAt": "Fri, 11 Sep 2026 23:13:18 GMT"
     }
   ],
   "summary": {
