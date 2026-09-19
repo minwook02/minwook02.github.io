@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-20T03:44:44.322729+09:00",
-  "updatedLabel": "2026-09-20 03:44:44 KST",
+  "updatedAt": "2026-09-20T06:21:24.391869+09:00",
+  "updatedLabel": "2026-09-20 06:21:24 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4721,12 +4721,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 81470.0,
+      "price": 80894.68,
       "previousClose": 80877.27,
-      "change": 592.73,
-      "changePercent": 0.7329,
-      "tone": "up",
-      "direction": "상승",
+      "change": 17.41,
+      "changePercent": 0.0215,
+      "tone": "flat",
+      "direction": "보합",
       "series": [
         [
           1789776000000,
@@ -5626,16 +5626,144 @@
         ],
         [
           1789843200000,
-          81484.289062
+          81457.242188
         ],
         [
-          1789843479000,
-          81470.0
+          1789843500000,
+          81448.226562
+        ],
+        [
+          1789843800000,
+          81408.710938
+        ],
+        [
+          1789844100000,
+          81412.242188
+        ],
+        [
+          1789844400000,
+          81428.273438
+        ],
+        [
+          1789844700000,
+          81383.101562
+        ],
+        [
+          1789845000000,
+          81355.640625
+        ],
+        [
+          1789845300000,
+          81385.359375
+        ],
+        [
+          1789845600000,
+          81395.976562
+        ],
+        [
+          1789845900000,
+          81374.859375
+        ],
+        [
+          1789846200000,
+          81362.179688
+        ],
+        [
+          1789846500000,
+          81336.179688
+        ],
+        [
+          1789846800000,
+          81305.007812
+        ],
+        [
+          1789847100000,
+          81339.976562
+        ],
+        [
+          1789847400000,
+          81336.84375
+        ],
+        [
+          1789847700000,
+          81344.023438
+        ],
+        [
+          1789848000000,
+          81374.992188
+        ],
+        [
+          1789848300000,
+          81397.960938
+        ],
+        [
+          1789848600000,
+          81398.523438
+        ],
+        [
+          1789848900000,
+          81332.929688
+        ],
+        [
+          1789849200000,
+          81310.148438
+        ],
+        [
+          1789849500000,
+          81237.023438
+        ],
+        [
+          1789849800000,
+          81228.28125
+        ],
+        [
+          1789850100000,
+          81251.78125
+        ],
+        [
+          1789850400000,
+          81271.617188
+        ],
+        [
+          1789850700000,
+          81194.898438
+        ],
+        [
+          1789851000000,
+          81096.46875
+        ],
+        [
+          1789851300000,
+          81129.976562
+        ],
+        [
+          1789851600000,
+          81163.101562
+        ],
+        [
+          1789851900000,
+          81060.0
+        ],
+        [
+          1789852200000,
+          80978.289062
+        ],
+        [
+          1789852500000,
+          80971.3125
+        ],
+        [
+          1789852800000,
+          80909.25
+        ],
+        [
+          1789852878000,
+          80894.679688
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-09-20 03:44 KST",
-      "marketTimestamp": 1789843479
+      "marketTime": "2026-09-20 06:21 KST",
+      "marketTimestamp": 1789852878
     }
   ],
   "mainCharts": [
@@ -6934,10 +7062,40 @@
   ],
   "headlines": [
     {
+      "title": "미국 국채금리 급등에 대미투자 '상업적 합리성' 막판 변수",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGVXFuZ2psZEJNNlZDajNQcEFqcjFoTW9rZGNpVDFfSUEybjFlVkZXaWRjTldPNlp0aEhaQk03Y3RjX1UtNHdUOHRJNWNxUy1CdVE?oc=5",
+      "publishedAt": "Sat, 19 Sep 2026 20:57:01 GMT"
+    },
+    {
       "title": "미국 금리인상 시작…내 계좌도 “윈터 이즈 커밍”",
       "source": "더스쿠프",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WdHBTNkk0Uk1lUWNKeXNEdC1VT282VmF0UGxTaWtRT0VONGVOSDBMc0xTZHVjdmthdVlSeVlqOFU5QXZmcWtoa2dFYXhURFFrYjIxTjIxUWQzNFNfT3lNa2ZGX29YbElUeHh4TFR3?oc=5",
       "publishedAt": "Sat, 19 Sep 2026 12:29:55 GMT"
+    },
+    {
+      "title": "추석 앞둔 코스피 방향성 탐색… ‘고금리·미중 회담’ 변수 [주간증시전망]",
+      "source": "IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uQV9WRVljYmpxQWstTXRGRDY2VHdrYVpOWDEyV0FhYVRtTzJ1X0JMRjJEeVI2aGRVeFdlNkV6bXdzd3hxNzJpazBLUGZjeFpCMEdkZ2dqWWZvdl81QlRxX25VUmhWa05vVTVJR0psanDSAXRBVV95cUxPdFZqOVFZLUptb1N3TXVJTkc2czA3Vlk4SkJzOFg5dUUwWUhHN3JpT2dFa29kWl9hZTFsSGVnNDY0V0RCMkh2a3loVEhWRWJKeDRoLWJDY3FCVlFjVG4wWXV5bFNsSWxNOV82TDJDaFZ1NzNYNQ?oc=5",
+      "publishedAt": "Sat, 19 Sep 2026 21:10:00 GMT"
+    },
+    {
+      "title": "美 증시엔 공격 베팅, 국내선 대기…엇갈리는 개미 투자전략",
+      "source": "데일리스포츠한국",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zNHRUYmdsOFAxMzA5d2N0N1QxeGxDSzFSUkVjRUZZWDBCWEtVdVhyX1g5ZE9JNW1nQnZkRDRpRzZTQ1BHS1pjRTNXN1UtcUgweHY5QVlDNk9vVFdxWlJrMTd0Vm9VRkZYM3NGS3FiM2ZPcjVVcnlIa1J5c9IBf0FVX3lxTE9iWnVRSnpuNzBqVDQ5ekREajU2cHFSSEFXTXZUSk1XR1lhSGp0a2l3M0pzNHpQZmk3SnF3UDBlSFVFTUhWUjlmNXVOc0QwM1lUZ01uMTVsazd0M3FCNFNZN0NVYklvaElFTnpvbFgzMy1HbnZaVFZ6a1Itc05odE0?oc=5",
+      "publishedAt": "Sat, 19 Sep 2026 17:19:53 GMT"
+    },
+    {
+      "title": "미중 정상회담·유가에 쏠린 눈…코스피 6400~7500 [주간 증시 전망]",
+      "source": "데일리안",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOWkFud25GaGNESlVOUzFianQxRHFJZU9pUE44RGRZaGlqYkxXRlFDQjE0MHlRUi0zQ1hsMTdVbEZmRXRvdEJpaVdsR3ZmWFdSS2NMOG5yMVlhNGg2WWFSN0VEN05uYkR6LUZnLWdxVDVIMjhSWDBOenpqZkUwaXVSWlhMZm5NTlBfemNSd2VVc3JJV2ltNjhFV1ZQRlRpOUVkWWdXM3lMMXBvRFNYZG9sbkJBMnBmNnJ0MlRhS3ZVV24weXlyTVNRN3N1bXF5QTItaHl0alAzbXNlejRxeUNtTnhQRmtaTWNMMVBqUXRNTHVQN2Vzb3VfX3RneE1hMU1FQVpHbFVXZDQzWi1vMlE?oc=5",
+      "publishedAt": "Sat, 19 Sep 2026 21:00:00 GMT"
+    },
+    {
+      "title": "서학개미, 14~17일 나흘간 미 증시 13억1,400만 달러(약 1조8,200억원) 순매수하며 월간 순매수 전환",
+      "source": "CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWeFZNYUR1RkowTVJTZ0Z4di1iQnBTcVYwQTEyQ1pXNlNJdTFjc2FsNWZMZDlEVExXUDVPZXFRdGcyV2xzUjRHM2ZGZmxFNmlnZXZGMVRTdEJrZkFUZFpGaC1vejNoekt1?oc=5",
+      "publishedAt": "Sat, 19 Sep 2026 15:00:00 GMT"
     },
     {
       "title": "[주간 오늘의 미국 금리와 서민경제] 미국 3년 만에 금리 인상…대출이자·기름값·장바구니 물가 ‘삼중 부담’",
@@ -6947,46 +7105,16 @@
     },
     {
       "title": "\"금리 올렸는데 왜 안 빠져\"…월가가 찜한 '금덩이' 종목",
-      "source": "hankyung.com",
+      "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96d1hSOTBQbTZKMXhLR29kS0VSdTNIZFoyQzJzWTNmY0Z6ejFRTzZZR2M4Q3hCU1dkSG4xdEtHUV9MNDEwbjV4dVhZSEdrSk5mZHN2TlU1ajNCUQ?oc=5",
       "publishedAt": "Sat, 19 Sep 2026 06:00:08 GMT"
-    },
-    {
-      "title": "서학개미, 14~17일 나흘간 미 증시 13억1,400만 달러(약 1조8,200억원) 순매수하며 월간 순매수 전환",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWeFZNYUR1RkowTVJTZ0Z4di1iQnBTcVYwQTEyQ1pXNlNJdTFjc2FsNWZMZDlEVExXUDVPZXFRdGcyV2xzUjRHM2ZGZmxFNmlnZXZGMVRTdEJrZkFUZFpGaC1vejNoekt1?oc=5",
-      "publishedAt": "Sat, 19 Sep 2026 15:00:00 GMT"
-    },
-    {
-      "title": "[증시 동향] 기타법인 ‘8조 순매수’에도 횡보하는 국내 증시",
-      "source": "이뉴스투데이",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxUGdWczZZNC15X3JPeUFBckFBQjNxcWthYWJzZWNVZVM5OXNsRHRjR2VxWkVBZWdjSnFUbE9DU3lrYUFIbTFxTi16bVRYMFNncmN4X1ZiT3huaEw3M3lSaEw3ZVUyY2NjLWxxWWtyb1TSAXRBVV95cUxNSnNReDh1ck9YWFRBVzVxclU1Z3l6d0EzNnBhcW5UNTlhZnpFdU4tcXo2NnRlelVYeWdwcjg3NTJIbFZ1WDJhbHZrb0o3dmZ1RmxvVDcxSFRlUm1TNUhFRmdySk9NWjdyc2FQZ0JSbENLRHdXMg?oc=5",
-      "publishedAt": "Sat, 19 Sep 2026 08:04:44 GMT"
-    },
-    {
-      "title": "1만달러 생기면 어디에? 블랙록의 답은 ‘한국’이었다｜Global Money Club",
-      "source": "중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qUkN1S05IaTk1TVN5V2h1YmVyMmxabmwyamhuLWNlTHNtSWpKN0ZBVHg1RDdOR3lLbldzcTExTDdYMlNZdGk1RmRuUjdVLTU3M3hzOU1jSjRzLUE?oc=5",
-      "publishedAt": "Sat, 19 Sep 2026 03:00:00 GMT"
-    },
-    {
-      "title": "[현장] \"부동산 자금, 증시로 돌려야\"…'생산적 금융' 위한 세제 해법은?",
-      "source": "오늘경제",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90aHh1QnRER3BTTnNFZVIwanBkcDFpemZ2ZVhhNWJWOV84RXh1UUYzelhDNlQwdzlHNkRjNlZWbnhZTEFRcERmd1F6OFoyWTVKUE44Uk1rT2NmeXFzMWdoWFdjMWQ0Ul92aUdWbFdsZlk0Mms?oc=5",
-      "publishedAt": "Sat, 19 Sep 2026 02:10:00 GMT"
-    },
-    {
-      "title": "WTI '급락' 속...장중 미국증시 '혼조', 마이크론 '활짝' vs IGV '뚝'",
-      "source": "초이스경제",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsQ0pqM2U2NnhzTHJOYXpnMThfbnM4Rm5qdEtYNTdQR0pZdFJ5LU45aElWSjNxUlBxOVNYRFM4b1haN3hma3FWZEVZd3RuaXhYYnpfdVVzcHN1NnltbF9iM0VvQmZQU2Y4TkJfZmVja9IBc0FVX3lxTFAyd1lyYkJQNTVLWmZoLUstQXpiSVp2a21yaUVwNG1PeDFWeVlmRkJtTzdtMEZ1clNkeU15TkNsZlFOVlFRVHY5Z0xaUWR5bXZic2JteVh1dW1qMTl5S3h2cG5oRnZRVVJFRy1nTDZHQlFQMG8?oc=5",
-      "publishedAt": "Fri, 18 Sep 2026 19:43:10 GMT"
     }
   ],
   "summary": {
     "signal": {
-      "label": "Risk-On",
-      "tone": "up",
-      "message": "주식과 위험자산 강세가 우세합니다."
+      "label": "Mixed",
+      "tone": "flat",
+      "message": "국내외 자산이 같은 방향으로 움직이지 않는 혼조장입니다."
     },
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 상승 흐름입니다.",
@@ -7007,13 +7135,13 @@
         "direction": "상승"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": 0.7329,
+        "label": "KOSDAQ",
+        "changePercent": 0.6008,
         "direction": "상승"
       },
       {
-        "label": "KOSDAQ",
-        "changePercent": 0.6008,
+        "label": "Gold",
+        "changePercent": 0.5728,
         "direction": "상승"
       }
     ],
@@ -7029,9 +7157,9 @@
         "direction": "하락"
       },
       {
-        "label": "S&P 500",
-        "changePercent": 0.1668,
-        "direction": "상승"
+        "label": "Bitcoin",
+        "changePercent": 0.0215,
+        "direction": "보합"
       }
     ]
   },
