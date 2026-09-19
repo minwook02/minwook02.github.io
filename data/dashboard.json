@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-20T06:21:24.391869+09:00",
-  "updatedLabel": "2026-09-20 06:21:24 KST",
+  "updatedAt": "2026-09-20T08:23:48.225349+09:00",
+  "updatedLabel": "2026-09-20 08:23:48 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2699,6 +2699,10 @@
         [
           1789768200000,
           1385.949951
+        ],
+        [
+          1789772340000,
+          1385.0
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4721,12 +4725,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 80894.68,
+      "price": 81202.03,
       "previousClose": 80877.27,
-      "change": 17.41,
-      "changePercent": 0.0215,
-      "tone": "flat",
-      "direction": "보합",
+      "change": 324.76,
+      "changePercent": 0.4015,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1789776000000,
@@ -5754,16 +5758,112 @@
         ],
         [
           1789852800000,
-          80909.25
+          80999.070312
         ],
         [
-          1789852878000,
-          80894.679688
+          1789853100000,
+          81031.539062
+        ],
+        [
+          1789853400000,
+          80976.0
+        ],
+        [
+          1789853700000,
+          81035.953125
+        ],
+        [
+          1789854000000,
+          80997.492188
+        ],
+        [
+          1789854300000,
+          81095.539062
+        ],
+        [
+          1789854600000,
+          81107.09375
+        ],
+        [
+          1789854900000,
+          81063.726562
+        ],
+        [
+          1789855200000,
+          80957.921875
+        ],
+        [
+          1789855500000,
+          81020.59375
+        ],
+        [
+          1789855800000,
+          80975.992188
+        ],
+        [
+          1789856100000,
+          81026.757812
+        ],
+        [
+          1789856400000,
+          81038.976562
+        ],
+        [
+          1789856700000,
+          81059.992188
+        ],
+        [
+          1789857000000,
+          81082.820312
+        ],
+        [
+          1789857300000,
+          81189.429688
+        ],
+        [
+          1789857600000,
+          81209.742188
+        ],
+        [
+          1789857900000,
+          81183.859375
+        ],
+        [
+          1789858200000,
+          81237.539062
+        ],
+        [
+          1789858500000,
+          81232.46875
+        ],
+        [
+          1789858800000,
+          81228.992188
+        ],
+        [
+          1789859100000,
+          81209.046875
+        ],
+        [
+          1789859400000,
+          81258.28125
+        ],
+        [
+          1789859700000,
+          81245.398438
+        ],
+        [
+          1789860000000,
+          81217.679688
+        ],
+        [
+          1789860223000,
+          81202.03125
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-09-20 06:21 KST",
-      "marketTimestamp": 1789852878
+      "marketTime": "2026-09-20 08:23 KST",
+      "marketTimestamp": 1789860223
     }
   ],
   "mainCharts": [
@@ -7062,10 +7162,22 @@
   ],
   "headlines": [
     {
+      "title": "[마켓인사이트] 미중회담 빅이벤트·추석연휴…韓증시 어디로",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kYmJPR0dwVzF6NG1Uc1dmczhDZkpqVWFPb0tQVk5vd2Rmc05SUlFJdnhkb1liVm8xbGlKZEhQZU0zRmFwMVJhaXRQU1RraVp4ejRIX0hzN0RuU0HSAWBBVV95cUxObkZtUENxcldRdzBVSS1XTkk4R3A3YjNiUlBoZFI1OTJnSEVqd2tBQmFsUlF4d1lHdnl3bFJoMllUSjI5WXItb3BqTVpqaEM0WmVROW5OYUlMdGUtVUdzN2Q?oc=5",
+      "publishedAt": "Sat, 19 Sep 2026 21:00:06 GMT"
+    },
+    {
+      "title": "미 기준금리 인상에 한은 추가 인상 불가피…코스피 어디로 [증시레이더]",
+      "source": "디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZWEUwcG9WN2NJQTdxNkFNbW1tR3ZqYjI5NVJwWjZmQVhrSmU1WXRsZ3Y2bHdoWk50SWNucHM3d2MyOVlETjNYWG1lRmpmazhmYzE4WjBXbTJlVXhrRWhKbTRnTGY?oc=5",
+      "publishedAt": "Sat, 19 Sep 2026 22:00:00 GMT"
+    },
+    {
       "title": "미국 국채금리 급등에 대미투자 '상업적 합리성' 막판 변수",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGVXFuZ2psZEJNNlZDajNQcEFqcjFoTW9rZGNpVDFfSUEybjFlVkZXaWRjTldPNlp0aEhaQk03Y3RjX1UtNHdUOHRJNWNxUy1CdVE?oc=5",
-      "publishedAt": "Sat, 19 Sep 2026 20:57:01 GMT"
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ld3ZLQkNvNnpPZEhycGZvVC1TdzFXYjIzRW4teVhIVXZPZFlVOGZxR0daaFFaVDNHYXNLX20ycG9fNHRNZEZ3RGhTbEI4VlU?oc=5",
+      "publishedAt": "Sat, 19 Sep 2026 20:58:54 GMT"
     },
     {
       "title": "미국 금리인상 시작…내 계좌도 “윈터 이즈 커밍”",
@@ -7074,40 +7186,28 @@
       "publishedAt": "Sat, 19 Sep 2026 12:29:55 GMT"
     },
     {
-      "title": "추석 앞둔 코스피 방향성 탐색… ‘고금리·미중 회담’ 변수 [주간증시전망]",
-      "source": "IT조선",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uQV9WRVljYmpxQWstTXRGRDY2VHdrYVpOWDEyV0FhYVRtTzJ1X0JMRjJEeVI2aGRVeFdlNkV6bXdzd3hxNzJpazBLUGZjeFpCMEdkZ2dqWWZvdl81QlRxX25VUmhWa05vVTVJR0psanDSAXRBVV95cUxPdFZqOVFZLUptb1N3TXVJTkc2czA3Vlk4SkJzOFg5dUUwWUhHN3JpT2dFa29kWl9hZTFsSGVnNDY0V0RCMkh2a3loVEhWRWJKeDRoLWJDY3FCVlFjVG4wWXV5bFNsSWxNOV82TDJDaFZ1NzNYNQ?oc=5",
-      "publishedAt": "Sat, 19 Sep 2026 21:10:00 GMT"
+      "title": "美 반도체 훈풍에 ‘7000피’ 재도전…미중회담·추석 연휴 변수",
+      "source": "kbmaeil.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JanlacVhEV2pvdmotLWZrX0pNejlZMUIzbERMalN6VzhuYzlVRmd0UDljdXAyVkFsSkp1RHA2SjNtcDNKQTdScFJGQzlteGZES0V5UG1JbkJYZw?oc=5",
+      "publishedAt": "Sat, 19 Sep 2026 21:44:00 GMT"
     },
     {
       "title": "美 증시엔 공격 베팅, 국내선 대기…엇갈리는 개미 투자전략",
       "source": "데일리스포츠한국",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zNHRUYmdsOFAxMzA5d2N0N1QxeGxDSzFSUkVjRUZZWDBCWEtVdVhyX1g5ZE9JNW1nQnZkRDRpRzZTQ1BHS1pjRTNXN1UtcUgweHY5QVlDNk9vVFdxWlJrMTd0Vm9VRkZYM3NGS3FiM2ZPcjVVcnlIa1J5c9IBf0FVX3lxTE9iWnVRSnpuNzBqVDQ5ekREajU2cHFSSEFXTXZUSk1XR1lhSGp0a2l3M0pzNHpQZmk3SnF3UDBlSFVFTUhWUjlmNXVOc0QwM1lUZ01uMTVsazd0M3FCNFNZN0NVYklvaElFTnpvbFgzMy1HbnZaVFZ6a1Itc05odE0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iWnVRSnpuNzBqVDQ5ekREajU2cHFSSEFXTXZUSk1XR1lhSGp0a2l3M0pzNHpQZmk3SnF3UDBlSFVFTUhWUjlmNXVOc0QwM1lUZ01uMTVsazd0M3FCNFNZN0NVYklvaElFTnpvbFgzMy1HbnZaVFZ6a1Itc05odE3SAX9BVV95cUxPYlp1UUp6bjcwalQ0OXpERGo1NnBxUkhBV012VEpNV0dZYUhqdGtpdzNKczR6UGZpN0pxd1AwZUhVRU1IVlI5ZjV1TnNEMDNZVGdNbjE1bGs3dDNxQjRTWTdDVWJJb2hJRU56b2xYMzMtR252WlRWemtSLXNOaHRN?oc=5",
       "publishedAt": "Sat, 19 Sep 2026 17:19:53 GMT"
     },
     {
-      "title": "미중 정상회담·유가에 쏠린 눈…코스피 6400~7500 [주간 증시 전망]",
-      "source": "데일리안",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOWkFud25GaGNESlVOUzFianQxRHFJZU9pUE44RGRZaGlqYkxXRlFDQjE0MHlRUi0zQ1hsMTdVbEZmRXRvdEJpaVdsR3ZmWFdSS2NMOG5yMVlhNGg2WWFSN0VEN05uYkR6LUZnLWdxVDVIMjhSWDBOenpqZkUwaXVSWlhMZm5NTlBfemNSd2VVc3JJV2ltNjhFV1ZQRlRpOUVkWWdXM3lMMXBvRFNYZG9sbkJBMnBmNnJ0MlRhS3ZVV24weXlyTVNRN3N1bXF5QTItaHl0alAzbXNlejRxeUNtTnhQRmtaTWNMMVBqUXRNTHVQN2Vzb3VfX3RneE1hMU1FQVpHbFVXZDQzWi1vMlE?oc=5",
-      "publishedAt": "Sat, 19 Sep 2026 21:00:00 GMT"
+      "title": "코스피 3개월째 답답하자 달라졌다…하반기 ETF 40% 해외 투자",
+      "source": "핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jWG83UHlmN29xNDJFQWRtbFJHbWItcloxQmxaNDZYSW5icTEwTTRWeE0xZW5jdWc5LS1qOGt6QzNyc3JnckxtcHQ3b2hSSFRwQU9paElkSXJsTkdYYkRKOFlYalJMcF92VXZUTURWVUd4M3fSAXdBVV95cUxQckFCZFYybjBxWmdia2ltZVc1dWNKOXYxd2NYOGJqMWJFY1pjbnZfTTVtRHd5SmduRVhsYnNTcVdmbmlaUkc0OGgxZFV6N0xVMldzS2ItekJhSlZ3UkRDVUg2YWNtblVPc2lJUHc3b2VJdnhqajhWdw?oc=5",
+      "publishedAt": "Sat, 19 Sep 2026 22:04:58 GMT"
     },
     {
       "title": "서학개미, 14~17일 나흘간 미 증시 13억1,400만 달러(약 1조8,200억원) 순매수하며 월간 순매수 전환",
       "source": "CBC뉴스",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWeFZNYUR1RkowTVJTZ0Z4di1iQnBTcVYwQTEyQ1pXNlNJdTFjc2FsNWZMZDlEVExXUDVPZXFRdGcyV2xzUjRHM2ZGZmxFNmlnZXZGMVRTdEJrZkFUZFpGaC1vejNoekt1?oc=5",
       "publishedAt": "Sat, 19 Sep 2026 15:00:00 GMT"
-    },
-    {
-      "title": "[주간 오늘의 미국 금리와 서민경제] 미국 3년 만에 금리 인상…대출이자·기름값·장바구니 물가 ‘삼중 부담’",
-      "source": "전국시민의소리",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92MDVkYWVtcllNZ1ZheEt0LTZqY0M4QWhwZGtyS1RxZHJGcldYcTVHODNKNGJvRll5NmlPRF8zUWlvR0VNNjdwTnRQbmZSOXBmX0t2VWFlOG15eVhBMnFKcWt3QzQ4elptMWE4VXR3?oc=5",
-      "publishedAt": "Sat, 19 Sep 2026 01:39:46 GMT"
-    },
-    {
-      "title": "\"금리 올렸는데 왜 안 빠져\"…월가가 찜한 '금덩이' 종목",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96d1hSOTBQbTZKMXhLR29kS0VSdTNIZFoyQzJzWTNmY0Z6ejFRTzZZR2M4Q3hCU1dkSG4xdEtHUV9MNDEwbjV4dVhZSEdrSk5mZHN2TlU1ajNCUQ?oc=5",
-      "publishedAt": "Sat, 19 Sep 2026 06:00:08 GMT"
     }
   ],
   "summary": {
@@ -7157,9 +7257,9 @@
         "direction": "하락"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": 0.0215,
-        "direction": "보합"
+        "label": "S&P 500",
+        "changePercent": 0.1668,
+        "direction": "상승"
       }
     ]
   },
