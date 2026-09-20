@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-21T01:24:05.179712+09:00",
-  "updatedLabel": "2026-09-21 01:24:05 KST",
+  "updatedAt": "2026-09-21T03:58:35.139836+09:00",
+  "updatedLabel": "2026-09-21 03:58:35 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1307,8 +1307,8 @@
       "kind": "equity",
       "decimals": 2,
       "price": 51682.64,
-      "previousClose": 51778.04,
-      "change": -95.4,
+      "previousClose": 51778.0,
+      "change": -95.36,
       "changePercent": -0.1842,
       "tone": "down",
       "direction": "하락",
@@ -3087,10 +3087,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 81045.43,
+      "price": 81059.0,
       "previousClose": 81226.62,
-      "change": -181.19,
-      "changePercent": -0.2231,
+      "change": -167.62,
+      "changePercent": -0.2064,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3880,16 +3880,140 @@
         ],
         [
           1789921200000,
-          81060.0
+          81091.460938
         ],
         [
-          1789921441000,
-          81045.429688
+          1789921500000,
+          81150.0
+        ],
+        [
+          1789921800000,
+          81227.328125
+        ],
+        [
+          1789922100000,
+          81333.0
+        ],
+        [
+          1789922400000,
+          81360.960938
+        ],
+        [
+          1789922700000,
+          81233.539062
+        ],
+        [
+          1789923000000,
+          81275.273438
+        ],
+        [
+          1789923300000,
+          81311.992188
+        ],
+        [
+          1789923600000,
+          81343.492188
+        ],
+        [
+          1789923900000,
+          81234.90625
+        ],
+        [
+          1789924200000,
+          81217.492188
+        ],
+        [
+          1789924500000,
+          81217.5
+        ],
+        [
+          1789924800000,
+          81225.46875
+        ],
+        [
+          1789925100000,
+          81138.0
+        ],
+        [
+          1789925400000,
+          81263.351562
+        ],
+        [
+          1789925700000,
+          81329.3125
+        ],
+        [
+          1789926000000,
+          81374.992188
+        ],
+        [
+          1789926300000,
+          81300.007812
+        ],
+        [
+          1789926600000,
+          81115.296875
+        ],
+        [
+          1789926900000,
+          81129.328125
+        ],
+        [
+          1789927200000,
+          81064.789062
+        ],
+        [
+          1789927500000,
+          81146.976562
+        ],
+        [
+          1789927800000,
+          81083.90625
+        ],
+        [
+          1789928100000,
+          81211.539062
+        ],
+        [
+          1789928400000,
+          81163.78125
+        ],
+        [
+          1789928700000,
+          81253.726562
+        ],
+        [
+          1789929000000,
+          81223.0625
+        ],
+        [
+          1789929300000,
+          81164.710938
+        ],
+        [
+          1789929600000,
+          81202.023438
+        ],
+        [
+          1789929900000,
+          81166.15625
+        ],
+        [
+          1789930200000,
+          81054.523438
+        ],
+        [
+          1789930500000,
+          81059.0
+        ],
+        [
+          1789930705000,
+          81059.0
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-09-21 01:24 KST",
-      "marketTimestamp": 1789921441
+      "marketTime": "2026-09-21 03:58 KST",
+      "marketTimestamp": 1789930705
     }
   ],
   "mainCharts": [
@@ -5188,6 +5312,12 @@
   ],
   "headlines": [
     {
+      "title": "[9월 3주 화장품 주가] 17일 미국 금리 인상으로 원화 강세 → 달러화 강세... 화장품주가 조정",
+      "source": "코스인코리아닷컴",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41WEZHOFhGdzZieXR3X1JrUWJRU0dJUGRCLUNERmY0RW9MbC13X3FLODBJMjZMRGNkRVVPRGdtY3haWjB6RTQ1M0pfOFlCamVGT1E1RjZHSlRQd2JJUFNTTWJKOA?oc=5",
+      "publishedAt": "Sun, 20 Sep 2026 18:30:05 GMT"
+    },
+    {
       "title": "레버리지 ETF의 '몰락'…美증시에서 73개 줄상폐",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hS09ocFZiZ05jSUQ4b1FHUmpITW5FRVJWNXd2aFZUV1V1VUdpeEktRWZPRHZlbVZ2RGQ0c1lDMGVyc1djT2g2TFB3M3pocFRWR1E?oc=5",
@@ -5195,7 +5325,7 @@
     },
     {
       "title": "[인문자의 한국 증권시장 이야기] 한국 증시의 허와 실",
-      "source": "ajunews.com",
+      "source": "아주경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZanNnYXhNS2IxdUFzTE9Vejd4QWdzUGRDRlZqSExQNHc1OVRpNURGaWhyVGVRWWNaZEtUZDNQMGhDTzVTYlV2Q2NvUHVndVlFX0ZEMUxqbHRWd9IBWEFVX3lxTE1NNXg3dnRXTkVQWUhoQWg1UUlaaTU3cGJXRHdUUThYNF9WeGZCSklhRmNNQnRsYjNsX2tmdUxYRDJWM1ZXWGNBSGVnaXI4clBZalVkZTZPNEQ?oc=5",
       "publishedAt": "Sun, 20 Sep 2026 08:23:09 GMT"
     },
@@ -5206,22 +5336,16 @@
       "publishedAt": "Sun, 20 Sep 2026 09:00:49 GMT"
     },
     {
-      "title": "[마켓인사이트] 미중회담 빅이벤트·추석연휴…韓증시 어디로",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kYmJPR0dwVzF6NG1Uc1dmczhDZkpqVWFPb0tQVk5vd2Rmc05SUlFJdnhkb1liVm8xbGlKZEhQZU0zRmFwMVJhaXRQU1RraVp4ejRIX0hzN0RuU0HSAWBBVV95cUxObkZtUENxcldRdzBVSS1XTkk4R3A3YjNiUlBoZFI1OTJnSEVqd2tBQmFsUlF4d1lHdnl3bFJoMllUSjI5WXItb3BqTVpqaEM0WmVROW5OYUlMdGUtVUdzN2Q?oc=5",
-      "publishedAt": "Sat, 19 Sep 2026 21:00:06 GMT"
-    },
-    {
-      "title": "[9월 3주 화장품 주가] 17일 미국 금리 인상으로 원화 강세 → 달러화 강세... 화장품주가 조정",
-      "source": "코스인코리아닷컴",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41WEZHOFhGdzZieXR3X1JrUWJRU0dJUGRCLUNERmY0RW9MbC13X3FLODBJMjZMRGNkRVVPRGdtY3haWjB6RTQ1M0pfOFlCamVGT1E1RjZHSlRQd2JJUFNTTWJKOA?oc=5",
-      "publishedAt": "Sun, 20 Sep 2026 06:41:54 GMT"
-    },
-    {
       "title": "국내 증시 주춤하자 다시 해외로...하반기 출시된 ETF 40%는 ‘해외형’",
       "source": "조선일보",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLUlVSVBabXVoTVJEbW5YSGRrTm5zbEJJQTRsYXJ6R1ltZ2hrcVloR0Yxd3JmUGNSSHplRHlmVmcwYkJGSnZhRmhmbmNtb2JIRWpHcFBGdUNEU3NJVk1DSE05NjdaVlhIdTFhRWtETUViUTN5bENiV21Ua2lTVjdXbQ?oc=5",
       "publishedAt": "Sun, 20 Sep 2026 01:30:45 GMT"
+    },
+    {
+      "title": "[마켓인사이트] 미중회담 빅이벤트·추석연휴…韓증시 어디로",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kYmJPR0dwVzF6NG1Uc1dmczhDZkpqVWFPb0tQVk5vd2Rmc05SUlFJdnhkb1liVm8xbGlKZEhQZU0zRmFwMVJhaXRQU1RraVp4ejRIX0hzN0RuU0HSAWBBVV95cUxObkZtUENxcldRdzBVSS1XTkk4R3A3YjNiUlBoZFI1OTJnSEVqd2tBQmFsUlF4d1lHdnl3bFJoMllUSjI5WXItb3BqTVpqaEM0WmVROW5OYUlMdGUtVUdzN2Q?oc=5",
+      "publishedAt": "Sat, 19 Sep 2026 21:00:06 GMT"
     },
     {
       "title": "[이번주 증시] 사흘만 여는 코스피…미중 정상회담·금리 '주목'",
@@ -5279,7 +5403,7 @@
       },
       {
         "label": "Bitcoin",
-        "changePercent": -0.2231,
+        "changePercent": -0.2064,
         "direction": "하락"
       },
       {
