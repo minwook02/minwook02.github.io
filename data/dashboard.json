@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-18T01:35:51.524320+09:00",
-  "updatedLabel": "2026-10-18 01:35:51 KST",
+  "updatedAt": "2026-10-18T04:07:01.021370+09:00",
+  "updatedLabel": "2026-10-18 04:07:01 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -4721,10 +4721,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 81148.14,
+      "price": 81371.6,
       "previousClose": 81501.61,
-      "change": -353.47,
-      "changePercent": -0.4337,
+      "change": -130.01,
+      "changePercent": -0.1595,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -5525,13 +5525,137 @@
           81192.351562
         ],
         [
-          1792254945000,
-          81148.140625
+          1792254900000,
+          81157.3125
+        ],
+        [
+          1792255200000,
+          81193.453125
+        ],
+        [
+          1792255500000,
+          81211.03125
+        ],
+        [
+          1792255800000,
+          81113.8125
+        ],
+        [
+          1792256100000,
+          81150.46875
+        ],
+        [
+          1792256400000,
+          81081.367188
+        ],
+        [
+          1792256700000,
+          81165.609375
+        ],
+        [
+          1792257000000,
+          81170.398438
+        ],
+        [
+          1792257300000,
+          81137.453125
+        ],
+        [
+          1792257600000,
+          81178.429688
+        ],
+        [
+          1792257900000,
+          81163.546875
+        ],
+        [
+          1792258200000,
+          81166.6875
+        ],
+        [
+          1792258500000,
+          81216.117188
+        ],
+        [
+          1792258800000,
+          81182.882812
+        ],
+        [
+          1792259100000,
+          81214.070312
+        ],
+        [
+          1792259400000,
+          81266.210938
+        ],
+        [
+          1792259700000,
+          81269.59375
+        ],
+        [
+          1792260000000,
+          81399.460938
+        ],
+        [
+          1792260300000,
+          81380.0
+        ],
+        [
+          1792260600000,
+          81397.992188
+        ],
+        [
+          1792260900000,
+          81424.601562
+        ],
+        [
+          1792261200000,
+          81428.8125
+        ],
+        [
+          1792261500000,
+          81445.71875
+        ],
+        [
+          1792261800000,
+          81434.890625
+        ],
+        [
+          1792262100000,
+          81460.1875
+        ],
+        [
+          1792262400000,
+          81441.953125
+        ],
+        [
+          1792262700000,
+          81454.648438
+        ],
+        [
+          1792263000000,
+          81442.640625
+        ],
+        [
+          1792263300000,
+          81393.59375
+        ],
+        [
+          1792263600000,
+          81385.546875
+        ],
+        [
+          1792263900000,
+          81376.992188
+        ],
+        [
+          1792264013000,
+          81371.601562
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-10-18 01:35 KST",
-      "marketTimestamp": 1792254945
+      "marketTime": "2026-10-18 04:06 KST",
+      "marketTimestamp": 1792264013
     }
   ],
   "mainCharts": [
@@ -6830,6 +6954,18 @@
   ],
   "headlines": [
     {
+      "title": "美 ‘중간 선거’로 증시 강세 유력… 한국도 흐름 탈 가능성",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOXhoNWh1NmoyM2sxc3dMUnhCbUxPWUxWczhpSUtaNVBFdXZWaUQ5OXAyQlJ4eDR3ejNncmhnX21RNXF0RTJuRll0ZXpwdzRER0ROdGIzZTNodUlQZEJtam5RQ0ttak43R1ZScEJsZ2poVmJOb3lObm50R2QwX0Y1dHl4M0d6UQ?oc=5",
+      "publishedAt": "Sat, 17 Oct 2026 18:00:00 GMT"
+    },
+    {
+      "title": "미국 장기채 쓸어 담고 단기채 털어낸 큰손들…한국 증시 수급 기로",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOHhxNkVPM1pvamY0Sk84Y0cwajVUSDFaQ3hVOUJuM0JBUmNwcl9FREM3WGtyZFVMOE93S0FaUS1HQUlJeXBaMjAwSWk1TzRvaFNSdklzaFdCRG82Q1UydmtpVERsT1dmdW5wSXZpRGlLNUVaeUlidW5mS1dFTTEyM0llc3ZwVndm?oc=5",
+      "publishedAt": "Sat, 17 Oct 2026 18:55:00 GMT"
+    },
+    {
       "title": "[기획특집. 코리아 디스카운트③] 한국 증시에 잠자는 저평가주 몇 개나 되나…대주주 지배·거래절벽·PBR 1배 미만의 삼중구조",
       "source": "르몽드디플로마티크",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NcS1zUFJ2b0g3NHpGa1JzNHg2R1BBUW5KWXBnMHVCUmVPbEpxemcwQTlMa3FvcUlvTk5sX2hXRjJ4a1VLX0QzV3dCSXQzNjRJMGprMWk0UndqUlU4eVRjTXJKd1Y0U05iZ1HSAW5BVV95cUxOQkMyWm92UThMQkJmbTRtSjNqc3ZlLUg4cUZIRmpHYUlMemJrc2pXWURjajdNcDlOMFdROVpjWkdfeVZnTmMzLVQzak11Vk0xblNyZFNGV3l1Y0ZCemk0V3FZaDNGbTRSMEZZUHZUQQ?oc=5",
@@ -6860,22 +6996,10 @@
       "publishedAt": "Sat, 17 Oct 2026 01:04:53 GMT"
     },
     {
-      "title": "[박근종 칼럼] 과열에 편승하고 공포에 무기력한 증시, 원칙 훼손이 부른 참사이자 혹독한 대가",
-      "source": "더쎈뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YZFh3Q0ZUY19nMlNCMFJKaVRRVUdWNFZzTGw5V1BjUVhnOEttLU50SDhJTUNzaW1ZQlI1aDBBc093TXlUS2JvUHVWVXgyakp5aTcyZFYyU080VUdEdGI1ZjRnb3B4cnBO?oc=5",
-      "publishedAt": "Sat, 17 Oct 2026 12:17:09 GMT"
-    },
-    {
       "title": "유승민 전 의원, “증시 패닉은 인위적 부양 탓… 이재명 정부 책임”",
       "source": "브레이크뉴스",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1yeF8xa09KTVU0bi1QUlBfa2xmTWFuNXJ3Q1BQTkJUUmZOMDFZRDBFS2RyallFX2xhbEZNRi1OZW9QZw?oc=5",
       "publishedAt": "Sat, 17 Oct 2026 01:41:31 GMT"
-    },
-    {
-      "title": "한은 '매 발톱'에 외인 대탈출…대만 3.4% 빠질 때 코스피 7.6% 뚝 - 머니투데이",
-      "source": "머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDV0tzZnAwaktRdHA1VWpUQUUwdTBMWXduRGVxSXFLWHlQd1BsY25LYmN5M2JMY0VRS29qTEdJcWhHWXVHNlBQMWhvaVUxdXpZVjJ1c3ZIZmtkZ3FoRmRaX2NXSEVJMFBlWHZ3OE9n0gFuQVVfeXFMUENXS3NmcDBqS1F0cDVValRBRTB1MExZd25EZXFJcUtYeVB3UGxjbktiY3kzYkxjRVFLb2pMR0lxaEdZdUc2UFAxaG9pVTF1ellWMnVzdkhma2RncWhGZFpfY1dIRUkwUGVYdnc4T2c?oc=5",
-      "publishedAt": "Sat, 17 Oct 2026 00:30:00 GMT"
     }
   ],
   "summary": {
