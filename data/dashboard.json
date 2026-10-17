@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-17T18:05:21.792934+09:00",
-  "updatedLabel": "2026-10-17 18:05:21 KST",
+  "updatedAt": "2026-10-17T22:06:40.266674+09:00",
+  "updatedLabel": "2026-10-17 22:06:40 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -2711,7 +2711,7 @@
       ],
       "marketState": "UNKNOWN",
       "marketTime": "2026-10-17 12:30 KST",
-      "marketTimestamp": 1792207832
+      "marketTimestamp": 1792207850
     },
     {
       "id": "us10y",
@@ -4721,10 +4721,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 81606.1,
+      "price": 81458.83,
       "previousClose": 81501.61,
-      "change": 104.49,
-      "changePercent": 0.1282,
+      "change": -42.78,
+      "changePercent": -0.0525,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -5165,13 +5165,209 @@
           81603.34375
         ],
         [
-          1792227920000,
-          81606.101562
+          1792227900000,
+          81616.5
+        ],
+        [
+          1792228200000,
+          81592.992188
+        ],
+        [
+          1792228500000,
+          81605.179688
+        ],
+        [
+          1792228800000,
+          81597.476562
+        ],
+        [
+          1792229100000,
+          81548.03125
+        ],
+        [
+          1792229400000,
+          81555.0
+        ],
+        [
+          1792229700000,
+          81555.0
+        ],
+        [
+          1792230000000,
+          81572.953125
+        ],
+        [
+          1792230300000,
+          81580.96875
+        ],
+        [
+          1792230600000,
+          81618.289062
+        ],
+        [
+          1792230900000,
+          81486.023438
+        ],
+        [
+          1792231200000,
+          81488.976562
+        ],
+        [
+          1792231500000,
+          81489.75
+        ],
+        [
+          1792231800000,
+          81466.671875
+        ],
+        [
+          1792232100000,
+          81499.992188
+        ],
+        [
+          1792232400000,
+          81478.273438
+        ],
+        [
+          1792232700000,
+          81532.53125
+        ],
+        [
+          1792233000000,
+          81527.9375
+        ],
+        [
+          1792233300000,
+          81523.992188
+        ],
+        [
+          1792233600000,
+          81523.890625
+        ],
+        [
+          1792233900000,
+          81556.023438
+        ],
+        [
+          1792234200000,
+          81551.671875
+        ],
+        [
+          1792234500000,
+          81522.5
+        ],
+        [
+          1792234800000,
+          81533.296875
+        ],
+        [
+          1792235100000,
+          81532.257812
+        ],
+        [
+          1792235400000,
+          81529.28125
+        ],
+        [
+          1792235700000,
+          81467.90625
+        ],
+        [
+          1792236000000,
+          81465.203125
+        ],
+        [
+          1792236300000,
+          81445.203125
+        ],
+        [
+          1792236600000,
+          81460.507812
+        ],
+        [
+          1792236900000,
+          81470.328125
+        ],
+        [
+          1792237200000,
+          81471.679688
+        ],
+        [
+          1792237500000,
+          81474.601562
+        ],
+        [
+          1792237800000,
+          81471.210938
+        ],
+        [
+          1792238100000,
+          81458.109375
+        ],
+        [
+          1792238400000,
+          81473.882812
+        ],
+        [
+          1792238700000,
+          81433.140625
+        ],
+        [
+          1792239000000,
+          81433.632812
+        ],
+        [
+          1792239300000,
+          81423.601562
+        ],
+        [
+          1792239600000,
+          81422.460938
+        ],
+        [
+          1792239900000,
+          81429.96875
+        ],
+        [
+          1792240200000,
+          81469.601562
+        ],
+        [
+          1792240500000,
+          81387.257812
+        ],
+        [
+          1792240800000,
+          81412.109375
+        ],
+        [
+          1792241100000,
+          81378.4375
+        ],
+        [
+          1792241400000,
+          81391.703125
+        ],
+        [
+          1792241700000,
+          81408.28125
+        ],
+        [
+          1792242000000,
+          81454.976562
+        ],
+        [
+          1792242300000,
+          81458.828125
+        ],
+        [
+          1792242394000,
+          81458.828125
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-10-17 18:05 KST",
-      "marketTimestamp": 1792227920
+      "marketTime": "2026-10-17 22:06 KST",
+      "marketTimestamp": 1792242394
     }
   ],
   "mainCharts": [
@@ -6470,6 +6666,12 @@
   ],
   "headlines": [
     {
+      "title": "[기획특집. 코리아 디스카운트③] 한국 증시에 잠자는 저평가주 몇 개나 되나…대주주 지배·거래절벽·PBR 1배 미만의 삼중구조",
+      "source": "르몽드디플로마티크",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NcS1zUFJ2b0g3NHpGa1JzNHg2R1BBUW5KWXBnMHVCUmVPbEpxemcwQTlMa3FvcUlvTk5sX2hXRjJ4a1VLX0QzV3dCSXQzNjRJMGprMWk0UndqUlU4eVRjTXJKd1Y0U05iZ1HSAW5BVV95cUxOQkMyWm92UThMQkJmbTRtSjNqc3ZlLUg4cUZIRmpHYUlMemJrc2pXWURjajdNcDlOMFdROVpjWkdfeVZnTmMzLVQzak11Vk0xblNyZFNGV3l1Y0ZCemk0V3FZaDNGbTRSMEZZUHZUQQ?oc=5",
+      "publishedAt": "Sat, 17 Oct 2026 09:11:00 GMT"
+    },
+    {
       "title": "미국이 쏜 충격, 한국 증시에서 유독 크게 터졌다",
       "source": "투데이e코노믹",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12RnlKMWVmeW1IOERPc3FkdHh0M2Z2WEVtZ2xfNGhFZ3pFOWVLT0FDQWZHU1l0T2hXcHdjaDFwLUZZcDVZUkNHTmZRcm1xb2pscXZQSVN3VEVPSFd0UW1Od01aNU1FMWM?oc=5",
@@ -6482,16 +6684,16 @@
       "publishedAt": "Sat, 17 Oct 2026 01:04:53 GMT"
     },
     {
-      "title": "유승민 전 의원, “증시 패닉은 인위적 부양 탓… 이재명 정부 책임”",
-      "source": "브레이크뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1yeF8xa09KTVU0bi1QUlBfa2xmTWFuNXJ3Q1BQTkJUUmZOMDFZRDBFS2RyallFX2xhbEZNRi1OZW9QZw?oc=5",
-      "publishedAt": "Sat, 17 Oct 2026 01:41:31 GMT"
-    },
-    {
       "title": "증시 폭락, 소 잃고 외양간 고치는 금융당국 … 기업은 1류, 금융당국은 3류, 집권세력은 5류",
       "source": "뉴데일리",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jY3hUbWI1eHB4OHhMNkJIQTFsc3B4cS1rX0tlTU00ajVNYURfeTNaV0kycmhQbVRTQzlrdDZTSXBybXA4bjFhaERTM3dRM0FxMV91Sk8ycjJZNnlzVmdaUGJNTkxxeTJIcng4ekFiUFRxT2tQUUMwSjN1RdIBgAFBVV95cUxQZ1M2V3lUeG5KOTcwY0gzSVdQVmJOSm1WWVcxZlk0b2VfOWF3Rl9DaWVQTVh4ZnZGcXZjcElydlVia29kamlDc1V4VnNLMC1nN1hMM2RBdGVlYnFFTE95OWpjUzduME1BbnlLeXBqd2V6Z0dkOVdjM2tsNVJhVVdETw?oc=5",
       "publishedAt": "Sat, 17 Oct 2026 03:08:44 GMT"
+    },
+    {
+      "title": "유승민 전 의원, “증시 패닉은 인위적 부양 탓… 이재명 정부 책임”",
+      "source": "브레이크뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1yeF8xa09KTVU0bi1QUlBfa2xmTWFuNXJ3Q1BQTkJUUmZOMDFZRDBFS2RyallFX2xhbEZNRi1OZW9QZw?oc=5",
+      "publishedAt": "Sat, 17 Oct 2026 01:41:31 GMT"
     },
     {
       "title": "한은 '매 발톱'에 외인 대탈출…대만 3.4% 빠질 때 코스피 7.6% 뚝 - 머니투데이",
@@ -6510,12 +6712,6 @@
       "source": "에너지경제신문",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VMTZXQmU2M3pKU0QxYVU5dV8yN0RWZVhycGdJWTZ1MEJJN21kSzlSYUI2dTVIQTRMNmt0Z0l3WEdQaGhJX29lTEQteEV6VHRmdENvckpveWp5Nkk?oc=5",
       "publishedAt": "Sat, 17 Oct 2026 04:02:55 GMT"
-    },
-    {
-      "title": "국내 증시 조정받자… 해외 코인 선물 '큰손'들, 90% 이상 \"반등에 올인\"",
-      "source": "www.ebn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBldThDOFdDM0ctNUlkdmxISUFySVNqVllSd3NQN3A1OWs1S3dKQ245V0I2M0QxaDl1SjMyVGxacmpHWERzX1Bqc2w2V0NJMFYwRmZLSkdJdkM0alJqWHpxcnZyekVFSXNp?oc=5",
-      "publishedAt": "Sat, 17 Oct 2026 03:30:00 GMT"
     }
   ],
   "summary": {
