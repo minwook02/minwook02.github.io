@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-18T22:05:19.451044+09:00",
-  "updatedLabel": "2026-10-18 22:05:19 KST",
+  "updatedAt": "2026-10-19T01:44:21.122740+09:00",
+  "updatedLabel": "2026-10-19 01:44:21 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1329.6,
+      "price": 1334.2,
       "previousClose": 1341.19,
-      "change": -11.59,
-      "changePercent": -0.8642,
+      "change": -6.99,
+      "changePercent": -0.5212,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -2710,8 +2710,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-10-18 12:30 KST",
-      "marketTimestamp": 1792294230
+      "marketTime": "2026-10-19 00:47 KST",
+      "marketTimestamp": 1792338455
     },
     {
       "id": "us10y",
@@ -3095,12 +3095,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 81871.94,
+      "price": 81023.68,
       "previousClose": 81383.29,
-      "change": 488.65,
-      "changePercent": 0.6004,
-      "tone": "up",
-      "direction": "상승",
+      "change": -359.61,
+      "changePercent": -0.4419,
+      "tone": "down",
+      "direction": "하락",
       "series": [
         [
           1792281600000,
@@ -3731,13 +3731,189 @@
           81854.210938
         ],
         [
-          1792328716000,
-          81871.9375
+          1792328700000,
+          81841.367188
+        ],
+        [
+          1792329000000,
+          81804.71875
+        ],
+        [
+          1792329300000,
+          81836.210938
+        ],
+        [
+          1792329600000,
+          81701.046875
+        ],
+        [
+          1792329900000,
+          81461.851562
+        ],
+        [
+          1792330200000,
+          81253.398438
+        ],
+        [
+          1792330500000,
+          81338.632812
+        ],
+        [
+          1792330800000,
+          81337.671875
+        ],
+        [
+          1792331100000,
+          81416.242188
+        ],
+        [
+          1792331400000,
+          81376.757812
+        ],
+        [
+          1792331700000,
+          81431.84375
+        ],
+        [
+          1792332000000,
+          81177.171875
+        ],
+        [
+          1792332300000,
+          81302.9375
+        ],
+        [
+          1792332600000,
+          81147.851562
+        ],
+        [
+          1792332900000,
+          81218.289062
+        ],
+        [
+          1792333200000,
+          81305.25
+        ],
+        [
+          1792333500000,
+          81171.257812
+        ],
+        [
+          1792333800000,
+          81065.632812
+        ],
+        [
+          1792334100000,
+          81052.53125
+        ],
+        [
+          1792334400000,
+          81036.679688
+        ],
+        [
+          1792334700000,
+          81010.46875
+        ],
+        [
+          1792335000000,
+          80991.242188
+        ],
+        [
+          1792335300000,
+          81003.0625
+        ],
+        [
+          1792335600000,
+          81116.0
+        ],
+        [
+          1792335900000,
+          81090.976562
+        ],
+        [
+          1792336200000,
+          81058.09375
+        ],
+        [
+          1792336500000,
+          81093.523438
+        ],
+        [
+          1792336800000,
+          81112.4375
+        ],
+        [
+          1792337100000,
+          81060.007812
+        ],
+        [
+          1792337400000,
+          81034.578125
+        ],
+        [
+          1792337700000,
+          80962.5
+        ],
+        [
+          1792338000000,
+          80945.210938
+        ],
+        [
+          1792338300000,
+          81048.59375
+        ],
+        [
+          1792338600000,
+          81027.867188
+        ],
+        [
+          1792338900000,
+          81074.179688
+        ],
+        [
+          1792339200000,
+          81018.226562
+        ],
+        [
+          1792339500000,
+          81008.257812
+        ],
+        [
+          1792339800000,
+          81072.46875
+        ],
+        [
+          1792340100000,
+          81031.023438
+        ],
+        [
+          1792340400000,
+          81111.0
+        ],
+        [
+          1792340700000,
+          81025.65625
+        ],
+        [
+          1792341000000,
+          81093.84375
+        ],
+        [
+          1792341300000,
+          80970.1875
+        ],
+        [
+          1792341600000,
+          81048.921875
+        ],
+        [
+          1792341856000,
+          81023.679688
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-10-18 22:05 KST",
-      "marketTimestamp": 1792328716
+      "marketTime": "2026-10-19 01:44 KST",
+      "marketTimestamp": 1792341856
     }
   ],
   "mainCharts": [
@@ -5042,16 +5218,10 @@
       "publishedAt": "Sun, 18 Oct 2026 10:44:36 GMT"
     },
     {
-      "title": "미 기술주 폭락에 '먹구름'…내일 한국 증시는?",
-      "source": "SBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb1VqSU1XNW4tZTRmZlpvdzA2VEdOOUc1bUZOcWI0bEF4ay1kMWtwbG9ybTYzWUZ3bFdvYVVhajVKUFVpWFFkTGV1NWRnSmVDUUZvYjNmZFRGNUhOeXJfZlFGa3djWkdnQUxIUTZNNnoyTVRoRUxlNGNSVHM1SW5GcG5neWhuOFh5YUwzWFV5dkt4QWPSAWZBVV95cUxQTnlUT0xpTUkxcU0tRkpKaG1vMjk1dmNzSnRnaWVvZThycFA5aG1yZTBrUi01NHh6emF5VjdHZTdPQUVDNkJ5Y2NvUGZSZjVSdHF3OE9pOUtrX2hpb3duWFRVeTdISUE?oc=5",
-      "publishedAt": "Sun, 18 Oct 2026 11:24:05 GMT"
-    },
-    {
-      "title": "[외환-주간] 증시, 외국인 그리고 금통위…연저점 이후 어디로 |",
-      "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hMU9JaURYdXgyZmdzdFdqUjkzRGp0RFZfX0NKZkFaSUNaRDNWX1BZNTF1WHRQRTFocVJsRXdNSkpFRmt3bXo4cG1Rd3NIeWtvU2dSMWI1R29YTjREQW5ld0o0X293aktBRVozdVBraUhJMElo?oc=5",
-      "publishedAt": "Sun, 18 Oct 2026 06:05:37 GMT"
+      "title": "[주간증시전망] \"폭락장에 주식 팔지 마라\"…코스피 반등 이끌 ’세 가지 변수’는 By EBN",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nYVlOaEx1TE45VDFTczRINS1GWU1BQlBqYzNGMVl1WmRlQ2xUazlRaDdYVDVXUm5UTk9yRDQ0X1JtMktIT3hwZ21xeW1kVDZiRU1zZjVaaWxuYUtWN1hJdjdFN1hLeTk1ZGF4RkRTRzc?oc=5",
+      "publishedAt": "Sun, 18 Oct 2026 03:41:00 GMT"
     },
     {
       "title": "국내 증시 폭락에 국민연금 ‘휘청’…3분기 182조 손실",
@@ -5060,28 +5230,34 @@
       "publishedAt": "Sun, 18 Oct 2026 12:14:00 GMT"
     },
     {
-      "title": "[주간증시전망] \"폭락장에 주식 팔지 마라\"…코스피 반등 이끌 ’세 가지 변수’는 By EBN",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nYVlOaEx1TE45VDFTczRINS1GWU1BQlBqYzNGMVl1WmRlQ2xUazlRaDdYVDVXUm5UTk9yRDQ0X1JtMktIT3hwZ21xeW1kVDZiRU1zZjVaaWxuYUtWN1hJdjdFN1hLeTk1ZGF4RkRTRzc?oc=5",
-      "publishedAt": "Sun, 18 Oct 2026 03:41:00 GMT"
+      "title": "美증시로 피난간 개미 '울상'",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CVmRXUGEtSzUyUXh0bVhJNkY0QmtiYnFDbW1OaVlqdjAyVlpWeGdNQnBOVHk2QXR6bGY1TDhUQWdZX1ZBX3NBVGhwT1paU3dKNUE?oc=5",
+      "publishedAt": "Sun, 18 Oct 2026 08:19:42 GMT"
     },
     {
-      "title": "\"국장은 난이도 너무 높아…안전한 미국 지수 ETF 집중해야\"",
+      "title": "[외환-주간] 증시, 외국인 그리고 금통위…연저점 이후 어디로 |",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hMU9JaURYdXgyZmdzdFdqUjkzRGp0RFZfX0NKZkFaSUNaRDNWX1BZNTF1WHRQRTFocVJsRXdNSkpFRmt3bXo4cG1Rd3NIeWtvU2dSMWI1R29YTjREQW5ld0o0X293aktBRVozdVBraUhJMElo?oc=5",
+      "publishedAt": "Sun, 18 Oct 2026 06:05:37 GMT"
+    },
+    {
+      "title": "미 기술주 폭락에 '먹구름'…내일 한국 증시는?",
+      "source": "SBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb1VqSU1XNW4tZTRmZlpvdzA2VEdOOUc1bUZOcWI0bEF4ay1kMWtwbG9ybTYzWUZ3bFdvYVVhajVKUFVpWFFkTGV1NWRnSmVDUUZvYjNmZFRGNUhOeXJfZlFGa3djWkdnQUxIUTZNNnoyTVRoRUxlNGNSVHM1SW5GcG5neWhuOFh5YUwzWFV5dkt4QWPSAWZBVV95cUxQTnlUT0xpTUkxcU0tRkpKaG1vMjk1dmNzSnRnaWVvZThycFA5aG1yZTBrUi01NHh6emF5VjdHZTdPQUVDNkJ5Y2NvUGZSZjVSdHF3OE9pOUtrX2hpb3duWFRVeTdISUE?oc=5",
+      "publishedAt": "Sun, 18 Oct 2026 11:24:05 GMT"
+    },
+    {
+      "title": "국제유가 105달러, 오늘 미국증시에서 유가·금리·기술주를 함께 봐야 하는 이유",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVVRrTkRGZEtncnBUX0tjNXVHVlNlRnpSRVZfMWdOTW1jYzFaMW11anNUbnAzZTZ3Y3l5a0ZXV1NUYVNDVFBpbl9sNFBXdm02QmVTSUVuOHoxYlRlMzRJbHFiTTQ0bHg3cHVZUzZiRFptYjVqbXZfU2VmRnNVVHNabGJqMm1HYzhEcXhkTzhPSXQ?oc=5",
+      "publishedAt": "Sun, 18 Oct 2026 13:13:51 GMT"
+    },
+    {
+      "title": "\"금리·주가, 함께 떨어지면 최악 신호\"…국내 증시 반등 5가지 조건은",
       "source": "뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oQ056QVNQWW1NdGhIUGc1cTRoNDJHcnpzX0JYdlBmNGl2clh4NjJBWWRPRy1wSEZLWTZlYTR2WFNRR1poc0VBaFdWbHg1cUI2YThCaGxqRGx3U0xxWm9UeGRiYmhFOW5kY3RwUl8wcFN3bVVsTXpoVNIBeEFVX3lxTE5oQ056QVNQWW1NdGhIUGc1cTRoNDJHcnpzX0JYdlBmNGl2clh4NjJBWWRPRy1wSEZLWTZlYTR2WFNRR1poc0VBaFdWbHg1cUI2YThCaGxqRGx3U0xxWm9UeGRiYmhFOW5kY3RwUl8wcFN3bVVsTXpoVA?oc=5",
-      "publishedAt": "Sun, 18 Oct 2026 09:10:00 GMT"
-    },
-    {
-      "title": "신현송 ‘호미’ 정책 통했나? 선진국 장기금리 뛸 때 한국은 하락",
-      "source": "중앙일보",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rUEI5WV9zeUI4d1Q4U2x2QXpIYWxOM043cjN6eUZIR2VBLVQ5U3VFcTJQT1VaUlRkdU9jdWxSY1djRzhDYmg2bjR5RURjUGJhLUNFYTdR?oc=5",
-      "publishedAt": "Sat, 17 Oct 2026 22:00:00 GMT"
-    },
-    {
-      "title": "국내 증시 주춤하자…美 주식으로 눈돌리는 증권사들",
-      "source": "글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDQ3RTNtVVdKbXYtZVVyRTR1TDVocXNDUHdBLTJ0dDVGbXZFNFh3OTBrV1RzR0s5LVBDTE9Nd25lczZpMXZJdW54UnFicWNFSWRVU0tfcWtBdENwVVYwV00zTWp0d1A1SDVjSGVqU3d6aGdxaVlJSC1pOHhFWVU2czZwMGtDYWdR?oc=5",
-      "publishedAt": "Sun, 18 Oct 2026 03:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sN3RWVDB5NVZWOHc3WWtITWNzU2FzM1pLcWl0emNEekp1eWJPZUdSdzlLQmNCejdBQ0NQTnlCYk1OUkxseWhPUjdIcjdnYUdNcjNCbmpqWEFkRHNWb3BubdIBeEFVX3lxTE5CeDJzd2hSbXdmRkxOdzRoOWQ4Y19pUGZDMzNjVTUxSTBvbHdzbVBqQ1pFNm9LWTE1Q2NHeHJsaVlGTWxFNDlDZWVrUV8xd2VBdVlpc01aQ2FBSThUZGlpMHBrWUN0RUczSXk5N1VLeGRfbTFJaGdwMg?oc=5",
+      "publishedAt": "Sun, 18 Oct 2026 15:00:00 GMT"
     }
   ],
   "summary": {
@@ -5093,13 +5269,13 @@
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 상승 흐름입니다.",
       "해외는 S&P 500 -1.09%, NASDAQ -2.15%로 확인됩니다.",
-      "매크로 변수는 USD/KRW -0.86%, 미 10년물 +0.18%입니다."
+      "매크로 변수는 USD/KRW -0.52%, 미 10년물 +0.18%입니다."
     ],
     "checkpoints": [
       "KOSPI +2.05% 상승",
       "KOSDAQ +4.46% 상승",
       "미국 증시 하락 / 나스닥 -2.15%",
-      "원달러 -0.86% (-11.59)",
+      "원달러 -0.52% (-6.99)",
       "미 10년물 +0.009p (+0.18%)"
     ],
     "leaders": [
@@ -5132,7 +5308,7 @@
       },
       {
         "label": "USD/KRW",
-        "changePercent": -0.8642,
+        "changePercent": -0.5212,
         "direction": "하락"
       }
     ]
