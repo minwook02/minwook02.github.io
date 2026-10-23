@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-24T06:12:06.395814+09:00",
-  "updatedLabel": "2026-10-24 06:12:06 KST",
+  "updatedAt": "2026-10-24T08:56:02.179204+09:00",
+  "updatedLabel": "2026-10-24 08:56:02 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1296,8 +1296,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-10-24 06:12 KST",
-      "marketTimestamp": 1792789924
+      "marketTime": "2026-10-24 06:15 KST",
+      "marketTimestamp": 1792790159
     },
     {
       "id": "dow",
@@ -2702,16 +2702,16 @@
         ],
         [
           1792788900000,
-          1324.359985
+          1323.660034
         ],
         [
-          1792789196000,
+          1792790700000,
           1323.660034
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-10-24 05:59 KST",
-      "marketTimestamp": 1792789196
+      "marketTime": "2026-10-24 06:29 KST",
+      "marketTimestamp": 1792790945
     },
     {
       "id": "us10y",
@@ -4719,7 +4719,7 @@
         ],
         [
           1792788900000,
-          4009.399902
+          4010.0
         ],
         [
           1792789198000,
@@ -4737,12 +4737,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 81334.18,
+      "price": 81067.66,
       "previousClose": 81316.2,
-      "change": 17.98,
-      "changePercent": 0.0221,
-      "tone": "flat",
-      "direction": "보합",
+      "change": -248.54,
+      "changePercent": -0.3056,
+      "tone": "down",
+      "direction": "하락",
       "series": [
         [
           1792713600000,
@@ -5762,16 +5762,144 @@
         ],
         [
           1792789800000,
-          81334.179688
+          81331.25
         ],
         [
-          1792789921000,
-          81334.179688
+          1792790100000,
+          81340.40625
+        ],
+        [
+          1792790400000,
+          81350.0
+        ],
+        [
+          1792790700000,
+          81296.320312
+        ],
+        [
+          1792791000000,
+          81291.84375
+        ],
+        [
+          1792791300000,
+          81298.9375
+        ],
+        [
+          1792791600000,
+          81254.53125
+        ],
+        [
+          1792791900000,
+          81231.679688
+        ],
+        [
+          1792792200000,
+          81225.273438
+        ],
+        [
+          1792792500000,
+          81280.390625
+        ],
+        [
+          1792792800000,
+          81300.320312
+        ],
+        [
+          1792793100000,
+          81233.742188
+        ],
+        [
+          1792793400000,
+          81234.289062
+        ],
+        [
+          1792793700000,
+          81292.382812
+        ],
+        [
+          1792794000000,
+          81216.710938
+        ],
+        [
+          1792794300000,
+          81235.46875
+        ],
+        [
+          1792794600000,
+          81083.601562
+        ],
+        [
+          1792794900000,
+          81038.351562
+        ],
+        [
+          1792795200000,
+          81000.007812
+        ],
+        [
+          1792795500000,
+          80853.828125
+        ],
+        [
+          1792795800000,
+          80577.382812
+        ],
+        [
+          1792796100000,
+          80734.796875
+        ],
+        [
+          1792796400000,
+          80839.367188
+        ],
+        [
+          1792796700000,
+          80608.101562
+        ],
+        [
+          1792797000000,
+          80562.226562
+        ],
+        [
+          1792797300000,
+          80816.820312
+        ],
+        [
+          1792797600000,
+          80849.632812
+        ],
+        [
+          1792797900000,
+          80842.140625
+        ],
+        [
+          1792798200000,
+          80850.53125
+        ],
+        [
+          1792798500000,
+          80843.726562
+        ],
+        [
+          1792798800000,
+          80845.78125
+        ],
+        [
+          1792799100000,
+          81094.09375
+        ],
+        [
+          1792799400000,
+          81084.210938
+        ],
+        [
+          1792799756000,
+          81067.65625
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-10-24 06:12 KST",
-      "marketTimestamp": 1792789921
+      "marketTime": "2026-10-24 08:55 KST",
+      "marketTimestamp": 1792799756
     }
   ],
   "mainCharts": [
@@ -7064,16 +7192,34 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-10-24 06:12 KST",
-      "marketTimestamp": 1792789924
+      "marketTime": "2026-10-24 06:15 KST",
+      "marketTimestamp": 1792790159
     }
   ],
   "headlines": [
     {
-      "title": "“미국 주식으로 벌긴 벌었는데”…환율에 수익 깎인 서학개미",
+      "title": "\"국내 증시 급락은 적정 가격 찾는 과정…AI 버블 증거 부족\"",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LZlUzTXo4SE92MnBuQ3U5RndjZjVpUlV2VTZUbEFCQzlHZ1k1QlZQaWtyejAzT3NCUGdtTF9uU0RCS1BGSzQ1NEsxc3Nyek9yT294Um9qWHhJLVRKOGFYaUY0V05jZXk0Zlg1UTFhTFM?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 22:02:06 GMT"
+    },
+    {
+      "title": "실적 좋은데도 미장보다 더 크게 빠지는 국장…전문가 원인 분석은",
       "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SbjB1ckhjQThLNjFnandpWlpwT0E0cmI2Q2ZVeExmSlBrMDg4dFVVclZHZ09UTVpyUDBNWm12Sncyb2lucEpPTHFkUzhYN19QNlE?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 07:05:09 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sNmpSbS1XMFNVN1ZkUFJhTjZUZkV1TVNkdHlYdWR1a20tUzd6UzRjY2JzSVZhSHdCNVZmWTU2VnpYaHVycktCdEFMQ1ltRWpjZXc?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 21:47:06 GMT"
+    },
+    {
+      "title": "美 중간선거 앞두고 월가 ‘민주당 승리’ 포트폴리오 구성…韓 증시도 영향",
+      "source": "www.ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13UVZMeVJlUVhLNlJFZ0FHWGlfSWVoZTJwSmlwemMtZ1M2aXJxZFg4LWNsQ3g2c1h3Sm5kTFNYbDFjWjdUcnMxaGh2OXhqUDlPSWo0dlRtb2g1ZDdBTnMxTERfb01JbHRk?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 21:30:00 GMT"
+    },
+    {
+      "title": "[증시 리스크 관리-中] 금리 인상에 자산시장 위축 공포···종목 선별 기준은",
+      "source": "시사저널e",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LZnMwa0NDaGZIaHRXY0lrTVVKVnRnZ0pmbG5CYjlwYnlseXViTHgwaEVTc0x4aVQ0LWktbkFNM1F4ZGFoMjBiYUh3c1o4dDBhSnFFMjJITzhGYjhQbkZTOW9jazVmbjU2eF9Qb3VrT0dCcllrcHfSAXZBVV95cUxNS2ZzMGtDQ2hmSGh0V2NJa01VSlZ0Z2dKZmxuQmI5cGJ5bHl1Ykx4MGhFU3NMeGlUNC1pLW5BTTNReGRhaDIwYmFId3NaOHQwYUpxRTIySE84RmI4UG5GUzlvY2s1Zm41NnhfUG91a09HQnJZa3B3?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 10:24:21 GMT"
     },
     {
       "title": "\"美보다 더 빠진 국장\"…실적 두 배인데 주가 왜 이러나",
@@ -7082,47 +7228,29 @@
       "publishedAt": "Fri, 23 Oct 2026 15:16:24 GMT"
     },
     {
+      "title": "롤러코스피에 美 증시 향하는 서학개미···순매수액 전월 대비 4배 이상 늘어 By 투데이코리아",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02dTRCY3FvOGotSlkxdEFncDdwYlBzQUJLaVZ6eE1BR3RadmlZajE5SzZ3eUJRa3VZM0tBVlJoeEVSN2hOTTJ2U2NMVTVYRnQwOGNsZXJRMC1rS25QZ0w0YzFMZUFqdG5tMUpPd3hVVjM?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 03:07:14 GMT"
+    },
+    {
       "title": "대통령의 '증시 자신감', 참을 수 없는 '오만과 편견'",
       "source": "뉴데일리",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41N080cE9FZTJWTG9LY21CQzR5eU1PanpNaTAzaExsQUlYTWxHaHcyd0ZKMWd0ZW05UGxMWXFETUR0YkVKQXFyUmxTVVdCVlhBYVF6Vk4yMnRyT0dVb1pJLVBZV2tuYVcxdFNuYmtFRG1KQ3ZEakhXNXMxRdIBgAFBVV95cUxNay1md0FOZkRLX1dPa2RkOUVSQ0c1akFVZWJvUng5QlJhYlBQbHZ3NThwSnJwcUtld1I1NmJJVnRSellRU3VwSWtsU2VxQzFSd3hnSFJNUUhrQXNQUTc0YWtBNFVBTGxTNkVzbXpqSUtuUVhqY2NUMmZNWmo1X3pweg?oc=5",
       "publishedAt": "Fri, 23 Oct 2026 06:37:00 GMT"
     },
     {
-      "title": "[마켓뷰] 美증시 하락·유가 상승…코스피 또 내리나",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91cGNDZFNwcDlNeEs0dVNLbW02ZlFWbzBBc1A4QmJqc29JOUF2SllfNG41RGwzbm5FMU8wNGFVTkpqTDNkWms4UzlhQlMxVkJfWHBhNENCanUwN3fSAWBBVV95cUxQZVRFYldqcUtDRkcteExxVnM2a05YYjZyWXFlVmt0NVZlNElIVERMNEdhZ2g2NDgyTVU2d2w0ZVJ6WlNzbGJNdGtaSTBhMTlwRzNkTDJFRXMzdGpldXhoSkI?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 23:25:56 GMT"
-    },
-    {
-      "title": "AI 충격에 한국·일본 증시 급락…아시아 전반 하락세",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2Wnp6anp0TThTaE9SbWRfTDZnZ29nT1psWkxZNXlFUVFRLXNBWmlDQWZLLVl4ZWVjdFhCaWRUNi1NRi1EYTAyeDNFbE52M18wUkFJTTZDajFMblRQY25uYmJkVU5pUTNScEdYUE5fQmg?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 03:25:00 GMT"
-    },
-    {
-      "title": "[증시 리스크 관리-中] 금리 인상에 자산시장 위축 공포···종목 선별 기준은",
-      "source": "시사저널e",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RS0QxbGhNa0dxTENTa1ZxUkVUY3FNY2h0b1RSWEt4MWtUVk00VUNseFQ5V2xtWUdYc2VwVDlSWDNQUy1mRzFZbHV2d3hZQlFHZGNyNVljSkVoeUN6QlNqVERuUXk4eF9rdjl2V2tlQ0pzd9IBdkFVX3lxTE1LZnMwa0NDaGZIaHRXY0lrTVVKVnRnZ0pmbG5CYjlwYnlseXViTHgwaEVTc0x4aVQ0LWktbkFNM1F4ZGFoMjBiYUh3c1o4dDBhSnFFMjJITzhGYjhQbkZTOW9jazVmbjU2eF9Qb3VrT0dCcllrcHc?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 06:10:02 GMT"
-    },
-    {
-      "title": "\"인니 증시 반값 됐다\"...상반기 1위서 '최저가' 된 코스피 바닥 논쟁",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oWWg4THFDZnFRaFJOYkRFam9qMWdCeTlucENCTFhkaFJ5N2dZeDltUXVVcV9fQjQzYWJrNVpqX00yc0M4aEFtQy03UlU4WGdIdV9xYlM0VFRzdw?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 07:43:36 GMT"
-    },
-    {
-      "title": "코스피 거래대금·예탁금 바닥권…개미 자금은 다시 美증시로",
-      "source": "아시아투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nOHZVRXlVcS1XUmExbTJBcmc3bndfQ3ZCVnJya2JKdzd3eW5Ka21ra0J4RVNIUHowc2theU5IWV9pYjdlZ2t2XzQzejZZRDVra0ZIbS1GX1ViUlJhQV9lM0t3cU9zUmZNaUV2akVn?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 08:08:28 GMT"
+      "title": "미국증시 다우 652포인트 급락…유가 급등에도 반도체 반등, SK하이닉스 ADR 4% 상승",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE95bVJVbTQxclJEd1c2a1Z5eXItTnRUM1A5b0FMcEFEbm4yN05Sdkk0Y0hwZ1BJUXQzbmVySDlZdGVxOGFaQ2JiRlRHc0lWNWZSTm1HcWgydkZRVzZOd21YVF8xRkczNjVYU1ZBMW80WWJpUQ?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 23:13:57 GMT"
     }
   ],
   "summary": {
     "signal": {
-      "label": "Risk-On",
-      "tone": "up",
-      "message": "주식과 위험자산 강세가 우세합니다."
+      "label": "Mixed",
+      "tone": "flat",
+      "message": "국내외 자산이 같은 방향으로 움직이지 않는 혼조장입니다."
     },
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 하락 흐름입니다.",
@@ -7148,8 +7276,8 @@
         "direction": "상승"
       },
       {
-        "label": "Bitcoin",
-        "changePercent": 0.0221,
+        "label": "USD/KRW",
+        "changePercent": -0.1313,
         "direction": "보합"
       }
     ],
