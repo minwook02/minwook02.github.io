@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-26T03:15:33.770019+09:00",
-  "updatedLabel": "2026-10-26 03:15:33 KST",
+  "updatedAt": "2026-10-26T06:07:25.792801+09:00",
+  "updatedLabel": "2026-10-26 06:07:25 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1641,10 +1641,10 @@
       "group": "거시 자산",
       "kind": "fx",
       "decimals": 2,
-      "price": 1323.66,
+      "price": 1323.61,
       "previousClose": 1325.4,
-      "change": -1.74,
-      "changePercent": -0.1313,
+      "change": -1.79,
+      "changePercent": -0.1351,
       "tone": "flat",
       "direction": "보합",
       "series": [
@@ -2710,8 +2710,8 @@
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-10-25 22:52 KST",
-      "marketTimestamp": 1792936320
+      "marketTime": "2026-10-26 06:00 KST",
+      "marketTimestamp": 1792962015
     },
     {
       "id": "us10y",
@@ -3060,11 +3060,11 @@
       "kind": "commodity",
       "decimals": 2,
       "price": 103.27,
-      "previousClose": 99.47,
-      "change": 3.8,
-      "changePercent": 3.8202,
-      "tone": "up",
-      "direction": "상승",
+      "previousClose": 103.27,
+      "change": 0.0,
+      "changePercent": 0.0,
+      "tone": "flat",
+      "direction": "보합",
       "series": [],
       "marketState": "UNKNOWN",
       "marketTime": "2026-10-24 05:59 KST",
@@ -3078,11 +3078,11 @@
       "kind": "commodity",
       "decimals": 2,
       "price": 4007.9,
-      "previousClose": 4060.4,
-      "change": -52.5,
-      "changePercent": -1.293,
-      "tone": "down",
-      "direction": "하락",
+      "previousClose": 4007.9,
+      "change": 0.0,
+      "changePercent": 0.0,
+      "tone": "flat",
+      "direction": "보합",
       "series": [],
       "marketState": "UNKNOWN",
       "marketTime": "2026-10-24 05:59 KST",
@@ -3095,10 +3095,10 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 80591.41,
+      "price": 80383.04,
       "previousClose": 80770.71,
-      "change": -179.3,
-      "changePercent": -0.222,
+      "change": -387.67,
+      "changePercent": -0.48,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3979,13 +3979,153 @@
           80594.539062
         ],
         [
-          1792952130000,
-          80591.40625
+          1792952100000,
+          80633.953125
+        ],
+        [
+          1792952400000,
+          80587.367188
+        ],
+        [
+          1792952700000,
+          80555.5
+        ],
+        [
+          1792953000000,
+          80567.382812
+        ],
+        [
+          1792953300000,
+          80584.617188
+        ],
+        [
+          1792953600000,
+          80567.726562
+        ],
+        [
+          1792953900000,
+          80578.3125
+        ],
+        [
+          1792954200000,
+          80560.929688
+        ],
+        [
+          1792954500000,
+          80564.398438
+        ],
+        [
+          1792954800000,
+          80574.21875
+        ],
+        [
+          1792955100000,
+          80462.5625
+        ],
+        [
+          1792955400000,
+          80497.828125
+        ],
+        [
+          1792955700000,
+          80513.171875
+        ],
+        [
+          1792956000000,
+          80447.992188
+        ],
+        [
+          1792956300000,
+          80433.992188
+        ],
+        [
+          1792956600000,
+          80467.179688
+        ],
+        [
+          1792956900000,
+          80494.296875
+        ],
+        [
+          1792957200000,
+          80507.992188
+        ],
+        [
+          1792957500000,
+          80488.5
+        ],
+        [
+          1792957800000,
+          80450.007812
+        ],
+        [
+          1792958100000,
+          80455.570312
+        ],
+        [
+          1792958400000,
+          80407.789062
+        ],
+        [
+          1792958700000,
+          80463.40625
+        ],
+        [
+          1792959000000,
+          80490.75
+        ],
+        [
+          1792959300000,
+          80471.601562
+        ],
+        [
+          1792959600000,
+          80463.4375
+        ],
+        [
+          1792959900000,
+          80439.296875
+        ],
+        [
+          1792960200000,
+          80426.25
+        ],
+        [
+          1792960500000,
+          80426.257812
+        ],
+        [
+          1792960800000,
+          80371.507812
+        ],
+        [
+          1792961100000,
+          80381.976562
+        ],
+        [
+          1792961400000,
+          80360.523438
+        ],
+        [
+          1792961700000,
+          80385.960938
+        ],
+        [
+          1792962000000,
+          80353.8125
+        ],
+        [
+          1792962300000,
+          80390.703125
+        ],
+        [
+          1792962442000,
+          80383.039062
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-10-26 03:15 KST",
-      "marketTimestamp": 1792952130
+      "marketTime": "2026-10-26 06:07 KST",
+      "marketTimestamp": 1792962442
     }
   ],
   "mainCharts": [
@@ -5290,12 +5430,6 @@
       "publishedAt": "Sun, 25 Oct 2026 06:28:36 GMT"
     },
     {
-      "title": "정부 ‘코스피 8000’ 띄우기… “세계 어느 나라도 안 해”",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3pFVFNmMGtiTnQ0cFpBVXl3RHd2Q3ZVTW12NkFEMEwxb1c2eVJrMnV3QnQ5OV9tRGxvS2VkcUEtdU1OLVZQZXhEY1R1SmxibExaZHBDVVlFWGlWNU1UWFZmaDNKWW81S3huc3NEZ1B2eTA4UWZ1QkxjVWQ4MC10Q3YzN19Rdw?oc=5",
-      "publishedAt": "Sun, 25 Oct 2026 10:46:55 GMT"
-    },
-    {
       "title": "삼전닉스 빈자리 채울 종목 없다…한국 증시 발목 잡은 쏠림",
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tTGoxWTZvTDRJcmxEd1lIY1puV2VwRVg3RmlFQ3dra2RQRkZmU3cySVZZWWlSdUIxdmdKMkllOXpvYUtxVDU5Q2FVLVBleFA5RHhvWHFrYW9fQQ?oc=5",
@@ -5308,22 +5442,28 @@
       "publishedAt": "Sat, 24 Oct 2026 22:55:00 GMT"
     },
     {
-      "title": "골드만삭스, 올해 코스피 목표치 25% 하향했지만⋯\"한국 증시 여전히 매력적\"",
-      "source": "이투데이",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5RXRLLThlRTVtV2V4WkxPNHF3U29zaURieG9ERW03ZUFvNWFQS0Nyem92NHBTNkFmdkFHcXNra09VWVVRUmsyaW92Ymd4MUMxcTZONg?oc=5",
-      "publishedAt": "Sun, 25 Oct 2026 12:51:00 GMT"
-    },
-    {
       "title": "골드만, 코스피 목표 1만2천→9천…\"그래도 60% 이상 상승 여력\"",
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uQV90SXg2V3dxYXNMd2tiMWVHZ19XN0hpbzFOUnBaazN5UElwYTYyQkkyQ25iTUhVUzJjbVlGWUF4TFViTG5zQ1hETVNIT1VQVjBrb1lBYTV2d1lNY0RDWtIBYEFVX3lxTE5uQV90SXg2V3dxYXNMd2tiMWVHZ19XN0hpbzFOUnBaazN5UElwYTYyQkkyQ25iTUhVUzJjbVlGWUF4TFViTG5zQ1hETVNIT1VQVjBrb1lBYTV2d1lNY0RDWg?oc=5",
       "publishedAt": "Sun, 25 Oct 2026 11:10:21 GMT"
     },
     {
+      "title": "골드만삭스, 올해 코스피 목표치 25% 하향했지만⋯\"한국 증시 여전히 매력적\"",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5RXRLLThlRTVtV2V4WkxPNHF3U29zaURieG9ERW03ZUFvNWFQS0Nyem92NHBTNkFmdkFHcXNra09VWVVRUmsyaW92Ymd4MUMxcTZONg?oc=5",
+      "publishedAt": "Sun, 25 Oct 2026 12:51:00 GMT"
+    },
+    {
       "title": "공포가 지배한 증시, 어떻게 버틸까…\"눈 질끈 감고 룰대로 움직여라\"",
       "source": "뉴시스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11SGZhWFV3SzhlRlYyajlqVjRJa0NVNUZXd2xEaVVMZTFYYzlQdnJ6dDBYVm5UdGxqdExWWXlNOTY1NDRGNVVYeW1ZWmJvUzUzd3ZtbnhORFJGQnhhX1lQONIBeEFVX3lxTE5UNExHa1JmZmNfeEhPMU5qUE1NczdwRzI0bFd0MHNQeUwxUFpIUVU1LW1SYkMwYTNuSWUxUFVfWnNLeFh2LWZvTG5WcWJYSXNLbEpvejRPMUtTM2hFZTQ5Q19rZkRpZkJLcUpKYjhjSWVId1VjMXc3QQ?oc=5",
       "publishedAt": "Sun, 25 Oct 2026 10:00:00 GMT"
+    },
+    {
+      "title": "2026년 10월 4주(10.26~10.30) 주간 증시 주요 일정",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdmRiS0tPQTdwM296UlBnY1JYdi1SbEt1TFQxU0FIVW5fNzNsQjA4NUdGUWU2aE1wd0JLMnpzRTNZbXNKWnVDSXd5Y2wyUlQwcnVRakFqcVBvTW5aVXpDTDlCU25sRFFRc0xQRnpJTVZoRGZTZEo4OGZSQlExalBRVg?oc=5",
+      "publishedAt": "Sun, 25 Oct 2026 12:02:00 GMT"
     },
     {
       "title": "이란 재공습 우려에 국제유가 116달러…세계 증시 흔들 3가지 변수",
@@ -5341,29 +5481,29 @@
     "overview": [
       "국내장은 KOSPI 상승, KOSDAQ 하락 흐름입니다.",
       "해외는 S&P 500 -0.52%, NASDAQ -0.21%로 확인됩니다.",
-      "매크로 변수는 USD/KRW -0.13%, 미 10년물 +0.71%입니다."
+      "매크로 변수는 USD/KRW -0.14%, 미 10년물 +0.71%입니다."
     ],
     "checkpoints": [
       "KOSPI +0.30% 상승",
       "KOSDAQ -1.62% 하락",
       "미국 증시 하락 / 나스닥 -0.21%",
-      "원달러 -0.13% (-1.74)",
+      "원달러 -0.14% (-1.79)",
       "미 10년물 +0.035p (+0.71%)"
     ],
     "leaders": [
-      {
-        "label": "WTI",
-        "changePercent": 3.8202,
-        "direction": "상승"
-      },
       {
         "label": "KOSPI",
         "changePercent": 0.2987,
         "direction": "상승"
       },
       {
-        "label": "USD/KRW",
-        "changePercent": -0.1313,
+        "label": "WTI",
+        "changePercent": 0.0,
+        "direction": "보합"
+      },
+      {
+        "label": "Gold",
+        "changePercent": 0.0,
         "direction": "보합"
       }
     ],
@@ -5374,13 +5514,13 @@
         "direction": "하락"
       },
       {
-        "label": "Gold",
-        "changePercent": -1.293,
+        "label": "DOW",
+        "changePercent": -1.2348,
         "direction": "하락"
       },
       {
-        "label": "DOW",
-        "changePercent": -1.2348,
+        "label": "S&P 500",
+        "changePercent": -0.5187,
         "direction": "하락"
       }
     ]
