@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-07T10:04:36.313395+09:00",
-  "updatedLabel": "2026-11-07 10:04:36 KST",
+  "updatedAt": "2026-11-07T16:39:37.976349+09:00",
+  "updatedLabel": "2026-11-07 16:39:37 KST",
   "groups": [
     "국내 지수",
     "해외 지수",
@@ -1307,9 +1307,9 @@
       "kind": "equity",
       "decimals": 2,
       "price": 51285.73,
-      "previousClose": 51523.06,
-      "change": -237.33,
-      "changePercent": -0.4606,
+      "previousClose": 51523.1,
+      "change": -237.37,
+      "changePercent": -0.4607,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -3055,12 +3055,12 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 90.34,
+      "price": 90.83,
       "previousClose": 90.52,
-      "change": -0.18,
-      "changePercent": -0.1989,
-      "tone": "down",
-      "direction": "하락",
+      "change": 0.31,
+      "changePercent": 0.3425,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1793941200000,
@@ -3877,10 +3877,6 @@
         [
           1794002100000,
           90.339996
-        ],
-        [
-          1794002398000,
-          90.339996
         ]
       ],
       "marketState": "UNKNOWN",
@@ -3894,10 +3890,10 @@
       "group": "거시 자산",
       "kind": "commodity",
       "decimals": 2,
-      "price": 4079.5,
+      "price": 4074.9,
       "previousClose": 4113.5,
-      "change": -34.0,
-      "changePercent": -0.8265,
+      "change": -38.6,
+      "changePercent": -0.9384,
       "tone": "down",
       "direction": "하락",
       "series": [
@@ -4716,10 +4712,6 @@
         [
           1794002100000,
           4079.5
-        ],
-        [
-          1794002399000,
-          4079.5
         ]
       ],
       "marketState": "UNKNOWN",
@@ -4733,12 +4725,12 @@
       "group": "거시 자산",
       "kind": "crypto",
       "decimals": 0,
-      "price": 75850.84,
+      "price": 75928.8,
       "previousClose": 75741.016,
-      "change": 109.824,
-      "changePercent": 0.145,
-      "tone": "flat",
-      "direction": "보합",
+      "change": 187.784,
+      "changePercent": 0.2479,
+      "tone": "up",
+      "direction": "상승",
       "series": [
         [
           1794009600000,
@@ -4790,16 +4782,332 @@
         ],
         [
           1794013200000,
-          75860.148438
+          75841.5
         ],
         [
-          1794013467000,
-          75850.84375
+          1794013500000,
+          75836.75
+        ],
+        [
+          1794013800000,
+          75792.75
+        ],
+        [
+          1794014100000,
+          75749.789062
+        ],
+        [
+          1794014400000,
+          75805.53125
+        ],
+        [
+          1794014700000,
+          75795.757812
+        ],
+        [
+          1794015000000,
+          75820.382812
+        ],
+        [
+          1794015300000,
+          75892.398438
+        ],
+        [
+          1794015600000,
+          75905.90625
+        ],
+        [
+          1794015900000,
+          75901.523438
+        ],
+        [
+          1794016200000,
+          75919.5
+        ],
+        [
+          1794016500000,
+          75933.382812
+        ],
+        [
+          1794016800000,
+          75937.640625
+        ],
+        [
+          1794017100000,
+          75977.34375
+        ],
+        [
+          1794017400000,
+          75990.992188
+        ],
+        [
+          1794017700000,
+          75975.8125
+        ],
+        [
+          1794018000000,
+          75940.023438
+        ],
+        [
+          1794018300000,
+          75951.546875
+        ],
+        [
+          1794018600000,
+          75919.476562
+        ],
+        [
+          1794018900000,
+          75941.039062
+        ],
+        [
+          1794019200000,
+          75939.929688
+        ],
+        [
+          1794019500000,
+          75955.539062
+        ],
+        [
+          1794019800000,
+          75903.828125
+        ],
+        [
+          1794020100000,
+          75937.523438
+        ],
+        [
+          1794020400000,
+          75996.039062
+        ],
+        [
+          1794020700000,
+          75987.007812
+        ],
+        [
+          1794021000000,
+          75971.351562
+        ],
+        [
+          1794021300000,
+          75908.796875
+        ],
+        [
+          1794021600000,
+          75901.203125
+        ],
+        [
+          1794021900000,
+          75891.15625
+        ],
+        [
+          1794022200000,
+          75797.796875
+        ],
+        [
+          1794022500000,
+          75746.90625
+        ],
+        [
+          1794022800000,
+          75694.203125
+        ],
+        [
+          1794023100000,
+          75754.6875
+        ],
+        [
+          1794023400000,
+          75751.429688
+        ],
+        [
+          1794023700000,
+          75796.578125
+        ],
+        [
+          1794024000000,
+          75808.171875
+        ],
+        [
+          1794024300000,
+          75766.609375
+        ],
+        [
+          1794024600000,
+          75761.140625
+        ],
+        [
+          1794024900000,
+          75770.257812
+        ],
+        [
+          1794025200000,
+          75782.382812
+        ],
+        [
+          1794025500000,
+          75756.890625
+        ],
+        [
+          1794025800000,
+          75766.5
+        ],
+        [
+          1794026100000,
+          75787.757812
+        ],
+        [
+          1794026400000,
+          75780.0
+        ],
+        [
+          1794026700000,
+          75771.789062
+        ],
+        [
+          1794027000000,
+          75803.289062
+        ],
+        [
+          1794027300000,
+          75804.398438
+        ],
+        [
+          1794027600000,
+          75822.148438
+        ],
+        [
+          1794027900000,
+          75815.28125
+        ],
+        [
+          1794028200000,
+          75817.539062
+        ],
+        [
+          1794028500000,
+          75835.703125
+        ],
+        [
+          1794028800000,
+          75902.992188
+        ],
+        [
+          1794029100000,
+          75915.289062
+        ],
+        [
+          1794029400000,
+          75915.6875
+        ],
+        [
+          1794029700000,
+          75943.78125
+        ],
+        [
+          1794030000000,
+          75903.851562
+        ],
+        [
+          1794030300000,
+          75919.1875
+        ],
+        [
+          1794030600000,
+          75912.828125
+        ],
+        [
+          1794030900000,
+          75930.546875
+        ],
+        [
+          1794031200000,
+          75926.34375
+        ],
+        [
+          1794031500000,
+          75913.421875
+        ],
+        [
+          1794031800000,
+          75943.703125
+        ],
+        [
+          1794032100000,
+          75943.507812
+        ],
+        [
+          1794032400000,
+          75935.289062
+        ],
+        [
+          1794032700000,
+          75955.421875
+        ],
+        [
+          1794033000000,
+          75919.90625
+        ],
+        [
+          1794033300000,
+          75936.390625
+        ],
+        [
+          1794033600000,
+          75942.226562
+        ],
+        [
+          1794033900000,
+          75926.992188
+        ],
+        [
+          1794034200000,
+          75946.03125
+        ],
+        [
+          1794034500000,
+          75941.296875
+        ],
+        [
+          1794034800000,
+          75914.640625
+        ],
+        [
+          1794035100000,
+          75923.03125
+        ],
+        [
+          1794035400000,
+          75902.96875
+        ],
+        [
+          1794035700000,
+          75925.109375
+        ],
+        [
+          1794036000000,
+          75914.742188
+        ],
+        [
+          1794036300000,
+          75909.59375
+        ],
+        [
+          1794036600000,
+          75923.148438
+        ],
+        [
+          1794036900000,
+          75904.929688
+        ],
+        [
+          1794037175000,
+          75928.796875
         ]
       ],
       "marketState": "UNKNOWN",
-      "marketTime": "2026-11-07 10:04 KST",
-      "marketTimestamp": 1794013467
+      "marketTime": "2026-11-07 16:39 KST",
+      "marketTimestamp": 1794037175
     }
   ],
   "mainCharts": [
@@ -6098,52 +6406,52 @@
   ],
   "headlines": [
     {
-      "title": "서학개미, 국내증시 급락장속 11월 첫주 美주식 3조 폭풍 매수(종합)",
+      "title": "'블루 쓰나미'에 퍼렇게 질린 증시...짓눌린 자산시장 향방은?",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OT3RMdGhqUzBtWXdERi1LWldUNWJFbG1fdm43THBHSlJTUGJIZDFmQkVTbVVnbGtmUm5Eck5YcUxjdF9GRkFjdUZmdGlvUl9TLThfZWNFUzUyRVNHYUE?oc=5",
+      "publishedAt": "Sat, 07 Nov 2026 05:33:00 GMT"
+    },
+    {
+      "title": "국내 증시 급락하자 미국 주식으로 달려간 서학개미들···11월 첫 주에만 3조원 순매수",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tMDJ6dU9DOFRjVExkTk5YUU9jakRXXzdJQnd6VTNReHJDbXc3NWx1cWVpcU5sUkxwcjFoek5WbkV3djRLbm5PTTFqODRFRXdYRGs4THpjU2xUQdIBX0FVX3lxTFAyd2R5YTlTRmI4MnhELXlsNTgzcFpQY1RXb19EaU43ODdHczhEaVdvZFBvMS0xNF8xYzloT2sweXRiR09hMXZxenp6ejVVZFVYNXVyM2xpekt5X0pQZFpn?oc=5",
+      "publishedAt": "Sat, 07 Nov 2026 03:19:00 GMT"
+    },
+    {
+      "title": "국장보다 미장?…서학개미, 닷새 동안 미국주식 3조원 ‘폭풍매수’",
+      "source": "JTBC",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0ybEc1d3NFZ3dMNFp4a0FIYzNVa0xhM3J0dHJGYkhyX3JPRndWUWdKcVFLX3RxdWNnUmtTSjc5Ukg0TEJiTWJtWGgzdGdTdkRCNW43RQ?oc=5",
+      "publishedAt": "Sat, 07 Nov 2026 02:44:00 GMT"
+    },
+    {
+      "title": "서학개미, 국내증시 급락장속 11월 첫주 美주식 2.6조 폭풍 매수",
       "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ncjZDdFpRd2wtdDNjWEJFbHJFeHRHTEhjSXNnWkVNWlhsTVpkc3AxXzJSSFVoeUVOMUZTUDduSmYwYzMxbm5jbjJzY1JsNV9SVFNuWWg5SjBnLWvSAWBBVV95cUxPV2tsZFdnNDZFWlcxRWF3T0V1cGNjazI4enM5M3BrYmh6VWVlbmVIZTk5QjRRNERMMlQxNWdvMFV5d1JEZ3U1RzUwYWIzR2tBNmhHcUlneHRlZTlaY0NsRnM?oc=5",
-      "publishedAt": "Sat, 07 Nov 2026 00:21:36 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wZ2xoME05RmF2alhJOWJiSmxCdHhRRng5dEZ0YXhRZUgzUHUzRVN2eXVfR2NudUZYYUZoNFNxOTlSMW9IRm1Gd0xQelZDeXFzVURLVU1Gc3BiVWfSAWBBVV95cUxNTTE2WGpKalZpdkV0VFZsYnF3YXJ1dncxM2tfX2RCdnI3STJESThfZnNab29feFZPdEZDdDRQUm4tTm95bjA3TmtwcTkxN0dvX0NuT2tHS0N2RThDbGhMSHc?oc=5",
+      "publishedAt": "Fri, 06 Nov 2026 23:00:04 GMT"
+    },
+    {
+      "title": "덩치만 커진 중국 증시…주가는 왜 제자리인가 [김학균의 시장읽기]",
+      "source": "시사저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51U25jMEV1cmt5RzdCS0dFWnRKNTY4a1diUmxhdm9VTUhPa0Q3TEcyRzlqbTRpQnR1NjR6VjJGWW53ODBKRW8zWGhGTTlWazY4MnZZY3U0T3Q4ZWdVTmkwV0NhMUZXY2JVbko5aWZja9IBc0FVX3lxTE1XVlM2bFZBcWZzQ1Z0b1F5NkowXzhxNDduc2dDTmExazE1M3VDdEN5TEtmYnVobkpSZWhuS2lKdjFiNzBpTHpycDF1bW1QNzctNTFzYTVSdDltQ216cUFTdlNGd045amF1ZnVFaUNXNUJlY1E?oc=5",
+      "publishedAt": "Sat, 07 Nov 2026 03:00:00 GMT"
+    },
+    {
+      "title": "국내 증시 부진에 ‘서학개미’ 미국 주식 매수 급증...일주일 새 3조원 육박",
+      "source": "M이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZYndnWXFhUUE3cUVJbTZIZHRRYVdLcWhpY25qeXVQODc0U3hYdjBMQUV1LU0zblU5YWFaNWpOR1hISUJNQ0JkZHZXUHpMZmN2X1lhanZaRUw2d1BtMWhPU2JHd1FwRHc?oc=5",
+      "publishedAt": "Sat, 07 Nov 2026 02:34:46 GMT"
     },
     {
       "title": "\"韓증시 바닥쳤나\"…코어위브·엔비디아 등 빅 이벤트 '주목'",
       "source": "연합인포맥스",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EU2drZ045YU5sRDhaM2dYRHNPZlpTNmxmRlJiT2U2Y1FnYjMtVUFmQ2tpeWZlMHoxOEdXYThxMGJTdjROUklXTERmLV9YOEZpd0doellLdEdxR0JoYUVvT0M4andfTFViRHlBSk51Tlg?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 22:34:26 GMT"
+      "publishedAt": "Fri, 06 Nov 2026 22:34:00 GMT"
     },
     {
-      "title": "서학개미, 국내증시 급락장속 11월 일주일 새 3조원 사들여",
-      "source": "강원도민일보",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJOGRWTlZfZ2ZkQ3JhMWVTc2txYnh3MEp0X01CQ0U1VkpFS0dIRldGajdrZ2otNlh5TTBFcGQ1X3lXbVZIaENPRXJyYWVhZGFBY2pBZWRCSHAyU1FYVzdMWGNSd082Z3c?oc=5",
-      "publishedAt": "Sat, 07 Nov 2026 00:37:11 GMT"
-    },
-    {
-      "title": "'블루쓰나미' 한국증시도 삼켰다...개장 직후 8%대 급락, 5000선 붕괴 - 머니투데이",
-      "source": "머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvSEI3VC1sNkpxY3BDTFdSUFNXOXFIdmFiUFVIRmEyQ2g5YzlNUUJoRDJ3OEdQTGlUNFBfSnpJem5QMjJ5c3pkSGRYTjZjeW41MGUweThLdE1uMWcxaGxxUmxmRmlXRzk10gFuQVVfeXFMTTNWWkVrM2hla2J4RFl0dDBGOUJoZVR0M0Vnem9JTS1NTl9XMUpfNGc5aDVRV1Q2YkpRaUFrclNtUFVybXZUVFJqak1QUzRWaVpUMkVsclZnWkU4MzBBa191ZXVKa0MtRUtySlZjVkE?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 19:17:14 GMT"
-    },
-    {
-      "title": "[천지일보 이슈종합] AI 규제 강화 우려·미국·한국증시 급락·세계날씨·민주당 신천지 3자 비밀 연합",
-      "source": "천지일보",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pbERhLUhNZ2VMMzFnendiSEdrZXZLMDJEeHo4SWgyN0RLcDZQVzRFa28yS3MzalgtbktMLTVrQmVYTzFYRlFrSDF4YmpZRzVRSGZmU3VsM1hmYnJFd1Znek51ZUNCSVBUeXc?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 22:00:00 GMT"
-    },
-    {
-      "title": "미국 중간 선거 發, 데이터센터 이슈가 한국 증시에 채찍효과를 만든 목요일",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wVDFLY0NjamF6RWxqckt3WDM4Slcwcm5SMUVWdVRUZ29iTnFGODhzUXB6c2kwa0NEOUE3TW1yQUxPWEliUXdzRWFnMjBMbnlySTE0dHZ2TWpkMXJrTnJEVg?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 12:02:25 GMT"
-    },
-    {
-      "title": "美 중간선거가 부른 'AI 규제 공포'…한국증시 덮친 반도체 쇼크",
-      "source": "재외동포신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGcnRjNy1MbXVvTHctV0dnXzFSWWdWWkZLQ3U4SjY1RkNOU1dhUklXMFlKYzNjbVpjMm1hdWxGUG41eWJ3RE0wb2VXeUg3Sk13Mk91X0ZVWTA0NkJ3WVVwQXMwdjcwaDl1Ulg2Yw?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 13:04:58 GMT"
-    },
-    {
-      "title": "국내 증시 부진·환율 하락에 서학개미 美주식 '폭풍 매수'",
-      "source": "www.ebn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tSlkzbnJJWE1IV3pob3A2UHZFUVo4cUY0bVR5V09idGo4THdHUzZOaGg0VWt0dUxjVUwxR3U4eHptZG50SXFfYW1NTDNBVkViLVgwM3BabjR4VUJDVkZJQnMteHRieERw?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 23:29:23 GMT"
+      "title": "국내 증시 흔들리자 美주식으로⋯서학개미, 일주일 새 3조원 순매수",
+      "source": "이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15UkZTWmt1RXJOXy1sOU1CTUhRb2puRlhRMzFWai1USEdnWE9nTnBnN1Z5eW9xLV9iZHo4bERJVkVBanZtSld2S25qb0NWSHh5QThyaw?oc=5",
+      "publishedAt": "Sat, 07 Nov 2026 04:14:00 GMT"
     }
   ],
   "summary": {
@@ -6176,8 +6484,8 @@
         "direction": "상승"
       },
       {
-        "label": "S&P 500",
-        "changePercent": 0.3145,
+        "label": "WTI",
+        "changePercent": 0.3425,
         "direction": "상승"
       }
     ],
@@ -6194,7 +6502,7 @@
       },
       {
         "label": "Gold",
-        "changePercent": -0.8265,
+        "changePercent": -0.9384,
         "direction": "하락"
       }
     ]
